@@ -24,7 +24,7 @@ md_wechat_path: './docs/wechat.md'
 keywords:
     "3D ML":
         filters: ["3D ML"]
-    "clustering"
+    "clustering":
         filters: ["clustering"]
-    "point cloud"
+    "point cloud":
         filters: ["point cloud"]
