@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-13**|**Fast and Space-Efficient Parallel Algorithms for Influence Maximization**|Letong Wang et.al.|[2311.07554](http://arxiv.org/abs/2311.07554)|null|
+|**2023-11-13**|**Causality Diagrams using Hybrid Vector Clocks**|Ishaan Lagwankar et.al.|[2311.07535](http://arxiv.org/abs/2311.07535)|null|
+|**2023-11-13**|**Automatic Identification of Driving Maneuver Patterns using a Robust Hidden Semi-Markov Models**|Matthew Aguirre et.al.|[2311.07527](http://arxiv.org/abs/2311.07527)|null|
+|**2023-11-13**|**CCD Photometry of the Globular Cluster NGC 5897**|A. Ruelas-Mayorga et.al.|[2311.07525](http://arxiv.org/abs/2311.07525)|null|
+|**2023-11-13**|**FEMDA: a unified framework for discriminant analysis**|Pierre Houdouin et.al.|[2311.07518](http://arxiv.org/abs/2311.07518)|null|
+|**2023-11-13**|**Galaxy Clusters Discovered via the Thermal Sunyaev-Zel'dovich Effect in the 500-square-degree SPTpol Survey**|L. E. Bleem et.al.|[2311.07512](http://arxiv.org/abs/2311.07512)|null|
+|**2023-11-13**|**Ara2: Exploring Single- and Multi-Core Vector Processing with an Efficient RVV1.0 Compliant Open-Source Processor**|Matteo Perotti et.al.|[2311.07493](http://arxiv.org/abs/2311.07493)|null|
+|**2023-11-13**|**The eROSITA view of the Abell 3391/95 field: Cluster Outskirts and Filaments**|Angie Veronica et.al.|[2311.07488](http://arxiv.org/abs/2311.07488)|null|
+|**2023-11-13**|**Testing learning-enabled cyber-physical systems with Large-Language Models: A Formal Approach**|Xi Zheng et.al.|[2311.07377](http://arxiv.org/abs/2311.07377)|null|
+|**2023-11-13**|**An Empirical Model For Intrinsic Alignments: Insights From Cosmological Simulations**|Nicholas Van Alfen et.al.|[2311.07374](http://arxiv.org/abs/2311.07374)|null|
 |**2023-11-10**|**Parallel Algorithms for Equilevel Predicates**|Vijay K. Garg et.al.|[2311.06206](http://arxiv.org/abs/2311.06206)|null|
 |**2023-11-10**|**Cluster Expansion by Transfer Learning from Empirical Potentials**|A. Dana et.al.|[2311.06179](http://arxiv.org/abs/2311.06179)|**[link](https://github.com/MosaicGroupPSU/orbis)**|
 |**2023-11-10**|**Triad: Trusted Timestamps in Untrusted Environments**|Gabriel P. Fernandez et.al.|[2311.06156](http://arxiv.org/abs/2311.06156)|null|
@@ -29,6 +39,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-13**|**Supersampling of Data from Structured-light Scanner with Deep Learning**|Martin Melicherčík et.al.|[2311.07432](http://arxiv.org/abs/2311.07432)|null|
+|**2023-11-13**|**Registered and Segmented Deformable Object Reconstruction from a Single View Point Cloud**|Pit Henrich et.al.|[2311.07357](http://arxiv.org/abs/2311.07357)|null|
+|**2023-11-13**|**LiLO: Lightweight and low-bias LiDAR Odometry method based on spherical range image filtering**|Edison P. Velasco-Sánchez et.al.|[2311.07291](http://arxiv.org/abs/2311.07291)|null|
+|**2023-11-13**|**Simultaneous Clutter Detection and Semantic Segmentation of Moving Objects for Automotive Radar Data**|Johannes Kopp et.al.|[2311.07247](http://arxiv.org/abs/2311.07247)|null|
+|**2023-11-12**|**Dual-Branch Reconstruction Network for Industrial Anomaly Detection with RGB-D Data**|Chenyang Bi et.al.|[2311.06797](http://arxiv.org/abs/2311.06797)|null|
+|**2023-11-11**|**Semantic Communication for Cooperative Perception based on Importance Map**|Yucheng Sheng et.al.|[2311.06498](http://arxiv.org/abs/2311.06498)|null|
 |**2023-11-10**|**Learning-Based Biharmonic Augmentation for Point Cloud Classification**|Jiacheng Wei et.al.|[2311.06070](http://arxiv.org/abs/2311.06070)|null|
 |**2023-11-10**|**Refining the ONCE Benchmark with Hyperparameter Tuning**|Maksim Golyadkin et.al.|[2311.06054](http://arxiv.org/abs/2311.06054)|null|
 |**2023-11-10**|**Deep learning for 3D Object Detection and Tracking in Autonomous Driving: A Brief Survey**|Yang Peng et.al.|[2311.06043](http://arxiv.org/abs/2311.06043)|null|
