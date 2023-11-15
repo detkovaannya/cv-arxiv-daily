@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.14
+## Updated on 2023.11.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## clustering
@@ -23,7 +23,7 @@ layout: default
 |**2023-11-13**|**Ara2: Exploring Single- and Multi-Core Vector Processing with an Efficient RVV1.0 Compliant Open-Source Processor**|Matteo Perotti et.al.|[2311.07493](http://arxiv.org/abs/2311.07493)|null|
 |**2023-11-13**|**The eROSITA view of the Abell 3391/95 field: Cluster Outskirts and Filaments**|Angie Veronica et.al.|[2311.07488](http://arxiv.org/abs/2311.07488)|null|
 |**2023-11-13**|**Testing learning-enabled cyber-physical systems with Large-Language Models: A Formal Approach**|Xi Zheng et.al.|[2311.07377](http://arxiv.org/abs/2311.07377)|null|
-|**2023-11-13**|**An Empirical Model For Intrinsic Alignments: Insights From Cosmological Simulations**|Nicholas Van Alfen et.al.|[2311.07374](http://arxiv.org/abs/2311.07374)|null|
+|**2023-11-13**|**An Empirical Model For Intrinsic Alignments: Insights From Cosmological Simulations**|Nicholas Van Alfen et.al.|[2311.07374](http://arxiv.org/abs/2311.07374)|**[link](https://github.com/astropy/halotools)**|
 |**2023-11-10**|**Parallel Algorithms for Equilevel Predicates**|Vijay K. Garg et.al.|[2311.06206](http://arxiv.org/abs/2311.06206)|null|
 |**2023-11-10**|**Cluster Expansion by Transfer Learning from Empirical Potentials**|A. Dana et.al.|[2311.06179](http://arxiv.org/abs/2311.06179)|**[link](https://github.com/MosaicGroupPSU/orbis)**|
 |**2023-11-10**|**Triad: Trusted Timestamps in Untrusted Environments**|Gabriel P. Fernandez et.al.|[2311.06156](http://arxiv.org/abs/2311.06156)|null|
