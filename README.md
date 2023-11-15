@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-14**|**Automated detection of laser cooling schemes for ultracold molecules**|Anna Dawid et.al.|[2311.08381](http://arxiv.org/abs/2311.08381)|null|
+|**2023-11-14**|**Evaporation Ages: a New Dating Method for Young Star Clusters**|V. -M. Pelkonen et.al.|[2311.08363](http://arxiv.org/abs/2311.08363)|null|
+|**2023-11-14**|**The Gaia-ESO Survey: 3D dynamics of young groups and clusters from GES and Gaia EDR3**|Nicholas J. Wright et.al.|[2311.08358](http://arxiv.org/abs/2311.08358)|null|
+|**2023-11-14**|**GT4Py: High Performance Stencils for Weather and Climate Applications using Python**|Enrique G. Paredes et.al.|[2311.08322](http://arxiv.org/abs/2311.08322)|null|
+|**2023-11-14**|**Extrinsically-Focused Evaluation of Omissions in Medical Summarization**|Elliot Schumacher et.al.|[2311.08303](http://arxiv.org/abs/2311.08303)|null|
+|**2023-11-14**|**Effects of heterogeneous opinion interactions in many-agent systems for epidemic dynamics**|Sabrina Bonandin et.al.|[2311.08262](http://arxiv.org/abs/2311.08262)|null|
+|**2023-11-14**|**Predicting Dynamic Memory Requirements for Scientific Workflow Tasks**|Jonathan Bader et.al.|[2311.08185](http://arxiv.org/abs/2311.08185)|null|
+|**2023-11-14**|**Frame to frame interpolation for high-dimensional data visualisation using the woylier package**|Zoljargal Batsaikhan et.al.|[2311.08181](http://arxiv.org/abs/2311.08181)|null|
+|**2023-11-14**|**Modeling Complex Disease Trajectories using Deep Generative Models with Semi-Supervised Latent Processes**|Cécile Trottet et.al.|[2311.08149](http://arxiv.org/abs/2311.08149)|**[link](https://github.com/uzh-dqbm-cmi/eustar_dgm4h)**|
+|**2023-11-14**|**Applying hybrid clustering in pulsar candidate sifting with multi-modality for FAST survey**|Zi-Yi You et.al.|[2311.08134](http://arxiv.org/abs/2311.08134)|null|
 |**2023-11-13**|**Fast and Space-Efficient Parallel Algorithms for Influence Maximization**|Letong Wang et.al.|[2311.07554](http://arxiv.org/abs/2311.07554)|null|
 |**2023-11-13**|**Causality Diagrams using Hybrid Vector Clocks**|Ishaan Lagwankar et.al.|[2311.07535](http://arxiv.org/abs/2311.07535)|null|
 |**2023-11-13**|**Automatic Identification of Driving Maneuver Patterns using a Robust Hidden Semi-Markov Models**|Matthew Aguirre et.al.|[2311.07527](http://arxiv.org/abs/2311.07527)|null|
@@ -45,10 +55,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-14**|**Roadside LiDAR Assisted Cooperative Localization for Connected Autonomous Vehicles**|Yuze Jiang et.al.|[2311.07913](http://arxiv.org/abs/2311.07913)|null|
 |**2023-11-13**|**Supersampling of Data from Structured-light Scanner with Deep Learning**|Martin Melicherčík et.al.|[2311.07432](http://arxiv.org/abs/2311.07432)|null|
 |**2023-11-13**|**Registered and Segmented Deformable Object Reconstruction from a Single View Point Cloud**|Pit Henrich et.al.|[2311.07357](http://arxiv.org/abs/2311.07357)|null|
 |**2023-11-13**|**LiLO: Lightweight and low-bias LiDAR Odometry method based on spherical range image filtering**|Edison P. Velasco-Sánchez et.al.|[2311.07291](http://arxiv.org/abs/2311.07291)|null|
-|**2023-11-13**|**Simultaneous Clutter Detection and Semantic Segmentation of Moving Objects for Automotive Radar Data**|Johannes Kopp et.al.|[2311.07247](http://arxiv.org/abs/2311.07247)|null|
+|**2023-11-14**|**Simultaneous Clutter Detection and Semantic Segmentation of Moving Objects for Automotive Radar Data**|Johannes Kopp et.al.|[2311.07247](http://arxiv.org/abs/2311.07247)|null|
 |**2023-11-12**|**Dual-Branch Reconstruction Network for Industrial Anomaly Detection with RGB-D Data**|Chenyang Bi et.al.|[2311.06797](http://arxiv.org/abs/2311.06797)|null|
 |**2023-11-11**|**Semantic Communication for Cooperative Perception based on Importance Map**|Yucheng Sheng et.al.|[2311.06498](http://arxiv.org/abs/2311.06498)|null|
 |**2023-11-10**|**Learning-Based Biharmonic Augmentation for Point Cloud Classification**|Jiacheng Wei et.al.|[2311.06070](http://arxiv.org/abs/2311.06070)|null|
