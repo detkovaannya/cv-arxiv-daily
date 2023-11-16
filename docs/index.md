@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.15
+## Updated on 2023.11.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## clustering
@@ -52,7 +52,7 @@ layout: default
 |**2023-11-14**|**Roadside LiDAR Assisted Cooperative Localization for Connected Autonomous Vehicles**|Yuze Jiang et.al.|[2311.07913](http://arxiv.org/abs/2311.07913)|null|
 |**2023-11-13**|**Supersampling of Data from Structured-light Scanner with Deep Learning**|Martin Melicherčík et.al.|[2311.07432](http://arxiv.org/abs/2311.07432)|null|
 |**2023-11-13**|**Registered and Segmented Deformable Object Reconstruction from a Single View Point Cloud**|Pit Henrich et.al.|[2311.07357](http://arxiv.org/abs/2311.07357)|null|
-|**2023-11-13**|**LiLO: Lightweight and low-bias LiDAR Odometry method based on spherical range image filtering**|Edison P. Velasco-Sánchez et.al.|[2311.07291](http://arxiv.org/abs/2311.07291)|null|
+|**2023-11-13**|**LiLO: Lightweight and low-bias LiDAR Odometry method based on spherical range image filtering**|Edison P. Velasco-Sánchez et.al.|[2311.07291](http://arxiv.org/abs/2311.07291)|**[link](https://github.com/aurova-lab/applications)**|
 |**2023-11-14**|**Simultaneous Clutter Detection and Semantic Segmentation of Moving Objects for Automotive Radar Data**|Johannes Kopp et.al.|[2311.07247](http://arxiv.org/abs/2311.07247)|null|
 |**2023-11-12**|**Dual-Branch Reconstruction Network for Industrial Anomaly Detection with RGB-D Data**|Chenyang Bi et.al.|[2311.06797](http://arxiv.org/abs/2311.06797)|null|
 |**2023-11-11**|**Semantic Communication for Cooperative Perception based on Importance Map**|Yucheng Sheng et.al.|[2311.06498](http://arxiv.org/abs/2311.06498)|null|
