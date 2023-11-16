@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-15**|**Generalized Neighbor Search using Commodity Hardware Acceleration**|Durga Mandarapu et.al.|[2311.09168](http://arxiv.org/abs/2311.09168)|null|
+|**2023-11-15**|**Approaching adverse event detection utilizing transformers on clinical time-series**|Helge Fredriksen et.al.|[2311.09165](http://arxiv.org/abs/2311.09165)|null|
+|**2023-11-15**|**Social Meme-ing: Measuring Linguistic Variation in Memes**|Naitian Zhou et.al.|[2311.09130](http://arxiv.org/abs/2311.09130)|**[link](https://github.com/naitian/semantic-memes)**|
+|**2023-11-15**|**R-Spin: Efficient Speaker and Noise-invariant Representation Learning with Acoustic Pieces**|Heng-Jui Chang et.al.|[2311.09117](http://arxiv.org/abs/2311.09117)|null|
+|**2023-11-15**|**On the mass and wind luminosity of young Galactic open clusters in Gaia DR2**|Silvia Celli et.al.|[2311.09089](http://arxiv.org/abs/2311.09089)|null|
+|**2023-11-15**|**Self-stabilizing Byzantine Multivalued Consensus**|Romaric Duvignau et.al.|[2311.09075](http://arxiv.org/abs/2311.09075)|null|
+|**2023-11-15**|**Rotational spectroscopic characterisation of the [D2,C,S] system: an update from the laboratory and theory**|Natalia Inostroza-Pino et.al.|[2311.09063](http://arxiv.org/abs/2311.09063)|null|
+|**2023-11-15**|**Network-Level Integrated Sensing and Communication: Interference Management and BS Coordination Using Stochastic Geometry**|Kaitao Meng et.al.|[2311.09052](http://arxiv.org/abs/2311.09052)|null|
+|**2023-11-15**|**Single- and two-particle observables in the Emery model: a dynamical mean-field perspective**|Yi-Ting Tseng et.al.|[2311.09023](http://arxiv.org/abs/2311.09023)|null|
+|**2023-11-15**|**Simple but Effective Unsupervised Classification for Specified Domain Images: A Case Study on Fungi Images**|Zhaocong liu et.al.|[2311.08995](http://arxiv.org/abs/2311.08995)|null|
 |**2023-11-14**|**Automated detection of laser cooling schemes for ultracold molecules**|Anna Dawid et.al.|[2311.08381](http://arxiv.org/abs/2311.08381)|null|
 |**2023-11-14**|**Evaporation Ages: a New Dating Method for Young Star Clusters**|V. -M. Pelkonen et.al.|[2311.08363](http://arxiv.org/abs/2311.08363)|null|
 |**2023-11-14**|**The Gaia-ESO Survey: 3D dynamics of young groups and clusters from GES and Gaia EDR3**|Nicholas J. Wright et.al.|[2311.08358](http://arxiv.org/abs/2311.08358)|null|
@@ -49,6 +59,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-14**|**LocaliseBot: Multi-view 3D object localisation with differentiable rendering for robot grasping**|Sujal Vijayaraghavan et.al.|[2311.08438](http://arxiv.org/abs/2311.08438)|null|
 |**2023-11-14**|**Roadside LiDAR Assisted Cooperative Localization for Connected Autonomous Vehicles**|Yuze Jiang et.al.|[2311.07913](http://arxiv.org/abs/2311.07913)|null|
 |**2023-11-13**|**Supersampling of Data from Structured-light Scanner with Deep Learning**|Martin Melicherčík et.al.|[2311.07432](http://arxiv.org/abs/2311.07432)|null|
 |**2023-11-13**|**Registered and Segmented Deformable Object Reconstruction from a Single View Point Cloud**|Pit Henrich et.al.|[2311.07357](http://arxiv.org/abs/2311.07357)|null|
