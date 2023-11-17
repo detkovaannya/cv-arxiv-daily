@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-16**|**Taming assembly bias for primordial non-Gaussianity**|Emanuele Fondi et.al.|[2311.10088](http://arxiv.org/abs/2311.10088)|null|
+|**2023-11-16**|**Prospects for detecting the circum- and intergalactic medium in X-ray absorption using the extended intracluster medium as a backlight**|Lýdia Štofanová et.al.|[2311.10062](http://arxiv.org/abs/2311.10062)|null|
+|**2023-11-16**|**Analytic Calculation of Clustered Ionization in DNA from Charged Particle Radiation**|Kay Kinoshita et.al.|[2311.10028](http://arxiv.org/abs/2311.10028)|null|
+|**2023-11-16**|**A Novel Neural Network-Based Federated Learning System for Imbalanced and Non-IID Data**|Mahfuzur Rahman Chowdhury et.al.|[2311.10025](http://arxiv.org/abs/2311.10025)|null|
+|**2023-11-16**|**Dynamic Clustering of Active Rings**|Ligesh Theeyancheri et.al.|[2311.10007](http://arxiv.org/abs/2311.10007)|null|
+|**2023-11-16**|**Straggler-resilient Federated Learning: Tackling Computation Heterogeneity with Layer-wise Partial Model Training in Mobile Edge Network**|Hongda Wu et.al.|[2311.10002](http://arxiv.org/abs/2311.10002)|null|
+|**2023-11-16**|**2-peaks cluster solutions to the nonlinear Schrödinger-Bopp-Podolsky system**|Gustavo de Paula Ramos et.al.|[2311.09949](http://arxiv.org/abs/2311.09949)|null|
+|**2023-11-16**|**Mutating etcd Towards Edge Suitability**|Andrew Jeffery et.al.|[2311.09929](http://arxiv.org/abs/2311.09929)|null|
+|**2023-11-16**|**Fast multiplication by two's complement addition of numbers represented as a set of polynomial radix 2 indexes, stored as an integer list for massively parallel computation**|Mark Stocks et.al.|[2311.09922](http://arxiv.org/abs/2311.09922)|null|
+|**2023-11-16**|**Measurement Free Approach towards Dynamic Construction of a Shallow Depth Ansatz for Molecular Energetics in Noisy Quantum Computers**|Dipanjali Halder et.al.|[2311.09895](http://arxiv.org/abs/2311.09895)|null|
 |**2023-11-15**|**Generalized Neighbor Search using Commodity Hardware Acceleration**|Durga Mandarapu et.al.|[2311.09168](http://arxiv.org/abs/2311.09168)|null|
 |**2023-11-15**|**Approaching adverse event detection utilizing transformers on clinical time-series**|Helge Fredriksen et.al.|[2311.09165](http://arxiv.org/abs/2311.09165)|null|
 |**2023-11-15**|**Social Meme-ing: Measuring Linguistic Variation in Memes**|Naitian Zhou et.al.|[2311.09130](http://arxiv.org/abs/2311.09130)|**[link](https://github.com/naitian/semantic-memes)**|
@@ -59,6 +69,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-16**|**DeepEMD: A Transformer-based Fast Estimation of the Earth Mover's Distance**|Atul Kumar Sinha et.al.|[2311.09998](http://arxiv.org/abs/2311.09998)|**[link](https://github.com/atulkumarin/deepemd)**|
+|**2023-11-15**|**Local spline refinement driven by fault jump estimates for scattered data approximation**|Cesare Bracco et.al.|[2311.09442](http://arxiv.org/abs/2311.09442)|null|
+|**2023-11-15**|**Nothing Stands Still: A Spatiotemporal Benchmark on 3D Point Cloud Registration Under Large Geometric and Temporal Change**|Tao Sun et.al.|[2311.09346](http://arxiv.org/abs/2311.09346)|null|
 |**2023-11-14**|**LocaliseBot: Multi-view 3D object localisation with differentiable rendering for robot grasping**|Sujal Vijayaraghavan et.al.|[2311.08438](http://arxiv.org/abs/2311.08438)|null|
 |**2023-11-14**|**Roadside LiDAR Assisted Cooperative Localization for Connected Autonomous Vehicles**|Yuze Jiang et.al.|[2311.07913](http://arxiv.org/abs/2311.07913)|null|
 |**2023-11-13**|**Supersampling of Data from Structured-light Scanner with Deep Learning**|Martin Melicherčík et.al.|[2311.07432](http://arxiv.org/abs/2311.07432)|null|
