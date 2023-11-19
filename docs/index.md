@@ -21,7 +21,7 @@ layout: default
 |**2023-11-16**|**Dynamic Clustering of Active Rings**|Ligesh Theeyancheri et.al.|[2311.10007](http://arxiv.org/abs/2311.10007)|null|
 |**2023-11-16**|**Straggler-resilient Federated Learning: Tackling Computation Heterogeneity with Layer-wise Partial Model Training in Mobile Edge Network**|Hongda Wu et.al.|[2311.10002](http://arxiv.org/abs/2311.10002)|null|
 |**2023-11-16**|**2-peaks cluster solutions to the nonlinear Schrödinger-Bopp-Podolsky system**|Gustavo de Paula Ramos et.al.|[2311.09949](http://arxiv.org/abs/2311.09949)|null|
-|**2023-11-16**|**Mutating etcd Towards Edge Suitability**|Andrew Jeffery et.al.|[2311.09929](http://arxiv.org/abs/2311.09929)|null|
+|**2023-11-16**|**Mutating etcd Towards Edge Suitability**|Andrew Jeffery et.al.|[2311.09929](http://arxiv.org/abs/2311.09929)|**[link](https://github.com/jeffa5/mergeable-etcd)**|
 |**2023-11-16**|**Fast multiplication by two's complement addition of numbers represented as a set of polynomial radix 2 indexes, stored as an integer list for massively parallel computation**|Mark Stocks et.al.|[2311.09922](http://arxiv.org/abs/2311.09922)|null|
 |**2023-11-16**|**Measurement Free Approach towards Dynamic Construction of a Shallow Depth Ansatz for Molecular Energetics in Noisy Quantum Computers**|Dipanjali Halder et.al.|[2311.09895](http://arxiv.org/abs/2311.09895)|null|
 |**2023-11-15**|**Generalized Neighbor Search using Commodity Hardware Acceleration**|Durga Mandarapu et.al.|[2311.09168](http://arxiv.org/abs/2311.09168)|null|
