@@ -38,17 +38,17 @@
 |**2023-11-15**|**Network-Level Integrated Sensing and Communication: Interference Management and BS Coordination Using Stochastic Geometry**|Kaitao Meng et.al.|[2311.09052](http://arxiv.org/abs/2311.09052)|null|
 |**2023-11-15**|**Single- and two-particle observables in the Emery model: a dynamical mean-field perspective**|Yi-Ting Tseng et.al.|[2311.09023](http://arxiv.org/abs/2311.09023)|null|
 |**2023-11-15**|**Simple but Effective Unsupervised Classification for Specified Domain Images: A Case Study on Fungi Images**|Zhaocong liu et.al.|[2311.08995](http://arxiv.org/abs/2311.08995)|null|
-|**2023-11-14**|**Automated detection of laser cooling schemes for ultracold molecules**|Anna Dawid et.al.|[2311.08381](http://arxiv.org/abs/2311.08381)|null|
+|**2023-11-14**|**Automated detection of laser cooling schemes for ultracold molecules**|Anna Dawid et.al.|[2311.08381](http://arxiv.org/abs/2311.08381)|**[link](https://github.com/shmoo137/detection-of-laser-cooled-molecules)**|
 |**2023-11-14**|**Evaporation Ages: a New Dating Method for Young Star Clusters**|V. -M. Pelkonen et.al.|[2311.08363](http://arxiv.org/abs/2311.08363)|null|
 |**2023-11-14**|**The Gaia-ESO Survey: 3D dynamics of young groups and clusters from GES and Gaia EDR3**|Nicholas J. Wright et.al.|[2311.08358](http://arxiv.org/abs/2311.08358)|null|
 |**2023-11-14**|**GT4Py: High Performance Stencils for Weather and Climate Applications using Python**|Enrique G. Paredes et.al.|[2311.08322](http://arxiv.org/abs/2311.08322)|null|
 |**2023-11-14**|**Extrinsically-Focused Evaluation of Omissions in Medical Summarization**|Elliot Schumacher et.al.|[2311.08303](http://arxiv.org/abs/2311.08303)|null|
 |**2023-11-14**|**Effects of heterogeneous opinion interactions in many-agent systems for epidemic dynamics**|Sabrina Bonandin et.al.|[2311.08262](http://arxiv.org/abs/2311.08262)|null|
-|**2023-11-14**|**Predicting Dynamic Memory Requirements for Scientific Workflow Tasks**|Jonathan Bader et.al.|[2311.08185](http://arxiv.org/abs/2311.08185)|null|
-|**2023-11-14**|**Frame to frame interpolation for high-dimensional data visualisation using the woylier package**|Zoljargal Batsaikhan et.al.|[2311.08181](http://arxiv.org/abs/2311.08181)|null|
+|**2023-11-14**|**Predicting Dynamic Memory Requirements for Scientific Workflow Tasks**|Jonathan Bader et.al.|[2311.08185](http://arxiv.org/abs/2311.08185)|**[link](https://github.com/dos-group/k-segments)**|
+|**2023-11-14**|**Frame to frame interpolation for high-dimensional data visualisation using the woylier package**|Zoljargal Batsaikhan et.al.|[2311.08181](http://arxiv.org/abs/2311.08181)|**[link](https://github.com/uschilaa/woylier-article)**|
 |**2023-11-14**|**Modeling Complex Disease Trajectories using Deep Generative Models with Semi-Supervised Latent Processes**|Cécile Trottet et.al.|[2311.08149](http://arxiv.org/abs/2311.08149)|**[link](https://github.com/uzh-dqbm-cmi/eustar_dgm4h)**|
 |**2023-11-14**|**Applying hybrid clustering in pulsar candidate sifting with multi-modality for FAST survey**|Zi-Yi You et.al.|[2311.08134](http://arxiv.org/abs/2311.08134)|null|
-|**2023-11-13**|**Fast and Space-Efficient Parallel Algorithms for Influence Maximization**|Letong Wang et.al.|[2311.07554](http://arxiv.org/abs/2311.07554)|null|
+|**2023-11-13**|**Fast and Space-Efficient Parallel Algorithms for Influence Maximization**|Letong Wang et.al.|[2311.07554](http://arxiv.org/abs/2311.07554)|**[link](https://github.com/ucrparlay/influence-maximization)**|
 |**2023-11-13**|**Causality Diagrams using Hybrid Vector Clocks**|Ishaan Lagwankar et.al.|[2311.07535](http://arxiv.org/abs/2311.07535)|null|
 |**2023-11-13**|**Automatic Identification of Driving Maneuver Patterns using a Robust Hidden Semi-Markov Models**|Matthew Aguirre et.al.|[2311.07527](http://arxiv.org/abs/2311.07527)|null|
 |**2023-11-13**|**CCD Photometry of the Globular Cluster NGC 5897**|A. Ruelas-Mayorga et.al.|[2311.07525](http://arxiv.org/abs/2311.07525)|null|
