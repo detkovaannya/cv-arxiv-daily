@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-17**|**Efficient reconstruction, benchmarking and validation of cross-talk models in readout noise in near-term quantum devices**|Jan Tuziemski et.al.|[2311.10661](http://arxiv.org/abs/2311.10661)|null|
+|**2023-11-17**|**The isolated dark matter-poor galaxy that ran away. An example from IllustrisTNG**|Ana Mitrašinović et.al.|[2311.10643](http://arxiv.org/abs/2311.10643)|null|
+|**2023-11-17**|**A Poincaré Inequality and Consistency Results for Signal Sampling on Large Graphs**|Thien Le et.al.|[2311.10610](http://arxiv.org/abs/2311.10610)|null|
+|**2023-11-17**|**Active Inference on the Edge: A Design Study**|Boris Sedlak et.al.|[2311.10607](http://arxiv.org/abs/2311.10607)|null|
+|**2023-11-17**|**CA-Jaccard: Camera-aware Jaccard Distance for Person Re-identification**|Yiyu Chen et.al.|[2311.10605](http://arxiv.org/abs/2311.10605)|null|
+|**2023-11-17**|**Designing Reconfigurable Intelligent Systems with Markov Blankets**|Boris Sedlak et.al.|[2311.10597](http://arxiv.org/abs/2311.10597)|null|
+|**2023-11-17**|**$P_c\varepsilonκ_{max}$-Means++: Adapt-$P$ Driven by Energy and Distance Quality Probabilities Based on $κ$ -Means++ for the Stable Election Protocol (SEP)**|Husam Suleiman et.al.|[2311.10595](http://arxiv.org/abs/2311.10595)|null|
+|**2023-11-17**|**A resolution theorem for extriangulated categories with applications to the index**|Yasuaki Ogawa et.al.|[2311.10576](http://arxiv.org/abs/2311.10576)|null|
+|**2023-11-17**|**RONAALP: Reduced-Order Nonlinear Approximation with Active Learning Procedure**|Clément Scherding et.al.|[2311.10550](http://arxiv.org/abs/2311.10550)|null|
+|**2023-11-17**|**Efficient Profit Maximization in Reliability Concerned Static Vehicular Cloud System**|Suvarthi Sarkar et.al.|[2311.10548](http://arxiv.org/abs/2311.10548)|null|
 |**2023-11-16**|**Taming assembly bias for primordial non-Gaussianity**|Emanuele Fondi et.al.|[2311.10088](http://arxiv.org/abs/2311.10088)|null|
 |**2023-11-16**|**Prospects for detecting the circum- and intergalactic medium in X-ray absorption using the extended intracluster medium as a backlight**|Lýdia Štofanová et.al.|[2311.10062](http://arxiv.org/abs/2311.10062)|null|
 |**2023-11-16**|**Analytic Calculation of Clustered Ionization in DNA from Charged Particle Radiation**|Kay Kinoshita et.al.|[2311.10028](http://arxiv.org/abs/2311.10028)|null|
@@ -69,6 +79,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-17**|**Phase Guided Light Field for Spatial-Depth High Resolution 3D Imaging**|Geyou Zhang et.al.|[2311.10568](http://arxiv.org/abs/2311.10568)|null|
+|**2023-11-16**|**Algebraic Topological Networks via the Persistent Local Homology Sheaf**|Gabriele Cesa et.al.|[2311.10156](http://arxiv.org/abs/2311.10156)|null|
 |**2023-11-16**|**DeepEMD: A Transformer-based Fast Estimation of the Earth Mover's Distance**|Atul Kumar Sinha et.al.|[2311.09998](http://arxiv.org/abs/2311.09998)|**[link](https://github.com/atulkumarin/deepemd)**|
 |**2023-11-15**|**Local spline refinement driven by fault jump estimates for scattered data approximation**|Cesare Bracco et.al.|[2311.09442](http://arxiv.org/abs/2311.09442)|null|
 |**2023-11-15**|**Nothing Stands Still: A Spatiotemporal Benchmark on 3D Point Cloud Registration Under Large Geometric and Temporal Change**|Tao Sun et.al.|[2311.09346](http://arxiv.org/abs/2311.09346)|null|
