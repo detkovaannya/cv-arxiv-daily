@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-20**|**Hourglass Tokenizer for Efficient Transformer-Based 3D Human Pose Estimation**|Wenhao Li et.al.|[2311.12028](http://arxiv.org/abs/2311.12028)|null|
+|**2023-11-20**|**Scaling limit of critical percolation clusters on hyperbolic random half-planar triangulations and the associated random walks**|Eleanor Archer et.al.|[2311.11993](http://arxiv.org/abs/2311.11993)|null|
+|**2023-11-20**|**Machine-Learned Atomic Cluster Expansion Potentials for Fast and Quantum-Accurate Thermal Simulations of Wurtzite AlN**|Guang Yang et.al.|[2311.11990](http://arxiv.org/abs/2311.11990)|null|
+|**2023-11-20**|**The impact of Rashba spin-orbit coupling in charge-ordered systems**|Rodrigo A. Fontenele et.al.|[2311.11984](http://arxiv.org/abs/2311.11984)|null|
+|**2023-11-20**|**Coded Computing for Fault-Tolerant Parallel QR Decomposition**|Quang Minh Nguyen et.al.|[2311.11943](http://arxiv.org/abs/2311.11943)|null|
+|**2023-11-20**|**Deciphering the solar coronal heating: Energizing small-scale loops through surface convection**|D. Nóbrega-Siverio et.al.|[2311.11912](http://arxiv.org/abs/2311.11912)|null|
+|**2023-11-20**|**Near-Infrared Observations of Outflows and YSOs in the Massive Star-Forming Region AFGL 5180**|S. Crowe et.al.|[2311.11909](http://arxiv.org/abs/2311.11909)|null|
+|**2023-11-20**|**Establishing Central Sensitization Inventory Cut-off Values in patients with Chronic Low Back Pain by Unsupervised Machine Learning**|Xiaoping Zheng et.al.|[2311.11862](http://arxiv.org/abs/2311.11862)|**[link](https://github.com/xzheng93/csi_cutoff_establishment)**|
+|**2023-11-20**|**Zero redundancy distributed learning with differential privacy**|Zhiqi Bu et.al.|[2311.11822](http://arxiv.org/abs/2311.11822)|null|
+|**2023-11-20**|**Preliminary Report: On Information Hiding in Multi-Hop Radio Networks**|Marek Klonowski et.al.|[2311.11778](http://arxiv.org/abs/2311.11778)|null|
 |**2023-11-17**|**Efficient reconstruction, benchmarking and validation of cross-talk models in readout noise in near-term quantum devices**|Jan Tuziemski et.al.|[2311.10661](http://arxiv.org/abs/2311.10661)|null|
 |**2023-11-17**|**The isolated dark matter-poor galaxy that ran away. An example from IllustrisTNG**|Ana Mitrašinović et.al.|[2311.10643](http://arxiv.org/abs/2311.10643)|null|
 |**2023-11-17**|**A Poincaré Inequality and Consistency Results for Signal Sampling on Large Graphs**|Thien Le et.al.|[2311.10610](http://arxiv.org/abs/2311.10610)|null|
@@ -85,6 +95,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-20**|**PF-LRM: Pose-Free Large Reconstruction Model for Joint Pose and Shape Prediction**|Peng Wang et.al.|[2311.12024](http://arxiv.org/abs/2311.12024)|null|
+|**2023-11-20**|**LiDAR-HMR: 3D Human Mesh Recovery from LiDAR**|Bohao Fan et.al.|[2311.11971](http://arxiv.org/abs/2311.11971)|**[link](https://github.com/soullessrobot/lidar-hmr)**|
+|**2023-11-20**|**AMES: A Differentiable Embedding Space Selection Framework for Latent Graph Inference**|Yuan Lu et.al.|[2311.11891](http://arxiv.org/abs/2311.11891)|null|
+|**2023-11-20**|**Holistic Inverse Rendering of Complex Facade via Aerial 3D Scanning**|Zixuan Xie et.al.|[2311.11825](http://arxiv.org/abs/2311.11825)|null|
+|**2023-11-20**|**MUVO: A Multimodal Generative World Model for Autonomous Driving with Geometric Representations**|Daniel Bogdoll et.al.|[2311.11762](http://arxiv.org/abs/2311.11762)|null|
+|**2023-11-19**|**On the stability of the filtration functions for weakly dependent data with applications to structural break detection**|Johannes Krebs et.al.|[2311.11259](http://arxiv.org/abs/2311.11259)|null|
+|**2023-11-18**|**Diverse Shape Completion via Style Modulated Generative Adversarial Networks**|Wesley Khademi et.al.|[2311.11184](http://arxiv.org/abs/2311.11184)|null|
+|**2023-11-17**|**Point Cloud Self-supervised Learning via 3D to Multi-view Masked Autoencoder**|Zhimin Chen et.al.|[2311.10887](http://arxiv.org/abs/2311.10887)|null|
+|**2023-11-17**|**Domain Generalization of 3D Object Detection by Density-Resampling**|Shuangzhi Li et.al.|[2311.10845](http://arxiv.org/abs/2311.10845)|null|
 |**2023-11-17**|**Phase Guided Light Field for Spatial-Depth High Resolution 3D Imaging**|Geyou Zhang et.al.|[2311.10568](http://arxiv.org/abs/2311.10568)|null|
 |**2023-11-16**|**Algebraic Topological Networks via the Persistent Local Homology Sheaf**|Gabriele Cesa et.al.|[2311.10156](http://arxiv.org/abs/2311.10156)|null|
 |**2023-11-16**|**DeepEMD: A Transformer-based Fast Estimation of the Earth Mover's Distance**|Atul Kumar Sinha et.al.|[2311.09998](http://arxiv.org/abs/2311.09998)|**[link](https://github.com/atulkumarin/deepemd)**|
