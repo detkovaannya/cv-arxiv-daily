@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-21**|**Systematically Measuring Ultra-Diffuse Galaxies (SMUDGes). VI. Nuclear Star Clusters**|Mika Lambert et.al.|[2311.12795](http://arxiv.org/abs/2311.12795)|null|
+|**2023-11-21**|**Subleading power corrections for event shape variables in $e^+ e^-$ annihilation**|Luca Buonocore et.al.|[2311.12768](http://arxiv.org/abs/2311.12768)|null|
+|**2023-11-21**|**The DURel Annotation Tool: Human and Computational Measurement of Semantic Proximity, Sense Clusters and Semantic Change**|Dominik Schlechtweg et.al.|[2311.12664](http://arxiv.org/abs/2311.12664)|null|
+|**2023-11-21**|**Two-dimensional symmetry-protected topological phases and transitions in open quantum systems**|Yuxuan Guo et.al.|[2311.12619](http://arxiv.org/abs/2311.12619)|null|
+|**2023-11-21**|**The isolated elliptical galaxy NGC 5812 -- MOND or Dark Matter?**|Tom Richtler et.al.|[2311.12598](http://arxiv.org/abs/2311.12598)|null|
+|**2023-11-21**|**The $β$ maps and the strong clustering at the complex unit circle**|Alec Schiavoni Piazza et.al.|[2311.12568](http://arxiv.org/abs/2311.12568)|null|
+|**2023-11-21**|**The Ligo-Virgo-KAGRA Computing Infrastructure for Gravitational-wave Research**|Stefano Bagnasco et.al.|[2311.12559](http://arxiv.org/abs/2311.12559)|null|
+|**2023-11-21**|**Fair Polylog-Approximate Low-Cost Hierarchical Clustering**|Marina Knittel et.al.|[2311.12501](http://arxiv.org/abs/2311.12501)|null|
+|**2023-11-21**|**Heuristics for Detecting CoinJoin Transactions on the Bitcoin Blockchain**|Hugo Schnoering et.al.|[2311.12491](http://arxiv.org/abs/2311.12491)|null|
+|**2023-11-21**|**A recurrent connectionist model of melody perception : An exploration using TRACX2**|Daniel Defays et.al.|[2311.12431](http://arxiv.org/abs/2311.12431)|null|
 |**2023-11-20**|**Hourglass Tokenizer for Efficient Transformer-Based 3D Human Pose Estimation**|Wenhao Li et.al.|[2311.12028](http://arxiv.org/abs/2311.12028)|null|
 |**2023-11-20**|**Scaling limit of critical percolation clusters on hyperbolic random half-planar triangulations and the associated random walks**|Eleanor Archer et.al.|[2311.11993](http://arxiv.org/abs/2311.11993)|null|
 |**2023-11-20**|**Machine-Learned Atomic Cluster Expansion Potentials for Fast and Quantum-Accurate Thermal Simulations of Wurtzite AlN**|Guang Yang et.al.|[2311.11990](http://arxiv.org/abs/2311.11990)|null|
@@ -89,6 +99,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-21**|**DeepTreeGAN: Fast Generation of High Dimensional Point Clouds**|Moritz Alfons Wilhelm Scham et.al.|[2311.12616](http://arxiv.org/abs/2311.12616)|null|
+|**2023-11-21**|**Multi-Resolution Planar Region Extraction for Uneven Terrains**|Yinghan Sun et.al.|[2311.12562](http://arxiv.org/abs/2311.12562)|null|
+|**2023-11-21**|**Robust Hole-Detection in Triangular Meshes Irrespective of the Presence of Singular Vertices**|Mauhing Yip et.al.|[2311.12466](http://arxiv.org/abs/2311.12466)|null|
+|**2023-11-21**|**RFTrans: Leveraging Refractive Flow of Transparent Objects for Surface Normal Estimation and Manipulation**|Tutian Tang et.al.|[2311.12398](http://arxiv.org/abs/2311.12398)|null|
+|**2023-11-20**|**Mixing-Denoising Generalizable Occupancy Networks**|Amine Ouasfi et.al.|[2311.12125](http://arxiv.org/abs/2311.12125)|null|
+|**2023-11-20**|**FrePolad: Frequency-Rectified Point Latent Diffusion for Point Cloud Generation**|Chenliang Zhou et.al.|[2311.12090](http://arxiv.org/abs/2311.12090)|null|
 |**2023-11-20**|**PF-LRM: Pose-Free Large Reconstruction Model for Joint Pose and Shape Prediction**|Peng Wang et.al.|[2311.12024](http://arxiv.org/abs/2311.12024)|null|
 |**2023-11-20**|**LiDAR-HMR: 3D Human Mesh Recovery from LiDAR**|Bohao Fan et.al.|[2311.11971](http://arxiv.org/abs/2311.11971)|**[link](https://github.com/soullessrobot/lidar-hmr)**|
 |**2023-11-20**|**AMES: A Differentiable Embedding Space Selection Framework for Latent Graph Inference**|Yuan Lu et.al.|[2311.11891](http://arxiv.org/abs/2311.11891)|null|
