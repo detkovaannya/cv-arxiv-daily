@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-24**|**A Sparse Factor Model for Clustering High-Dimensional Longitudinal Data**|Zihang Lu et.al.|[2311.14655](http://arxiv.org/abs/2311.14655)|null|
+|**2023-11-24**|**ARIA: On the interaction between Architectures, Aggregation methods and Initializations in federated visual classification**|Vasilis Siomos et.al.|[2311.14625](http://arxiv.org/abs/2311.14625)|null|
+|**2023-11-24**|**Towards a Peer-to-Peer Data Distribution Layer for Efficient and Collaborative Resource Optimization of Distributed Dataflow Applications**|Dominik Scheinert et.al.|[2311.14600](http://arxiv.org/abs/2311.14600)|null|
+|**2023-11-24**|**GN-z11: witnessing the formation of second generation stars and an accreting massive black hole in a massive star cluster**|F. D'Antona et.al.|[2311.14558](http://arxiv.org/abs/2311.14558)|null|
+|**2023-11-24**|**A Chandra Survey of Milky Way Globular Clusters -- IV. Periodic X-ray sources**|Tong Bao et.al.|[2311.14511](http://arxiv.org/abs/2311.14511)|null|
+|**2023-11-24**|**Informed Random Partition Models with Temporal Dependence**|Sally Paganin et.al.|[2311.14502](http://arxiv.org/abs/2311.14502)|null|
+|**2023-11-24**|**The Uchuu-GLAM BOSS and eBOSS LRG lightcones: Exploring clustering and covariance errors**|Julia Ereza et.al.|[2311.14456](http://arxiv.org/abs/2311.14456)|null|
+|**2023-11-24**|**Detecting the purely imaginary Fisher zeros of an Ising spin system on a quantum computer**|A. R. Kuzmak et.al.|[2311.14453](http://arxiv.org/abs/2311.14453)|null|
+|**2023-11-24**|**GCPV: Guided Concept Projection Vectors for the Explainable Inspection of CNN Feature Spaces**|Georgii Mikriukov et.al.|[2311.14435](http://arxiv.org/abs/2311.14435)|null|
+|**2023-11-24**|**Disentangling the Spectral Properties of the Hodge Laplacian: Not All Small Eigenvalues Are Equal**|Vincent P. Grande et.al.|[2311.14427](http://arxiv.org/abs/2311.14427)|null|
 |**2023-11-22**|**User-guided Page Merging for Memory Deduplication in Serverless Systems**|Wei Qiu et.al.|[2311.13588](http://arxiv.org/abs/2311.13588)|**[link](https://github.com/spcl/upm)**|
 |**2023-11-22**|**A Survey of Serverless Machine Learning Model Inference**|Kamil Kojs et.al.|[2311.13587](http://arxiv.org/abs/2311.13587)|null|
 |**2023-11-22**|**Aufbau Suppressed Coupled Cluster Theory for Electronically Excited States**|Harrison Tuckman et.al.|[2311.13576](http://arxiv.org/abs/2311.13576)|null|
@@ -109,6 +119,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-24**|**GaussianEditor: Swift and Controllable 3D Editing with Gaussian Splatting**|Yiwen Chen et.al.|[2311.14521](http://arxiv.org/abs/2311.14521)|null|
+|**2023-11-24**|**Efficient Gradient Estimation via Adaptive Sampling and Importance Sampling**|Corentin Salaün et.al.|[2311.14468](http://arxiv.org/abs/2311.14468)|null|
+|**2023-11-24**|**Disentangling the Spectral Properties of the Hodge Laplacian: Not All Small Eigenvalues Are Equal**|Vincent P. Grande et.al.|[2311.14427](http://arxiv.org/abs/2311.14427)|null|
+|**2023-11-24**|**OneFormer3D: One Transformer for Unified Point Cloud Segmentation**|Maxim Kolodiazhnyi et.al.|[2311.14405](http://arxiv.org/abs/2311.14405)|**[link](https://github.com/filapro/oneformer3d)**|
+|**2023-11-24**|**ZeroPS: High-quality Cross-modal Knowledge Transfer for Zero-Shot 3D Part Segmentation**|Yuheng Xue et.al.|[2311.14262](http://arxiv.org/abs/2311.14262)|null|
+|**2023-11-23**|**HACD: Hand-Aware Conditional Diffusion for Monocular Hand-Held Object Reconstruction**|Bowen Fu et.al.|[2311.14189](http://arxiv.org/abs/2311.14189)|null|
+|**2023-11-23**|**GRJointNET: Synergistic Completion and Part Segmentation on 3D Incomplete Point Clouds**|Yigit Gurses et.al.|[2311.13997](http://arxiv.org/abs/2311.13997)|null|
+|**2023-11-23**|**Low Latency Instance Segmentation by Continuous Clustering for Rotating LiDAR Sensors**|Andreas Reich et.al.|[2311.13976](http://arxiv.org/abs/2311.13976)|**[link](https://github.com/unibwtas/continuous_clustering)**|
+|**2023-11-23**|**PointPCA+: Extending PointPCA objective quality assessment metric**|Xuemei Zhou et.al.|[2311.13880](http://arxiv.org/abs/2311.13880)|null|
+|**2023-11-23**|**Towards Transferable Multi-modal Perception Representation Learning for Autonomy: NeRF-Supervised Masked AutoEncoder**|Xiaohao Xu et.al.|[2311.13750](http://arxiv.org/abs/2311.13750)|null|
 |**2023-11-22**|**Learned Nonlinear Predictor for Critically Sampled 3D Point Cloud Attribute Compression**|Tam Thuc Do et.al.|[2311.13539](http://arxiv.org/abs/2311.13539)|null|
 |**2023-11-22**|**Volumetric 3D Point Cloud Attribute Compression: Learned polynomial bilateral filter for prediction**|Tam Thuc Do et.al.|[2311.13533](http://arxiv.org/abs/2311.13533)|null|
 |**2023-11-22**|**LucidDreamer: Domain-free Generation of 3D Gaussian Splatting Scenes**|Jaeyoung Chung et.al.|[2311.13384](http://arxiv.org/abs/2311.13384)|null|
