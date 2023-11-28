@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-27**|**MAST: Model-Agnostic Sparsified Training**|Yury Demidovich et.al.|[2311.16086](http://arxiv.org/abs/2311.16086)|null|
+|**2023-11-27**|**Application of Diagnostic Test Methods To The Classification Of Time Series With Discrete Values**|Artyom Gevorgyan et.al.|[2311.16034](http://arxiv.org/abs/2311.16034)|null|
+|**2023-11-27**|**Machine Learning-Enhanced Aircraft Landing Scheduling under Uncertainties**|Yutian Pang et.al.|[2311.16030](http://arxiv.org/abs/2311.16030)|null|
+|**2023-11-27**|**Scheduling and Communication Schemes for Decentralized Federated Learning**|Bahaa-Eldin Ali Abdelghany et.al.|[2311.16021](http://arxiv.org/abs/2311.16021)|null|
+|**2023-11-27**|**Forecasting Auxiliary Energy Consumption for Electric Heavy-Duty Vehicles**|Yuantao Fan et.al.|[2311.16003](http://arxiv.org/abs/2311.16003)|null|
+|**2023-11-27**|**FALCON: Fairness Learning via Contrastive Attention Approach to Continual Semantic Scene Understanding in Open World**|Thanh-Dat Truong et.al.|[2311.15965](http://arxiv.org/abs/2311.15965)|null|
+|**2023-11-27**|**Robust Conditional Wald Inference for Over-Identified IV**|David S. Lee et.al.|[2311.15952](http://arxiv.org/abs/2311.15952)|null|
+|**2023-11-27**|**Optimal Transport Aggregation for Visual Place Recognition**|Sergio Izquierdo et.al.|[2311.15937](http://arxiv.org/abs/2311.15937)|**[link](https://github.com/serizba/salad)**|
+|**2023-11-27**|**The Common Workflow Scheduler Interface: Status Quo and Future Plans**|Fabian Lehmann et.al.|[2311.15929](http://arxiv.org/abs/2311.15929)|null|
+|**2023-11-27**|**Mass reconstruction and noise reduction with cosmic-web environments**|Feng Fang et.al.|[2311.15903](http://arxiv.org/abs/2311.15903)|null|
 |**2023-11-24**|**A Sparse Factor Model for Clustering High-Dimensional Longitudinal Data**|Zihang Lu et.al.|[2311.14655](http://arxiv.org/abs/2311.14655)|null|
 |**2023-11-24**|**ARIA: On the interaction between Architectures, Aggregation methods and Initializations in federated visual classification**|Vasilis Siomos et.al.|[2311.14625](http://arxiv.org/abs/2311.14625)|null|
 |**2023-11-24**|**Towards a Peer-to-Peer Data Distribution Layer for Efficient and Collaborative Resource Optimization of Distributed Dataflow Applications**|Dominik Scheinert et.al.|[2311.14600](http://arxiv.org/abs/2311.14600)|null|
@@ -125,6 +135,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-27**|**ViT-Lens-2: Gateway to Omni-modal Intelligence**|Weixian Lei et.al.|[2311.16081](http://arxiv.org/abs/2311.16081)|**[link](https://github.com/TencentARC/ViT-Lens)**|
+|**2023-11-27**|**Relightable 3D Gaussian: Real-time Point Cloud Relighting with BRDF Decomposition and Ray Tracing**|Jian Gao et.al.|[2311.16043](http://arxiv.org/abs/2311.16043)|null|
+|**2023-11-27**|**MadRadar: A Black-Box Physical Layer Attack Framework on mmWave Automotive FMCW Radars**|David Hunt et.al.|[2311.16024](http://arxiv.org/abs/2311.16024)|null|
+|**2023-11-27**|**Text2Loc: 3D Point Cloud Localization from Natural Language**|Yan Xia et.al.|[2311.15977](http://arxiv.org/abs/2311.15977)|null|
+|**2023-11-27**|**GPT4Vis: What Can GPT-4 Do for Zero-shot Visual Recognition?**|Wenhao Wu et.al.|[2311.15732](http://arxiv.org/abs/2311.15732)|**[link](https://github.com/whwu95/GPT4Vis)**|
+|**2023-11-27**|**MOT-DETR: 3D Single Shot Detection and Tracking with Transformers to build 3D representations for Agro-Food Robots**|David Rapado-Rincon et.al.|[2311.15674](http://arxiv.org/abs/2311.15674)|null|
+|**2023-11-27**|**A Survey on Monocular Re-Localization: From the Perspective of Scene Map Representation**|Jinyu Miao et.al.|[2311.15643](http://arxiv.org/abs/2311.15643)|null|
+|**2023-11-27**|**UniRepLKNet: A Universal Perception Large-Kernel ConvNet for Audio, Video, Point Cloud, Time-Series and Image Recognition**|Xiaohan Ding et.al.|[2311.15599](http://arxiv.org/abs/2311.15599)|**[link](https://github.com/ailab-cvc/unireplknet)**|
+|**2023-11-26**|**GAN-Based LiDAR Intensity Simulation**|Richard Marcus et.al.|[2311.15415](http://arxiv.org/abs/2311.15415)|null|
+|**2023-11-25**|**Point Cloud Pre-training with Diffusion Models**|Xiao Zheng et.al.|[2311.14960](http://arxiv.org/abs/2311.14960)|null|
 |**2023-11-24**|**GaussianEditor: Swift and Controllable 3D Editing with Gaussian Splatting**|Yiwen Chen et.al.|[2311.14521](http://arxiv.org/abs/2311.14521)|null|
 |**2023-11-24**|**Efficient Gradient Estimation via Adaptive Sampling and Importance Sampling**|Corentin Salaün et.al.|[2311.14468](http://arxiv.org/abs/2311.14468)|null|
 |**2023-11-24**|**Disentangling the Spectral Properties of the Hodge Laplacian: Not All Small Eigenvalues Are Equal**|Vincent P. Grande et.al.|[2311.14427](http://arxiv.org/abs/2311.14427)|null|
