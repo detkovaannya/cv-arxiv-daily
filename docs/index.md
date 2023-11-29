@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-28**|**No Representation Rules Them All in Category Discovery**|Sagar Vaze et.al.|[2311.17055](http://arxiv.org/abs/2311.17055)|null|
+|**2023-11-28**|**A large-scale particle system with independent jumps and distributed synchronization**|Yuliy Baryshnikov et.al.|[2311.17052](http://arxiv.org/abs/2311.17052)|null|
+|**2023-11-28**|**Efficient In-Context Learning in Vision-Language Models for Egocentric Videos**|Keunwoo Peter Yu et.al.|[2311.17041](http://arxiv.org/abs/2311.17041)|null|
+|**2023-11-28**|**Rumors with Changing Credibility**|Charlotte Out et.al.|[2311.17040](http://arxiv.org/abs/2311.17040)|null|
+|**2023-11-28**|**Asteroseismology of the young open cluster NGC 2516 I: Photometric and spectroscopic observations**|Gang Li et.al.|[2311.16991](http://arxiv.org/abs/2311.16991)|null|
+|**2023-11-28**|**A Wasserstein-type Distance for Gaussian Mixtures on Vector Bundles with Applications to Shape Analysis**|Michael Wilson et.al.|[2311.16988](http://arxiv.org/abs/2311.16988)|null|
+|**2023-11-28**|**FedECA: A Federated External Control Arm Method for Causal Inference with Time-To-Event Data in Distributed Settings**|Jean Ogier du Terrail et.al.|[2311.16984](http://arxiv.org/abs/2311.16984)|null|
+|**2023-11-28**|**Local certification of geometric graph classes**|Oscar Defrain et.al.|[2311.16953](http://arxiv.org/abs/2311.16953)|null|
+|**2023-11-28**|**Testing He II Emission from Wolf-Rayet Stars as a Dust Attenuation Measure in eight Nearby Star-forming Galaxies**|Daniel Maschmann et.al.|[2311.16950](http://arxiv.org/abs/2311.16950)|null|
+|**2023-11-28**|**65 GOPS/neuron Photonic Tensor Core with Thin-film Lithium Niobate Photonics**|Zhongjin Lin et.al.|[2311.16896](http://arxiv.org/abs/2311.16896)|null|
 |**2023-11-27**|**MAST: Model-Agnostic Sparsified Training**|Yury Demidovich et.al.|[2311.16086](http://arxiv.org/abs/2311.16086)|null|
 |**2023-11-27**|**Application of Diagnostic Test Methods To The Classification Of Time Series With Discrete Values**|Artyom Gevorgyan et.al.|[2311.16034](http://arxiv.org/abs/2311.16034)|null|
 |**2023-11-27**|**Machine Learning-Enhanced Aircraft Landing Scheduling under Uncertainties**|Yutian Pang et.al.|[2311.16030](http://arxiv.org/abs/2311.16030)|null|
@@ -129,6 +139,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-28**|**Diffusion 3D Features (Diff3F): Decorating Untextured Shapes with Distilled Semantic Features**|Niladri Shekhar Dutt et.al.|[2311.17024](http://arxiv.org/abs/2311.17024)|null|
+|**2023-11-28**|**UGG: Unified Generative Grasping**|Jiaxin Lu et.al.|[2311.16917](http://arxiv.org/abs/2311.16917)|null|
+|**2023-11-28**|**RGBGrasp: Image-based Object Grasping by Capturing Multiple Views during Robot Arm Movement with Neural Radiance Fields**|Chang Liu et.al.|[2311.16592](http://arxiv.org/abs/2311.16592)|null|
 |**2023-11-27**|**ViT-Lens-2: Gateway to Omni-modal Intelligence**|Weixian Lei et.al.|[2311.16081](http://arxiv.org/abs/2311.16081)|**[link](https://github.com/TencentARC/ViT-Lens)**|
 |**2023-11-27**|**Relightable 3D Gaussian: Real-time Point Cloud Relighting with BRDF Decomposition and Ray Tracing**|Jian Gao et.al.|[2311.16043](http://arxiv.org/abs/2311.16043)|null|
 |**2023-11-27**|**MadRadar: A Black-Box Physical Layer Attack Framework on mmWave Automotive FMCW Radars**|David Hunt et.al.|[2311.16024](http://arxiv.org/abs/2311.16024)|null|
