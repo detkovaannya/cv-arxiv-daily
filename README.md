@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-30**|**An Adaptive Framework for Generalizing Network Traffic Prediction towards Uncertain Environments**|Alexander Downey et.al.|[2311.18824](http://arxiv.org/abs/2311.18824)|null|
+|**2023-11-30**|**Communication-Efficient Federated Optimization over Semi-Decentralized Networks**|He Wang et.al.|[2311.18787](http://arxiv.org/abs/2311.18787)|null|
+|**2023-11-30**|**VREM-FL: Mobility-Aware Computation-Scheduling Co-Design for Vehicular Federated Learning**|Luca Ballotta et.al.|[2311.18741](http://arxiv.org/abs/2311.18741)|null|
+|**2023-11-30**|**DAOS as HPC Storage: Exploring Interfaces**|Adrian Jackson et.al.|[2311.18714](http://arxiv.org/abs/2311.18714)|null|
+|**2023-11-30**|**Scaling K2 VII: Evidence for a high occurrence rate of hot sub-Neptunes at intermediate ages**|Jessie L. Christiansen et.al.|[2311.18709](http://arxiv.org/abs/2311.18709)|null|
+|**2023-11-30**|**Universality of closed nested paths in two-dimensional percolation**|Yu-Feng Song et.al.|[2311.18700](http://arxiv.org/abs/2311.18700)|null|
+|**2023-11-30**|**The Factory and the Beehive. V. Chromospheric and Coronal Activity and Its Dependence on Rotation in Praesepe and the Hyades**|Alejandro Núñez et.al.|[2311.18690](http://arxiv.org/abs/2311.18690)|null|
+|**2023-11-30**|**A proposal for federated chatbots for distributed information access (extended version)**|Fernando Tricas-García et.al.|[2311.18679](http://arxiv.org/abs/2311.18679)|null|
+|**2023-11-30**|**Splitwise: Efficient generative LLM inference using phase splitting**|Pratyush Patel et.al.|[2311.18677](http://arxiv.org/abs/2311.18677)|null|
+|**2023-11-30**|**Comparison of Autoscaling Frameworks for Containerised Machine-Learning-Applications in a Local and Cloud Environment**|Christian Schroeder et.al.|[2311.18659](http://arxiv.org/abs/2311.18659)|null|
 |**2023-11-29**|**Autoencoder-based analytic continuation method for strongly correlated quantum systems**|Maksymilian Kliczkowski et.al.|[2311.17920](http://arxiv.org/abs/2311.17920)|null|
 |**2023-11-29**|**Number count of Gravitational Waves and Supernovae in Luminosity Distance space for LCDM and Scalar-Tensor theories**|Anna Balaudo et.al.|[2311.17904](http://arxiv.org/abs/2311.17904)|null|
 |**2023-11-29**|**Betrayed by Attention: A Simple yet Effective Approach for Self-supervised Video Object Segmentation**|Shuangrui Ding et.al.|[2311.17893](http://arxiv.org/abs/2311.17893)|null|
@@ -155,6 +165,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-30**|**A Comparison Between Invariant and Equivariant Classical and Quantum Graph Neural Networks**|Roy T. Forestano et.al.|[2311.18672](http://arxiv.org/abs/2311.18672)|null|
+|**2023-11-30**|**LL3DA: Visual Interactive Instruction Tuning for Omni-3D Understanding, Reasoning, and Planning**|Sijin Chen et.al.|[2311.18651](http://arxiv.org/abs/2311.18651)|**[link](https://github.com/open3da/ll3da)**|
+|**2023-11-30**|**E2PNet: Event to Point Cloud Registration with Spatio-Temporal Representation Learning**|Xiuhong Lin et.al.|[2311.18433](http://arxiv.org/abs/2311.18433)|**[link](https://github.com/xmu-qcj/e2pnet)**|
+|**2023-11-30**|**Ego-Exo4D: Understanding Skilled Human Activity from First- and Third-Person Perspectives**|Kristen Grauman et.al.|[2311.18259](http://arxiv.org/abs/2311.18259)|null|
+|**2023-11-30**|**A-Scan2BIM: Assistive Scan to Building Information Modeling**|Weilian Song et.al.|[2311.18166](http://arxiv.org/abs/2311.18166)|null|
+|**2023-11-29**|**LiDAR-based Outdoor Crowd Management for Smart Campus on the Edge**|Yitao Chen et.al.|[2311.18077](http://arxiv.org/abs/2311.18077)|null|
 |**2023-11-29**|**Confidence Regions for Filamentary Structures**|Wanli Qiao et.al.|[2311.17831](http://arxiv.org/abs/2311.17831)|null|
 |**2023-11-29**|**Coloring the Past: Neural Historical Buildings Reconstruction from Archival Photography**|David Komorowicz et.al.|[2311.17810](http://arxiv.org/abs/2311.17810)|null|
 |**2023-11-29**|**PillarNeSt: Embracing Backbone Scaling and Pretraining for Pillar-based 3D Object Detection**|Weixin Mao et.al.|[2311.17770](http://arxiv.org/abs/2311.17770)|null|
