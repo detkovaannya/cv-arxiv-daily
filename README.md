@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-01**|**Environmental Quenching of Low Surface Brightness Galaxies near Milky Way mass Hosts**|J. Bhattacharyya et.al.|[2312.00773](http://arxiv.org/abs/2312.00773)|null|
+|**2023-12-01**|**Crystal: Enhancing Blockchain Mining Transparency with Quorum Certificate**|Jianyu Niu et.al.|[2312.00741](http://arxiv.org/abs/2312.00741)|null|
+|**2023-12-01**|**A Holistic Approach for Trustworthy Distributed Systems with WebAssembly and TEEs**|Jämes Ménétrey et.al.|[2312.00702](http://arxiv.org/abs/2312.00702)|null|
+|**2023-12-01**|**GIFT: Generative Interpretable Fine-Tuning Transformers**|Chinmay Savadikar et.al.|[2312.00700](http://arxiv.org/abs/2312.00700)|**[link](https://github.com/savadikarc/gift)**|
+|**2023-12-01**|**Euclid preparation. TBD. Galaxy power spectrum modelling in real space**|Euclid Collaboration et.al.|[2312.00679](http://arxiv.org/abs/2312.00679)|null|
+|**2023-12-01**|**Optical chiral properties in a large resonant hybrid photonic cluster**|A. D'Andrea et.al.|[2312.00669](http://arxiv.org/abs/2312.00669)|null|
+|**2023-12-01**|**A WINNER+ Based 3-D Non-Stationary Wideband MIMO Channel Model**|Ji Bian et.al.|[2312.00568](http://arxiv.org/abs/2312.00568)|null|
+|**2023-12-01**|**Improving Unsupervised Relation Extraction by Augmenting Diverse Sentence Pairs**|Qing Wang et.al.|[2312.00552](http://arxiv.org/abs/2312.00552)|null|
+|**2023-12-01**|**Unveiling the Landscape of Smart Contract Vulnerabilities: A Detailed Examination and Codification of Vulnerabilities in Prominent Blockchains**|Oualid Zaazaa et.al.|[2312.00499](http://arxiv.org/abs/2312.00499)|null|
+|**2023-12-01**|**Auto-encoding GPS data to reveal individual and collective behaviour**|Saint-Clair Chabert-Liddell et.al.|[2312.00456](http://arxiv.org/abs/2312.00456)|null|
 |**2023-11-30**|**An Adaptive Framework for Generalizing Network Traffic Prediction towards Uncertain Environments**|Alexander Downey et.al.|[2311.18824](http://arxiv.org/abs/2311.18824)|null|
 |**2023-11-30**|**Communication-Efficient Federated Optimization over Semi-Decentralized Networks**|He Wang et.al.|[2311.18787](http://arxiv.org/abs/2311.18787)|null|
 |**2023-11-30**|**VREM-FL: Mobility-Aware Computation-Scheduling Co-Design for Vehicular Federated Learning**|Luca Ballotta et.al.|[2311.18741](http://arxiv.org/abs/2311.18741)|null|
@@ -165,6 +175,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-01**|**Generalized Label-Efficient 3D Scene Parsing via Hierarchical Feature Aligned Pre-Training and Region-Aware Fine-tuning**|Kangcheng Liu et.al.|[2312.00663](http://arxiv.org/abs/2312.00663)|null|
+|**2023-12-01**|**LiDAR-based curb detection for ground truth annotation in automated driving validation**|Jose Luis Apellániz et.al.|[2312.00534](http://arxiv.org/abs/2312.00534)|null|
+|**2023-11-30**|**EpiTESTER: Testing Autonomous Vehicles with Epigenetic Algorithm and Attention Mechanism**|Chengjie Lu et.al.|[2312.00207](http://arxiv.org/abs/2312.00207)|**[link](https://github.com/simula-complex/epitester)**|
+|**2023-11-29**|**GLiDR: Topologically Regularized Graph Generative Network for Sparse LiDAR Point Clouds**|Prashant Kumar et.al.|[2312.00068](http://arxiv.org/abs/2312.00068)|null|
 |**2023-11-30**|**A Comparison Between Invariant and Equivariant Classical and Quantum Graph Neural Networks**|Roy T. Forestano et.al.|[2311.18672](http://arxiv.org/abs/2311.18672)|**[link](https://github.com/royforestano/2023_gsoc_ml4sci_qmlhep_gnn)**|
 |**2023-11-30**|**LL3DA: Visual Interactive Instruction Tuning for Omni-3D Understanding, Reasoning, and Planning**|Sijin Chen et.al.|[2311.18651](http://arxiv.org/abs/2311.18651)|**[link](https://github.com/open3da/ll3da)**|
 |**2023-11-30**|**E2PNet: Event to Point Cloud Registration with Spatio-Temporal Representation Learning**|Xiuhong Lin et.al.|[2311.18433](http://arxiv.org/abs/2311.18433)|**[link](https://github.com/xmu-qcj/e2pnet)**|
