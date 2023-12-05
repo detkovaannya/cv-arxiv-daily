@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-04**|**MMT/Binospec Spectroscopic Survey of Two $z\sim$ 0.8 Galaxy Clusters in the Eye of Horus Field**|Jiyun Di et.al.|[2312.02140](http://arxiv.org/abs/2312.02140)|null|
+|**2023-12-04**|**When it Rains, it Pours: Modeling Media Storms and the News Ecosystem**|Benjamin Litterer et.al.|[2312.02118](http://arxiv.org/abs/2312.02118)|null|
+|**2023-12-04**|**Inapproximability of Maximum Diameter Clustering for Few Clusters**|Henry Fleischmann et.al.|[2312.02097](http://arxiv.org/abs/2312.02097)|null|
+|**2023-12-04**|**Right-sizing compute resource allocations for bioinformatics tools with Total Perspective Vortex**|Nuwan Goonasekera et.al.|[2312.02060](http://arxiv.org/abs/2312.02060)|null|
+|**2023-12-04**|**UniGS: Unified Representation for Image Generation and Segmentation**|Lu Qi et.al.|[2312.01985](http://arxiv.org/abs/2312.01985)|**[link](https://github.com/qqlu/entity)**|
+|**2023-12-04**|**CaRL: Cascade Reinforcement Learning with State Space Splitting for O-RAN based Traffic Steering**|Chuanneng Sun et.al.|[2312.01970](http://arxiv.org/abs/2312.01970)|null|
+|**2023-12-04**|**GOALS-JWST: Mid-Infrared Molecular Gas Excitation Probes the Local Conditions of Nuclear Star Clusters and the AGN in the LIRG VV 114**|Victorine A. Buiten et.al.|[2312.01945](http://arxiv.org/abs/2312.01945)|null|
+|**2023-12-04**|**Search for the decay of the Higgs boson to a $Z$ boson and a light pseudoscalar particle decaying to two photons**|ATLAS Collaboration et.al.|[2312.01942](http://arxiv.org/abs/2312.01942)|null|
+|**2023-12-04**|**Early results from GLASS-JWST. XXVII. The mass-metallicity relation in lensed field galaxies at cosmic noon with NIRISS**|Xianlong He et.al.|[2312.01932](http://arxiv.org/abs/2312.01932)|null|
+|**2023-12-04**|**Numerical simulation of flow field and debris migration in EUV source vesse**|Wen-Sheng Meng et.al.|[2312.01862](http://arxiv.org/abs/2312.01862)|null|
 |**2023-12-01**|**Environmental Quenching of Low Surface Brightness Galaxies near Milky Way mass Hosts**|J. Bhattacharyya et.al.|[2312.00773](http://arxiv.org/abs/2312.00773)|null|
 |**2023-12-01**|**Crystal: Enhancing Blockchain Mining Transparency with Quorum Certificate**|Jianyu Niu et.al.|[2312.00741](http://arxiv.org/abs/2312.00741)|null|
 |**2023-12-01**|**A Holistic Approach for Trustworthy Distributed Systems with WebAssembly and TEEs**|Jämes Ménétrey et.al.|[2312.00702](http://arxiv.org/abs/2312.00702)|null|
@@ -175,6 +185,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-04**|**Fast View Synthesis of Casual Videos**|Yao-Chih Lee et.al.|[2312.02135](http://arxiv.org/abs/2312.02135)|null|
+|**2023-12-04**|**Rotation-Invariant Rapid TRISO-Fueled Pebble Identification Based on Feature Matching and Point Cloud Registration**|Ming Fang et.al.|[2312.02006](http://arxiv.org/abs/2312.02006)|null|
+|**2023-12-04**|**SARA-RT: Scaling up Robotics Transformers with Self-Adaptive Robust Attention**|Isabel Leal et.al.|[2312.01990](http://arxiv.org/abs/2312.01990)|null|
+|**2023-12-04**|**Stability and Approximations for Decorated Reeb Spaces**|Justin Curry et.al.|[2312.01982](http://arxiv.org/abs/2312.01982)|null|
+|**2023-12-04**|**Robot Synesthesia: In-Hand Manipulation with Visuotactile Sensing**|Ying Yuan et.al.|[2312.01853](http://arxiv.org/abs/2312.01853)|null|
+|**2023-12-04**|**SE-LIO: Semantics-enhanced Solid-State-LiDAR-Inertial Odometry for Tree-rich Environments**|Tisheng Zhang et.al.|[2312.01809](http://arxiv.org/abs/2312.01809)|null|
+|**2023-12-03**|**A Review and A Robust Framework of Data-Efficient 3D Scene Parsing with Traditional/Learned 3D Descriptors**|Kangcheng Liu et.al.|[2312.01262](http://arxiv.org/abs/2312.01262)|null|
+|**2023-12-02**|**Paved2Paradise: Cost-Effective and Scalable LiDAR Simulation by Factoring the Real World**|Michael A. Alcorn et.al.|[2312.01117](http://arxiv.org/abs/2312.01117)|**[link](https://github.com/airalcorn2/paved2paradise)**|
+|**2023-12-01**|**Object 6D pose estimation meets zero-shot learning**|Andrea Caraffa et.al.|[2312.00947](http://arxiv.org/abs/2312.00947)|null|
 |**2023-12-01**|**Generalized Label-Efficient 3D Scene Parsing via Hierarchical Feature Aligned Pre-Training and Region-Aware Fine-tuning**|Kangcheng Liu et.al.|[2312.00663](http://arxiv.org/abs/2312.00663)|null|
 |**2023-12-01**|**LiDAR-based curb detection for ground truth annotation in automated driving validation**|Jose Luis Apellániz et.al.|[2312.00534](http://arxiv.org/abs/2312.00534)|null|
 |**2023-11-30**|**EpiTESTER: Testing Autonomous Vehicles with Epigenetic Algorithm and Attention Mechanism**|Chengjie Lu et.al.|[2312.00207](http://arxiv.org/abs/2312.00207)|**[link](https://github.com/simula-complex/epitester)**|
