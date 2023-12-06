@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-05**|**Probing supermassive black hole seed scenarios with gravitational wave measurements**|John Ellis et.al.|[2312.02983](http://arxiv.org/abs/2312.02983)|null|
+|**2023-12-05**|**Rare Galaxy Classes Identified In Foundation Model Representations**|Mike Walmsley et.al.|[2312.02910](http://arxiv.org/abs/2312.02910)|null|
+|**2023-12-05**|**Uncovering Patterns of Participant-Invariant Influence in Networks**|Min Shaojie et.al.|[2312.02906](http://arxiv.org/abs/2312.02906)|null|
+|**2023-12-05**|**PULSAR: Simultaneous Many-Row Activation for Reliable and High-Performance Computing in Off-the-Shelf DRAM Chips**|Ismail Emir Yuksel et.al.|[2312.02880](http://arxiv.org/abs/2312.02880)|null|
+|**2023-12-05**|**A Dynamic Network for Efficient Point Cloud Registration**|Yang Ai et.al.|[2312.02877](http://arxiv.org/abs/2312.02877)|null|
+|**2023-12-05**|**Skein and cluster algebras with coefficients for unpunctured surfaces**|Tsukasa Ishibashi et.al.|[2312.02861](http://arxiv.org/abs/2312.02861)|null|
+|**2023-12-05**|**Exploring Error Bits for Memory Failure Prediction: An In-Depth Correlative Study**|Qiao Yu et.al.|[2312.02855](http://arxiv.org/abs/2312.02855)|null|
+|**2023-12-05**|**Are radio minihalos confined by cold fronts in galaxy clusters? Minihalos and large-scale sloshing in A3444 and MS 1455.0+2232**|Simona Giacintucci et.al.|[2312.02824](http://arxiv.org/abs/2312.02824)|null|
+|**2023-12-05**|**Clustering Pseudo Language Family in Multilingual Translation Models with Fisher Information Matrix**|Xinyu Ma et.al.|[2312.02820](http://arxiv.org/abs/2312.02820)|**[link](https://github.com/ecoli-hit/pseudofamily)**|
+|**2023-12-05**|**Smolchowski-Euler equations**|Alexander Osinsky et.al.|[2312.02792](http://arxiv.org/abs/2312.02792)|null|
 |**2023-12-04**|**MMT/Binospec Spectroscopic Survey of Two $z\sim$ 0.8 Galaxy Clusters in the Eye of Horus Field**|Jiyun Di et.al.|[2312.02140](http://arxiv.org/abs/2312.02140)|null|
 |**2023-12-04**|**When it Rains, it Pours: Modeling Media Storms and the News Ecosystem**|Benjamin Litterer et.al.|[2312.02118](http://arxiv.org/abs/2312.02118)|null|
 |**2023-12-04**|**Inapproximability of Maximum Diameter Clustering for Few Clusters**|Henry Fleischmann et.al.|[2312.02097](http://arxiv.org/abs/2312.02097)|null|
@@ -185,6 +195,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-05**|**GPT4Point: A Unified Framework for Point-Language Understanding and Generation**|Zhangyang Qi et.al.|[2312.02980](http://arxiv.org/abs/2312.02980)|null|
+|**2023-12-05**|**Diffusion-SS3D: Diffusion Model for Semi-supervised 3D Object Detection**|Cheng-Ju Ho et.al.|[2312.02966](http://arxiv.org/abs/2312.02966)|**[link](https://github.com/luluho1208/diffusion-ss3d)**|
+|**2023-12-05**|**A Dynamic Network for Efficient Point Cloud Registration**|Yang Ai et.al.|[2312.02877](http://arxiv.org/abs/2312.02877)|null|
+|**2023-12-05**|**(Provable) Adversarial Robustness for Group Equivariant Tasks: Graphs, Point Clouds, Molecules, and More**|Jan Schuchardt et.al.|[2312.02708](http://arxiv.org/abs/2312.02708)|null|
+|**2023-12-05**|**DeepPointMap: Advancing LiDAR SLAM with Unified Neural Descriptors**|Xiaze Zhang et.al.|[2312.02684](http://arxiv.org/abs/2312.02684)|null|
+|**2023-12-05**|**Automatic Robot Path Planning for Visual Inspection from Object Shape**|O. Tasneem et.al.|[2312.02603](http://arxiv.org/abs/2312.02603)|null|
+|**2023-12-05**|**6D Assembly Pose Estimation by Point Cloud Registration for Robot Manipulation**|K. Samarawickrama et.al.|[2312.02593](http://arxiv.org/abs/2312.02593)|null|
+|**2023-12-05**|**MGTR: Multi-Granular Transformer for Motion Prediction with LiDAR**|Yiqian Gan et.al.|[2312.02409](http://arxiv.org/abs/2312.02409)|null|
+|**2023-12-04**|**Unsupervised Change Detection for Space Habitats Using 3D Point Clouds**|Jamie Santos et.al.|[2312.02396](http://arxiv.org/abs/2312.02396)|**[link](https://github.com/nasa/isaac)**|
+|**2023-12-04**|**PointNeRF++: A multi-scale, point-based Neural Radiance Field**|Weiwei Sun et.al.|[2312.02362](http://arxiv.org/abs/2312.02362)|null|
 |**2023-12-04**|**Fast View Synthesis of Casual Videos**|Yao-Chih Lee et.al.|[2312.02135](http://arxiv.org/abs/2312.02135)|null|
 |**2023-12-04**|**Rotation-Invariant Rapid TRISO-Fueled Pebble Identification Based on Feature Matching and Point Cloud Registration**|Ming Fang et.al.|[2312.02006](http://arxiv.org/abs/2312.02006)|null|
 |**2023-12-04**|**SARA-RT: Scaling up Robotics Transformers with Self-Adaptive Robust Attention**|Isabel Leal et.al.|[2312.01990](http://arxiv.org/abs/2312.01990)|null|
