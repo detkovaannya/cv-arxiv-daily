@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-06**|**Interpretability Illusions in the Generalization of Simplified Models**|Dan Friedman et.al.|[2312.03656](http://arxiv.org/abs/2312.03656)|null|
+|**2023-12-06**|**Superconductivity in the Bilayer Two-orbital Hubbard Model**|Yao-Yuan Zheng et.al.|[2312.03605](http://arxiv.org/abs/2312.03605)|null|
+|**2023-12-06**|**On the existence, rareness and uniqueness of quenched HI-rich galaxies in the local Universe**|Xiao Li et.al.|[2312.03601](http://arxiv.org/abs/2312.03601)|null|
+|**2023-12-06**|**Holmes: Towards Distributed Training Across Clusters with Heterogeneous NIC Environment**|Fei Yang et.al.|[2312.03549](http://arxiv.org/abs/2312.03549)|null|
+|**2023-12-06**|**HI Galaxy Signatures in the SARAO MeerKAT Galactic Plane Survey $-$ I. Probing the richness of the Great Attractor Wall across the inner Zone of Avoidance**|Nadia Steyn et.al.|[2312.03545](http://arxiv.org/abs/2312.03545)|null|
+|**2023-12-06**|**Clustering by Contour coreset and variational quantum eigensolver**|Canaan Yung et.al.|[2312.03516](http://arxiv.org/abs/2312.03516)|null|
+|**2023-12-06**|**Estimation of line-of-sight velocities of individual galaxies using neural networks I. Modelling redshift-space distortions at large scales**|Hongxiang Chen et.al.|[2312.03469](http://arxiv.org/abs/2312.03469)|null|
+|**2023-12-06**|**On class groups of upper cluster algebras**|Mara Pompili et.al.|[2312.03457](http://arxiv.org/abs/2312.03457)|null|
+|**2023-12-06**|**Automated clustering of video games into groups with distinctive names**|Nicolas Grelier et.al.|[2312.03411](http://arxiv.org/abs/2312.03411)|null|
+|**2023-12-06**|**A novel coupled-cluster singles and doubles implementation that combines the exploitation of point-group symmetry and Cholesky decomposition of the two-electron integrals**|Tommaso Nottoli et.al.|[2312.03375](http://arxiv.org/abs/2312.03375)|null|
 |**2023-12-05**|**Probing supermassive black hole seed scenarios with gravitational wave measurements**|John Ellis et.al.|[2312.02983](http://arxiv.org/abs/2312.02983)|null|
 |**2023-12-05**|**Rare Galaxy Classes Identified In Foundation Model Representations**|Mike Walmsley et.al.|[2312.02910](http://arxiv.org/abs/2312.02910)|null|
 |**2023-12-05**|**Uncovering Patterns of Participant-Invariant Influence in Networks**|Min Shaojie et.al.|[2312.02906](http://arxiv.org/abs/2312.02906)|null|
@@ -189,6 +199,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-06**|**OneLLM: One Framework to Align All Modalities with Language**|Jiaming Han et.al.|[2312.03700](http://arxiv.org/abs/2312.03700)|**[link](https://github.com/csuhan/onellm)**|
+|**2023-12-06**|**Automated Multimodal Data Annotation via Calibration With Indoor Positioning System**|Ryan Rubel et.al.|[2312.03608](http://arxiv.org/abs/2312.03608)|null|
+|**2023-12-06**|**Evaluating the point cloud of individual trees generated from images based on Neural Radiance fields (NeRF) method**|Hongyu Huang et.al.|[2312.03372](http://arxiv.org/abs/2312.03372)|null|
+|**2023-12-06**|**PointMoment:Mixed-Moment-based Self-Supervised Representation Learning for 3D Point Clouds**|Xin Cao et.al.|[2312.03350](http://arxiv.org/abs/2312.03350)|null|
+|**2023-12-06**|**GraNet: A Multi-Level Graph Network for 6-DoF Grasp Pose Generation in Cluttered Scenes**|Haowen Wang et.al.|[2312.03345](http://arxiv.org/abs/2312.03345)|null|
+|**2023-12-06**|**PointJEM: Self-supervised Point Cloud Understanding for Reducing Feature Redundancy via Joint Entropy Maximization**|Xin Cao et.al.|[2312.03339](http://arxiv.org/abs/2312.03339)|null|
+|**2023-12-06**|**DiffPMAE: Diffusion Masked Autoencoders for Point Cloud Reconstruction**|Yanlong Li et.al.|[2312.03298](http://arxiv.org/abs/2312.03298)|null|
+|**2023-12-06**|**Efficiency of Terrestrial Laser Scanning in Survey Works: Assessment, Modelling, and Monitoring**|Fayez Tarsha Kurdi et.al.|[2312.03254](http://arxiv.org/abs/2312.03254)|null|
+|**2023-12-05**|**DiffusionPCR: Diffusion Models for Robust Multi-Step Point Cloud Registration**|Zhi Chen et.al.|[2312.03053](http://arxiv.org/abs/2312.03053)|null|
 |**2023-12-05**|**GPT4Point: A Unified Framework for Point-Language Understanding and Generation**|Zhangyang Qi et.al.|[2312.02980](http://arxiv.org/abs/2312.02980)|null|
 |**2023-12-05**|**Diffusion-SS3D: Diffusion Model for Semi-supervised 3D Object Detection**|Cheng-Ju Ho et.al.|[2312.02966](http://arxiv.org/abs/2312.02966)|**[link](https://github.com/luluho1208/diffusion-ss3d)**|
 |**2023-12-05**|**A Dynamic Network for Efficient Point Cloud Registration**|Yang Ai et.al.|[2312.02877](http://arxiv.org/abs/2312.02877)|null|
