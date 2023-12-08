@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-07**|**Self-Guided Open-Vocabulary Semantic Segmentation**|Osman Ülger et.al.|[2312.04539](http://arxiv.org/abs/2312.04539)|null|
+|**2023-12-07**|**Redshift-dependent RSD bias from Intrinsic Alignment with DESI Year 1 Spectra**|Claire Lamman et.al.|[2312.04518](http://arxiv.org/abs/2312.04518)|null|
+|**2023-12-07**|**Coordination-free Decentralised Federated Learning on Complex Networks: Overcoming Heterogeneity**|Lorenzo Valerio et.al.|[2312.04504](http://arxiv.org/abs/2312.04504)|null|
+|**2023-12-07**|**Assembling PNIPAM-Capped Gold Nanoparticles in Aqueous Solutions**|Binay P. Nayak et.al.|[2312.04490](http://arxiv.org/abs/2312.04490)|null|
+|**2023-12-07**|**Privacy-preserving quantum federated learning via gradient hiding**|Changhao Li et.al.|[2312.04447](http://arxiv.org/abs/2312.04447)|null|
+|**2023-12-07**|**Density-functional theory for clustering of two-dimensional hard particle fluids**|Yuri Martinez-Raton et.al.|[2312.04434](http://arxiv.org/abs/2312.04434)|null|
+|**2023-12-07**|**Developing Elementary Federated Learning Algorithms Leveraging the ChatGPT**|Miroslav Popovic et.al.|[2312.04412](http://arxiv.org/abs/2312.04412)|null|
+|**2023-12-07**|**Contextual Subspace Variational Quantum Eigensolver Calculation of the Dissociation Curve of Molecular Nitrogen on a Superconducting Quantum Computer**|Tim Weaving et.al.|[2312.04392](http://arxiv.org/abs/2312.04392)|null|
+|**2023-12-07**|**Multi-View Unsupervised Image Generation with Cross Attention Guidance**|Llukman Cerkezi et.al.|[2312.04337](http://arxiv.org/abs/2312.04337)|null|
+|**2023-12-07**|**A Structural-Clustering Based Active Learning for Graph Neural Networks**|Ricky Maulana Fajri et.al.|[2312.04307](http://arxiv.org/abs/2312.04307)|**[link](https://github.com/rickymaulanafajri/spa)**|
 |**2023-12-06**|**Interpretability Illusions in the Generalization of Simplified Models**|Dan Friedman et.al.|[2312.03656](http://arxiv.org/abs/2312.03656)|null|
 |**2023-12-06**|**Superconductivity in the Bilayer Two-orbital Hubbard Model**|Yao-Yuan Zheng et.al.|[2312.03605](http://arxiv.org/abs/2312.03605)|null|
 |**2023-12-06**|**On the existence, rareness and uniqueness of quenched HI-rich galaxies in the local Universe**|Xiao Li et.al.|[2312.03601](http://arxiv.org/abs/2312.03601)|null|
@@ -205,6 +215,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-07**|**EAGLES: Efficient Accelerated 3D Gaussians with Lightweight EncodingS**|Sharath Girish et.al.|[2312.04564](http://arxiv.org/abs/2312.04564)|null|
+|**2023-12-07**|**MonoGaussianAvatar: Monocular Gaussian Point-based Head Avatar**|Yufan Chen et.al.|[2312.04558](http://arxiv.org/abs/2312.04558)|null|
+|**2023-12-07**|**Multimodal Industrial Anomaly Detection by Crossmodal Feature Mapping**|Alex Costanzino et.al.|[2312.04521](http://arxiv.org/abs/2312.04521)|null|
+|**2023-12-07**|**Differentiable Registration of Images and LiDAR Point Clouds with VoxelPoint-to-Pixel Matching**|Junsheng Zhou et.al.|[2312.04060](http://arxiv.org/abs/2312.04060)|**[link](https://github.com/junshengzhou/vp2p-match)**|
+|**2023-12-06**|**WonderJourney: Going from Anywhere to Everywhere**|Hong-Xing Yu et.al.|[2312.03884](http://arxiv.org/abs/2312.03884)|null|
+|**2023-12-06**|**SurfaceAug: Closing the Gap in Multimodal Ground Truth Sampling**|Ryan Rubel et.al.|[2312.03808](http://arxiv.org/abs/2312.03808)|null|
+|**2023-12-06**|**Novel class discovery meets foundation models for 3D semantic segmentation**|Luigi Riz et.al.|[2312.03782](http://arxiv.org/abs/2312.03782)|null|
 |**2023-12-06**|**OneLLM: One Framework to Align All Modalities with Language**|Jiaming Han et.al.|[2312.03700](http://arxiv.org/abs/2312.03700)|**[link](https://github.com/csuhan/onellm)**|
 |**2023-12-06**|**Automated Multimodal Data Annotation via Calibration With Indoor Positioning System**|Ryan Rubel et.al.|[2312.03608](http://arxiv.org/abs/2312.03608)|null|
 |**2023-12-06**|**Evaluating the point cloud of individual trees generated from images based on Neural Radiance fields (NeRF) method**|Hongyu Huang et.al.|[2312.03372](http://arxiv.org/abs/2312.03372)|null|
