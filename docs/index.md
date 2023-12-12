@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-11**|**Dissecting the EIP-2930 Optional Access Lists**|Lioba Heimbach et.al.|[2312.06574](http://arxiv.org/abs/2312.06574)|null|
+|**2023-12-11**|**On the Impact of CDL and TDL Augmentation for RF Fingerprinting under Impaired Channels**|Omer Melih Gul et.al.|[2312.06555](http://arxiv.org/abs/2312.06555)|null|
+|**2023-12-11**|**Unsupervised KPIs-Based Clustering of Jobs in HPC Data Centers**|Mohamed S. Halawa et.al.|[2312.06546](http://arxiv.org/abs/2312.06546)|null|
+|**2023-12-11**|**Complexity Evaluation of Parallel Execution of the RAPiD Deep-Learning Algorithm on Intel CPU**|Dominic Konrad et.al.|[2312.06544](http://arxiv.org/abs/2312.06544)|null|
+|**2023-12-11**|**KPIs-Based Clustering and Visualization of HPC jobs: a Feature Reduction Approach**|Mohamed Soliman Halawa et.al.|[2312.06534](http://arxiv.org/abs/2312.06534)|null|
+|**2023-12-11**|**Decoupling Meta-Reinforcement Learning with Gaussian Task Contexts and Skills**|Hongcai He et.al.|[2312.06518](http://arxiv.org/abs/2312.06518)|null|
+|**2023-12-11**|**Massive Star Cluster Formation I. High Star Formation Efficiency While Resolving Feedback of Individual Stars**|Brooke Polak et.al.|[2312.06509](http://arxiv.org/abs/2312.06509)|null|
+|**2023-12-11**|**The Silicon Vertex Detector of the Belle II Experiment**|S. Mondal et.al.|[2312.06501](http://arxiv.org/abs/2312.06501)|null|
+|**2023-12-11**|**Quenched critical percolation on Galton-Watson trees**|Eleanor Archer et.al.|[2312.06485](http://arxiv.org/abs/2312.06485)|null|
+|**2023-12-11**|**UOCS XIII. Study of the FUV bright stars in the open cluster NGC 2420 using ASTROSAT**|R. K. S. Yadav et.al.|[2312.06483](http://arxiv.org/abs/2312.06483)|null|
 |**2023-12-08**|**Topology-Based Reconstruction Prevention for Decentralised Learning**|Florine W. Dekker et.al.|[2312.05248](http://arxiv.org/abs/2312.05248)|null|
 |**2023-12-08**|**DeltaZip: Multi-Tenant Language Model Serving via Delta Compression**|Xiaozhe Yao et.al.|[2312.05215](http://arxiv.org/abs/2312.05215)|null|
 |**2023-12-08**|**TENPLEX: Changing Resources of Deep Learning Jobs using Parallelizable Tensor Collections**|Marcel Wagenländer et.al.|[2312.05181](http://arxiv.org/abs/2312.05181)|null|
@@ -219,6 +229,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-11**|**The simplicial substructure of jets**|Tejes Gaertner et.al.|[2312.06596](http://arxiv.org/abs/2312.06596)|null|
+|**2023-12-11**|**Adaptive Annotation Distribution for Weakly Supervised Point Cloud Semantic Segmentation**|Zhiyi Pan et.al.|[2312.06259](http://arxiv.org/abs/2312.06259)|null|
+|**2023-12-11**|**M3SOT: Multi-frame, Multi-field, Multi-space 3D Single Object Tracking**|Jiaming Liu et.al.|[2312.06117](http://arxiv.org/abs/2312.06117)|**[link](https://github.com/liujia99/M3SOT)**|
+|**2023-12-11**|**SimMining-3D: Altitude-Aware 3D Object Detection in Complex Mining Environments: A Novel Dataset and ROS-Based Automatic Annotation Pipeline**|Mehala Balamurali et.al.|[2312.06113](http://arxiv.org/abs/2312.06113)|null|
+|**2023-12-11**|**PCRDiffusion: Diffusion Probabilistic Models for Point Cloud Registration**|Yue Wu et.al.|[2312.06063](http://arxiv.org/abs/2312.06063)|null|
+|**2023-12-10**|**Activating Frequency and ViT for 3D Point Cloud Quality Assessment without Reference**|Oussama Messai et.al.|[2312.05972](http://arxiv.org/abs/2312.05972)|**[link](https://github.com/o-messai/3d-pcqa)**|
+|**2023-12-09**|**EipFormer: Emphasizing Instance Positions in 3D Instance Segmentation**|Mengnan Zhao et.al.|[2312.05602](http://arxiv.org/abs/2312.05602)|null|
+|**2023-12-09**|**HumanReg: Self-supervised Non-rigid Registration of Human Point Cloud**|Yifan Chen et.al.|[2312.05462](http://arxiv.org/abs/2312.05462)|null|
 |**2023-12-08**|**MuVieCAST: Multi-View Consistent Artistic Style Transfer**|Nail Ibrahimli et.al.|[2312.05046](http://arxiv.org/abs/2312.05046)|null|
 |**2023-12-07**|**Point2CAD: Reverse Engineering CAD Models from 3D Point Clouds**|Yujia Liu et.al.|[2312.04962](http://arxiv.org/abs/2312.04962)|null|
 |**2023-12-08**|**Cross-BERT for Point Cloud Pretraining**|Xin Li et.al.|[2312.04891](http://arxiv.org/abs/2312.04891)|null|
