@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-12**|**Three-dimensional bound states of cylindrical quantum heterostructures with position-dependent mass carriers**|H. R. Christiansen et.al.|[2312.07477](http://arxiv.org/abs/2312.07477)|null|
+|**2023-12-12**|**Origin of correlated diffuse scattering in the hexagonal manganites**|Tara N. Tošić et.al.|[2312.07449](http://arxiv.org/abs/2312.07449)|null|
+|**2023-12-12**|**Random graphs and real networks with weak geometric coupling**|J. van der Kolk et.al.|[2312.07416](http://arxiv.org/abs/2312.07416)|null|
+|**2023-12-12**|**Unsupervised Temporal Action Localization via Self-paced Incremental Learning**|Haoyu Tang et.al.|[2312.07384](http://arxiv.org/abs/2312.07384)|null|
+|**2023-12-12**|**Sensor Fusion and Resource Management in MIMO-OFDM Joint Sensing and Communication**|Elia Favarelli et.al.|[2312.07379](http://arxiv.org/abs/2312.07379)|null|
+|**2023-12-12**|**Möbius invariant Y-systems (cluster structures) for Miquel dynamics**|Niklas Christoph Affolter et.al.|[2312.07367](http://arxiv.org/abs/2312.07367)|null|
+|**2023-12-12**|**Expand-and-Quantize: Unsupervised Semantic Segmentation Using High-Dimensional Space and Product Quantization**|Jiyoung Kim et.al.|[2312.07342](http://arxiv.org/abs/2312.07342)|null|
+|**2023-12-12**|**Survey of Gravitationally lensed Objects in HSC Imaging (SuGOHI) $-$ X. Strong Lens Finding in The HSC-SSP using Convolutional Neural Networks**|Anton T. Jaelani et.al.|[2312.07333](http://arxiv.org/abs/2312.07333)|null|
+|**2023-12-12**|**Coupled Confusion Correction: Learning from Crowds with Sparse Annotations**|Hansong Zhang et.al.|[2312.07331](http://arxiv.org/abs/2312.07331)|null|
+|**2023-12-12**|**Linear and nonlinear clusterings of Horndeski-inspired dark energy models with fast transition**|Orlando Luongo et.al.|[2312.07318](http://arxiv.org/abs/2312.07318)|null|
 |**2023-12-11**|**Dissecting the EIP-2930 Optional Access Lists**|Lioba Heimbach et.al.|[2312.06574](http://arxiv.org/abs/2312.06574)|null|
 |**2023-12-11**|**On the Impact of CDL and TDL Augmentation for RF Fingerprinting under Impaired Channels**|Omer Melih Gul et.al.|[2312.06555](http://arxiv.org/abs/2312.06555)|null|
 |**2023-12-11**|**Unsupervised KPIs-Based Clustering of Jobs in HPC Data Centers**|Mohamed S. Halawa et.al.|[2312.06546](http://arxiv.org/abs/2312.06546)|null|
@@ -235,6 +245,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-12**|**COLMAP-Free 3D Gaussian Splatting**|Yang Fu et.al.|[2312.07504](http://arxiv.org/abs/2312.07504)|null|
+|**2023-12-12**|**X4D-SceneFormer: Enhanced Scene Understanding on 4D Point Cloud Videos through Cross-modal Knowledge Transfer**|Linglin Jing et.al.|[2312.07378](http://arxiv.org/abs/2312.07378)|null|
+|**2023-12-12**|**RMS: Redundancy-Minimizing Point Cloud Sampling for Real-Time Pose Estimation in Degenerated Environments**|Pavel Petracek et.al.|[2312.07337](http://arxiv.org/abs/2312.07337)|**[link](https://github.com/ctu-mrs/rms)**|
+|**2023-12-12**|**Fast Training of Diffusion Transformer with Extreme Masking for 3D Point Clouds Generation**|Shentong Mo et.al.|[2312.07231](http://arxiv.org/abs/2312.07231)|null|
+|**2023-12-12**|**Transferring CLIP's Knowledge into Zero-Shot Point Cloud Semantic Segmentation**|Yuanbin Wang et.al.|[2312.07221](http://arxiv.org/abs/2312.07221)|null|
+|**2023-12-11**|**Densify Your Labels: Unsupervised Clustering with Bipartite Matching for Weakly Supervised Point Cloud Segmentation**|Shaobo Xia et.al.|[2312.06799](http://arxiv.org/abs/2312.06799)|null|
+|**2023-12-11**|**Learning Polynomial Representations of Physical Objects with Application to Certifying Correct Packing Configurations**|Morgan Jones et.al.|[2312.06791](http://arxiv.org/abs/2312.06791)|null|
+|**2023-12-11**|**TULIP: Transformer for Upsampling of LiDAR Point Cloud**|Bin Yang et.al.|[2312.06733](http://arxiv.org/abs/2312.06733)|null|
 |**2023-12-11**|**The simplicial substructure of jets**|Tejes Gaertner et.al.|[2312.06596](http://arxiv.org/abs/2312.06596)|null|
 |**2023-12-11**|**Adaptive Annotation Distribution for Weakly Supervised Point Cloud Semantic Segmentation**|Zhiyi Pan et.al.|[2312.06259](http://arxiv.org/abs/2312.06259)|null|
 |**2023-12-11**|**M3SOT: Multi-frame, Multi-field, Multi-space 3D Single Object Tracking**|Jiaming Liu et.al.|[2312.06117](http://arxiv.org/abs/2312.06117)|**[link](https://github.com/liujia99/M3SOT)**|
