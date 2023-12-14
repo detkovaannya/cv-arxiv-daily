@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-13**|**Distributed Inference and Fine-tuning of Large Language Models Over The Internet**|Alexander Borzunov et.al.|[2312.08361](http://arxiv.org/abs/2312.08361)|null|
+|**2023-12-13**|**CUTTANA: Scalable Graph Partitioning for Faster Distributed Graph Databases and Analytics**|Milad Rezaei Hajidehi et.al.|[2312.08356](http://arxiv.org/abs/2312.08356)|null|
+|**2023-12-13**|**Mapping the influence of impurities with varying interaction strength on nucleation in the 2D Ising model**|Dipanjan Mandal et.al.|[2312.08342](http://arxiv.org/abs/2312.08342)|null|
+|**2023-12-13**|**Subhalos in Galaxy Clusters: Coherent Accretion and Internal Orbits**|Chi Han et.al.|[2312.08337](http://arxiv.org/abs/2312.08337)|null|
+|**2023-12-13**|**Bayesian Nonparametric Clustering with Feature Selection for Spatially Resolved Transcriptomics Data**|Bencong Zhu et.al.|[2312.08324](http://arxiv.org/abs/2312.08324)|null|
+|**2023-12-13**|**PnPNet: Pull-and-Push Networks for Volumetric Segmentation with Boundary Confusion**|Xin You et.al.|[2312.08323](http://arxiv.org/abs/2312.08323)|null|
+|**2023-12-13**|**$^{12}$C and $α$-clusters, $0^+$ spectrum, and Hoyle-state candidates in $^{24}$ Mg**|J. Cseh et.al.|[2312.08318](http://arxiv.org/abs/2312.08318)|null|
+|**2023-12-13**|**FASTEN: Towards a FAult-tolerant and STorage EfficieNt Cloud: Balancing Between Replication and Deduplication**|Sabbir Ahmed et.al.|[2312.08309](http://arxiv.org/abs/2312.08309)|null|
+|**2023-12-13**|**Two $T$ -linear scattering rate regimes in the triangular lattice Hubbard model**|Jérôme Fournier et.al.|[2312.08306](http://arxiv.org/abs/2312.08306)|null|
+|**2023-12-13**|**ConChain: A Scheme for Contention-free and Attack Resilient BlockChain**|Faisal Haque Bappy et.al.|[2312.08305](http://arxiv.org/abs/2312.08305)|null|
 |**2023-12-12**|**Three-dimensional bound states of cylindrical quantum heterostructures with position-dependent mass carriers**|H. R. Christiansen et.al.|[2312.07477](http://arxiv.org/abs/2312.07477)|null|
 |**2023-12-12**|**Origin of correlated diffuse scattering in the hexagonal manganites**|Tara N. Tošić et.al.|[2312.07449](http://arxiv.org/abs/2312.07449)|null|
 |**2023-12-12**|**Random graphs and real networks with weak geometric coupling**|J. van der Kolk et.al.|[2312.07416](http://arxiv.org/abs/2312.07416)|null|
@@ -239,6 +249,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-13**|**SAM-guided Graph Cut for 3D Instance Segmentation**|Haoyu Guo et.al.|[2312.08372](http://arxiv.org/abs/2312.08372)|null|
+|**2023-12-13**|**PTT: Point-Trajectory Transformer for Efficient Temporal 3D Object Detection**|Kuan-Chih Huang et.al.|[2312.08371](http://arxiv.org/abs/2312.08371)|null|
+|**2023-12-13**|**Beyond the Label Itself: Latent Labels Enhance Semi-supervised Point Cloud Panoptic Segmentation**|Yujun Chen et.al.|[2312.08234](http://arxiv.org/abs/2312.08234)|null|
+|**2023-12-13**|**Partial Symmetry Detection for 3D Geometry using Contrastive Learning with Geodesic Point Cloud Patches**|Gregor Kobsik et.al.|[2312.08230](http://arxiv.org/abs/2312.08230)|null|
+|**2023-12-13**|**Optimal convergence rates for the spectrum of the graph Laplacian on Poisson point clouds**|Scott Armstrong et.al.|[2312.08149](http://arxiv.org/abs/2312.08149)|null|
+|**2023-12-13**|**Semantic Complete Scene Forecasting from a 4D Dynamic Point Cloud Sequence**|Zifan Wang et.al.|[2312.08054](http://arxiv.org/abs/2312.08054)|null|
+|**2023-12-13**|**Three-Filters-to-Normal+: Revisiting Discontinuity Discrimination in Depth-to-Normal Translation**|Jingwei Yang et.al.|[2312.07964](http://arxiv.org/abs/2312.07964)|null|
 |**2023-12-12**|**COLMAP-Free 3D Gaussian Splatting**|Yang Fu et.al.|[2312.07504](http://arxiv.org/abs/2312.07504)|null|
 |**2023-12-12**|**X4D-SceneFormer: Enhanced Scene Understanding on 4D Point Cloud Videos through Cross-modal Knowledge Transfer**|Linglin Jing et.al.|[2312.07378](http://arxiv.org/abs/2312.07378)|null|
 |**2023-12-12**|**RMS: Redundancy-Minimizing Point Cloud Sampling for Real-Time Pose Estimation in Degenerated Environments**|Pavel Petracek et.al.|[2312.07337](http://arxiv.org/abs/2312.07337)|**[link](https://github.com/ctu-mrs/rms)**|
