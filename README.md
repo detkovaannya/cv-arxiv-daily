@@ -41,7 +41,7 @@
 |**2023-12-12**|**Three-dimensional bound states of cylindrical quantum heterostructures with position-dependent mass carriers**|H. R. Christiansen et.al.|[2312.07477](http://arxiv.org/abs/2312.07477)|null|
 |**2023-12-12**|**Origin of correlated diffuse scattering in the hexagonal manganites**|Tara N. Tošić et.al.|[2312.07449](http://arxiv.org/abs/2312.07449)|null|
 |**2023-12-12**|**Random graphs and real networks with weak geometric coupling**|J. van der Kolk et.al.|[2312.07416](http://arxiv.org/abs/2312.07416)|null|
-|**2023-12-12**|**Unsupervised Temporal Action Localization via Self-paced Incremental Learning**|Haoyu Tang et.al.|[2312.07384](http://arxiv.org/abs/2312.07384)|null|
+|**2023-12-12**|**Unsupervised Temporal Action Localization via Self-paced Incremental Learning**|Haoyu Tang et.al.|[2312.07384](http://arxiv.org/abs/2312.07384)|**[link](https://github.com/tanghaoyu258/feel)**|
 |**2023-12-12**|**Sensor Fusion and Resource Management in MIMO-OFDM Joint Sensing and Communication**|Elia Favarelli et.al.|[2312.07379](http://arxiv.org/abs/2312.07379)|null|
 |**2023-12-12**|**Möbius invariant Y-systems (cluster structures) for Miquel dynamics**|Niklas Christoph Affolter et.al.|[2312.07367](http://arxiv.org/abs/2312.07367)|null|
 |**2023-12-12**|**Expand-and-Quantize: Unsupervised Semantic Segmentation Using High-Dimensional Space and Product Quantization**|Jiyoung Kim et.al.|[2312.07342](http://arxiv.org/abs/2312.07342)|null|
@@ -65,7 +65,7 @@
 |**2023-12-08**|**Herwig 7.3 Release Note**|Gavin Bewick et.al.|[2312.05175](http://arxiv.org/abs/2312.05175)|null|
 |**2023-12-08**|**DARLEI: Deep Accelerated Reinforcement Learning with Evolutionary Intelligence**|Saeejith Nair et.al.|[2312.05171](http://arxiv.org/abs/2312.05171)|null|
 |**2023-12-08**|**Charging up the cold: Formation of doubly- and triply-charged fullerene dimers in superfluid helium nanodroplets**|Lisa Ganner et.al.|[2312.05151](http://arxiv.org/abs/2312.05151)|null|
-|**2023-12-08**|**The splashback radius for dark matter, gas and observables in the FLAMINGO simulations**|Imogen Towler et.al.|[2312.05126](http://arxiv.org/abs/2312.05126)|null|
+|**2023-12-08**|**The splashback radius for dark matter, gas and observables in the FLAMINGO simulations**|Imogen Towler et.al.|[2312.05126](http://arxiv.org/abs/2312.05126)|**[link](https://github.com/swiftsim/soap)**|
 |**2023-12-08**|**Accurate Measurement of Application-level Energy Consumption for Energy-Aware Large-Scale Simulations**|Osman Seckin Simsek et.al.|[2312.05102](http://arxiv.org/abs/2312.05102)|null|
 |**2023-12-08**|**ScalO-RAN: Energy-aware Network Intelligence Scaling in Open RAN**|Stefano Maxenti et.al.|[2312.05096](http://arxiv.org/abs/2312.05096)|null|
 |**2023-12-07**|**Self-Guided Open-Vocabulary Semantic Segmentation**|Osman Ülger et.al.|[2312.04539](http://arxiv.org/abs/2312.04539)|null|
@@ -364,7 +364,7 @@
 |**2023-11-27**|**Text2Loc: 3D Point Cloud Localization from Natural Language**|Yan Xia et.al.|[2311.15977](http://arxiv.org/abs/2311.15977)|null|
 |**2023-11-27**|**GPT4Vis: What Can GPT-4 Do for Zero-shot Visual Recognition?**|Wenhao Wu et.al.|[2311.15732](http://arxiv.org/abs/2311.15732)|**[link](https://github.com/whwu95/GPT4Vis)**|
 |**2023-11-27**|**MOT-DETR: 3D Single Shot Detection and Tracking with Transformers to build 3D representations for Agro-Food Robots**|David Rapado-Rincon et.al.|[2311.15674](http://arxiv.org/abs/2311.15674)|**[link](https://github.com/drapado/mot-detr)**|
-|**2023-11-27**|**A Survey on Monocular Re-Localization: From the Perspective of Scene Map Representation**|Jinyu Miao et.al.|[2311.15643](http://arxiv.org/abs/2311.15643)|null|
+|**2023-11-27**|**A Survey on Monocular Re-Localization: From the Perspective of Scene Map Representation**|Jinyu Miao et.al.|[2311.15643](http://arxiv.org/abs/2311.15643)|**[link](https://github.com/jinyummiao/map-in-mono-reloc)**|
 |**2023-11-27**|**UniRepLKNet: A Universal Perception Large-Kernel ConvNet for Audio, Video, Point Cloud, Time-Series and Image Recognition**|Xiaohan Ding et.al.|[2311.15599](http://arxiv.org/abs/2311.15599)|**[link](https://github.com/ailab-cvc/unireplknet)**|
 |**2023-11-26**|**GAN-Based LiDAR Intensity Simulation**|Richard Marcus et.al.|[2311.15415](http://arxiv.org/abs/2311.15415)|null|
 |**2023-11-25**|**Point Cloud Pre-training with Diffusion Models**|Xiao Zheng et.al.|[2311.14960](http://arxiv.org/abs/2311.14960)|null|
