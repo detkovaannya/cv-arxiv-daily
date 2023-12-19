@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.18
+## Updated on 2023.12.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-15**|**Disorder-induced decoupling of attracting identical fermions: transfer matrix approach**|Lolita I. Knyazeva et.al.|[2312.09987](http://arxiv.org/abs/2312.09987)|null|
+|**2023-12-15**|**Sketch and shift: a robust decoder for compressive clustering**|Ayoub Belhadji et.al.|[2312.09940](http://arxiv.org/abs/2312.09940)|null|
+|**2023-12-15**|**Set-valued expectiles for ordered data analysis**|Ha Thi Khanh Linh et.al.|[2312.09930](http://arxiv.org/abs/2312.09930)|null|
+|**2023-12-15**|**Scaling Computational Fluid Dynamics: In Situ Visualization of NekRS using SENSEI**|Victor A. Mateevitsi et.al.|[2312.09888](http://arxiv.org/abs/2312.09888)|null|
+|**2023-12-15**|**Distributed Learning of Mixtures of Experts**|Faïcel Chamroukhi et.al.|[2312.09877](http://arxiv.org/abs/2312.09877)|null|
+|**2023-12-15**|**Ages, metallicity, and alpha-enhancement of the globular cluster populations in NGC 3311**|Natalie Grasser et.al.|[2312.09850](http://arxiv.org/abs/2312.09850)|null|
+|**2023-12-15**|**Fast Approximations and Coresets for (k, l)-Median under Dynamic Time Warping**|Jacobus Conradi et.al.|[2312.09838](http://arxiv.org/abs/2312.09838)|null|
+|**2023-12-15**|**Breathing and switching cyclops states in Kuramoto networks with higher-mode coupling**|Maxim I. Bolotov et.al.|[2312.09831](http://arxiv.org/abs/2312.09831)|null|
+|**2023-12-15**|**Extreme value methods for estimating rare events in Utopia**|L. M. André et.al.|[2312.09825](http://arxiv.org/abs/2312.09825)|null|
+|**2023-12-15**|**The VISCACHA survey -- IX. The SMC Southern Bridge in 8D**|M. C. Parisi et.al.|[2312.09756](http://arxiv.org/abs/2312.09756)|null|
 |**2023-12-14**|**LIME: Localized Image Editing via Attention Regularization in Diffusion Models**|Enis Simsar et.al.|[2312.09256](http://arxiv.org/abs/2312.09256)|null|
 |**2023-12-14**|**Diagnostic diagrams for ram-pressure stripped candidates**|A. C. Krabbe et.al.|[2312.09220](http://arxiv.org/abs/2312.09220)|null|
 |**2023-12-14**|**MAGICS I. The First Few Orbits Encode the Fate of Seed Massive Black Hole Pairs**|Nianyi Chen et.al.|[2312.09183](http://arxiv.org/abs/2312.09183)|null|
@@ -259,12 +269,16 @@
 |**2023-11-10**|**The First Verification Test of Space-Ground Collaborative Intelligence via Cloud-Native Satellites**|Shangguang Wang et.al.|[2311.06078](http://arxiv.org/abs/2311.06078)|null|
 |**2023-11-10**|**Collaborative Inference in DNN-based Satellite Systems with Dynamic Task Streams**|Jinglong Guan et.al.|[2311.06073](http://arxiv.org/abs/2311.06073)|null|
 
-<p align=right>(<a href=#updated-on-20231218>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231219>back to top</a>)</p>
 
 ## point cloud
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-15**|**Point Transformer V3: Simpler, Faster, Stronger**|Xiaoyang Wu et.al.|[2312.10035](http://arxiv.org/abs/2312.10035)|**[link](https://github.com/pointcept/pointtransformerv3)**|
+|**2023-12-15**|**Weakly-Supervised 3D Visual Grounding based on Visual Linguistic Alignment**|Xiaoxu Xu et.al.|[2312.09625](http://arxiv.org/abs/2312.09625)|null|
+|**2023-12-15**|**AEGIS-Net: Attention-guided Multi-Level Feature Aggregation for Indoor Place Recognition**|Yuhang Ming et.al.|[2312.09538](http://arxiv.org/abs/2312.09538)|**[link](https://github.com/yuhangming/aegis-net)**|
+|**2023-12-14**|**Shape Reconstruction of Trapezoidal Surfaces**|Arvin Rasoulzadeh et.al.|[2312.09373](http://arxiv.org/abs/2312.09373)|null|
 |**2023-12-14**|**OccNeRF: Self-Supervised Multi-Camera Occupancy Prediction with Neural Radiance Fields**|Chubin Zhang et.al.|[2312.09243](http://arxiv.org/abs/2312.09243)|**[link](https://github.com/linshan-bin/occnerf)**|
 |**2023-12-14**|**Mosaic-SDF for 3D Generative Models**|Lior Yariv et.al.|[2312.09222](http://arxiv.org/abs/2312.09222)|null|
 |**2023-12-14**|**CMG-Net: Robust Normal Estimation for Point Clouds via Chamfer Normal Distance and Multi-scale Geometry**|Yingrui Wu et.al.|[2312.09154](http://arxiv.org/abs/2312.09154)|null|
@@ -426,7 +440,7 @@
 |**2023-11-08**|**VET: Visual Error Tomography for Point Cloud Completion and High-Quality Neural Rendering**|Linus Franke et.al.|[2311.04634](http://arxiv.org/abs/2311.04634)|**[link](https://github.com/lfranke/vet)**|
 |**2023-11-09**|**Rethinking Human Pose Estimation for Autonomous Driving with 3D Event Representations**|Xiaoting Yin et.al.|[2311.04591](http://arxiv.org/abs/2311.04591)|**[link](https://github.com/masterhow/eventpointpose)**|
 
-<p align=right>(<a href=#updated-on-20231218>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231219>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
