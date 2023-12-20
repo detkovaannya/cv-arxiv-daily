@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-19**|**PNG-UNITsims: the response of halo clustering to Primodial Non-Gaussianities as a function of mass**|Adrian G. Adame et.al.|[2312.12405](http://arxiv.org/abs/2312.12405)|null|
+|**2023-12-19**|**The stellar mass function of quiescent galaxies in 2 < z < 2.5 protoclusters**|Adit H. Edward et.al.|[2312.12380](http://arxiv.org/abs/2312.12380)|null|
+|**2023-12-19**|**Mixture of Cluster-conditional LoRA Experts for Vision-language Instruction Tuning**|Yunhao Gou et.al.|[2312.12379](http://arxiv.org/abs/2312.12379)|null|
+|**2023-12-19**|**Anti-de Sitter $\to$ de Sitter transition driven by Casimir forces and mitigating tensions in cosmological parameters**|Luis A. Anchordoqui et.al.|[2312.12352](http://arxiv.org/abs/2312.12352)|null|
+|**2023-12-19**|**The He abundance in NGC 1850 A and B: are we observing the early stage of formation of multiple populations in a stellar cluster?**|R. Carini et.al.|[2312.12351](http://arxiv.org/abs/2312.12351)|null|
+|**2023-12-19**|**SMC-NCA: Semantic-guided Multi-level Contrast for Semi-supervised Action Segmentation**|Feixiang Zhou et.al.|[2312.12347](http://arxiv.org/abs/2312.12347)|null|
+|**2023-12-19**|**Galaxy clustering measurements out to redshift z $\sim$ 8 from Hubble Legacy Fields**|Nicolò Dalmasso et.al.|[2312.12329](http://arxiv.org/abs/2312.12329)|null|
+|**2023-12-19**|**Diffusion limited aggregation in the layers model**|Colin Cooper et.al.|[2312.12326](http://arxiv.org/abs/2312.12326)|null|
+|**2023-12-19**|**Snake Graphs for Graph LP Algebras**|Esther Banaian et.al.|[2312.12313](http://arxiv.org/abs/2312.12313)|null|
+|**2023-12-19**|**A Criterion for Multivariate Regionalization of Spatial Data**|Ranadeep Daw et.al.|[2312.12287](http://arxiv.org/abs/2312.12287)|null|
 |**2023-12-15**|**Disorder-induced decoupling of attracting identical fermions: transfer matrix approach**|Lolita I. Knyazeva et.al.|[2312.09987](http://arxiv.org/abs/2312.09987)|null|
 |**2023-12-15**|**Sketch and shift: a robust decoder for compressive clustering**|Ayoub Belhadji et.al.|[2312.09940](http://arxiv.org/abs/2312.09940)|null|
 |**2023-12-15**|**Set-valued expectiles for ordered data analysis**|Ha Thi Khanh Linh et.al.|[2312.09930](http://arxiv.org/abs/2312.09930)|null|
@@ -269,6 +279,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-19**|**Domain Generalization in LiDAR Semantic Segmentation Leveraged by Density Discriminative Feature Embedding**|Jaeyeul Kim et.al.|[2312.12098](http://arxiv.org/abs/2312.12098)|null|
+|**2023-12-19**|**LHManip: A Dataset for Long-Horizon Language-Grounded Manipulation Tasks in Cluttered Tabletop Environments**|Federico Ceola et.al.|[2312.12036](http://arxiv.org/abs/2312.12036)|**[link](https://github.com/fedeceola/lhmanip)**|
+|**2023-12-19**|**Point Cloud Segmentation Using Transfer Learning with RandLA-Net: A Case Study on Urban Areas**|Alperen Enes Bayar et.al.|[2312.11880](http://arxiv.org/abs/2312.11880)|null|
+|**2023-12-19**|**Point Cloud Part Editing: Segmentation, Generation, Assembly, and Selection**|Kaiyi Zhang et.al.|[2312.11867](http://arxiv.org/abs/2312.11867)|null|
+|**2023-12-18**|**HAAR: Text-Conditioned Generative Model of 3D Strand-based Human Hairstyles**|Vanessa Sklyarova et.al.|[2312.11666](http://arxiv.org/abs/2312.11666)|null|
+|**2023-12-18**|**GauFRe: Gaussian Deformation Fields for Real-time Dynamic Novel View Synthesis**|Yiqing Liang et.al.|[2312.11458](http://arxiv.org/abs/2312.11458)|null|
+|**2023-12-18**|**Language-Assisted 3D Scene Understanding**|Yanmin Wu et.al.|[2312.11451](http://arxiv.org/abs/2312.11451)|null|
+|**2023-12-18**|**Active search and coverage using point-cloud reinforcement learning**|Matthias Rosynski et.al.|[2312.11410](http://arxiv.org/abs/2312.11410)|null|
+|**2023-12-18**|**Spherical Mask: Coarse-to-Fine 3D Point Cloud Instance Segmentation with Spherical Representation**|Sangyun Shin et.al.|[2312.11269](http://arxiv.org/abs/2312.11269)|null|
+|**2023-12-18**|**GraspLDM: Generative 6-DoF Grasp Synthesis using Latent Diffusion Models**|Kuldeep R Barad et.al.|[2312.11243](http://arxiv.org/abs/2312.11243)|null|
 |**2023-12-15**|**Point Transformer V3: Simpler, Faster, Stronger**|Xiaoyang Wu et.al.|[2312.10035](http://arxiv.org/abs/2312.10035)|**[link](https://github.com/pointcept/pointtransformerv3)**|
 |**2023-12-15**|**Weakly-Supervised 3D Visual Grounding based on Visual Linguistic Alignment**|Xiaoxu Xu et.al.|[2312.09625](http://arxiv.org/abs/2312.09625)|null|
 |**2023-12-15**|**AEGIS-Net: Attention-guided Multi-Level Feature Aggregation for Indoor Place Recognition**|Yuhang Ming et.al.|[2312.09538](http://arxiv.org/abs/2312.09538)|**[link](https://github.com/yuhangming/aegis-net)**|
