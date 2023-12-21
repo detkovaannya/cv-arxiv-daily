@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-20**|**Enhancing Neural Training via a Correlated Dynamics Model**|Jonathan Brokman et.al.|[2312.13247](http://arxiv.org/abs/2312.13247)|null|
+|**2023-12-20**|**Demographics of Tidal Disruption Events with L-Galaxies: I. Volumetric TDE rates and the abundance of Nuclear Star Clusters**|M. Polkas et.al.|[2312.13242](http://arxiv.org/abs/2312.13242)|null|
+|**2023-12-20**|**Deterministic Ansätze for the Measurement-based Variational Quantum Eigensolver**|Anna Schroeder et.al.|[2312.13241](http://arxiv.org/abs/2312.13241)|null|
+|**2023-12-20**|**LlaMaVAE: Guiding Large Language Model Generation via Continuous Latent Sentence Spaces**|Yingji Zhang et.al.|[2312.13208](http://arxiv.org/abs/2312.13208)|null|
+|**2023-12-20**|**Multivariate rational approximation of functions with curves of singularities**|Nicolas Boullé et.al.|[2312.13202](http://arxiv.org/abs/2312.13202)|**[link](https://github.com/NBoulle/MultivariateRational)**|
+|**2023-12-20**|**An improved Halo Occupation Distribution prescription from UNITsim Halpha emitters: conformity and modified radial profile**|Guillermo Reyes-Peraza et.al.|[2312.13199](http://arxiv.org/abs/2312.13199)|null|
+|**2023-12-20**|**$\mathcal{O}(\log\log{n})$ Passes is Optimal for Semi-Streaming Maximal Independent Set**|Sepehr Assadi et.al.|[2312.13178](http://arxiv.org/abs/2312.13178)|null|
+|**2023-12-20**|**Experiences Building an MLIR-based SYCL Compiler**|Ettore Tiotto et.al.|[2312.13170](http://arxiv.org/abs/2312.13170)|null|
+|**2023-12-20**|**VSR-Net: Vessel-like Structure Rehabilitation Network with Graph Clustering**|Haili Ye et.al.|[2312.13116](http://arxiv.org/abs/2312.13116)|null|
+|**2023-12-20**|**Quick Order Fairness: Implementation and Evaluation**|Christian Cachin et.al.|[2312.13107](http://arxiv.org/abs/2312.13107)|null|
 |**2023-12-19**|**PNG-UNITsims: the response of halo clustering to Primodial Non-Gaussianities as a function of mass**|Adrian G. Adame et.al.|[2312.12405](http://arxiv.org/abs/2312.12405)|null|
 |**2023-12-19**|**The stellar mass function of quiescent galaxies in 2 < z < 2.5 protoclusters**|Adit H. Edward et.al.|[2312.12380](http://arxiv.org/abs/2312.12380)|null|
 |**2023-12-19**|**Mixture of Cluster-conditional LoRA Experts for Vision-language Instruction Tuning**|Yunhao Gou et.al.|[2312.12379](http://arxiv.org/abs/2312.12379)|null|
@@ -285,10 +295,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-20**|**Point Deformable Network with Enhanced Normal Embedding for Point Cloud Analysis**|Xingyilang Yin et.al.|[2312.13071](http://arxiv.org/abs/2312.13071)|null|
+|**2023-12-20**|**D3Former: Jointly Learning Repeatable Dense Detectors and Feature-enhanced Descriptors via Saliency-guided Transformer**|Junjie Gao et.al.|[2312.12970](http://arxiv.org/abs/2312.12970)|null|
+|**2023-12-20**|**Realistic Rainy Weather Simulation for LiDARs in CARLA Simulator**|Donglin Yang et.al.|[2312.12772](http://arxiv.org/abs/2312.12772)|**[link](https://github.com/pjlab-adg/pcsim)**|
+|**2023-12-20**|**PointeNet: A Lightweight Framework for Effective and Efficient Point Cloud Analysis**|Lipeng Gu et.al.|[2312.12743](http://arxiv.org/abs/2312.12743)|null|
+|**2023-12-19**|**Matching via Distance Profiles**|YoonHaeng Hur et.al.|[2312.12641](http://arxiv.org/abs/2312.12641)|null|
+|**2023-12-19**|**Unveiling Spaces: Architecturally meaningful semantic descriptions from images of interior spaces**|Demircan Tas et.al.|[2312.12481](http://arxiv.org/abs/2312.12481)|null|
 |**2023-12-19**|**Domain Generalization in LiDAR Semantic Segmentation Leveraged by Density Discriminative Feature Embedding**|Jaeyeul Kim et.al.|[2312.12098](http://arxiv.org/abs/2312.12098)|null|
-|**2023-12-19**|**LHManip: A Dataset for Long-Horizon Language-Grounded Manipulation Tasks in Cluttered Tabletop Environments**|Federico Ceola et.al.|[2312.12036](http://arxiv.org/abs/2312.12036)|**[link](https://github.com/fedeceola/lhmanip)**|
+|**2023-12-20**|**LHManip: A Dataset for Long-Horizon Language-Grounded Manipulation Tasks in Cluttered Tabletop Environments**|Federico Ceola et.al.|[2312.12036](http://arxiv.org/abs/2312.12036)|**[link](https://github.com/fedeceola/lhmanip)**|
 |**2023-12-19**|**Point Cloud Segmentation Using Transfer Learning with RandLA-Net: A Case Study on Urban Areas**|Alperen Enes Bayar et.al.|[2312.11880](http://arxiv.org/abs/2312.11880)|null|
-|**2023-12-19**|**Point Cloud Part Editing: Segmentation, Generation, Assembly, and Selection**|Kaiyi Zhang et.al.|[2312.11867](http://arxiv.org/abs/2312.11867)|null|
+|**2023-12-19**|**Point Cloud Part Editing: Segmentation, Generation, Assembly, and Selection**|Kaiyi Zhang et.al.|[2312.11867](http://arxiv.org/abs/2312.11867)|**[link](https://github.com/kaiyizhang/SGAS)**|
 |**2023-12-18**|**HAAR: Text-Conditioned Generative Model of 3D Strand-based Human Hairstyles**|Vanessa Sklyarova et.al.|[2312.11666](http://arxiv.org/abs/2312.11666)|null|
 |**2023-12-18**|**GauFRe: Gaussian Deformation Fields for Real-time Dynamic Novel View Synthesis**|Yiqing Liang et.al.|[2312.11458](http://arxiv.org/abs/2312.11458)|null|
 |**2023-12-18**|**Language-Assisted 3D Scene Understanding**|Yanmin Wu et.al.|[2312.11451](http://arxiv.org/abs/2312.11451)|null|
