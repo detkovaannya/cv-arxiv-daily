@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-22**|**A Novel Sampled Clustering Algorithm for Rice Phenotypic Data**|Mithun Singh et.al.|[2312.14920](http://arxiv.org/abs/2312.14920)|null|
+|**2023-12-22**|**Complexity of Local Search for Euclidean Clustering Problems**|Bodo Manthey et.al.|[2312.14916](http://arxiv.org/abs/2312.14916)|null|
+|**2023-12-22**|**Parallel Prefix Sum with SIMD**|Wangda Zhang et.al.|[2312.14874](http://arxiv.org/abs/2312.14874)|null|
+|**2023-12-22**|**Large Scale Traning of Graph Neural Networks for Optimal Markov-Chain Partitioning Using the Kemeny Constant**|Sam Alexander Martino et.al.|[2312.14847](http://arxiv.org/abs/2312.14847)|null|
+|**2023-12-22**|**An Implantable Piezofilm Middle Ear Microphone: Performance in Human Cadaveric Temporal Bones**|John Z. Zhang et.al.|[2312.14844](http://arxiv.org/abs/2312.14844)|null|
+|**2023-12-22**|**Neural network models for preferential concentration of particles in two-dimensional turbulence**|Thibault Maurel-Oujia et.al.|[2312.14829](http://arxiv.org/abs/2312.14829)|null|
+|**2023-12-22**|**Bounding the Communication Complexity of Fault-Tolerant Common Coin Tossing**|Ivan Geffner et.al.|[2312.14775](http://arxiv.org/abs/2312.14775)|null|
+|**2023-12-22**|**Enhanced Latent Multi-view Subspace Clustering**|Long Shi et.al.|[2312.14763](http://arxiv.org/abs/2312.14763)|**[link](https://github.com/caolei2000/elmsc-code)**|
+|**2023-12-22**|**A mathematical theory of the critical point of ferromagnetic Ising systems**|Domingos H. U. Marchetti et.al.|[2312.14757](http://arxiv.org/abs/2312.14757)|null|
+|**2023-12-22**|**Siracusa: A 16 nm Heterogenous RISC-V SoC for Extended Reality with At-MRAM Neural Engine**|Arpan Suravi Prasad et.al.|[2312.14750](http://arxiv.org/abs/2312.14750)|null|
 |**2023-12-21**|**Revisiting Foreground and Background Separation in Weakly-supervised Temporal Action Localization: A Clustering-based Approach**|Qinying Liu et.al.|[2312.14138](http://arxiv.org/abs/2312.14138)|**[link](https://github.com/qinying-liu/case)**|
 |**2023-12-21**|**WellFactor: Patient Profiling using Integrative Embedding of Healthcare Data**|Dongjin Choi et.al.|[2312.14129](http://arxiv.org/abs/2312.14129)|null|
 |**2023-12-21**|**Clustering of dark matter in the cosmic web as a probe of massive neutrinos**|Mohadese Khoshtinat et.al.|[2312.14117](http://arxiv.org/abs/2312.14117)|null|
@@ -299,9 +309,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-22**|**BonnBeetClouds3D: A Dataset Towards Point Cloud-based Organ-level Phenotyping of Sugar Beet Plants under Field Conditions**|Elias Marks et.al.|[2312.14706](http://arxiv.org/abs/2312.14706)|null|
 |**2023-12-21**|**Neural Point Cloud Diffusion for Disentangled 3D Shape and Appearance Generation**|Philipp Schröppel et.al.|[2312.14124](http://arxiv.org/abs/2312.14124)|**[link](https://github.com/lmb-freiburg/neural-point-cloud-diffusion)**|
 |**2023-12-21**|**Geometric Awareness in Neural Fields for 3D Human Registration**|Riccardo Marin et.al.|[2312.14024](http://arxiv.org/abs/2312.14024)|null|
-|**2023-12-21**|**On Partial Optimal Transport: Revising the Infeasibility of Sinkhorn and Efficient Gradient Methods**|Anh Duc Nguyen et.al.|[2312.13970](http://arxiv.org/abs/2312.13970)|null|
+|**2023-12-22**|**On Partial Optimal Transport: Revising the Infeasibility of Sinkhorn and Efficient Gradient Methods**|Anh Duc Nguyen et.al.|[2312.13970](http://arxiv.org/abs/2312.13970)|null|
 |**2023-12-21**|**SPGroup3D: Superpoint Grouping Network for Indoor 3D Object Detection**|Yun Zhu et.al.|[2312.13641](http://arxiv.org/abs/2312.13641)|**[link](https://github.com/zyrant/spgroup3d)**|
 |**2023-12-20**|**ORBSLAM3-Enhanced Autonomous Toy Drones: Pioneering Indoor Exploration**|Murad Tukan et.al.|[2312.13385](http://arxiv.org/abs/2312.13385)|null|
 |**2023-12-20**|**Point Deformable Network with Enhanced Normal Embedding for Point Cloud Analysis**|Xingyilang Yin et.al.|[2312.13071](http://arxiv.org/abs/2312.13071)|null|
