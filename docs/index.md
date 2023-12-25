@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.24
+## Updated on 2023.12.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## clustering
@@ -22,7 +22,7 @@ layout: default
 |**2023-12-21**|**Asynchronous Authentication**|Marwa Mouallem et.al.|[2312.13967](http://arxiv.org/abs/2312.13967)|null|
 |**2023-12-21**|**Wake effects of offshore wind farm clusters revealed by SAR and WRF**|Rui Li et.al.|[2312.13942](http://arxiv.org/abs/2312.13942)|null|
 |**2023-12-21**|**How Does Stake Distribution Influence Consensus? Analyzing Blockchain Decentralization**|Shashank Motepalli et.al.|[2312.13938](http://arxiv.org/abs/2312.13938)|null|
-|**2023-12-21**|**GVE-Leiden: Fast Leiden Algorithm for Community Detection in Shared Memory Setting**|Subhajit Sahu et.al.|[2312.13936](http://arxiv.org/abs/2312.13936)|null|
+|**2023-12-21**|**GVE-Leiden: Fast Leiden Algorithm for Community Detection in Shared Memory Setting**|Subhajit Sahu et.al.|[2312.13936](http://arxiv.org/abs/2312.13936)|**[link](https://github.com/puzzlef/leiden-communities-openmp)**|
 |**2023-12-21**|**Structured Probabilistic Coding**|Dou Hu et.al.|[2312.13933](http://arxiv.org/abs/2312.13933)|**[link](https://github.com/zerohd4869/SPC)**|
 |**2023-12-20**|**Enhancing Neural Training via a Correlated Dynamics Model**|Jonathan Brokman et.al.|[2312.13247](http://arxiv.org/abs/2312.13247)|null|
 |**2023-12-20**|**Demographics of Tidal Disruption Events with L-Galaxies: I. Volumetric TDE rates and the abundance of Nuclear Star Clusters**|M. Polkas et.al.|[2312.13242](http://arxiv.org/abs/2312.13242)|null|
