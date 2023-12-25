@@ -56,7 +56,7 @@ layout: default
 |**2023-12-15**|**The VISCACHA survey -- IX. The SMC Southern Bridge in 8D**|M. C. Parisi et.al.|[2312.09756](http://arxiv.org/abs/2312.09756)|null|
 |**2023-12-14**|**LIME: Localized Image Editing via Attention Regularization in Diffusion Models**|Enis Simsar et.al.|[2312.09256](http://arxiv.org/abs/2312.09256)|null|
 |**2023-12-14**|**Diagnostic diagrams for ram-pressure stripped candidates**|A. C. Krabbe et.al.|[2312.09220](http://arxiv.org/abs/2312.09220)|null|
-|**2023-12-14**|**MAGICS I. The First Few Orbits Encode the Fate of Seed Massive Black Hole Pairs**|Nianyi Chen et.al.|[2312.09183](http://arxiv.org/abs/2312.09183)|null|
+|**2023-12-14**|**MAGICS I. The First Few Orbits Encode the Fate of Seed Massive Black Hole Pairs**|Nianyi Chen et.al.|[2312.09183](http://arxiv.org/abs/2312.09183)|**[link](https://github.com/MP-Gadget/MP-Gadget)**|
 |**2023-12-14**|**Improving Efficiency of Diffusion Models via Multi-Stage Framework and Tailored Multi-Decoder Architectures**|Huijie Zhang et.al.|[2312.09181](http://arxiv.org/abs/2312.09181)|null|
 |**2023-12-14**|**Self-organisation of auto-phoretic suspensions in confined shear flows**|Prathmesh Vinze et.al.|[2312.09178](http://arxiv.org/abs/2312.09178)|null|
 |**2023-12-14**|**MRL-PoS: A Multi-agent Reinforcement Learning based Proof of Stake Consensus Algorithm for Blockchain**|Tariqul Islam et.al.|[2312.09123](http://arxiv.org/abs/2312.09123)|null|
@@ -69,7 +69,7 @@ layout: default
 |**2023-12-13**|**Mapping the influence of impurities with varying interaction strength on nucleation in the 2D Ising model**|Dipanjan Mandal et.al.|[2312.08342](http://arxiv.org/abs/2312.08342)|null|
 |**2023-12-13**|**Subhalos in Galaxy Clusters: Coherent Accretion and Internal Orbits**|Chi Han et.al.|[2312.08337](http://arxiv.org/abs/2312.08337)|null|
 |**2023-12-13**|**Bayesian Nonparametric Clustering with Feature Selection for Spatially Resolved Transcriptomics Data**|Bencong Zhu et.al.|[2312.08324](http://arxiv.org/abs/2312.08324)|null|
-|**2023-12-13**|**PnPNet: Pull-and-Push Networks for Volumetric Segmentation with Boundary Confusion**|Xin You et.al.|[2312.08323](http://arxiv.org/abs/2312.08323)|null|
+|**2023-12-13**|**PnPNet: Pull-and-Push Networks for Volumetric Segmentation with Boundary Confusion**|Xin You et.al.|[2312.08323](http://arxiv.org/abs/2312.08323)|**[link](https://github.com/alexyouxin/pnpnet)**|
 |**2023-12-13**|**$^{12}$C and $α$-clusters, $0^+$ spectrum, and Hoyle-state candidates in $^{24}$ Mg**|J. Cseh et.al.|[2312.08318](http://arxiv.org/abs/2312.08318)|null|
 |**2023-12-13**|**FASTEN: Towards a FAult-tolerant and STorage EfficieNt Cloud: Balancing Between Replication and Deduplication**|Sabbir Ahmed et.al.|[2312.08309](http://arxiv.org/abs/2312.08309)|null|
 |**2023-12-13**|**Two $T$ -linear scattering rate regimes in the triangular lattice Hubbard model**|Jérôme Fournier et.al.|[2312.08306](http://arxiv.org/abs/2312.08306)|null|
@@ -180,7 +180,7 @@ layout: default
 |**2023-11-28**|**Rumors with Changing Credibility**|Charlotte Out et.al.|[2311.17040](http://arxiv.org/abs/2311.17040)|null|
 |**2023-11-28**|**Asteroseismology of the young open cluster NGC 2516 I: Photometric and spectroscopic observations**|Gang Li et.al.|[2311.16991](http://arxiv.org/abs/2311.16991)|null|
 |**2023-11-28**|**A Wasserstein-type Distance for Gaussian Mixtures on Vector Bundles with Applications to Shape Analysis**|Michael Wilson et.al.|[2311.16988](http://arxiv.org/abs/2311.16988)|null|
-|**2023-11-28**|**FedECA: A Federated External Control Arm Method for Causal Inference with Time-To-Event Data in Distributed Settings**|Jean Ogier du Terrail et.al.|[2311.16984](http://arxiv.org/abs/2311.16984)|null|
+|**2023-11-28**|**FedECA: A Federated External Control Arm Method for Causal Inference with Time-To-Event Data in Distributed Settings**|Jean Ogier du Terrail et.al.|[2311.16984](http://arxiv.org/abs/2311.16984)|**[link](https://github.com/owkin/fedeca)**|
 |**2023-11-28**|**Local certification of geometric graph classes**|Oscar Defrain et.al.|[2311.16953](http://arxiv.org/abs/2311.16953)|null|
 |**2023-11-28**|**Testing He II Emission from Wolf-Rayet Stars as a Dust Attenuation Measure in eight Nearby Star-forming Galaxies**|Daniel Maschmann et.al.|[2311.16950](http://arxiv.org/abs/2311.16950)|null|
 |**2023-11-28**|**65 GOPS/neuron Photonic Tensor Core with Thin-film Lithium Niobate Photonics**|Zhongjin Lin et.al.|[2311.16896](http://arxiv.org/abs/2311.16896)|null|
@@ -316,10 +316,10 @@ layout: default
 |**2023-12-19**|**Point Cloud Part Editing: Segmentation, Generation, Assembly, and Selection**|Kaiyi Zhang et.al.|[2312.11867](http://arxiv.org/abs/2312.11867)|**[link](https://github.com/kaiyizhang/SGAS)**|
 |**2023-12-18**|**HAAR: Text-Conditioned Generative Model of 3D Strand-based Human Hairstyles**|Vanessa Sklyarova et.al.|[2312.11666](http://arxiv.org/abs/2312.11666)|null|
 |**2023-12-18**|**GauFRe: Gaussian Deformation Fields for Real-time Dynamic Novel View Synthesis**|Yiqing Liang et.al.|[2312.11458](http://arxiv.org/abs/2312.11458)|null|
-|**2023-12-18**|**Language-Assisted 3D Scene Understanding**|Yanmin Wu et.al.|[2312.11451](http://arxiv.org/abs/2312.11451)|null|
+|**2023-12-18**|**Language-Assisted 3D Scene Understanding**|Yanmin Wu et.al.|[2312.11451](http://arxiv.org/abs/2312.11451)|**[link](https://github.com/yanmin-wu/last-pcl)**|
 |**2023-12-18**|**Active search and coverage using point-cloud reinforcement learning**|Matthias Rosynski et.al.|[2312.11410](http://arxiv.org/abs/2312.11410)|null|
 |**2023-12-18**|**Spherical Mask: Coarse-to-Fine 3D Point Cloud Instance Segmentation with Spherical Representation**|Sangyun Shin et.al.|[2312.11269](http://arxiv.org/abs/2312.11269)|null|
-|**2023-12-18**|**GraspLDM: Generative 6-DoF Grasp Synthesis using Latent Diffusion Models**|Kuldeep R Barad et.al.|[2312.11243](http://arxiv.org/abs/2312.11243)|null|
+|**2023-12-18**|**GraspLDM: Generative 6-DoF Grasp Synthesis using Latent Diffusion Models**|Kuldeep R Barad et.al.|[2312.11243](http://arxiv.org/abs/2312.11243)|**[link](https://github.com/kuldeepbrd1/graspldm)**|
 |**2023-12-15**|**Point Transformer V3: Simpler, Faster, Stronger**|Xiaoyang Wu et.al.|[2312.10035](http://arxiv.org/abs/2312.10035)|**[link](https://github.com/pointcept/pointtransformerv3)**|
 |**2023-12-15**|**Weakly-Supervised 3D Visual Grounding based on Visual Linguistic Alignment**|Xiaoxu Xu et.al.|[2312.09625](http://arxiv.org/abs/2312.09625)|null|
 |**2023-12-15**|**AEGIS-Net: Attention-guided Multi-Level Feature Aggregation for Indoor Place Recognition**|Yuhang Ming et.al.|[2312.09538](http://arxiv.org/abs/2312.09538)|**[link](https://github.com/yuhangming/aegis-net)**|
@@ -355,12 +355,12 @@ layout: default
 |**2023-12-11**|**PCRDiffusion: Diffusion Probabilistic Models for Point Cloud Registration**|Yue Wu et.al.|[2312.06063](http://arxiv.org/abs/2312.06063)|null|
 |**2023-12-10**|**Activating Frequency and ViT for 3D Point Cloud Quality Assessment without Reference**|Oussama Messai et.al.|[2312.05972](http://arxiv.org/abs/2312.05972)|**[link](https://github.com/o-messai/3d-pcqa)**|
 |**2023-12-09**|**EipFormer: Emphasizing Instance Positions in 3D Instance Segmentation**|Mengnan Zhao et.al.|[2312.05602](http://arxiv.org/abs/2312.05602)|null|
-|**2023-12-09**|**HumanReg: Self-supervised Non-rigid Registration of Human Point Cloud**|Yifan Chen et.al.|[2312.05462](http://arxiv.org/abs/2312.05462)|null|
-|**2023-12-08**|**MuVieCAST: Multi-View Consistent Artistic Style Transfer**|Nail Ibrahimli et.al.|[2312.05046](http://arxiv.org/abs/2312.05046)|null|
+|**2023-12-09**|**HumanReg: Self-supervised Non-rigid Registration of Human Point Cloud**|Yifan Chen et.al.|[2312.05462](http://arxiv.org/abs/2312.05462)|**[link](https://github.com/chenyifanthu/humanreg)**|
+|**2023-12-08**|**MuVieCAST: Multi-View Consistent Artistic Style Transfer**|Nail Ibrahimli et.al.|[2312.05046](http://arxiv.org/abs/2312.05046)|**[link](https://github.com/Mirmix/muviecast)**|
 |**2023-12-07**|**Point2CAD: Reverse Engineering CAD Models from 3D Point Clouds**|Yujia Liu et.al.|[2312.04962](http://arxiv.org/abs/2312.04962)|null|
 |**2023-12-08**|**Cross-BERT for Point Cloud Pretraining**|Xin Li et.al.|[2312.04891](http://arxiv.org/abs/2312.04891)|null|
 |**2023-12-08**|**MVDD: Multi-View Depth Diffusion Models**|Zhen Wang et.al.|[2312.04875](http://arxiv.org/abs/2312.04875)|null|
-|**2023-12-08**|**Radar Perception in Autonomous Driving: Exploring Different Data Representations**|Shanliang Yao et.al.|[2312.04861](http://arxiv.org/abs/2312.04861)|null|
+|**2023-12-08**|**Radar Perception in Autonomous Driving: Exploring Different Data Representations**|Shanliang Yao et.al.|[2312.04861](http://arxiv.org/abs/2312.04861)|**[link](https://github.com/Radar-Camera-Fusion/Awesome-Radar-Perception)**|
 |**2023-12-07**|**EAGLES: Efficient Accelerated 3D Gaussians with Lightweight EncodingS**|Sharath Girish et.al.|[2312.04564](http://arxiv.org/abs/2312.04564)|null|
 |**2023-12-07**|**MonoGaussianAvatar: Monocular Gaussian Point-based Head Avatar**|Yufan Chen et.al.|[2312.04558](http://arxiv.org/abs/2312.04558)|null|
 |**2023-12-07**|**Multimodal Industrial Anomaly Detection by Crossmodal Feature Mapping**|Alex Costanzino et.al.|[2312.04521](http://arxiv.org/abs/2312.04521)|null|
@@ -427,7 +427,7 @@ layout: default
 |**2023-11-27**|**UniRepLKNet: A Universal Perception Large-Kernel ConvNet for Audio, Video, Point Cloud, Time-Series and Image Recognition**|Xiaohan Ding et.al.|[2311.15599](http://arxiv.org/abs/2311.15599)|**[link](https://github.com/ailab-cvc/unireplknet)**|
 |**2023-11-26**|**GAN-Based LiDAR Intensity Simulation**|Richard Marcus et.al.|[2311.15415](http://arxiv.org/abs/2311.15415)|null|
 |**2023-11-25**|**Point Cloud Pre-training with Diffusion Models**|Xiao Zheng et.al.|[2311.14960](http://arxiv.org/abs/2311.14960)|null|
-|**2023-11-24**|**GaussianEditor: Swift and Controllable 3D Editing with Gaussian Splatting**|Yiwen Chen et.al.|[2311.14521](http://arxiv.org/abs/2311.14521)|null|
+|**2023-11-24**|**GaussianEditor: Swift and Controllable 3D Editing with Gaussian Splatting**|Yiwen Chen et.al.|[2311.14521](http://arxiv.org/abs/2311.14521)|**[link](https://github.com/buaacyw/gaussianeditor)**|
 |**2023-11-24**|**Efficient Gradient Estimation via Adaptive Sampling and Importance Sampling**|Corentin Salaün et.al.|[2311.14468](http://arxiv.org/abs/2311.14468)|null|
 |**2023-11-24**|**Disentangling the Spectral Properties of the Hodge Laplacian: Not All Small Eigenvalues Are Equal**|Vincent P. Grande et.al.|[2311.14427](http://arxiv.org/abs/2311.14427)|null|
 |**2023-11-24**|**OneFormer3D: One Transformer for Unified Point Cloud Segmentation**|Maxim Kolodiazhnyi et.al.|[2311.14405](http://arxiv.org/abs/2311.14405)|**[link](https://github.com/filapro/oneformer3d)**|
