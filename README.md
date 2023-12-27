@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-26**|**The Clustered Orienteering Problem with Subgroups**|Luciano E. Almeida et.al.|[2312.16154](http://arxiv.org/abs/2312.16154)|**[link](https://github.com/verlab/cops)**|
+|**2023-12-26**|**On the best convergence rate of lightning plus polynomial approximation for $x^α$**|Shuhuang Xiang et.al.|[2312.16116](http://arxiv.org/abs/2312.16116)|null|
+|**2023-12-26**|**Unsupervised Learning of Phylogenetic Trees via Split-Weight Embedding**|Yibo Kong et.al.|[2312.16074](http://arxiv.org/abs/2312.16074)|**[link](https://github.com/solislemuslab/phyloclustering.jl)**|
+|**2023-12-26**|**2D-Guided 3D Gaussian Segmentation**|Kun Lan et.al.|[2312.16047](http://arxiv.org/abs/2312.16047)|null|
+|**2023-12-26**|**The globular cluster VVV CL002 falling down to the hazardous Galactic centre**|D. Minniti et.al.|[2312.16028](http://arxiv.org/abs/2312.16028)|null|
+|**2023-12-26**|**RecRanker: Instruction Tuning Large Language Model as Ranker for Top-k Recommendation**|Sichun Luo et.al.|[2312.16018](http://arxiv.org/abs/2312.16018)|null|
+|**2023-12-26**|**Potts and random cluster measures on locally regular-tree-like graphs**|Anirban Basak et.al.|[2312.16008](http://arxiv.org/abs/2312.16008)|null|
+|**2023-12-26**|**Dust survival in harsh environments -- Is photo-evaporation an important destruction mechanism?**|Ambra Nanni et.al.|[2312.15998](http://arxiv.org/abs/2312.15998)|null|
+|**2023-12-26**|**Practical Bias Mitigation through Proxy Sensitive Attribute Label Generation**|Bhushan Chaudhary et.al.|[2312.15994](http://arxiv.org/abs/2312.15994)|null|
+|**2023-12-26**|**Federated Hyperdimensional Computing**|Kazim Ergun et.al.|[2312.15966](http://arxiv.org/abs/2312.15966)|null|
 |**2023-12-22**|**A Novel Sampled Clustering Algorithm for Rice Phenotypic Data**|Mithun Singh et.al.|[2312.14920](http://arxiv.org/abs/2312.14920)|null|
 |**2023-12-22**|**Complexity of Local Search for Euclidean Clustering Problems**|Bodo Manthey et.al.|[2312.14916](http://arxiv.org/abs/2312.14916)|null|
 |**2023-12-22**|**Parallel Prefix Sum with SIMD**|Wangda Zhang et.al.|[2312.14874](http://arxiv.org/abs/2312.14874)|null|
@@ -315,6 +325,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-26**|**VirtualPainting: Addressing Sparsity with Virtual Points and Distance-Aware Data Augmentation for 3D Object Detection**|Sudip Dhakal et.al.|[2312.16141](http://arxiv.org/abs/2312.16141)|null|
+|**2023-12-25**|**Contrastive Learning-Based Framework for Sim-to-Real Mapping of Lidar Point Clouds in Autonomous Driving Systems**|Hamed Haghighi et.al.|[2312.15817](http://arxiv.org/abs/2312.15817)|**[link](https://github.com/hamedhaghighi/cls2r)**|
+|**2023-12-25**|**Mesh-LOAM: Real-time Mesh-Based LiDAR Odometry and Mapping**|Yanjin Zhu et.al.|[2312.15630](http://arxiv.org/abs/2312.15630)|null|
+|**2023-12-24**|**iDet3D: Towards Efficient Interactive Object Detection for LiDAR Point Clouds**|Dongmin Choi et.al.|[2312.15449](http://arxiv.org/abs/2312.15449)|null|
+|**2023-12-24**|**End-to-End 3D Object Detection using LiDAR Point Cloud**|Gaurav Raut et.al.|[2312.15377](http://arxiv.org/abs/2312.15377)|null|
+|**2023-12-23**|**WildScenes: A Benchmark for 2D and 3D Semantic Segmentation in Large-scale Natural Environments**|Kavisha Vidanapathirana et.al.|[2312.15364](http://arxiv.org/abs/2312.15364)|null|
+|**2023-12-23**|**SSFlowNet: Semi-supervised Scene Flow Estimation On Point Clouds With Pseudo Label**|Jingze Chen et.al.|[2312.15271](http://arxiv.org/abs/2312.15271)|null|
+|**2023-12-23**|**Self-Supervised Depth Completion Guided by 3D Perception and Geometry Consistency**|Yu Cai et.al.|[2312.15263](http://arxiv.org/abs/2312.15263)|null|
+|**2023-12-23**|**Automatic Tooth Arrangement with Joint Features of Point and Mesh Representations via Diffusion Probabilistic Models**|Changsong Lei et.al.|[2312.15139](http://arxiv.org/abs/2312.15139)|null|
+|**2023-12-23**|**Learning Continuous Implicit Field with Local Distance Indicator for Arbitrary-Scale Point Cloud Upsampling**|Shujuan Li et.al.|[2312.15133](http://arxiv.org/abs/2312.15133)|null|
 |**2023-12-22**|**BonnBeetClouds3D: A Dataset Towards Point Cloud-based Organ-level Phenotyping of Sugar Beet Plants under Field Conditions**|Elias Marks et.al.|[2312.14706](http://arxiv.org/abs/2312.14706)|null|
 |**2023-12-21**|**Neural Point Cloud Diffusion for Disentangled 3D Shape and Appearance Generation**|Philipp Schröppel et.al.|[2312.14124](http://arxiv.org/abs/2312.14124)|**[link](https://github.com/lmb-freiburg/neural-point-cloud-diffusion)**|
 |**2023-12-21**|**Geometric Awareness in Neural Fields for 3D Human Registration**|Riccardo Marin et.al.|[2312.14024](http://arxiv.org/abs/2312.14024)|null|
