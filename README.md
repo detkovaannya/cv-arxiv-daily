@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-28**|**Unsupervised Universal Image Segmentation**|Dantong Niu et.al.|[2312.17243](http://arxiv.org/abs/2312.17243)|**[link](https://github.com/u2seg/u2seg)**|
+|**2023-12-28**|**Fast Inference of Mixture-of-Experts Language Models with Offloading**|Artyom Eliseev et.al.|[2312.17238](http://arxiv.org/abs/2312.17238)|null|
+|**2023-12-28**|**Variable Neighborhood Searching Rerandomization**|Jiuyao Lu et.al.|[2312.17230](http://arxiv.org/abs/2312.17230)|null|
+|**2023-12-28**|**Going Green in RAN Slicing**|Hnin Pann Phyu et.al.|[2312.17179](http://arxiv.org/abs/2312.17179)|null|
+|**2023-12-28**|**Securing NextG Systems against Poisoning Attacks on Federated Learning: A Game-Theoretic Solution**|Yalin E. Sagduyu et.al.|[2312.17164](http://arxiv.org/abs/2312.17164)|null|
+|**2023-12-28**|**Galaxy Clusters from the DESI Legacy Imaging Surveys.II. Environment effects on size-mass relation**|Zhaobin Chen et.al.|[2312.17075](http://arxiv.org/abs/2312.17075)|null|
+|**2023-12-28**|**Quantum Liquid: From the perspective of Surface Tension**|Sri Satwika Adusumalli et.al.|[2312.17039](http://arxiv.org/abs/2312.17039)|null|
+|**2023-12-28**|**Fourier-transform spectroscopy and global deperturbation treatment of the $A^1Σ^+_u$ and $b^3Π_u$ states of K$_2$ in the entire bound energy range**|I. Klincare et.al.|[2312.17005](http://arxiv.org/abs/2312.17005)|null|
+|**2023-12-28**|**Analysis of Kozai Cycles in Equal-Mass Hierarchical Triple Supermassive Black Hole Mergers in the Presence of a Stellar Cluster**|Wei Hao et.al.|[2312.16986](http://arxiv.org/abs/2312.16986)|null|
+|**2023-12-28**|**Towards Bloodless Potassium Measurement from ECG using Neuro-Fuzzy Systems**|Zeynab Samandari et.al.|[2312.16969](http://arxiv.org/abs/2312.16969)|null|
 |**2023-12-26**|**The Clustered Orienteering Problem with Subgroups**|Luciano E. Almeida et.al.|[2312.16154](http://arxiv.org/abs/2312.16154)|**[link](https://github.com/verlab/cops)**|
 |**2023-12-26**|**On the best convergence rate of lightning plus polynomial approximation for $x^α$**|Shuhuang Xiang et.al.|[2312.16116](http://arxiv.org/abs/2312.16116)|null|
 |**2023-12-26**|**Unsupervised Learning of Phylogenetic Trees via Split-Weight Embedding**|Yibo Kong et.al.|[2312.16074](http://arxiv.org/abs/2312.16074)|**[link](https://github.com/solislemuslab/phyloclustering.jl)**|
@@ -325,6 +335,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-28**|**FILP-3D: Enhancing 3D Few-shot Class-incremental Learning with Pre-trained Vision-Language Models**|Wan Xu et.al.|[2312.17051](http://arxiv.org/abs/2312.17051)|null|
+|**2023-12-28**|**Joint Learning for Scattered Point Cloud Understanding with Hierarchical Self-Distillation**|Kaiyue Zhou et.al.|[2312.16902](http://arxiv.org/abs/2312.16902)|null|
+|**2023-12-28**|**DualFluidNet: an Attention-based Dual-pipeline Network for Accurate and Generalizable Fluid-solid Coupled Simulation**|Yu Chen et.al.|[2312.16867](http://arxiv.org/abs/2312.16867)|null|
+|**2023-12-27**|**Learnable Chamfer Distance for Point Cloud Reconstruction**|Tianxin Huang et.al.|[2312.16582](http://arxiv.org/abs/2312.16582)|null|
+|**2023-12-27**|**Multi-modality Affinity Inference for Weakly Supervised 3D Semantic Segmentation**|Xiawei Li Qingyuan Xu Jing Zhang Tianyi Zhang Qian Yu Lu Sheng Dong Xu et.al.|[2312.16578](http://arxiv.org/abs/2312.16578)|null|
 |**2023-12-26**|**VirtualPainting: Addressing Sparsity with Virtual Points and Distance-Aware Data Augmentation for 3D Object Detection**|Sudip Dhakal et.al.|[2312.16141](http://arxiv.org/abs/2312.16141)|null|
 |**2023-12-25**|**Contrastive Learning-Based Framework for Sim-to-Real Mapping of Lidar Point Clouds in Autonomous Driving Systems**|Hamed Haghighi et.al.|[2312.15817](http://arxiv.org/abs/2312.15817)|**[link](https://github.com/hamedhaghighi/cls2r)**|
 |**2023-12-25**|**Mesh-LOAM: Real-time Mesh-Based LiDAR Odometry and Mapping**|Yanjin Zhu et.al.|[2312.15630](http://arxiv.org/abs/2312.15630)|null|
