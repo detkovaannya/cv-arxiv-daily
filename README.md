@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-29**|**Dependent Random Partitions by Shrinking Toward an Anchor**|David B. Dahl et.al.|[2312.17716](http://arxiv.org/abs/2312.17716)|null|
+|**2023-12-29**|**Cluster Formation in a Filamentary Cloud: The Case of the Stellar Cluster NGC 2316**|Saurabh Sharma et.al.|[2312.17699](http://arxiv.org/abs/2312.17699)|null|
+|**2023-12-29**|**A Semblance-based Microseismic Event Detector for DAS Data**|Juan Porras et.al.|[2312.17688](http://arxiv.org/abs/2312.17688)|null|
+|**2023-12-29**|**QoE-oriented Dependent Task Scheduling under Multi-dimensional QoS Constraints over Distributed Networks**|Xuwei Fan et.al.|[2312.17674](http://arxiv.org/abs/2312.17674)|null|
+|**2023-12-29**|**Inverse Gertsenshtein effect as a probe of high-frequency gravitational waves**|Yutong He et.al.|[2312.17636](http://arxiv.org/abs/2312.17636)|null|
+|**2023-12-29**|**Probing interacting dark sector models with future weak lensing-informed galaxy cluster abundance constraints from SPT-3G and CMB-S4**|Asmaa Mazoun et.al.|[2312.17622](http://arxiv.org/abs/2312.17622)|null|
+|**2023-12-29**|**Distributed convergence detection based on global residual error under asynchronous iterations**|Frédéric Magoulès et.al.|[2312.17558](http://arxiv.org/abs/2312.17558)|null|
+|**2023-12-29**|**Spin-glass states generated in van der Waals magnet Cr $_2$Ge$_2$Te$_6$ by alkali-ion intercalation**|S. Khan et.al.|[2312.17554](http://arxiv.org/abs/2312.17554)|null|
+|**2023-12-29**|**Probing warm and mixed dark matter models using lensing shift power spectrum**|Kaiki Taro Inoue et.al.|[2312.17536](http://arxiv.org/abs/2312.17536)|null|
+|**2023-12-29**|**Performance of Distributed File Systems on Cloud Computing Environment: An Evaluation for Small-File Problem**|Thanh Duong et.al.|[2312.17524](http://arxiv.org/abs/2312.17524)|null|
 |**2023-12-28**|**Unsupervised Universal Image Segmentation**|Dantong Niu et.al.|[2312.17243](http://arxiv.org/abs/2312.17243)|**[link](https://github.com/u2seg/u2seg)**|
 |**2023-12-28**|**Fast Inference of Mixture-of-Experts Language Models with Offloading**|Artyom Eliseev et.al.|[2312.17238](http://arxiv.org/abs/2312.17238)|**[link](https://github.com/dvmazur/mixtral-offloading)**|
 |**2023-12-28**|**Variable Neighborhood Searching Rerandomization**|Jiuyao Lu et.al.|[2312.17230](http://arxiv.org/abs/2312.17230)|null|
@@ -335,11 +345,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-29**|**Visual Point Cloud Forecasting enables Scalable Autonomous Driving**|Zetong Yang et.al.|[2312.17655](http://arxiv.org/abs/2312.17655)|**[link](https://github.com/opendrivelab/vidar)**|
+|**2023-12-29**|**P2M2-Net: Part-Aware Prompt-Guided Multimodal Point Cloud Completion**|Linlian Jiang et.al.|[2312.17611](http://arxiv.org/abs/2312.17611)|null|
+|**2023-12-29**|**Void Shape Identification in a 2D Point Distribution**|Netzer Moriya et.al.|[2312.17533](http://arxiv.org/abs/2312.17533)|null|
+|**2023-12-29**|**Comparing roughness descriptors for distinct terrain surfaces in point cloud data**|Lei Fan et.al.|[2312.17407](http://arxiv.org/abs/2312.17407)|null|
 |**2023-12-28**|**FILP-3D: Enhancing 3D Few-shot Class-incremental Learning with Pre-trained Vision-Language Models**|Wan Xu et.al.|[2312.17051](http://arxiv.org/abs/2312.17051)|null|
 |**2023-12-28**|**Joint Learning for Scattered Point Cloud Understanding with Hierarchical Self-Distillation**|Kaiyue Zhou et.al.|[2312.16902](http://arxiv.org/abs/2312.16902)|null|
 |**2023-12-28**|**DualFluidNet: an Attention-based Dual-pipeline Network for Accurate and Generalizable Fluid-solid Coupled Simulation**|Yu Chen et.al.|[2312.16867](http://arxiv.org/abs/2312.16867)|null|
 |**2023-12-27**|**Learnable Chamfer Distance for Point Cloud Reconstruction**|Tianxin Huang et.al.|[2312.16582](http://arxiv.org/abs/2312.16582)|**[link](https://github.com/tianxinhuang/lcdnet)**|
-|**2023-12-27**|**Multi-modality Affinity Inference for Weakly Supervised 3D Semantic Segmentation**|Xiawei Li Qingyuan Xu Jing Zhang Tianyi Zhang Qian Yu Lu Sheng Dong Xu et.al.|[2312.16578](http://arxiv.org/abs/2312.16578)|**[link](https://github.com/sunny599/aaai24-3dwssg-mma)**|
+|**2023-12-29**|**Multi-modality Affinity Inference for Weakly Supervised 3D Semantic Segmentation**|Xiawei Li et.al.|[2312.16578](http://arxiv.org/abs/2312.16578)|**[link](https://github.com/sunny599/aaai24-3dwssg-mma)**|
 |**2023-12-26**|**VirtualPainting: Addressing Sparsity with Virtual Points and Distance-Aware Data Augmentation for 3D Object Detection**|Sudip Dhakal et.al.|[2312.16141](http://arxiv.org/abs/2312.16141)|null|
 |**2023-12-25**|**Contrastive Learning-Based Framework for Sim-to-Real Mapping of Lidar Point Clouds in Autonomous Driving Systems**|Hamed Haghighi et.al.|[2312.15817](http://arxiv.org/abs/2312.15817)|**[link](https://github.com/hamedhaghighi/cls2r)**|
 |**2023-12-25**|**Mesh-LOAM: Real-time Mesh-Based LiDAR Odometry and Mapping**|Yanjin Zhu et.al.|[2312.15630](http://arxiv.org/abs/2312.15630)|null|
