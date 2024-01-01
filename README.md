@@ -116,7 +116,7 @@
 |**2023-12-12**|**Möbius invariant Y-systems (cluster structures) for Miquel dynamics**|Niklas Christoph Affolter et.al.|[2312.07367](http://arxiv.org/abs/2312.07367)|null|
 |**2023-12-12**|**Expand-and-Quantize: Unsupervised Semantic Segmentation Using High-Dimensional Space and Product Quantization**|Jiyoung Kim et.al.|[2312.07342](http://arxiv.org/abs/2312.07342)|null|
 |**2023-12-12**|**Survey of Gravitationally lensed Objects in HSC Imaging (SuGOHI) $-$ X. Strong Lens Finding in The HSC-SSP using Convolutional Neural Networks**|Anton T. Jaelani et.al.|[2312.07333](http://arxiv.org/abs/2312.07333)|null|
-|**2023-12-12**|**Coupled Confusion Correction: Learning from Crowds with Sparse Annotations**|Hansong Zhang et.al.|[2312.07331](http://arxiv.org/abs/2312.07331)|null|
+|**2023-12-12**|**Coupled Confusion Correction: Learning from Crowds with Sparse Annotations**|Hansong Zhang et.al.|[2312.07331](http://arxiv.org/abs/2312.07331)|**[link](https://github.com/hansong-zhang/coupled-confusion-correction)**|
 |**2023-12-12**|**Linear and nonlinear clusterings of Horndeski-inspired dark energy models with fast transition**|Orlando Luongo et.al.|[2312.07318](http://arxiv.org/abs/2312.07318)|null|
 |**2023-12-11**|**Dissecting the EIP-2930 Optional Access Lists**|Lioba Heimbach et.al.|[2312.06574](http://arxiv.org/abs/2312.06574)|null|
 |**2023-12-11**|**On the Impact of CDL and TDL Augmentation for RF Fingerprinting under Impaired Channels**|Omer Melih Gul et.al.|[2312.06555](http://arxiv.org/abs/2312.06555)|null|
@@ -448,7 +448,7 @@
 |**2023-12-03**|**A Review and A Robust Framework of Data-Efficient 3D Scene Parsing with Traditional/Learned 3D Descriptors**|Kangcheng Liu et.al.|[2312.01262](http://arxiv.org/abs/2312.01262)|null|
 |**2023-12-02**|**Paved2Paradise: Cost-Effective and Scalable LiDAR Simulation by Factoring the Real World**|Michael A. Alcorn et.al.|[2312.01117](http://arxiv.org/abs/2312.01117)|**[link](https://github.com/airalcorn2/paved2paradise)**|
 |**2023-12-01**|**Object 6D pose estimation meets zero-shot learning**|Andrea Caraffa et.al.|[2312.00947](http://arxiv.org/abs/2312.00947)|null|
-|**2023-12-01**|**Generalized Label-Efficient 3D Scene Parsing via Hierarchical Feature Aligned Pre-Training and Region-Aware Fine-tuning**|Kangcheng Liu et.al.|[2312.00663](http://arxiv.org/abs/2312.00663)|null|
+|**2023-12-01**|**Generalized Label-Efficient 3D Scene Parsing via Hierarchical Feature Aligned Pre-Training and Region-Aware Fine-tuning**|Kangcheng Liu et.al.|[2312.00663](http://arxiv.org/abs/2312.00663)|**[link](https://github.com/maudzung/SFA3D)**|
 |**2023-12-01**|**LiDAR-based curb detection for ground truth annotation in automated driving validation**|Jose Luis Apellániz et.al.|[2312.00534](http://arxiv.org/abs/2312.00534)|null|
 |**2023-11-30**|**EpiTESTER: Testing Autonomous Vehicles with Epigenetic Algorithm and Attention Mechanism**|Chengjie Lu et.al.|[2312.00207](http://arxiv.org/abs/2312.00207)|**[link](https://github.com/simula-complex/epitester)**|
 |**2023-11-29**|**GLiDR: Topologically Regularized Graph Generative Network for Sparse LiDAR Point Clouds**|Prashant Kumar et.al.|[2312.00068](http://arxiv.org/abs/2312.00068)|null|
