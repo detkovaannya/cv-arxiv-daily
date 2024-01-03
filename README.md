@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-02**|**GEqO: ML-Accelerated Semantic Equivalence Detection**|Brandon Haynes et.al.|[2401.01280](http://arxiv.org/abs/2401.01280)|null|
+|**2024-01-02**|**KCES: A Workflow Containerization Scheduling Scheme Under Cloud-Edge Collaboration Framework**|Chenggang Shan et.al.|[2401.01217](http://arxiv.org/abs/2401.01217)|null|
+|**2024-01-02**|**Deep Learning Driven Buffer-Aided Cooperative Networks for B5G/6G: Challenges, Solutions, and Future Opportunities**|Peng Xu et.al.|[2401.01195](http://arxiv.org/abs/2401.01195)|null|
+|**2024-01-02**|**Transport of inertial spherical particles in compressible turbulent boundary layers**|Ming Yu et.al.|[2401.01157](http://arxiv.org/abs/2401.01157)|null|
+|**2024-01-02**|**The social graph based on real data**|Tomasz M. Gwizdałła et.al.|[2401.01152](http://arxiv.org/abs/2401.01152)|null|
+|**2024-01-02**|**Joint Offloading and Resource Allocation for Hybrid Cloud and Edge Computing in SAGINs: A Decision Assisted Hybrid Action Space Deep Reinforcement Learning Approach**|Chong Huang et.al.|[2401.01140](http://arxiv.org/abs/2401.01140)|null|
+|**2024-01-02**|**Strong universality, recurrence, and analytic P-ideals in dynamical systems**|Paolo Leonetti et.al.|[2401.01131](http://arxiv.org/abs/2401.01131)|null|
+|**2024-01-02**|**Scalable manifold learning by uniform landmark sampling and constrained locally linear embedding**|Dehua Peng et.al.|[2401.01100](http://arxiv.org/abs/2401.01100)|**[link](https://github.com/zpguigroupwhu/scml)**|
+|**2024-01-02**|**Long-lived Microwave Electromechanical Systems Enabled by Cubic Silicon-Carbide Membrane Crystals**|Yulong Liu et.al.|[2401.01020](http://arxiv.org/abs/2401.01020)|null|
+|**2024-01-01**|**Edge Computing based Human-Robot Cognitive Fusion: A Medical Case Study in the Autism Spectrum Disorder Therapy**|Qin Yang et.al.|[2401.00776](http://arxiv.org/abs/2401.00776)|null|
 |**2023-12-29**|**Dependent Random Partitions by Shrinking Toward an Anchor**|David B. Dahl et.al.|[2312.17716](http://arxiv.org/abs/2312.17716)|null|
 |**2023-12-29**|**Cluster Formation in a Filamentary Cloud: The Case of the Stellar Cluster NGC 2316**|Saurabh Sharma et.al.|[2312.17699](http://arxiv.org/abs/2312.17699)|null|
 |**2023-12-29**|**A Semblance-based Microseismic Event Detector for DAS Data**|Juan Porras et.al.|[2312.17688](http://arxiv.org/abs/2312.17688)|null|
@@ -345,6 +355,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-02**|**Street Gaussians for Modeling Dynamic Urban Scenes**|Yunzhi Yan et.al.|[2401.01339](http://arxiv.org/abs/2401.01339)|null|
+|**2024-01-02**|**Deep-ELA: Deep Exploratory Landscape Analysis with Self-Supervised Pretrained Transformers for Single- and Multi-Objective Continuous Optimization Problems**|Moritz Vinzent Seiler et.al.|[2401.01192](http://arxiv.org/abs/2401.01192)|null|
+|**2024-01-01**|**ScatterFormer: Efficient Voxel Transformer with Scattered Linear Attention**|Chenhang He et.al.|[2401.00912](http://arxiv.org/abs/2401.00912)|null|
+|**2024-01-01**|**Revisiting Nonlocal Self-Similarity from Continuous Representation**|Yisi Luo et.al.|[2401.00708](http://arxiv.org/abs/2401.00708)|null|
+|**2024-01-01**|**Point Cloud in the Air**|Yulin Shao et.al.|[2401.00658](http://arxiv.org/abs/2401.00658)|null|
+|**2023-12-31**|**AllSpark: a multimodal spatiotemporal general model**|Run Shao et.al.|[2401.00546](http://arxiv.org/abs/2401.00546)|null|
+|**2023-12-31**|**Diff-PCR: Diffusion-Based Correspondence Searching in Doubly Stochastic Matrix Space for Point Cloud Registration**|Qianliang Wu et.al.|[2401.00436](http://arxiv.org/abs/2401.00436)|null|
 |**2023-12-29**|**Visual Point Cloud Forecasting enables Scalable Autonomous Driving**|Zetong Yang et.al.|[2312.17655](http://arxiv.org/abs/2312.17655)|**[link](https://github.com/opendrivelab/vidar)**|
 |**2023-12-29**|**P2M2-Net: Part-Aware Prompt-Guided Multimodal Point Cloud Completion**|Linlian Jiang et.al.|[2312.17611](http://arxiv.org/abs/2312.17611)|null|
 |**2023-12-29**|**Void Shape Identification in a 2D Point Distribution**|Netzer Moriya et.al.|[2312.17533](http://arxiv.org/abs/2312.17533)|null|
