@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-04**|**Faster optimal univariate microgaggregation**|Felix I. Stamm et.al.|[2401.02381](http://arxiv.org/abs/2401.02381)|null|
+|**2024-01-04**|**Structural rearrangements and fragmentation pathways induced by a low-energy electron attachment to ethyl acetate**|Anirban Paul et.al.|[2401.02366](http://arxiv.org/abs/2401.02366)|null|
+|**2024-01-04**|**Towards Seamless Serverless Computing Across an Edge-Cloud Continuum**|Emilian Simion et.al.|[2401.02271](http://arxiv.org/abs/2401.02271)|null|
+|**2024-01-04**|**Effective Single Particle Theory for Active System**|Jayam Joshi et.al.|[2401.02247](http://arxiv.org/abs/2401.02247)|null|
+|**2024-01-04**|**Gravitational lensing from clusters of galaxies to test Disformal Couplings Theories**|Saboura Zamani et.al.|[2401.02221](http://arxiv.org/abs/2401.02221)|null|
+|**2024-01-04**|**Proven Distributed Memory Parallelization of Particle Methods**|Johannes Pahlke et.al.|[2401.02180](http://arxiv.org/abs/2401.02180)|null|
+|**2024-01-04**|**The Radcliffe wave parameters from data on open star clusters**|Vadim V. Bobylev et.al.|[2401.02144](http://arxiv.org/abs/2401.02144)|null|
+|**2024-01-04**|**Re-evaluating the Memory-balanced Pipeline Parallelism: BPipe**|Mincong Huang et.al.|[2401.02088](http://arxiv.org/abs/2401.02088)|null|
+|**2024-01-04**|**SPT Clusters with DES and HST Weak Lensing. II. Cosmological Constraints from the Abundance of Massive Halos**|S. Bocquet et.al.|[2401.02075](http://arxiv.org/abs/2401.02075)|null|
+|**2024-01-04**|**Random Effect Restricted Mean Survival Time Model**|Keisuke Hanada et.al.|[2401.02048](http://arxiv.org/abs/2401.02048)|null|
 |**2024-01-03**|**Patient-Oriented Unsupervised Learning to Unlock Patterns of Multimorbidity Associated with Stroke using Primary Care Electronic Health Records**|Marc Delord et.al.|[2401.01870](http://arxiv.org/abs/2401.01870)|null|
 |**2024-01-03**|**Moonshot: Optimizing Chain-Based Rotating Leader BFT via Optimistic Proposals**|Isaac Doidge et.al.|[2401.01791](http://arxiv.org/abs/2401.01791)|null|
 |**2024-01-03**|**An experimental sorting method for improving metagenomic data encoding**|Diogo Pratas et.al.|[2401.01786](http://arxiv.org/abs/2401.01786)|null|
@@ -359,6 +369,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-04**|**ODIN: A Single Model for 2D and 3D Perception**|Ayush Jain et.al.|[2401.02416](http://arxiv.org/abs/2401.02416)|null|
+|**2024-01-04**|**GridFormer: Point-Grid Transformer for Surface Reconstruction**|Shengtao Li et.al.|[2401.02292](http://arxiv.org/abs/2401.02292)|**[link](https://github.com/list17/gridformer)**|
+|**2024-01-04**|**PEGASUS: Physically Enhanced Gaussian Splatting Simulation System for 6DOF Object Pose Dataset Generation**|Lukas Meyer et.al.|[2401.02281](http://arxiv.org/abs/2401.02281)|null|
 |**2024-01-03**|**Step length measurement in the wild using FMCW radar**|Parthipan Siva et.al.|[2401.01868](http://arxiv.org/abs/2401.01868)|null|
 |**2024-01-03**|**A quatum inspired neural network for geometric modeling**|Weitao Du et.al.|[2401.01801](http://arxiv.org/abs/2401.01801)|null|
 |**2024-01-03**|**CRA-PCN: Point Cloud Completion with Intra- and Inter-level Cross-Resolution Transformers**|Yi Rong et.al.|[2401.01552](http://arxiv.org/abs/2401.01552)|**[link](https://github.com/easyry/cra-pcn)**|
