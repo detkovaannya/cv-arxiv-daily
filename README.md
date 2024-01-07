@@ -18,7 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-01-04**|**Faster optimal univariate microgaggregation**|Felix I. Stamm et.al.|[2401.02381](http://arxiv.org/abs/2401.02381)|null|
+|**2024-01-04**|**Faster optimal univariate microgaggregation**|Felix I. Stamm et.al.|[2401.02381](http://arxiv.org/abs/2401.02381)|**[link](https://github.com/feelx234/microagg1d)**|
 |**2024-01-04**|**Structural rearrangements and fragmentation pathways induced by a low-energy electron attachment to ethyl acetate**|Anirban Paul et.al.|[2401.02366](http://arxiv.org/abs/2401.02366)|null|
 |**2024-01-04**|**Towards Seamless Serverless Computing Across an Edge-Cloud Continuum**|Emilian Simion et.al.|[2401.02271](http://arxiv.org/abs/2401.02271)|null|
 |**2024-01-04**|**Effective Single Particle Theory for Active System**|Jayam Joshi et.al.|[2401.02247](http://arxiv.org/abs/2401.02247)|null|
