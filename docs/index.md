@@ -26,7 +26,7 @@ layout: default
 |**2024-01-04**|**Random Effect Restricted Mean Survival Time Model**|Keisuke Hanada et.al.|[2401.02048](http://arxiv.org/abs/2401.02048)|null|
 |**2024-01-03**|**Patient-Oriented Unsupervised Learning to Unlock Patterns of Multimorbidity Associated with Stroke using Primary Care Electronic Health Records**|Marc Delord et.al.|[2401.01870](http://arxiv.org/abs/2401.01870)|null|
 |**2024-01-03**|**Moonshot: Optimizing Chain-Based Rotating Leader BFT via Optimistic Proposals**|Isaac Doidge et.al.|[2401.01791](http://arxiv.org/abs/2401.01791)|null|
-|**2024-01-03**|**An experimental sorting method for improving metagenomic data encoding**|Diogo Pratas et.al.|[2401.01786](http://arxiv.org/abs/2401.01786)|null|
+|**2024-01-03**|**An experimental sorting method for improving metagenomic data encoding**|Diogo Pratas et.al.|[2401.01786](http://arxiv.org/abs/2401.01786)|**[link](https://github.com/cobilab/mizar)**|
 |**2024-01-03**|**Necessary conditions for the formation of filaments and star clusters in the cold neutral medium**|Rachel Pillsworth et.al.|[2401.01737](http://arxiv.org/abs/2401.01737)|null|
 |**2024-01-03**|**Ravnest: Decentralized Asynchronous Training on Heterogeneous Devices**|Anirudh Rajiv Menon et.al.|[2401.01728](http://arxiv.org/abs/2401.01728)|null|
 |**2024-01-03**|**Local Adaptive Clustering Based Image Matching for Automatic Visual Identification**|Zhizhen Wang et.al.|[2401.01720](http://arxiv.org/abs/2401.01720)|null|
@@ -35,7 +35,7 @@ layout: default
 |**2024-01-03**|**On Completely Edge-Independent Spanning Trees in Locally Twisted Cubes**|Xiaorui Li et.al.|[2401.01585](http://arxiv.org/abs/2401.01585)|null|
 |**2024-01-03**|**One-Step Late Fusion Multi-view Clustering with Compressed Subspace**|Qiyuan Ou et.al.|[2401.01558](http://arxiv.org/abs/2401.01558)|null|
 |**2024-01-02**|**GEqO: ML-Accelerated Semantic Equivalence Detection**|Brandon Haynes et.al.|[2401.01280](http://arxiv.org/abs/2401.01280)|null|
-|**2024-01-02**|**KCES: A Workflow Containerization Scheduling Scheme Under Cloud-Edge Collaboration Framework**|Chenggang Shan et.al.|[2401.01217](http://arxiv.org/abs/2401.01217)|null|
+|**2024-01-02**|**KCES: A Workflow Containerization Scheduling Scheme Under Cloud-Edge Collaboration Framework**|Chenggang Shan et.al.|[2401.01217](http://arxiv.org/abs/2401.01217)|**[link](https://github.com/cloudcontrolsystems/kces)**|
 |**2024-01-02**|**Deep Learning Driven Buffer-Aided Cooperative Networks for B5G/6G: Challenges, Solutions, and Future Opportunities**|Peng Xu et.al.|[2401.01195](http://arxiv.org/abs/2401.01195)|null|
 |**2024-01-02**|**Transport of inertial spherical particles in compressible turbulent boundary layers**|Ming Yu et.al.|[2401.01157](http://arxiv.org/abs/2401.01157)|null|
 |**2024-01-02**|**The social graph based on real data**|Tomasz M. Gwizdałła et.al.|[2401.01152](http://arxiv.org/abs/2401.01152)|null|
@@ -379,7 +379,7 @@ layout: default
 |**2024-01-02**|**Off-Road LiDAR Intensity Based Semantic Segmentation**|Kasi Viswanath et.al.|[2401.01439](http://arxiv.org/abs/2401.01439)|**[link](https://github.com/moonlabiiserb/lidar-intensity-predictor)**|
 |**2024-01-02**|**Street Gaussians for Modeling Dynamic Urban Scenes**|Yunzhi Yan et.al.|[2401.01339](http://arxiv.org/abs/2401.01339)|null|
 |**2024-01-02**|**Deep-ELA: Deep Exploratory Landscape Analysis with Self-Supervised Pretrained Transformers for Single- and Multi-Objective Continuous Optimization Problems**|Moritz Vinzent Seiler et.al.|[2401.01192](http://arxiv.org/abs/2401.01192)|null|
-|**2024-01-01**|**ScatterFormer: Efficient Voxel Transformer with Scattered Linear Attention**|Chenhang He et.al.|[2401.00912](http://arxiv.org/abs/2401.00912)|null|
+|**2024-01-01**|**ScatterFormer: Efficient Voxel Transformer with Scattered Linear Attention**|Chenhang He et.al.|[2401.00912](http://arxiv.org/abs/2401.00912)|**[link](https://github.com/skyhehe123/scatterformer)**|
 |**2024-01-01**|**Revisiting Nonlocal Self-Similarity from Continuous Representation**|Yisi Luo et.al.|[2401.00708](http://arxiv.org/abs/2401.00708)|null|
 |**2024-01-01**|**Point Cloud in the Air**|Yulin Shao et.al.|[2401.00658](http://arxiv.org/abs/2401.00658)|null|
 |**2023-12-31**|**AllSpark: a multimodal spatiotemporal general model**|Run Shao et.al.|[2401.00546](http://arxiv.org/abs/2401.00546)|null|
@@ -514,7 +514,7 @@ layout: default
 |**2023-11-29**|**Confidence Regions for Filamentary Structures**|Wanli Qiao et.al.|[2311.17831](http://arxiv.org/abs/2311.17831)|null|
 |**2023-11-29**|**Coloring the Past: Neural Historical Buildings Reconstruction from Archival Photography**|David Komorowicz et.al.|[2311.17810](http://arxiv.org/abs/2311.17810)|null|
 |**2023-11-29**|**PillarNeSt: Embracing Backbone Scaling and Pretraining for Pillar-based 3D Object Detection**|Weixin Mao et.al.|[2311.17770](http://arxiv.org/abs/2311.17770)|null|
-|**2023-11-29**|**SAMPro3D: Locating SAM Prompts in 3D for Zero-Shot Scene Segmentation**|Mutian Xu et.al.|[2311.17707](http://arxiv.org/abs/2311.17707)|null|
+|**2023-11-29**|**SAMPro3D: Locating SAM Prompts in 3D for Zero-Shot Scene Segmentation**|Mutian Xu et.al.|[2311.17707](http://arxiv.org/abs/2311.17707)|**[link](https://github.com/GAP-LAB-CUHK-SZ/SAMPro3D)**|
 |**2023-11-29**|**Cam4DOcc: Benchmark for Camera-Only 4D Occupancy Forecasting in Autonomous Driving Applications**|Junyi Ma et.al.|[2311.17663](http://arxiv.org/abs/2311.17663)|**[link](https://github.com/haomo-ai/cam4docc)**|
 |**2023-11-29**|**Revisiting Poisson-disk Subsampling for Massive Point Cloud Decimation**|Marc Comino-Trinidad et.al.|[2311.17604](http://arxiv.org/abs/2311.17604)|null|
 |**2023-11-29**|**Spherical Frustum Sparse Convolution Network for LiDAR Point Cloud Semantic Segmentation**|Yu Zheng et.al.|[2311.17491](http://arxiv.org/abs/2311.17491)|null|
