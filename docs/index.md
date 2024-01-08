@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-05**|**Analytically-Driven Resource Management for Cloud-Native Microservices**|Yanqi Zhang et.al.|[2401.02920](http://arxiv.org/abs/2401.02920)|null|
+|**2024-01-05**|**Uncovering the human motion pattern: Pattern Memory-based Diffusion Model for Trajectory Prediction**|Yuxin Yang et.al.|[2401.02916](http://arxiv.org/abs/2401.02916)|null|
+|**2024-01-05**|**Decoding the thermal history of the merging cluster Cygnus A**|Anwesh Majumder et.al.|[2401.02912](http://arxiv.org/abs/2401.02912)|null|
+|**2024-01-05**|**Quantum criticality in chains of planar rotors with dipolar interactions**|Tobias Serwatka et.al.|[2401.02887](http://arxiv.org/abs/2401.02887)|null|
+|**2024-01-05**|**Dimensionality Reduced Clustered Data and Order Partition and Stepwise Dimensionality Increasing Indices**|Alexander Thomasian et.al.|[2401.02858](http://arxiv.org/abs/2401.02858)|null|
+|**2024-01-05**|**Exploration of faint X-ray and radio sources in the massive globular cluster M14: A UV-bright counterpart to Nova Ophiuchus 1938**|Yue Zhao et.al.|[2401.02854](http://arxiv.org/abs/2401.02854)|null|
+|**2024-01-05**|**Rotation in Stellar Evolution: Probing the Influence on Population Synthesis in High-Redshift Galaxies**|Weijia Sun et.al.|[2401.02836](http://arxiv.org/abs/2401.02836)|null|
+|**2024-01-05**|**An Analysis of Avalanche Consensus**|Ignacio Amores-Sesar et.al.|[2401.02811](http://arxiv.org/abs/2401.02811)|null|
+|**2024-01-05**|**Vanadium oxide clusters in substellar atmospheres: A quantum chemical study**|Helena Lecoq-Molinos et.al.|[2401.02784](http://arxiv.org/abs/2401.02784)|null|
+|**2024-01-05**|**Macromolecular crowding in chiral assembly of ellipsoidal nanoparticles**|Jiaxin Hou et.al.|[2401.02767](http://arxiv.org/abs/2401.02767)|null|
 |**2024-01-04**|**Faster optimal univariate microgaggregation**|Felix I. Stamm et.al.|[2401.02381](http://arxiv.org/abs/2401.02381)|**[link](https://github.com/feelx234/microagg1d)**|
 |**2024-01-04**|**Structural rearrangements and fragmentation pathways induced by a low-energy electron attachment to ethyl acetate**|Anirban Paul et.al.|[2401.02366](http://arxiv.org/abs/2401.02366)|null|
 |**2024-01-04**|**Towards Seamless Serverless Computing Across an Edge-Cloud Continuum**|Emilian Simion et.al.|[2401.02271](http://arxiv.org/abs/2401.02271)|null|
@@ -369,6 +379,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-05**|**VoxelNextFusion: A Simple, Unified and Effective Voxel Fusion Framework for Multi-Modal 3D Object Detection**|Ziying Song et.al.|[2401.02702](http://arxiv.org/abs/2401.02702)|null|
+|**2024-01-05**|**DHGCN: Dynamic Hop Graph Convolution Network for Self-supervised Point Cloud Learning**|Jincen Jiang et.al.|[2401.02610](http://arxiv.org/abs/2401.02610)|null|
+|**2024-01-04**|**OptFlow: Fast Optimization-based Scene Flow Estimation without Supervision**|Rahul Ahuja et.al.|[2401.02550](http://arxiv.org/abs/2401.02550)|null|
 |**2024-01-04**|**ODIN: A Single Model for 2D and 3D Perception**|Ayush Jain et.al.|[2401.02416](http://arxiv.org/abs/2401.02416)|null|
 |**2024-01-04**|**GridFormer: Point-Grid Transformer for Surface Reconstruction**|Shengtao Li et.al.|[2401.02292](http://arxiv.org/abs/2401.02292)|**[link](https://github.com/list17/gridformer)**|
 |**2024-01-04**|**PEGASUS: Physically Enhanced Gaussian Splatting Simulation System for 6DOF Object Pose Dataset Generation**|Lukas Meyer et.al.|[2401.02281](http://arxiv.org/abs/2401.02281)|null|
