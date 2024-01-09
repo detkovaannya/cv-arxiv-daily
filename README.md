@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-08**|**From anti-Arrhenius to Arrhenius behavior in a dislocation-obstacle bypass: Atomistic Simulations and Theoretical Investigation**|Mohammadhossein Nahavandian et.al.|[2401.04100](http://arxiv.org/abs/2401.04100)|null|
+|**2024-01-08**|**Self-organization of active colloids mediated by chemical interactions**|Zhiwei Peng et.al.|[2401.04043](http://arxiv.org/abs/2401.04043)|null|
+|**2024-01-08**|**IDoFew: Intermediate Training Using Dual-Clustering in Language Models for Few Labels Text Classification**|Abdullah Alsuhaibani et.al.|[2401.04025](http://arxiv.org/abs/2401.04025)|null|
+|**2024-01-08**|**MX: Enhancing RISC-V's Vector ISA for Ultra-Low Overhead, Energy-Efficient Matrix Multiplication**|Matteo Perotti et.al.|[2401.04012](http://arxiv.org/abs/2401.04012)|null|
+|**2024-01-08**|**Navigating the Congestion Maze: Geospatial Analysis and Travel Behavior Insights for Dockless Bike-Sharing Systems in Xiamen**|Xuxilu Zhang et.al.|[2401.03987](http://arxiv.org/abs/2401.03987)|null|
+|**2024-01-08**|**Harvesting nucleating structures in nanoparticle crystallization: The example of gold, silver and iron**|Arthur France-Lanord et.al.|[2401.03969](http://arxiv.org/abs/2401.03969)|null|
+|**2024-01-08**|**Geodesic interpolation of frame-wise speaker embeddings for the diarization of meeting scenarios**|Tobias Cord-Landwehr et.al.|[2401.03963](http://arxiv.org/abs/2401.03963)|null|
+|**2024-01-08**|**A prototype electromagnetic calorimeter for the MUonE experiment: status and first performance results**|E. Spedicato et.al.|[2401.03930](http://arxiv.org/abs/2401.03930)|null|
+|**2024-01-08**|**Cosmology Ruler Bookmark for Teaching and Outreach Purposes (Pen-and-pencil cosmological ruler calculator for everyone, especially students)**|Hervé Dole et.al.|[2401.03929](http://arxiv.org/abs/2401.03929)|null|
+|**2024-01-08**|**Classification of circular polarization Stokes profiles in a sunspot using k-means clustering**|Rohan Eugene Louis et.al.|[2401.03908](http://arxiv.org/abs/2401.03908)|null|
 |**2024-01-05**|**Analytically-Driven Resource Management for Cloud-Native Microservices**|Yanqi Zhang et.al.|[2401.02920](http://arxiv.org/abs/2401.02920)|null|
 |**2024-01-05**|**Uncovering the human motion pattern: Pattern Memory-based Diffusion Model for Trajectory Prediction**|Yuxin Yang et.al.|[2401.02916](http://arxiv.org/abs/2401.02916)|null|
 |**2024-01-05**|**Decoding the thermal history of the merging cluster Cygnus A**|Anwesh Majumder et.al.|[2401.02912](http://arxiv.org/abs/2401.02912)|**[link](https://zenodo.org/record/10462251)**|
@@ -385,6 +395,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-08**|**Dr $^2$ Net: Dynamic Reversible Dual-Residual Networks for Memory-Efficient Finetuning**|Chen Zhao et.al.|[2401.04105](http://arxiv.org/abs/2401.04105)|null|
+|**2024-01-08**|**UFO: Unidentified Foreground Object Detection in 3D Point Cloud**|Hyunjun Choi et.al.|[2401.03846](http://arxiv.org/abs/2401.03846)|null|
+|**2024-01-08**|**InvariantOODG: Learning Invariant Features of Point Clouds for Out-of-Distribution Generalization**|Zhimin Zhang et.al.|[2401.03765](http://arxiv.org/abs/2401.03765)|null|
+|**2024-01-07**|**See360: Novel Panoramic View Interpolation**|Zhi-Song Liu et.al.|[2401.03431](http://arxiv.org/abs/2401.03431)|null|
+|**2024-01-07**|**N $^{3}$ -Mapping: Normal Guided Neural Non-Projective Signed Distance Fields for Large-scale 3D Mapping**|Shuangfu Song et.al.|[2401.03412](http://arxiv.org/abs/2401.03412)|null|
+|**2024-01-06**|**Multi-View 3D Instance Segmentation of Structural Anomalies for Enhanced Structural Inspection of Concrete Bridges**|Christian Benz et.al.|[2401.03298](http://arxiv.org/abs/2401.03298)|null|
+|**2024-01-06**|**PosDiffNet: Positional Neural Diffusion for Point Cloud Registration in a Large Field of View with Perturbations**|Rui She et.al.|[2401.03167](http://arxiv.org/abs/2401.03167)|null|
 |**2024-01-05**|**VoxelNextFusion: A Simple, Unified and Effective Voxel Fusion Framework for Multi-Modal 3D Object Detection**|Ziying Song et.al.|[2401.02702](http://arxiv.org/abs/2401.02702)|null|
 |**2024-01-05**|**DHGCN: Dynamic Hop Graph Convolution Network for Self-supervised Point Cloud Learning**|Jincen Jiang et.al.|[2401.02610](http://arxiv.org/abs/2401.02610)|**[link](https://github.com/jinec98/dhgcn)**|
 |**2024-01-04**|**OptFlow: Fast Optimization-based Scene Flow Estimation without Supervision**|Rahul Ahuja et.al.|[2401.02550](http://arxiv.org/abs/2401.02550)|null|
