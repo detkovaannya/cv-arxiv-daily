@@ -7,13 +7,23 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.10
+## Updated on 2024.01.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## clustering
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-09**|**Re-energisation of AGN head-tail radio galaxies in the galaxy cluster ZwCl0634.1+47474**|G. Lusetti et.al.|[2401.04710](http://arxiv.org/abs/2401.04710)|null|
+|**2024-01-09**|**The infalling elliptical galaxy M89: The chemical composition of the AGN disturbed hot atmosphere**|Sinancan Kara et.al.|[2401.04709](http://arxiv.org/abs/2401.04709)|null|
+|**2024-01-09**|**Entanglement inside a black hole before the Page time**|Yuxuan Liu et.al.|[2401.04706](http://arxiv.org/abs/2401.04706)|null|
+|**2024-01-09**|**HiRace: Accurate and Fast Source-Level Race Checking of GPU Programs**|John Jacobson et.al.|[2401.04701](http://arxiv.org/abs/2401.04701)|null|
+|**2024-01-09**|**Caustic and hydrostatic mass bias: Implications for modified gravity**|Minahil Adil Butt et.al.|[2401.04698](http://arxiv.org/abs/2401.04698)|null|
+|**2024-01-09**|**Co-Clustering Multi-View Data Using the Latent Block Model**|Joshua Tobin et.al.|[2401.04693](http://arxiv.org/abs/2401.04693)|null|
+|**2024-01-09**|**Comparative Evaluation of Animated Scatter Plot Transitions**|Nils Rodrigues et.al.|[2401.04692](http://arxiv.org/abs/2401.04692)|null|
+|**2024-01-09**|**Mixture of multilayer stochastic block models for multiview clustering**|Kylliann De Santiago et.al.|[2401.04682](http://arxiv.org/abs/2401.04682)|null|
+|**2024-01-09**|**Jahn-Teller driven quadrupolar ordering and spin-orbital dimer formation in GaNb $_{4}$Se$_{8}$**|Tsung-Han Yang et.al.|[2401.04671](http://arxiv.org/abs/2401.04671)|null|
+|**2024-01-09**|**The Devil Behind the Mirror: Tracking the Campaigns of Cryptocurrency Abuses on the Dark Web**|Pengcheng Xia et.al.|[2401.04662](http://arxiv.org/abs/2401.04662)|null|
 |**2024-01-08**|**From anti-Arrhenius to Arrhenius behavior in a dislocation-obstacle bypass: Atomistic Simulations and Theoretical Investigation**|Mohammadhossein Nahavandian et.al.|[2401.04100](http://arxiv.org/abs/2401.04100)|null|
 |**2024-01-08**|**Self-organization of active colloids mediated by chemical interactions**|Zhiwei Peng et.al.|[2401.04043](http://arxiv.org/abs/2401.04043)|null|
 |**2024-01-08**|**IDoFew: Intermediate Training Using Dual-Clustering in Language Models for Few Labels Text Classification**|Abdullah Alsuhaibani et.al.|[2401.04025](http://arxiv.org/abs/2401.04025)|null|
@@ -389,10 +399,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-09**|**Iterative Feedback Network for Unsupervised Point Cloud Registration**|Yifan Xie et.al.|[2401.04357](http://arxiv.org/abs/2401.04357)|**[link](https://github.com/ivanxie416/ifnet)**|
+|**2024-01-09**|**Underdetermined Fourier Extensions for Partial Differential Equations on Surfaces**|Daniel R. Venn et.al.|[2401.04328](http://arxiv.org/abs/2401.04328)|null|
+|**2024-01-09**|**RadarCam-Depth: Radar-Camera Fusion for Depth Estimation with Learned Metric Scale**|Han Li et.al.|[2401.04325](http://arxiv.org/abs/2401.04325)|null|
+|**2024-01-08**|**SOAP: Cross-sensor Domain Adaptation for 3D Object Detection Using Stationary Object Aggregation Pseudo-labelling**|Chengjie Huang et.al.|[2401.04230](http://arxiv.org/abs/2401.04230)|null|
 |**2024-01-08**|**Dr $^2$ Net: Dynamic Reversible Dual-Residual Networks for Memory-Efficient Finetuning**|Chen Zhao et.al.|[2401.04105](http://arxiv.org/abs/2401.04105)|null|
 |**2024-01-08**|**UFO: Unidentified Foreground Object Detection in 3D Point Cloud**|Hyunjun Choi et.al.|[2401.03846](http://arxiv.org/abs/2401.03846)|null|
 |**2024-01-08**|**InvariantOODG: Learning Invariant Features of Point Clouds for Out-of-Distribution Generalization**|Zhimin Zhang et.al.|[2401.03765](http://arxiv.org/abs/2401.03765)|null|
-|**2024-01-07**|**See360: Novel Panoramic View Interpolation**|Zhi-Song Liu et.al.|[2401.03431](http://arxiv.org/abs/2401.03431)|null|
+|**2024-01-07**|**See360: Novel Panoramic View Interpolation**|Zhi-Song Liu et.al.|[2401.03431](http://arxiv.org/abs/2401.03431)|**[link](https://github.com/Holmes-Alan/See360)**|
 |**2024-01-07**|**N $^{3}$ -Mapping: Normal Guided Neural Non-Projective Signed Distance Fields for Large-scale 3D Mapping**|Shuangfu Song et.al.|[2401.03412](http://arxiv.org/abs/2401.03412)|null|
 |**2024-01-06**|**Multi-View 3D Instance Segmentation of Structural Anomalies for Enhanced Structural Inspection of Concrete Bridges**|Christian Benz et.al.|[2401.03298](http://arxiv.org/abs/2401.03298)|null|
 |**2024-01-06**|**PosDiffNet: Positional Neural Diffusion for Point Cloud Registration in a Large Field of View with Perturbations**|Rui She et.al.|[2401.03167](http://arxiv.org/abs/2401.03167)|null|
