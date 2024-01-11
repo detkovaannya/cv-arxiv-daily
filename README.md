@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-10**|**Spatio-temporal map of star clusters in the Magellanic Clouds using Gaia: Synchronized peaks and radial shrinkage of cluster formation**|S. R. Dhanush et.al.|[2401.05307](http://arxiv.org/abs/2401.05307)|null|
+|**2024-01-10**|**Failures of public key infrastructure: 53 year survey**|Adrian-Tudor Dumitrescu et.al.|[2401.05239](http://arxiv.org/abs/2401.05239)|null|
+|**2024-01-10**|**Directional drying of a colloidal dispersion: quantitative description with water potential measurements using water clusters in a poly(dimethylsiloxane) microfluidic chip**|Hrishikesh Pingulkar et.al.|[2401.05139](http://arxiv.org/abs/2401.05139)|null|
+|**2024-01-10**|**State-Specific Coupled-Cluster Methods for Excited States**|Yann Damour et.al.|[2401.05048](http://arxiv.org/abs/2401.05048)|null|
+|**2024-01-10**|**Accelerating Maximal Biclique Enumeration on GPUs**|Chou-Ying Hsieh et.al.|[2401.05039](http://arxiv.org/abs/2401.05039)|null|
+|**2024-01-10**|**OTAS: An Elastic Transformer Serving System via Token Adaptation**|Jinyu Chen et.al.|[2401.05031](http://arxiv.org/abs/2401.05031)|null|
+|**2024-01-10**|**Temporal Analysis of World Disaster Risk:A Machine Learning Approach to Cluster Dynamics**|Christian Mulomba Mukendi et.al.|[2401.05007](http://arxiv.org/abs/2401.05007)|null|
+|**2024-01-10**|**Large Model based Sequential Keyframe Extraction for Video Summarization**|Kailong Tan et.al.|[2401.04962](http://arxiv.org/abs/2401.04962)|null|
+|**2024-01-10**|**Improving Tag-Clouds as Visual Information Retrieval Interfaces**|Yusef Hassan-Montero et.al.|[2401.04947](http://arxiv.org/abs/2401.04947)|null|
+|**2024-01-10**|**Inconsistency-Based Data-Centric Active Open-Set Annotation**|Ruiyu Mao et.al.|[2401.04923](http://arxiv.org/abs/2401.04923)|**[link](https://github.com/ruiyum/active-openset-neat)**|
 |**2024-01-09**|**Re-energisation of AGN head-tail radio galaxies in the galaxy cluster ZwCl0634.1+47474**|G. Lusetti et.al.|[2401.04710](http://arxiv.org/abs/2401.04710)|null|
 |**2024-01-09**|**The infalling elliptical galaxy M89: The chemical composition of the AGN disturbed hot atmosphere**|Sinancan Kara et.al.|[2401.04709](http://arxiv.org/abs/2401.04709)|null|
 |**2024-01-09**|**Entanglement inside a black hole before the Page time**|Yuxuan Liu et.al.|[2401.04706](http://arxiv.org/abs/2401.04706)|null|
