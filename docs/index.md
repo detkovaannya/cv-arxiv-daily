@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-11**|**Phase Transition and Magneto-caloric Properties of Perovskites Pr $_{0.55}$Sr$_{0.45}$MnO$_{3}$ : Modeling versus Experiments**|Yethreb Essouda et.al.|[2401.06115](http://arxiv.org/abs/2401.06115)|null|
+|**2024-01-11**|**PANDORA: A Parallel Dendrogram Construction Algorithm for Single Linkage Clustering on GPU**|Piyush Sao et.al.|[2401.06089](http://arxiv.org/abs/2401.06089)|null|
+|**2024-01-11**|**A new "gold standard": perturbative triples corrections in unitary coupled cluster theory and prospects for quantum computing**|Zachary W. Windom et.al.|[2401.06036](http://arxiv.org/abs/2401.06036)|null|
+|**2024-01-11**|**Combating Adversarial Attacks with Multi-Agent Debate**|Steffi Chern et.al.|[2401.05998](http://arxiv.org/abs/2401.05998)|null|
+|**2024-01-11**|**End-to-end Learnable Clustering for Intent Learning in Recommendation**|Yue Liu et.al.|[2401.05975](http://arxiv.org/abs/2401.05975)|**[link](https://github.com/yueliu1999/elcrec)**|
+|**2024-01-11**|**HAP: SPMD DNN Training on Heterogeneous GPU Clusters with Automated Program Synthesis**|Shiwei Zhang et.al.|[2401.05965](http://arxiv.org/abs/2401.05965)|null|
+|**2024-01-11**|**Binary Linear Tree Commitment-based Ownership Protection for Distributed Machine Learning**|Tianxiu Xie et.al.|[2401.05895](http://arxiv.org/abs/2401.05895)|null|
+|**2024-01-11**|**Efficient N-to-M Checkpointing Algorithm for Finite Element Simulations**|David A. Ham et.al.|[2401.05868](http://arxiv.org/abs/2401.05868)|null|
+|**2024-01-11**|**Constraining the clustering and 21-cm signature of radio galaxies at cosmic dawn**|Sudipta Sikder et.al.|[2401.05865](http://arxiv.org/abs/2401.05865)|null|
+|**2024-01-11**|**Revisiting Silhouette: From Micro to Macro Aggregation**|Georgios Vardakas et.al.|[2401.05831](http://arxiv.org/abs/2401.05831)|null|
 |**2024-01-10**|**Spatio-temporal map of star clusters in the Magellanic Clouds using Gaia: Synchronized peaks and radial shrinkage of cluster formation**|S. R. Dhanush et.al.|[2401.05307](http://arxiv.org/abs/2401.05307)|null|
 |**2024-01-10**|**Failures of public key infrastructure: 53 year survey**|Adrian-Tudor Dumitrescu et.al.|[2401.05239](http://arxiv.org/abs/2401.05239)|null|
 |**2024-01-10**|**Directional drying of a colloidal dispersion: quantitative description with water potential measurements using water clusters in a poly(dimethylsiloxane) microfluidic chip**|Hrishikesh Pingulkar et.al.|[2401.05139](http://arxiv.org/abs/2401.05139)|null|
@@ -409,6 +419,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-11**|**TRIPS: Trilinear Point Splatting for Real-Time Radiance Field Rendering**|Linus Franke et.al.|[2401.06003](http://arxiv.org/abs/2401.06003)|null|
+|**2024-01-11**|**Neural Implicit Surface Reconstruction for Freehand 3D Ultrasound Volumetric Point Clouds with Geometric Constraints**|Hongbo Chen et.al.|[2401.05915](http://arxiv.org/abs/2401.05915)|null|
+|**2024-01-11**|**Surface Normal Estimation with Transformers**|Barry Shichen Hu et.al.|[2401.05745](http://arxiv.org/abs/2401.05745)|null|
 |**2024-01-09**|**Iterative Feedback Network for Unsupervised Point Cloud Registration**|Yifan Xie et.al.|[2401.04357](http://arxiv.org/abs/2401.04357)|**[link](https://github.com/ivanxie416/ifnet)**|
 |**2024-01-09**|**Underdetermined Fourier Extensions for Partial Differential Equations on Surfaces**|Daniel R. Venn et.al.|[2401.04328](http://arxiv.org/abs/2401.04328)|null|
 |**2024-01-09**|**RadarCam-Depth: Radar-Camera Fusion for Depth Estimation with Learned Metric Scale**|Han Li et.al.|[2401.04325](http://arxiv.org/abs/2401.04325)|null|
