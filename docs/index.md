@@ -17,7 +17,7 @@ layout: default
 |**2024-01-11**|**Phase Transition and Magneto-caloric Properties of Perovskites Pr $_{0.55}$Sr$_{0.45}$MnO$_{3}$ : Modeling versus Experiments**|Yethreb Essouda et.al.|[2401.06115](http://arxiv.org/abs/2401.06115)|null|
 |**2024-01-11**|**PANDORA: A Parallel Dendrogram Construction Algorithm for Single Linkage Clustering on GPU**|Piyush Sao et.al.|[2401.06089](http://arxiv.org/abs/2401.06089)|null|
 |**2024-01-11**|**A new "gold standard": perturbative triples corrections in unitary coupled cluster theory and prospects for quantum computing**|Zachary W. Windom et.al.|[2401.06036](http://arxiv.org/abs/2401.06036)|null|
-|**2024-01-11**|**Combating Adversarial Attacks with Multi-Agent Debate**|Steffi Chern et.al.|[2401.05998](http://arxiv.org/abs/2401.05998)|null|
+|**2024-01-11**|**Combating Adversarial Attacks with Multi-Agent Debate**|Steffi Chern et.al.|[2401.05998](http://arxiv.org/abs/2401.05998)|**[link](https://github.com/andyjliu/llms-course-project)**|
 |**2024-01-11**|**End-to-end Learnable Clustering for Intent Learning in Recommendation**|Yue Liu et.al.|[2401.05975](http://arxiv.org/abs/2401.05975)|**[link](https://github.com/yueliu1999/elcrec)**|
 |**2024-01-11**|**HAP: SPMD DNN Training on Heterogeneous GPU Clusters with Automated Program Synthesis**|Shiwei Zhang et.al.|[2401.05965](http://arxiv.org/abs/2401.05965)|null|
 |**2024-01-11**|**Binary Linear Tree Commitment-based Ownership Protection for Distributed Machine Learning**|Tianxiu Xie et.al.|[2401.05895](http://arxiv.org/abs/2401.05895)|null|
