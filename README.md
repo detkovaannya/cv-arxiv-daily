@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-12**|**Classification of singularities of cluster algebras of finite type II: coefficients**|Angélica Benito et.al.|[2401.06758](http://arxiv.org/abs/2401.06758)|null|
+|**2024-01-12**|**High Resolution Study of $^{40}$ Ca to Constrain Potassium Nucleosynthesis in NGC 2419**|William Fox et.al.|[2401.06754](http://arxiv.org/abs/2401.06754)|null|
+|**2024-01-12**|**Binary black hole mergers and intermediate-mass black holes in dense star clusters with collisional runaways**|Rujuta A. Purohit et.al.|[2401.06731](http://arxiv.org/abs/2401.06731)|null|
+|**2024-01-12**|**FPT Approximation for Capacitated Sum of Radii**|Ragesh Jaiswal et.al.|[2401.06714](http://arxiv.org/abs/2401.06714)|null|
+|**2024-01-12**|**\texttt{Picasso}: Memory-Efficient Graph Coloring Using Palettes With Applications in Quantum Computing**|S M Ferdous et.al.|[2401.06713](http://arxiv.org/abs/2401.06713)|null|
+|**2024-01-12**|**Scalable 3D Panoptic Segmentation With Superpoint Graph Clustering**|Damien Robert et.al.|[2401.06704](http://arxiv.org/abs/2401.06704)|**[link](https://github.com/drprojects/superpoint_transformer)**|
+|**2024-01-12**|**A JWST project on 47 Tucanae. Overview, photometry and early spectroscopic results of M dwarfs, and observation of brown dwarfs**|A. F. Marino et.al.|[2401.06681](http://arxiv.org/abs/2401.06681)|null|
+|**2024-01-12**|**User-Centric Cell-Free Wireless Networks for 6G: Communication Theoretic Models and Research Challenges**|Fabian Göttsch et.al.|[2401.06669](http://arxiv.org/abs/2401.06669)|null|
+|**2024-01-12**|**PolyTOPS: Reconfigurable and Flexible Polyhedral Scheduler**|Gianpietro Consolaro et.al.|[2401.06665](http://arxiv.org/abs/2401.06665)|null|
+|**2024-01-12**|**Graph Representation Learning for Parameter Transferability in Quantum Approximate Optimization Algorithm**|Jose Falla et.al.|[2401.06655](http://arxiv.org/abs/2401.06655)|null|
 |**2024-01-11**|**Phase Transition and Magneto-caloric Properties of Perovskites Pr $_{0.55}$Sr$_{0.45}$MnO$_{3}$ : Modeling versus Experiments**|Yethreb Essouda et.al.|[2401.06115](http://arxiv.org/abs/2401.06115)|null|
 |**2024-01-11**|**PANDORA: A Parallel Dendrogram Construction Algorithm for Single Linkage Clustering on GPU**|Piyush Sao et.al.|[2401.06089](http://arxiv.org/abs/2401.06089)|null|
 |**2024-01-11**|**A new "gold standard": perturbative triples corrections in unitary coupled cluster theory and prospects for quantum computing**|Zachary W. Windom et.al.|[2401.06036](http://arxiv.org/abs/2401.06036)|null|
@@ -425,6 +435,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-12**|**Scalable 3D Panoptic Segmentation With Superpoint Graph Clustering**|Damien Robert et.al.|[2401.06704](http://arxiv.org/abs/2401.06704)|**[link](https://github.com/drprojects/superpoint_transformer)**|
+|**2024-01-12**|**Motion2VecSets: 4D Latent Vector Set Diffusion for Non-rigid Shape Reconstruction and Tracking**|Wei Cao et.al.|[2401.06614](http://arxiv.org/abs/2401.06614)|null|
 |**2024-01-11**|**TRIPS: Trilinear Point Splatting for Real-Time Radiance Field Rendering**|Linus Franke et.al.|[2401.06003](http://arxiv.org/abs/2401.06003)|null|
 |**2024-01-11**|**Neural Implicit Surface Reconstruction for Freehand 3D Ultrasound Volumetric Point Clouds with Geometric Constraints**|Hongbo Chen et.al.|[2401.05915](http://arxiv.org/abs/2401.05915)|null|
 |**2024-01-11**|**Surface Normal Estimation with Transformers**|Barry Shichen Hu et.al.|[2401.05745](http://arxiv.org/abs/2401.05745)|null|
