@@ -38,9 +38,9 @@ layout: default
 |**2024-01-09**|**The infalling elliptical galaxy M89: The chemical composition of the AGN disturbed hot atmosphere**|Sinancan Kara et.al.|[2401.04709](http://arxiv.org/abs/2401.04709)|null|
 |**2024-01-09**|**Entanglement inside a black hole before the Page time**|Yuxuan Liu et.al.|[2401.04706](http://arxiv.org/abs/2401.04706)|null|
 |**2024-01-09**|**HiRace: Accurate and Fast Source-Level Race Checking of GPU Programs**|John Jacobson et.al.|[2401.04701](http://arxiv.org/abs/2401.04701)|null|
-|**2024-01-09**|**Caustic and hydrostatic mass bias: Implications for modified gravity**|Minahil Adil Butt et.al.|[2401.04698](http://arxiv.org/abs/2401.04698)|null|
+|**2024-01-09**|**Caustic and hydrostatic mass bias: Implications for modified gravity**|Minahil Adil Butt et.al.|[2401.04698](http://arxiv.org/abs/2401.04698)|**[link](https://github.com/dfm/emcee)**|
 |**2024-01-09**|**Co-Clustering Multi-View Data Using the Latent Block Model**|Joshua Tobin et.al.|[2401.04693](http://arxiv.org/abs/2401.04693)|null|
-|**2024-01-09**|**Comparative Evaluation of Animated Scatter Plot Transitions**|Nils Rodrigues et.al.|[2401.04692](http://arxiv.org/abs/2401.04692)|null|
+|**2024-01-09**|**Comparative Evaluation of Animated Scatter Plot Transitions**|Nils Rodrigues et.al.|[2401.04692](http://arxiv.org/abs/2401.04692)|**[link](https://github.com/nilsrodrigues/animated-scatterplot-transitions-for-comparative-study)**|
 |**2024-01-09**|**Mixture of multilayer stochastic block models for multiview clustering**|Kylliann De Santiago et.al.|[2401.04682](http://arxiv.org/abs/2401.04682)|null|
 |**2024-01-09**|**Jahn-Teller driven quadrupolar ordering and spin-orbital dimer formation in GaNb $_{4}$Se$_{8}$**|Tsung-Han Yang et.al.|[2401.04671](http://arxiv.org/abs/2401.04671)|null|
 |**2024-01-09**|**The Devil Behind the Mirror: Tracking the Campaigns of Cryptocurrency Abuses on the Dark Web**|Pengcheng Xia et.al.|[2401.04662](http://arxiv.org/abs/2401.04662)|null|
@@ -52,7 +52,7 @@ layout: default
 |**2024-01-08**|**Harvesting nucleating structures in nanoparticle crystallization: The example of gold, silver and iron**|Arthur France-Lanord et.al.|[2401.03969](http://arxiv.org/abs/2401.03969)|null|
 |**2024-01-08**|**Geodesic interpolation of frame-wise speaker embeddings for the diarization of meeting scenarios**|Tobias Cord-Landwehr et.al.|[2401.03963](http://arxiv.org/abs/2401.03963)|null|
 |**2024-01-08**|**A prototype electromagnetic calorimeter for the MUonE experiment: status and first performance results**|E. Spedicato et.al.|[2401.03930](http://arxiv.org/abs/2401.03930)|null|
-|**2024-01-08**|**Cosmology Ruler Bookmark for Teaching and Outreach Purposes (Pen-and-pencil cosmological ruler calculator for everyone, especially students)**|Hervé Dole et.al.|[2401.03929](http://arxiv.org/abs/2401.03929)|null|
+|**2024-01-08**|**Cosmology Ruler Bookmark for Teaching and Outreach Purposes (Pen-and-pencil cosmological ruler calculator for everyone, especially students)**|Hervé Dole et.al.|[2401.03929](http://arxiv.org/abs/2401.03929)|**[link](https://github.com/hrvdole/cosmology_ruler_bookmark)**|
 |**2024-01-08**|**Classification of circular polarization Stokes profiles in a sunspot using k-means clustering**|Rohan Eugene Louis et.al.|[2401.03908](http://arxiv.org/abs/2401.03908)|null|
 |**2024-01-05**|**Analytically-Driven Resource Management for Cloud-Native Microservices**|Yanqi Zhang et.al.|[2401.02920](http://arxiv.org/abs/2401.02920)|null|
 |**2024-01-05**|**Uncovering the human motion pattern: Pattern Memory-based Diffusion Model for Trajectory Prediction**|Yuxin Yang et.al.|[2401.02916](http://arxiv.org/abs/2401.02916)|null|
@@ -215,7 +215,7 @@ layout: default
 |**2023-12-11**|**Quenched critical percolation on Galton-Watson trees**|Eleanor Archer et.al.|[2312.06485](http://arxiv.org/abs/2312.06485)|null|
 |**2023-12-11**|**UOCS XIII. Study of the FUV bright stars in the open cluster NGC 2420 using ASTROSAT**|R. K. S. Yadav et.al.|[2312.06483](http://arxiv.org/abs/2312.06483)|null|
 |**2023-12-08**|**Topology-Based Reconstruction Prevention for Decentralised Learning**|Florine W. Dekker et.al.|[2312.05248](http://arxiv.org/abs/2312.05248)|null|
-|**2023-12-08**|**DeltaZip: Multi-Tenant Language Model Serving via Delta Compression**|Xiaozhe Yao et.al.|[2312.05215](http://arxiv.org/abs/2312.05215)|null|
+|**2023-12-08**|**DeltaZip: Multi-Tenant Language Model Serving via Delta Compression**|Xiaozhe Yao et.al.|[2312.05215](http://arxiv.org/abs/2312.05215)|**[link](https://github.com/eth-easl/deltazip)**|
 |**2023-12-08**|**TENPLEX: Changing Resources of Deep Learning Jobs using Parallelizable Tensor Collections**|Marcel Wagenländer et.al.|[2312.05181](http://arxiv.org/abs/2312.05181)|null|
 |**2023-12-08**|**MRI Scan Synthesis Methods based on Clustering and Pix2Pix**|Giulia Baldini et.al.|[2312.05176](http://arxiv.org/abs/2312.05176)|null|
 |**2023-12-08**|**Herwig 7.3 Release Note**|Gavin Bewick et.al.|[2312.05175](http://arxiv.org/abs/2312.05175)|null|
