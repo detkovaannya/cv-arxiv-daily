@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-16**|**Ask the experts: sourcing high-quality datasets for nutritional counselling through Human-AI collaboration**|Simone Balloccu et.al.|[2401.08420](http://arxiv.org/abs/2401.08420)|**[link](https://github.com/uccollab/hai-coaching)**|
+|**2024-01-16**|**Branch and Cut for Partitioning a Graph into a Cycle of Clusters**|Leon Eifler et.al.|[2401.08412](http://arxiv.org/abs/2401.08412)|null|
+|**2024-01-16**|**Exploiting Inter-Layer Expert Affinity for Accelerating Mixture-of-Experts Model Inference**|Jinghan Yao et.al.|[2401.08383](http://arxiv.org/abs/2401.08383)|null|
+|**2024-01-16**|**Cluster categories for completed infinity-gons I: Categorifying triangulations**|İlke Çanakçı et.al.|[2401.08378](http://arxiv.org/abs/2401.08378)|null|
+|**2024-01-16**|**A Bayesian multivariate model with temporal dependence on random partition of areal data**|Jessica Pavani et.al.|[2401.08303](http://arxiv.org/abs/2401.08303)|null|
+|**2024-01-16**|**Do backrun auctions protect traders?**|Andrew W. Macpherson et.al.|[2401.08302](http://arxiv.org/abs/2401.08302)|null|
+|**2024-01-16**|**Characterising the intra-cluster light in The Three Hundred simulations**|Ana Contreras-Santos et.al.|[2401.08283](http://arxiv.org/abs/2401.08283)|null|
+|**2024-01-16**|**The Faiss library**|Matthijs Douze et.al.|[2401.08281](http://arxiv.org/abs/2401.08281)|null|
+|**2024-01-16**|**Characterizing the Gamma-ray Emission Properties of the Globular Cluster M5 with the Fermi-LAT**|X. Hou et.al.|[2401.08231](http://arxiv.org/abs/2401.08231)|null|
+|**2024-01-16**|**Over-the-Air Federated Learning with Phase Noise: Analysis and Countermeasures**|Martin Dahl et.al.|[2401.08183](http://arxiv.org/abs/2401.08183)|null|
 |**2024-01-12**|**Classification of singularities of cluster algebras of finite type II: coefficients**|Angélica Benito et.al.|[2401.06758](http://arxiv.org/abs/2401.06758)|null|
 |**2024-01-12**|**High Resolution Study of $^{40}$ Ca to Constrain Potassium Nucleosynthesis in NGC 2419**|William Fox et.al.|[2401.06754](http://arxiv.org/abs/2401.06754)|null|
 |**2024-01-12**|**Binary black hole mergers and intermediate-mass black holes in dense star clusters with collisional runaways**|Rujuta A. Purohit et.al.|[2401.06731](http://arxiv.org/abs/2401.06731)|null|
@@ -435,6 +445,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-16**|**Optimizing $k$ in $k$ NN Graphs with Graph Learning Perspective**|Asuka Tamaru et.al.|[2401.08245](http://arxiv.org/abs/2401.08245)|null|
+|**2024-01-16**|**ModelNet-O: A Large-Scale Synthetic Dataset for Occlusion-Aware Point Cloud Classification**|Zhongbin Fang et.al.|[2401.08210](http://arxiv.org/abs/2401.08210)|**[link](https://github.com/fanglaosi/pointmls)**|
+|**2024-01-15**|**Online Learning of Piecewise Polynomial Signed Distance Fields for Manipulation Tasks**|Ante Marić et.al.|[2401.07698](http://arxiv.org/abs/2401.07698)|null|
+|**2024-01-15**|**The Largest Empty Sphere Problem in 3D Hollowed Point Clouds**|Netzer Moriya et.al.|[2401.07593](http://arxiv.org/abs/2401.07593)|null|
+|**2024-01-15**|**Exploiting GPT-4 Vision for Zero-shot Point Cloud Understanding**|Qi Sun et.al.|[2401.07572](http://arxiv.org/abs/2401.07572)|null|
+|**2024-01-15**|**DynaHull: Density-centric Dynamic Point Filtering in Point Clouds**|Pejman Habibiroudkenar et.al.|[2401.07541](http://arxiv.org/abs/2401.07541)|null|
+|**2024-01-14**|**3D Landmark Detection on Human Point Clouds: A Benchmark and A Dual Cascade Point Transformer Framework**|Fan Zhang et.al.|[2401.07251](http://arxiv.org/abs/2401.07251)|null|
+|**2024-01-13**|**Class-Imbalanced Semi-Supervised Learning for Large-Scale Point Cloud Semantic Segmentation via Decoupling Optimization**|Mengtian Li et.al.|[2401.06975](http://arxiv.org/abs/2401.06975)|null|
+|**2024-01-13**|**3D Object Detection and High-Resolution Traffic Parameters Extraction Using Low-Resolution LiDAR Data**|Linlin Zhang et.al.|[2401.06946](http://arxiv.org/abs/2401.06946)|null|
 |**2024-01-12**|**Scalable 3D Panoptic Segmentation With Superpoint Graph Clustering**|Damien Robert et.al.|[2401.06704](http://arxiv.org/abs/2401.06704)|**[link](https://github.com/drprojects/superpoint_transformer)**|
 |**2024-01-12**|**Motion2VecSets: 4D Latent Vector Set Diffusion for Non-rigid Shape Reconstruction and Tracking**|Wei Cao et.al.|[2401.06614](http://arxiv.org/abs/2401.06614)|null|
 |**2024-01-11**|**TRIPS: Trilinear Point Splatting for Real-Time Radiance Field Rendering**|Linus Franke et.al.|[2401.06003](http://arxiv.org/abs/2401.06003)|null|
