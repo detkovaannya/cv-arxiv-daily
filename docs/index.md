@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.17
+## Updated on 2024.01.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## clustering
@@ -21,9 +21,12 @@ layout: default
 |**2024-01-16**|**A Bayesian multivariate model with temporal dependence on random partition of areal data**|Jessica Pavani et.al.|[2401.08303](http://arxiv.org/abs/2401.08303)|null|
 |**2024-01-16**|**Do backrun auctions protect traders?**|Andrew W. Macpherson et.al.|[2401.08302](http://arxiv.org/abs/2401.08302)|null|
 |**2024-01-16**|**Characterising the intra-cluster light in The Three Hundred simulations**|Ana Contreras-Santos et.al.|[2401.08283](http://arxiv.org/abs/2401.08283)|null|
-|**2024-01-16**|**The Faiss library**|Matthijs Douze et.al.|[2401.08281](http://arxiv.org/abs/2401.08281)|null|
+|**2024-01-16**|**The Faiss library**|Matthijs Douze et.al.|[2401.08281](http://arxiv.org/abs/2401.08281)|**[link](https://github.com/facebookresearch/faiss)**|
 |**2024-01-16**|**Characterizing the Gamma-ray Emission Properties of the Globular Cluster M5 with the Fermi-LAT**|X. Hou et.al.|[2401.08231](http://arxiv.org/abs/2401.08231)|null|
 |**2024-01-16**|**Over-the-Air Federated Learning with Phase Noise: Analysis and Countermeasures**|Martin Dahl et.al.|[2401.08183](http://arxiv.org/abs/2401.08183)|null|
+|**2024-01-16**|**On GEE for Mean-Variance-Correlation Models: Variance Estimation and Model Selection**|Zhenyu Xu et.al.|[2401.08172](http://arxiv.org/abs/2401.08172)|null|
+|**2024-01-16**|**GMLake: Efficient and Transparent GPU Memory Defragmentation for Large-scale DNN Training with Virtual Memory Stitching**|Cong Guo et.al.|[2401.08156](http://arxiv.org/abs/2401.08156)|**[link](https://github.com/intelligent-machine-learning/glake)**|
+|**2024-01-16**|**Distributed Stackelberg Equilibrium Seeking for Networked Multi-Leader Multi-Follower Games with A Clustered Information Structure**|Yue Chen et.al.|[2401.08144](http://arxiv.org/abs/2401.08144)|null|
 |**2024-01-12**|**Classification of singularities of cluster algebras of finite type II: coefficients**|Angélica Benito et.al.|[2401.06758](http://arxiv.org/abs/2401.06758)|null|
 |**2024-01-12**|**High Resolution Study of $^{40}$ Ca to Constrain Potassium Nucleosynthesis in NGC 2419**|William Fox et.al.|[2401.06754](http://arxiv.org/abs/2401.06754)|null|
 |**2024-01-12**|**Binary black hole mergers and intermediate-mass black holes in dense star clusters with collisional runaways**|Rujuta A. Purohit et.al.|[2401.06731](http://arxiv.org/abs/2401.06731)|null|
