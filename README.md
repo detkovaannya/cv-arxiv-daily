@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-18**|**The Manga Whisperer: Automatically Generating Transcriptions for Comics**|Ragav Sachdeva et.al.|[2401.10224](http://arxiv.org/abs/2401.10224)|**[link](https://github.com/ragavsachdeva/magi)**|
+|**2024-01-18**|**Explaining the Implicit Neural Canvas: Connecting Pixels to Neurons by Tracing their Contributions**|Namitha Padmanabhan et.al.|[2401.10217](http://arxiv.org/abs/2401.10217)|null|
+|**2024-01-18**|**Fast Kronecker Matrix-Matrix Multiplication on GPUs**|Abhinav Jangda et.al.|[2401.10187](http://arxiv.org/abs/2401.10187)|null|
+|**2024-01-18**|**COOL-LAMPS VI: Lens model and New Constraints on the Properties of COOL J1241+2219, a Bright z = 5 Lyman Break Galaxy and its z = 1 Cluster Lens**|Maxwell Klein et.al.|[2401.10168](http://arxiv.org/abs/2401.10168)|null|
+|**2024-01-18**|**An Exploration to the Correlation Structure and Clustering of Macroeconomic Variables (MEV)**|Garvit Arora et.al.|[2401.10162](http://arxiv.org/abs/2401.10162)|null|
+|**2024-01-18**|**Observation of Dirac cones and room temperature polariton lasing in an organic honeycomb lattice**|Simon Betzold et.al.|[2401.10126](http://arxiv.org/abs/2401.10126)|null|
+|**2024-01-18**|**Techniques for Authenticating Quantile Digests**|Alessandro Scala et.al.|[2401.10118](http://arxiv.org/abs/2401.10118)|null|
+|**2024-01-18**|**GPU Acceleration of a Conjugate Exponential Model for Cancer Tissue Heterogeneity**|Anik Chaudhuri et.al.|[2401.10068](http://arxiv.org/abs/2401.10068)|null|
+|**2024-01-18**|**Stability of C $_{59}$ Knockout Fragments from Femtoseconds to Infinity**|Michael Gatchell et.al.|[2401.10063](http://arxiv.org/abs/2401.10063)|null|
+|**2024-01-18**|**Iodine and Bromine Radical Reactions in Atmospheric Mercury Oxidation**|Svend L. Bager et.al.|[2401.10053](http://arxiv.org/abs/2401.10053)|null|
 |**2024-01-17**|**GARField: Group Anything with Radiance Fields**|Chung Min Kim et.al.|[2401.09419](http://arxiv.org/abs/2401.09419)|null|
 |**2024-01-17**|**Deciphering Textual Authenticity: A Generalized Strategy through the Lens of Large Language Semantics for Detecting Human vs. Machine-Generated Text**|Mazal Bethany et.al.|[2401.09407](http://arxiv.org/abs/2401.09407)|null|
 |**2024-01-17**|**Modelling clusters in network time series with an application to presidential elections in the USA**|Guy Nason et.al.|[2401.09381](http://arxiv.org/abs/2401.09381)|null|
@@ -458,6 +468,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-18**|**GPAvatar: Generalizable and Precise Head Avatar from Image(s)**|Xuangeng Chu et.al.|[2401.10215](http://arxiv.org/abs/2401.10215)|null|
+|**2024-01-18**|**Measuring the Discrepancy between 3D Geometric Models using Directional Distance Fields**|Siyu Ren et.al.|[2401.09736](http://arxiv.org/abs/2401.09736)|null|
+|**2024-01-18**|**fast graph-based denoising for point cloud color information**|Ryosuke Watanabe et.al.|[2401.09721](http://arxiv.org/abs/2401.09721)|null|
+|**2024-01-18**|**GaussianBody: Clothed Human Reconstruction via 3d Gaussian Splatting**|Mengtian Li et.al.|[2401.09720](http://arxiv.org/abs/2401.09720)|null|
 |**2024-01-17**|**POP-3D: Open-Vocabulary 3D Occupancy Prediction from Images**|Antonin Vobecky et.al.|[2401.09413](http://arxiv.org/abs/2401.09413)|null|
 |**2024-01-17**|**CrossVideo: Self-supervised Cross-modal Contrastive Learning for Point Cloud Video Understanding**|Yunze Liu et.al.|[2401.09057](http://arxiv.org/abs/2401.09057)|null|
 |**2024-01-17**|**Enhancing Lidar-based Object Detection in Adverse Weather using Offset Sequences in Time**|Raphael van Kempen et.al.|[2401.09049](http://arxiv.org/abs/2401.09049)|null|
