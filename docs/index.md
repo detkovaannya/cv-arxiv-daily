@@ -16,7 +16,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-01-18**|**The Manga Whisperer: Automatically Generating Transcriptions for Comics**|Ragav Sachdeva et.al.|[2401.10224](http://arxiv.org/abs/2401.10224)|**[link](https://github.com/ragavsachdeva/magi)**|
 |**2024-01-18**|**Explaining the Implicit Neural Canvas: Connecting Pixels to Neurons by Tracing their Contributions**|Namitha Padmanabhan et.al.|[2401.10217](http://arxiv.org/abs/2401.10217)|null|
-|**2024-01-18**|**Fast Kronecker Matrix-Matrix Multiplication on GPUs**|Abhinav Jangda et.al.|[2401.10187](http://arxiv.org/abs/2401.10187)|null|
+|**2024-01-18**|**Fast Kronecker Matrix-Matrix Multiplication on GPUs**|Abhinav Jangda et.al.|[2401.10187](http://arxiv.org/abs/2401.10187)|**[link](https://github.com/abhijangda/fastkron)**|
 |**2024-01-18**|**COOL-LAMPS VI: Lens model and New Constraints on the Properties of COOL J1241+2219, a Bright z = 5 Lyman Break Galaxy and its z = 1 Cluster Lens**|Maxwell Klein et.al.|[2401.10168](http://arxiv.org/abs/2401.10168)|null|
 |**2024-01-18**|**An Exploration to the Correlation Structure and Clustering of Macroeconomic Variables (MEV)**|Garvit Arora et.al.|[2401.10162](http://arxiv.org/abs/2401.10162)|null|
 |**2024-01-18**|**Observation of Dirac cones and room temperature polariton lasing in an organic honeycomb lattice**|Simon Betzold et.al.|[2401.10126](http://arxiv.org/abs/2401.10126)|null|
