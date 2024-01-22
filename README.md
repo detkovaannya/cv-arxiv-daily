@@ -36,11 +36,11 @@
 |**2024-01-17**|**Formation of nano and micro scale hierarchical structures in MgO and ZnO quantum dots doped LC media: The role of competitive forces**|A. K. Singh et.al.|[2401.09335](http://arxiv.org/abs/2401.09335)|null|
 |**2024-01-17**|**The index with respect to a contravariantly finite subcategory**|Francesca Fedele et.al.|[2401.09291](http://arxiv.org/abs/2401.09291)|null|
 |**2024-01-17**|**G-Safe: Safe GPU Sharing in Multi-Tenant Environments**|Manos Pavlidakis et.al.|[2401.09290](http://arxiv.org/abs/2401.09290)|null|
-|**2024-01-17**|**PIM-STM: Software Transactional Memory for Processing-In-Memory Systems**|André Lopes et.al.|[2401.09281](http://arxiv.org/abs/2401.09281)|null|
-|**2024-01-17**|**P $^2$ OT: Progressive Partial Optimal Transport for Deep Imbalanced Clustering**|Chuyu Zhang et.al.|[2401.09266](http://arxiv.org/abs/2401.09266)|null|
+|**2024-01-17**|**PIM-STM: Software Transactional Memory for Processing-In-Memory Systems**|André Lopes et.al.|[2401.09281](http://arxiv.org/abs/2401.09281)|**[link](https://github.com/andre12lopes/pim-stm)**|
+|**2024-01-17**|**P $^2$ OT: Progressive Partial Optimal Transport for Deep Imbalanced Clustering**|Chuyu Zhang et.al.|[2401.09266](http://arxiv.org/abs/2401.09266)|**[link](https://github.com/rhfeiyang/ppot)**|
 |**2024-01-16**|**Ask the experts: sourcing high-quality datasets for nutritional counselling through Human-AI collaboration**|Simone Balloccu et.al.|[2401.08420](http://arxiv.org/abs/2401.08420)|**[link](https://github.com/uccollab/hai-coaching)**|
 |**2024-01-16**|**Branch and Cut for Partitioning a Graph into a Cycle of Clusters**|Leon Eifler et.al.|[2401.08412](http://arxiv.org/abs/2401.08412)|null|
-|**2024-01-16**|**Exploiting Inter-Layer Expert Affinity for Accelerating Mixture-of-Experts Model Inference**|Jinghan Yao et.al.|[2401.08383](http://arxiv.org/abs/2401.08383)|null|
+|**2024-01-16**|**Exploiting Inter-Layer Expert Affinity for Accelerating Mixture-of-Experts Model Inference**|Jinghan Yao et.al.|[2401.08383](http://arxiv.org/abs/2401.08383)|**[link](https://github.com/yjhmitweb/exflow)**|
 |**2024-01-16**|**Cluster categories for completed infinity-gons I: Categorifying triangulations**|İlke Çanakçı et.al.|[2401.08378](http://arxiv.org/abs/2401.08378)|null|
 |**2024-01-16**|**A Bayesian multivariate model with temporal dependence on random partition of areal data**|Jessica Pavani et.al.|[2401.08303](http://arxiv.org/abs/2401.08303)|null|
 |**2024-01-16**|**Do backrun auctions protect traders?**|Andrew W. Macpherson et.al.|[2401.08302](http://arxiv.org/abs/2401.08302)|null|
@@ -60,13 +60,13 @@
 |**2024-01-12**|**A JWST project on 47 Tucanae. Overview, photometry and early spectroscopic results of M dwarfs, and observation of brown dwarfs**|A. F. Marino et.al.|[2401.06681](http://arxiv.org/abs/2401.06681)|null|
 |**2024-01-12**|**User-Centric Cell-Free Wireless Networks for 6G: Communication Theoretic Models and Research Challenges**|Fabian Göttsch et.al.|[2401.06669](http://arxiv.org/abs/2401.06669)|null|
 |**2024-01-12**|**PolyTOPS: Reconfigurable and Flexible Polyhedral Scheduler**|Gianpietro Consolaro et.al.|[2401.06665](http://arxiv.org/abs/2401.06665)|null|
-|**2024-01-12**|**Graph Representation Learning for Parameter Transferability in Quantum Approximate Optimization Algorithm**|Jose Falla et.al.|[2401.06655](http://arxiv.org/abs/2401.06655)|null|
+|**2024-01-12**|**Graph Representation Learning for Parameter Transferability in Quantum Approximate Optimization Algorithm**|Jose Falla et.al.|[2401.06655](http://arxiv.org/abs/2401.06655)|**[link](https://github.com/joseluisfalla/qptransfer)**|
 |**2024-01-11**|**Phase Transition and Magneto-caloric Properties of Perovskites Pr $_{0.55}$Sr$_{0.45}$MnO$_{3}$ : Modeling versus Experiments**|Yethreb Essouda et.al.|[2401.06115](http://arxiv.org/abs/2401.06115)|null|
 |**2024-01-11**|**PANDORA: A Parallel Dendrogram Construction Algorithm for Single Linkage Clustering on GPU**|Piyush Sao et.al.|[2401.06089](http://arxiv.org/abs/2401.06089)|null|
 |**2024-01-11**|**A new "gold standard": perturbative triples corrections in unitary coupled cluster theory and prospects for quantum computing**|Zachary W. Windom et.al.|[2401.06036](http://arxiv.org/abs/2401.06036)|null|
 |**2024-01-11**|**Combating Adversarial Attacks with Multi-Agent Debate**|Steffi Chern et.al.|[2401.05998](http://arxiv.org/abs/2401.05998)|**[link](https://github.com/andyjliu/llms-course-project)**|
 |**2024-01-11**|**End-to-end Learnable Clustering for Intent Learning in Recommendation**|Yue Liu et.al.|[2401.05975](http://arxiv.org/abs/2401.05975)|**[link](https://github.com/yueliu1999/elcrec)**|
-|**2024-01-11**|**HAP: SPMD DNN Training on Heterogeneous GPU Clusters with Automated Program Synthesis**|Shiwei Zhang et.al.|[2401.05965](http://arxiv.org/abs/2401.05965)|null|
+|**2024-01-11**|**HAP: SPMD DNN Training on Heterogeneous GPU Clusters with Automated Program Synthesis**|Shiwei Zhang et.al.|[2401.05965](http://arxiv.org/abs/2401.05965)|**[link](https://github.com/alibaba/hap)**|
 |**2024-01-11**|**Binary Linear Tree Commitment-based Ownership Protection for Distributed Machine Learning**|Tianxiu Xie et.al.|[2401.05895](http://arxiv.org/abs/2401.05895)|null|
 |**2024-01-11**|**Efficient N-to-M Checkpointing Algorithm for Finite Element Simulations**|David A. Ham et.al.|[2401.05868](http://arxiv.org/abs/2401.05868)|null|
 |**2024-01-11**|**Constraining the clustering and 21-cm signature of radio galaxies at cosmic dawn**|Sudipta Sikder et.al.|[2401.05865](http://arxiv.org/abs/2401.05865)|null|
@@ -278,7 +278,7 @@
 |**2023-12-07**|**Privacy-preserving quantum federated learning via gradient hiding**|Changhao Li et.al.|[2312.04447](http://arxiv.org/abs/2312.04447)|null|
 |**2023-12-07**|**Density-functional theory for clustering of two-dimensional hard particle fluids**|Yuri Martinez-Raton et.al.|[2312.04434](http://arxiv.org/abs/2312.04434)|null|
 |**2023-12-07**|**Developing Elementary Federated Learning Algorithms Leveraging the ChatGPT**|Miroslav Popovic et.al.|[2312.04412](http://arxiv.org/abs/2312.04412)|null|
-|**2023-12-07**|**Contextual Subspace Variational Quantum Eigensolver Calculation of the Dissociation Curve of Molecular Nitrogen on a Superconducting Quantum Computer**|Tim Weaving et.al.|[2312.04392](http://arxiv.org/abs/2312.04392)|null|
+|**2023-12-07**|**Contextual Subspace Variational Quantum Eigensolver Calculation of the Dissociation Curve of Molecular Nitrogen on a Superconducting Quantum Computer**|Tim Weaving et.al.|[2312.04392](http://arxiv.org/abs/2312.04392)|**[link](https://github.com/ucl-ccs/symmer)**|
 |**2023-12-07**|**Multi-View Unsupervised Image Generation with Cross Attention Guidance**|Llukman Cerkezi et.al.|[2312.04337](http://arxiv.org/abs/2312.04337)|null|
 |**2023-12-07**|**A Structural-Clustering Based Active Learning for Graph Neural Networks**|Ricky Maulana Fajri et.al.|[2312.04307](http://arxiv.org/abs/2312.04307)|**[link](https://github.com/rickymaulanafajri/spa)**|
 |**2023-12-06**|**Interpretability Illusions in the Generalization of Simplified Models**|Dan Friedman et.al.|[2312.03656](http://arxiv.org/abs/2312.03656)|null|
