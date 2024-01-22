@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-19**|**Non-Analytic Magnetic Response and Intrinsic Ferromagnetic Clusters in a Dirac Spin Liquid Candidate**|B. S. Shivaram et.al.|[2401.10888](http://arxiv.org/abs/2401.10888)|null|
+|**2024-01-19**|**Software Resource Disaggregation for HPC with Serverless Computing**|Marcin Copik et.al.|[2401.10852](http://arxiv.org/abs/2401.10852)|null|
+|**2024-01-19**|**Distributed Genetic Algorithm for Feature Selection**|Michael Potter et.al.|[2401.10846](http://arxiv.org/abs/2401.10846)|null|
+|**2024-01-19**|**Cppless: Productive and Performant Serverless Programming in C++**|Lukas Möller et.al.|[2401.10834](http://arxiv.org/abs/2401.10834)|null|
+|**2024-01-19**|**A Proof of the Pentagon Relation for Skeins**|Mingyuan Hu et.al.|[2401.10817](http://arxiv.org/abs/2401.10817)|null|
+|**2024-01-19**|**Using GMM in Open Cluster Membership: An Insight**|Md Mahmudunnobe et.al.|[2401.10802](http://arxiv.org/abs/2401.10802)|null|
+|**2024-01-19**|**Empowering Aggregators with Practical Data-Driven Tools: Harnessing Aggregated and Disaggregated Flexibility for Demand Response**|Costas Mylonas et.al.|[2401.10726](http://arxiv.org/abs/2401.10726)|null|
+|**2024-01-19**|**BSEC method for unveiling open clusters and its application to Gaia DR3: 83 new clusters**|Zhongmu Li et.al.|[2401.10717](http://arxiv.org/abs/2401.10717)|null|
+|**2024-01-19**|**AutoChunk: Automated Activation Chunk for Memory-Efficient Long Sequence Inference**|Xuanlei Zhao et.al.|[2401.10652](http://arxiv.org/abs/2401.10652)|null|
+|**2024-01-19**|**Empowering HWNs with Efficient Data Labeling: A Clustered Federated Semi-Supervised Learning Approach**|Moqbel Hamood et.al.|[2401.10646](http://arxiv.org/abs/2401.10646)|null|
 |**2024-01-18**|**The Manga Whisperer: Automatically Generating Transcriptions for Comics**|Ragav Sachdeva et.al.|[2401.10224](http://arxiv.org/abs/2401.10224)|**[link](https://github.com/ragavsachdeva/magi)**|
 |**2024-01-18**|**Explaining the Implicit Neural Canvas: Connecting Pixels to Neurons by Tracing their Contributions**|Namitha Padmanabhan et.al.|[2401.10217](http://arxiv.org/abs/2401.10217)|null|
 |**2024-01-18**|**Fast Kronecker Matrix-Matrix Multiplication on GPUs**|Abhinav Jangda et.al.|[2401.10187](http://arxiv.org/abs/2401.10187)|**[link](https://github.com/abhijangda/fastkron)**|
@@ -468,9 +478,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-19**|**SCENES: Subpixel Correspondence Estimation With Epipolar Supervision**|Dominik A. Kloepfer et.al.|[2401.10886](http://arxiv.org/abs/2401.10886)|null|
+|**2024-01-19**|**Symbol as Points: Panoptic Symbol Spotting via Point-based Representation**|Wenlong Liu et.al.|[2401.10556](http://arxiv.org/abs/2401.10556)|null|
+|**2024-01-18**|**TIPSY: Trajectory of Infalling Particles in Streamers around Young stars. Dynamical analysis of the streamers around S CrA and HL Tau**|Aashish Gupta et.al.|[2401.10403](http://arxiv.org/abs/2401.10403)|null|
 |**2024-01-18**|**GPAvatar: Generalizable and Precise Head Avatar from Image(s)**|Xuangeng Chu et.al.|[2401.10215](http://arxiv.org/abs/2401.10215)|**[link](https://github.com/xg-chu/gpavatar)**|
 |**2024-01-18**|**Measuring the Discrepancy between 3D Geometric Models using Directional Distance Fields**|Siyu Ren et.al.|[2401.09736](http://arxiv.org/abs/2401.09736)|null|
-|**2024-01-18**|**fast graph-based denoising for point cloud color information**|Ryosuke Watanabe et.al.|[2401.09721](http://arxiv.org/abs/2401.09721)|null|
+|**2024-01-19**|**Fast graph-based denoising for point cloud color information**|Ryosuke Watanabe et.al.|[2401.09721](http://arxiv.org/abs/2401.09721)|null|
 |**2024-01-18**|**GaussianBody: Clothed Human Reconstruction via 3d Gaussian Splatting**|Mengtian Li et.al.|[2401.09720](http://arxiv.org/abs/2401.09720)|null|
 |**2024-01-17**|**POP-3D: Open-Vocabulary 3D Occupancy Prediction from Images**|Antonin Vobecky et.al.|[2401.09413](http://arxiv.org/abs/2401.09413)|null|
 |**2024-01-17**|**CrossVideo: Self-supervised Cross-modal Contrastive Learning for Point Cloud Video Understanding**|Yunze Liu et.al.|[2401.09057](http://arxiv.org/abs/2401.09057)|null|
