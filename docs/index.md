@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-22**|**Widespread AGN feedback in a forming brightest cluster galaxy at $z=4.1$ unveiled by JWST**|Aayush Saxena et.al.|[2401.12199](http://arxiv.org/abs/2401.12199)|null|
+|**2024-01-22**|**A Snapshot Survey of Nearby Supernovae with the Hubble Space Telescope**|Raphael Baer-Way et.al.|[2401.12185](http://arxiv.org/abs/2401.12185)|null|
+|**2024-01-22**|**Semi-supervised segmentation of land cover images using nonlinear canonical correlation analysis with multiple features and t-SNE**|Hong Wei et.al.|[2401.12164](http://arxiv.org/abs/2401.12164)|null|
+|**2024-01-22**|**Uncoded Storage Coded Transmission Elastic Computing with Straggler Tolerance in Heterogeneous Systems**|Xi Zhong et.al.|[2401.12151](http://arxiv.org/abs/2401.12151)|null|
+|**2024-01-22**|**Biological species delimitation based on genetic and spatial dissimilarity: a comparative study**|Gabriele d'Angella et.al.|[2401.12126](http://arxiv.org/abs/2401.12126)|null|
+|**2024-01-22**|**Centralization in Block Building and Proposer-Builder Separation**|Maryam Bahrani et.al.|[2401.12120](http://arxiv.org/abs/2401.12120)|null|
+|**2024-01-22**|**Observations of magnetic reconnection in the deep solar atmosphere in the H-epsilon line**|L. Rouppe van der Voort et.al.|[2401.12077](http://arxiv.org/abs/2401.12077)|null|
+|**2024-01-22**|**Electronic Structure and Transport in the Potential Luttinger Liquids CsNb $_3$Br$_7$S and RbNb$_3$Br$_7$ S**|Fabian Grahlow et.al.|[2401.12062](http://arxiv.org/abs/2401.12062)|null|
+|**2024-01-22**|**SEDAC: A CVAE-Based Data Augmentation Method for Security Bug Report Identification**|Y. Liao et.al.|[2401.12060](http://arxiv.org/abs/2401.12060)|null|
+|**2024-01-22**|**Determining Cosmological-model-independent $H_0$ with Gravitationally Lensed Supernova Refsdal**|Xiaolei Li et.al.|[2401.12052](http://arxiv.org/abs/2401.12052)|null|
 |**2024-01-19**|**Non-Analytic Magnetic Response and Intrinsic Ferromagnetic Clusters in a Dirac Spin Liquid Candidate**|B. S. Shivaram et.al.|[2401.10888](http://arxiv.org/abs/2401.10888)|null|
 |**2024-01-19**|**Software Resource Disaggregation for HPC with Serverless Computing**|Marcin Copik et.al.|[2401.10852](http://arxiv.org/abs/2401.10852)|null|
 |**2024-01-19**|**Distributed Genetic Algorithm for Feature Selection**|Michael Potter et.al.|[2401.10846](http://arxiv.org/abs/2401.10846)|null|
@@ -472,6 +482,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-22**|**Matching biomolecular structures by registration of point clouds**|Michael Habeck et.al.|[2401.12082](http://arxiv.org/abs/2401.12082)|null|
+|**2024-01-22**|**CloSe: A 3D Clothing Segmentation Dataset and Model**|Dimitrije Antić et.al.|[2401.12051](http://arxiv.org/abs/2401.12051)|null|
+|**2024-01-22**|**Large receptive field strategy and important feature extraction strategy in 3D object detection**|Leichao Cui et.al.|[2401.11913](http://arxiv.org/abs/2401.11913)|null|
+|**2024-01-22**|**Sphractal: Estimating the Fractal Dimension of Surfaces Computed from Precise Atomic Coordinates via Box-Counting Algorithm**|Jonathan Yik Chang Ting et.al.|[2401.11737](http://arxiv.org/abs/2401.11737)|null|
+|**2024-01-22**|**PointGL: A Simple Global-Local Framework for Efficient Point Cloud Analysis**|Jianan Li et.al.|[2401.11650](http://arxiv.org/abs/2401.11650)|**[link](https://github.com/roywangj/pointgl)**|
+|**2024-01-21**|**Self-Supervised Bird's Eye View Motion Prediction with Cross-Modality Signals**|Shaoheng Fang et.al.|[2401.11499](http://arxiv.org/abs/2401.11499)|null|
+|**2024-01-21**|**BA-LINS: A Frame-to-Frame Bundle Adjustment for LiDAR-Inertial Navigation**|Hailiang Tang et.al.|[2401.11491](http://arxiv.org/abs/2401.11491)|null|
+|**2024-01-21**|**Bimanual Deformable Bag Manipulation Using a Structure-of-Interest Based Latent Dynamics Model**|Peng Zhou et.al.|[2401.11432](http://arxiv.org/abs/2401.11432)|null|
+|**2024-01-21**|**UniM-OV3D: Uni-Modality Open-Vocabulary 3D Scene Understanding with Fine-Grained Feature Representation**|Qingdong He et.al.|[2401.11395](http://arxiv.org/abs/2401.11395)|null|
+|**2024-01-20**|**Towards Category Unification of 3D Single Object Tracking on Point Clouds**|Jiahao Nie et.al.|[2401.11204](http://arxiv.org/abs/2401.11204)|null|
 |**2024-01-19**|**SCENES: Subpixel Correspondence Estimation With Epipolar Supervision**|Dominik A. Kloepfer et.al.|[2401.10886](http://arxiv.org/abs/2401.10886)|null|
 |**2024-01-19**|**Symbol as Points: Panoptic Symbol Spotting via Point-based Representation**|Wenlong Liu et.al.|[2401.10556](http://arxiv.org/abs/2401.10556)|null|
 |**2024-01-18**|**TIPSY: Trajectory of Infalling Particles in Streamers around Young stars. Dynamical analysis of the streamers around S CrA and HL Tau**|Aashish Gupta et.al.|[2401.10403](http://arxiv.org/abs/2401.10403)|null|
