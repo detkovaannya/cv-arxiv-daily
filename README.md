@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-23**|**Constraining gravity with a new precision $E_G$ estimator using Planck + SDSS BOSS**|Lukas Wenzl et.al.|[2401.12971](http://arxiv.org/abs/2401.12971)|null|
+|**2024-01-23**|**Proton-cluster femtoscopy with the HADES experiment**|Maria Stefaniak et.al.|[2401.12966](http://arxiv.org/abs/2401.12966)|null|
+|**2024-01-23**|**Emotion-Aware Contrastive Adaptation Network for Source-Free Cross-Corpus Speech Emotion Recognition**|Yan Zhao et.al.|[2401.12925](http://arxiv.org/abs/2401.12925)|null|
+|**2024-01-23**|**Boron Abundances in Early B Dwarfs of the Galactic Open Cluster NGC 3293**|Charles R. Proffitt et.al.|[2401.12918](http://arxiv.org/abs/2401.12918)|null|
+|**2024-01-23**|**Overlap-aware End-to-End Supervised Hierarchical Graph Clustering for Speaker Diarization**|Prachi Singh et.al.|[2401.12850](http://arxiv.org/abs/2401.12850)|null|
+|**2024-01-23**|**Sublattice-selective percolation on bipartite planar lattices**|Jonas Wattendorff et.al.|[2401.12821](http://arxiv.org/abs/2401.12821)|null|
+|**2024-01-23**|**COREC: Concurrent Non-Blocking Single-Queue Receive Driver for Low Latency Networking**|Marco Faltelli et.al.|[2401.12815](http://arxiv.org/abs/2401.12815)|null|
+|**2024-01-23**|**The VMC Survey -- L. Type II Cepheids in the Magellanic Clouds**|Teresa Sicignano et.al.|[2401.12770](http://arxiv.org/abs/2401.12770)|null|
+|**2024-01-23**|**Genetic Algorithm for Multi-Objective Optimization of Container Allocation in Cloud Architecture**|Carlos Guerrero et.al.|[2401.12698](http://arxiv.org/abs/2401.12698)|null|
+|**2024-01-23**|**Consistency Enhancement-Based Deep Multiview Clustering via Contrastive Learning**|Hao Yang et.al.|[2401.12648](http://arxiv.org/abs/2401.12648)|null|
 |**2024-01-22**|**Widespread AGN feedback in a forming brightest cluster galaxy at $z=4.1$ unveiled by JWST**|Aayush Saxena et.al.|[2401.12199](http://arxiv.org/abs/2401.12199)|null|
 |**2024-01-22**|**A Snapshot Survey of Nearby Supernovae with the Hubble Space Telescope**|Raphael Baer-Way et.al.|[2401.12185](http://arxiv.org/abs/2401.12185)|null|
 |**2024-01-22**|**Semi-supervised segmentation of land cover images using nonlinear canonical correlation analysis with multiple features and t-SNE**|Hong Wei et.al.|[2401.12164](http://arxiv.org/abs/2401.12164)|null|
@@ -488,6 +498,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-23**|**Coverage Axis++: Efficient Inner Point Selection for 3D Shape Skeletonization**|Zimeng Wang et.al.|[2401.12946](http://arxiv.org/abs/2401.12946)|null|
+|**2024-01-23**|**RGBD Objects in the Wild: Scaling Real-World 3D Object Learning from RGB-D Videos**|Hongchi Xia et.al.|[2401.12592](http://arxiv.org/abs/2401.12592)|null|
+|**2024-01-23**|**Self-supervised Learning of LiDAR 3D Point Clouds via 2D-3D Neural Calibration**|Yifan Zhang et.al.|[2401.12452](http://arxiv.org/abs/2401.12452)|null|
+|**2024-01-23**|**NIV-SSD: Neighbor IoU-Voting Single-Stage Object Detector From Point Cloud**|Shuai Liu et.al.|[2401.12447](http://arxiv.org/abs/2401.12447)|**[link](https://github.com/say2l/niv-ssd)**|
 |**2024-01-22**|**Matching biomolecular structures by registration of point clouds**|Michael Habeck et.al.|[2401.12082](http://arxiv.org/abs/2401.12082)|null|
 |**2024-01-22**|**CloSe: A 3D Clothing Segmentation Dataset and Model**|Dimitrije Antić et.al.|[2401.12051](http://arxiv.org/abs/2401.12051)|null|
 |**2024-01-22**|**Large receptive field strategy and important feature extraction strategy in 3D object detection**|Leichao Cui et.al.|[2401.11913](http://arxiv.org/abs/2401.11913)|null|
