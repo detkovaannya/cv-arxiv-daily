@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-24**|**Enabling Seamless Data Security, Consensus, and Trading in Vehicular Networks**|Emanuel Vieira et.al.|[2401.13630](http://arxiv.org/abs/2401.13630)|null|
+|**2024-01-24**|**Effects of dilute neutron matter on the neutron star crust equation of state**|Guilherme Grams et.al.|[2401.13590](http://arxiv.org/abs/2401.13590)|null|
+|**2024-01-24**|**Interfacial free energy and Tolman length of curved liquid-solid interfaces from equilibrium studies**|P. Montero de Hijes et.al.|[2401.13589](http://arxiv.org/abs/2401.13589)|null|
+|**2024-01-24**|**Towards Efficient and Effective Deep Clustering with Dynamic Grouping and Prototype Aggregation**|Haixin Zhang et.al.|[2401.13581](http://arxiv.org/abs/2401.13581)|null|
+|**2024-01-24**|**SPARC-LoRa: A Scalable, Power-efficient, Affordable, Reliable, and Cloud Service-enabled LoRa Networking System for Agriculture Applications**|Xi Wang et.al.|[2401.13569](http://arxiv.org/abs/2401.13569)|null|
+|**2024-01-24**|**Tissue Cross-Section and Pen Marking Segmentation in Whole Slide Images**|Ruben T. Lucassen et.al.|[2401.13511](http://arxiv.org/abs/2401.13511)|null|
+|**2024-01-24**|**Learning Representations for Clustering via Partial Information Discrimination and Cross-Level Interaction**|Hai-Xin Zhang et.al.|[2401.13503](http://arxiv.org/abs/2401.13503)|**[link](https://github.com/regan-zhang/pici)**|
+|**2024-01-24**|**Federated learning with distributed fixed design quantum chips and quantum channels**|Ammar Daskin et.al.|[2401.13421](http://arxiv.org/abs/2401.13421)|null|
+|**2024-01-24**|**Distributed network for measuring climatic parameters in heterogeneous environments: Application in a greenhouse**|Javier López-Martínez et.al.|[2401.13420](http://arxiv.org/abs/2401.13420)|null|
+|**2024-01-24**|**Using multiobjective optimization to reconstruct interferometric data (II): polarimetry and time dynamics**|Alejandro Mus et.al.|[2401.13349](http://arxiv.org/abs/2401.13349)|null|
 |**2024-01-23**|**Constraining gravity with a new precision $E_G$ estimator using Planck + SDSS BOSS**|Lukas Wenzl et.al.|[2401.12971](http://arxiv.org/abs/2401.12971)|null|
 |**2024-01-23**|**Proton-cluster femtoscopy with the HADES experiment**|Maria Stefaniak et.al.|[2401.12966](http://arxiv.org/abs/2401.12966)|null|
 |**2024-01-23**|**Emotion-Aware Contrastive Adaptation Network for Source-Free Cross-Corpus Speech Emotion Recognition**|Yan Zhao et.al.|[2401.12925](http://arxiv.org/abs/2401.12925)|null|
@@ -492,8 +502,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-01-23**|**Coverage Axis++: Efficient Inner Point Selection for 3D Shape Skeletonization**|Zimeng Wang et.al.|[2401.12946](http://arxiv.org/abs/2401.12946)|null|
-|**2024-01-23**|**RGBD Objects in the Wild: Scaling Real-World 3D Object Learning from RGB-D Videos**|Hongchi Xia et.al.|[2401.12592](http://arxiv.org/abs/2401.12592)|null|
+|**2024-01-24**|**Winding Clearness for Differentiable Point Cloud Optimization**|Dong Xiao et.al.|[2401.13639](http://arxiv.org/abs/2401.13639)|null|
+|**2024-01-24**|**Characterizing Perspective Error in Voxel-Based Lidar Scan Matching**|Jason Rife et.al.|[2401.13416](http://arxiv.org/abs/2401.13416)|null|
+|**2024-01-24**|**Small Object Tracking in LiDAR Point Cloud: Learning the Target-awareness Prototype and Fine-grained Search Region**|Shengjing Tian et.al.|[2401.13285](http://arxiv.org/abs/2401.13285)|null|
+|**2024-01-24**|**Generative Design of Crystal Structures by Point Cloud Representations and Diffusion Model**|Zhelin Li et.al.|[2401.13192](http://arxiv.org/abs/2401.13192)|null|
+|**2024-01-23**|**Persistent homology and topological statistics of hyperuniform point clouds**|Marco Salvalaglio et.al.|[2401.13123](http://arxiv.org/abs/2401.13123)|null|
+|**2024-01-24**|**Coverage Axis++: Efficient Inner Point Selection for 3D Shape Skeletonization**|Zimeng Wang et.al.|[2401.12946](http://arxiv.org/abs/2401.12946)|null|
+|**2024-01-24**|**RGBD Objects in the Wild: Scaling Real-World 3D Object Learning from RGB-D Videos**|Hongchi Xia et.al.|[2401.12592](http://arxiv.org/abs/2401.12592)|null|
 |**2024-01-23**|**Self-supervised Learning of LiDAR 3D Point Clouds via 2D-3D Neural Calibration**|Yifan Zhang et.al.|[2401.12452](http://arxiv.org/abs/2401.12452)|null|
 |**2024-01-23**|**NIV-SSD: Neighbor IoU-Voting Single-Stage Object Detector From Point Cloud**|Shuai Liu et.al.|[2401.12447](http://arxiv.org/abs/2401.12447)|**[link](https://github.com/say2l/niv-ssd)**|
 |**2024-01-22**|**Matching biomolecular structures by registration of point clouds**|Michael Habeck et.al.|[2401.12082](http://arxiv.org/abs/2401.12082)|null|
