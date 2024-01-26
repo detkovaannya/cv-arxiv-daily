@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-25**|**Clustering-based spatial interpolation of parametric post-processing models**|Sándor Baran et.al.|[2401.14393](http://arxiv.org/abs/2401.14393)|null|
+|**2024-01-25**|**MoE-Infinity: Activation-Aware Expert Offloading for Efficient MoE Serving**|Leyang Xue et.al.|[2401.14361](http://arxiv.org/abs/2401.14361)|null|
+|**2024-01-25**|**ServerlessLLM: Locality-Enhanced Serverless Inference for Large Language Models**|Yao Fu et.al.|[2401.14351](http://arxiv.org/abs/2401.14351)|null|
+|**2024-01-25**|**Theory of Acoustic Polarons in the Two-Dimensional SSH Model Applied to the Layered Superatomic Semiconductor Re6Se8Cl2**|Petra Shih et.al.|[2401.14312](http://arxiv.org/abs/2401.14312)|null|
+|**2024-01-25**|**CHIRON: Accelerating Node Synchronization without Security Trade-offs in Distributed Ledgers**|Ray Neiheiser et.al.|[2401.14278](http://arxiv.org/abs/2401.14278)|null|
+|**2024-01-25**|**On mission Twitter Profiles: A Study of Selective Toxic Behavior**|Hina Qayyum et.al.|[2401.14252](http://arxiv.org/abs/2401.14252)|null|
+|**2024-01-25**|**Exploring the time axis within medium-modified jets**|Liliana Apolinário et.al.|[2401.14229](http://arxiv.org/abs/2401.14229)|null|
+|**2024-01-25**|**Communication-Efficient Federated Learning through Adaptive Weight Clustering and Server-Side Distillation**|Vasileios Tsouvalas. Aaqib Saeed et.al.|[2401.14211](http://arxiv.org/abs/2401.14211)|null|
+|**2024-01-25**|**Adapting tree-based multiple imputation methods for multi-level data? A simulation study**|Ketevan Gurtskaia et.al.|[2401.14161](http://arxiv.org/abs/2401.14161)|null|
+|**2024-01-25**|**Enabling Cross-Camera Collaboration for Video Analytics on Distributed Smart Cameras**|Chulhong Min et.al.|[2401.14132](http://arxiv.org/abs/2401.14132)|null|
 |**2024-01-24**|**Enabling Seamless Data Security, Consensus, and Trading in Vehicular Networks**|Emanuel Vieira et.al.|[2401.13630](http://arxiv.org/abs/2401.13630)|null|
 |**2024-01-24**|**Effects of dilute neutron matter on the neutron star crust equation of state**|Guilherme Grams et.al.|[2401.13590](http://arxiv.org/abs/2401.13590)|null|
 |**2024-01-24**|**Interfacial free energy and Tolman length of curved liquid-solid interfaces from equilibrium studies**|P. Montero de Hijes et.al.|[2401.13589](http://arxiv.org/abs/2401.13589)|null|
@@ -508,6 +518,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-25**|**Multimodal Pathway: Improve Transformers with Irrelevant Data from Other Modalities**|Yiyuan Zhang et.al.|[2401.14405](http://arxiv.org/abs/2401.14405)|**[link](https://github.com/ailab-cvc/m2pt)**|
+|**2024-01-25**|**MultiTest: Physical-Aware Object Insertion for Testing Multi-sensor Fusion Perception Systems**|Xinyu Gao et.al.|[2401.14314](http://arxiv.org/abs/2401.14314)|null|
+|**2024-01-25**|**Form Convex Hull to Coancavity: Surface Contraction Around a Point Set**|Netzer Moriya et.al.|[2401.14189](http://arxiv.org/abs/2401.14189)|null|
+|**2024-01-25**|**GauU-Scene: A Scene Reconstruction Benchmark on Large Scale 3D Reconstruction Dataset Using Gaussian Splatting**|Butian Xiong et.al.|[2401.14032](http://arxiv.org/abs/2401.14032)|null|
+|**2024-01-25**|**PLCNet: Patch-wise Lane Correction Network for Automatic Lane Correction in High-definition Maps**|Haiyang Peng et.al.|[2401.14024](http://arxiv.org/abs/2401.14024)|null|
+|**2024-01-25**|**AscDAMs: Advanced SLAM-based channel detection and mapping system**|Tengfei Wang et.al.|[2401.13877](http://arxiv.org/abs/2401.13877)|null|
 |**2024-01-24**|**Winding Clearness for Differentiable Point Cloud Optimization**|Dong Xiao et.al.|[2401.13639](http://arxiv.org/abs/2401.13639)|null|
 |**2024-01-24**|**Characterizing Perspective Error in Voxel-Based Lidar Scan Matching**|Jason Rife et.al.|[2401.13416](http://arxiv.org/abs/2401.13416)|null|
 |**2024-01-24**|**Small Object Tracking in LiDAR Point Cloud: Learning the Target-awareness Prototype and Fine-grained Search Region**|Shengjing Tian et.al.|[2401.13285](http://arxiv.org/abs/2401.13285)|null|
