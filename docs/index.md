@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-26**|**Expert with Clustering: Hierarchical Online Preference Learning Framework**|Tianyue Zhou et.al.|[2401.15062](http://arxiv.org/abs/2401.15062)|null|
+|**2024-01-26**|**Lane formation and aggregation spots in a model of ants**|Maria Bruna et.al.|[2401.15046](http://arxiv.org/abs/2401.15046)|null|
+|**2024-01-26**|**Weak-lensing mass bias in the dissociative galaxy cluster Abell 56**|Richards P. Albuquerque et.al.|[2401.15044](http://arxiv.org/abs/2401.15044)|null|
+|**2024-01-26**|**Graph-based Active Learning for Entity Cluster Repair**|Victor Christen et.al.|[2401.14992](http://arxiv.org/abs/2401.14992)|null|
+|**2024-01-26**|**Atmosphere: Context and situational-aware collaborative IoT architecture for edge-fog-cloud computing**|Guadalupe Ortiz et.al.|[2401.14968](http://arxiv.org/abs/2401.14968)|null|
+|**2024-01-26**|**Renewable energy exporting consumption-oriented transfer limit switching control: A unsupervised learning-based method**|Gao Qiu et.al.|[2401.14949](http://arxiv.org/abs/2401.14949)|null|
+|**2024-01-26**|**PARSAC: Accelerating Robust Multi-Model Fitting with Parallel Sample Consensus**|Florian Kluger et.al.|[2401.14919](http://arxiv.org/abs/2401.14919)|null|
+|**2024-01-26**|**Hierarchical binary black hole mergers in globular clusters: mass function and evolution with redshift**|Stefano Torniamenti et.al.|[2401.14837](http://arxiv.org/abs/2401.14837)|null|
+|**2024-01-26**|**The Machine Vision Iceberg Explained: Advancing Dynamic Testing by Considering Holistic Environmental Circumstances**|Hubert Padusinski et.al.|[2401.14831](http://arxiv.org/abs/2401.14831)|null|
+|**2024-01-26**|**Clustering Longitudinal Ordinal Data via Finite Mixture of Matrix-Variate Distributions**|Francesco Amato et.al.|[2401.14827](http://arxiv.org/abs/2401.14827)|null|
 |**2024-01-25**|**Clustering-based spatial interpolation of parametric post-processing models**|Sándor Baran et.al.|[2401.14393](http://arxiv.org/abs/2401.14393)|null|
 |**2024-01-25**|**MoE-Infinity: Activation-Aware Expert Offloading for Efficient MoE Serving**|Leyang Xue et.al.|[2401.14361](http://arxiv.org/abs/2401.14361)|null|
 |**2024-01-25**|**ServerlessLLM: Locality-Enhanced Serverless Inference for Large Language Models**|Yao Fu et.al.|[2401.14351](http://arxiv.org/abs/2401.14351)|null|
@@ -512,6 +522,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-26**|**DAM: Diffusion Activation Maximization for 3D Global Explanations**|Hanxiao Tan et.al.|[2401.14938](http://arxiv.org/abs/2401.14938)|null|
+|**2024-01-26**|**Adaptive Point Transformer**|Alessandro Baiocchi et.al.|[2401.14845](http://arxiv.org/abs/2401.14845)|null|
+|**2024-01-25**|**GCBF+: A Neural Graph Control Barrier Function Framework for Distributed Safe Multi-Agent Control**|Songyuan Zhang et.al.|[2401.14554](http://arxiv.org/abs/2401.14554)|null|
 |**2024-01-25**|**Multimodal Pathway: Improve Transformers with Irrelevant Data from Other Modalities**|Yiyuan Zhang et.al.|[2401.14405](http://arxiv.org/abs/2401.14405)|**[link](https://github.com/ailab-cvc/m2pt)**|
 |**2024-01-25**|**MultiTest: Physical-Aware Object Insertion for Testing Multi-sensor Fusion Perception Systems**|Xinyu Gao et.al.|[2401.14314](http://arxiv.org/abs/2401.14314)|null|
 |**2024-01-25**|**Form Convex Hull to Coancavity: Surface Contraction Around a Point Set**|Netzer Moriya et.al.|[2401.14189](http://arxiv.org/abs/2401.14189)|null|
