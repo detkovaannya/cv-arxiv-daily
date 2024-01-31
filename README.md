@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-30**|**The SRG/eROSITA All-Sky Survey: SRG/eROSITA cross-calibration with Chandra and XMM-Newton using galaxy cluster gas temperatures**|K. Migkas et.al.|[2401.17297](http://arxiv.org/abs/2401.17297)|null|
+|**2024-01-30**|**The SRG/eROSITA All-Sky Survey: View of the Virgo Cluster**|Hannah McCall et.al.|[2401.17296](http://arxiv.org/abs/2401.17296)|null|
+|**2024-01-30**|**Massive black holes in nuclear star clusters: Investigation with SRG/eROSITA X-ray data**|Nils Hoyer et.al.|[2401.17288](http://arxiv.org/abs/2401.17288)|null|
+|**2024-01-30**|**The SRG/eROSITA all-sky survey -- Identifying the coronal content with HamStar**|S. Freund et.al.|[2401.17282](http://arxiv.org/abs/2401.17282)|null|
+|**2024-01-30**|**Discovery of a >13 Mpc long X-ray filament between two galaxy clusters beyond three times their virial radii**|J. Dietl et.al.|[2401.17281](http://arxiv.org/abs/2401.17281)|null|
+|**2024-01-30**|**Self-Supervised Representation Learning for Nerve Fiber Distribution Patterns in 3D-PLI**|Alexander Oberstrass et.al.|[2401.17207](http://arxiv.org/abs/2401.17207)|null|
+|**2024-01-30**|**Characterising resource management performance in Kubernetes**|Víctor Medel et.al.|[2401.17125](http://arxiv.org/abs/2401.17125)|null|
+|**2024-01-30**|**Identifying Quality Mersenne Twister Streams For Parallel Stochastic Simulations**|Benjamin Antunes et.al.|[2401.17115](http://arxiv.org/abs/2401.17115)|null|
+|**2024-01-30**|**Exploring Spatial Segregation Induced by Competition Avoidance as Driving Mechanism for Emergent Coexistence in Microbial Communities**|Mattia Mattei et.al.|[2401.17048](http://arxiv.org/abs/2401.17048)|null|
+|**2024-01-30**|**Robust Kernel Sparse Subspace Clustering**|Ivica Kopriva et.al.|[2401.17035](http://arxiv.org/abs/2401.17035)|null|
 |**2024-01-29**|**SuNeRF: 3D reconstruction of the solar EUV corona using Neural Radiance Fields**|Robert Jarolim et.al.|[2401.16388](http://arxiv.org/abs/2401.16388)|null|
 |**2024-01-29**|**Invariant splitting of a slab into infinitely many robust clusters**|Péter Mester et.al.|[2401.16357](http://arxiv.org/abs/2401.16357)|null|
 |**2024-01-29**|**FedFair^3: Unlocking Threefold Fairness in Federated Learning**|Simin Javaherian et.al.|[2401.16350](http://arxiv.org/abs/2401.16350)|null|
@@ -538,6 +548,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-29**|**Unsupervised Discovery of Steerable Factors When Graph Deep Generative Models Are Entangled**|Shengchao Liu et.al.|[2401.17123](http://arxiv.org/abs/2401.17123)|**[link](https://github.com/chao1224/graphcg)**|
+|**2024-01-30**|**A Point Cloud Enhancement Method for 4D mmWave Radar Imagery**|Qingmian Wan et.al.|[2401.16714](http://arxiv.org/abs/2401.16714)|null|
+|**2024-01-29**|**Pick and Place Planning is Better than Pick Planning then Place Planning**|Mohanraj Devendran Shanthi et.al.|[2401.16585](http://arxiv.org/abs/2401.16585)|null|
 |**2024-01-29**|**MixSup: Mixed-grained Supervision for Label-efficient LiDAR-based 3D Object Detection**|Yuxue Yang et.al.|[2401.16305](http://arxiv.org/abs/2401.16305)|null|
 |**2024-01-29**|**DeFlow: Decoder of Scene Flow Network in Autonomous Driving**|Qingwen Zhang et.al.|[2401.16122](http://arxiv.org/abs/2401.16122)|**[link](https://github.com/kth-rpl/deflow)**|
 |**2024-01-29**|**Dynamic Prototype Adaptation with Distillation for Few-shot Point Cloud Segmentation**|Jie Liu et.al.|[2401.16051](http://arxiv.org/abs/2401.16051)|null|
