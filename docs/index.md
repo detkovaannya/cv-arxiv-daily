@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-31**|**Neural Locality Sensitive Hashing for Entity Blocking**|Runhui Wang et.al.|[2401.18064](http://arxiv.org/abs/2401.18064)|null|
+|**2024-01-31**|**RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval**|Parth Sarthi et.al.|[2401.18059](http://arxiv.org/abs/2401.18059)|null|
+|**2024-01-31**|**Makinote: An FPGA-Based HW/SW Platform for Pre-Silicon Emulation of RISC-V Designs**|Elias Perdomo et.al.|[2401.17984](http://arxiv.org/abs/2401.17984)|null|
+|**2024-01-31**|**Intra-community link formation and modularity in ultracold growing hyperbolic networks**|Sámuel G. Balogh et.al.|[2401.17983](http://arxiv.org/abs/2401.17983)|null|
+|**2024-01-31**|**XGBoostPP: Tree-based Estimation of Point Process Intensity Functions**|C. Lu et.al.|[2401.17966](http://arxiv.org/abs/2401.17966)|null|
+|**2024-01-31**|**Enhanced contact flexibility from nanoparticles in capillary suspensions**|Lingyue Liu et.al.|[2401.17953](http://arxiv.org/abs/2401.17953)|null|
+|**2024-01-31**|**Euclid preparation. The Near-IR Background Dipole Experiment with Euclid**|Euclid Collaboration et.al.|[2401.17945](http://arxiv.org/abs/2401.17945)|null|
+|**2024-01-31**|**Lipolysis on Lipid Droplets: Mathematical Modelling and Numerical Discretisation**|Reymart Salcedo Lagunero et.al.|[2401.17935](http://arxiv.org/abs/2401.17935)|null|
+|**2024-01-31**|**Revisiting speech segmentation and lexicon learning with better features**|Herman Kamper et.al.|[2401.17902](http://arxiv.org/abs/2401.17902)|null|
+|**2024-01-31**|**Multitask methods for predicting molecular properties from heterogeneous data**|Katharine Fisher et.al.|[2401.17898](http://arxiv.org/abs/2401.17898)|null|
 |**2024-01-30**|**The SRG/eROSITA All-Sky Survey: SRG/eROSITA cross-calibration with Chandra and XMM-Newton using galaxy cluster gas temperatures**|K. Migkas et.al.|[2401.17297](http://arxiv.org/abs/2401.17297)|null|
 |**2024-01-30**|**The SRG/eROSITA All-Sky Survey: View of the Virgo Cluster**|Hannah McCall et.al.|[2401.17296](http://arxiv.org/abs/2401.17296)|null|
 |**2024-01-30**|**Massive black holes in nuclear star clusters: Investigation with SRG/eROSITA X-ray data**|Nils Hoyer et.al.|[2401.17288](http://arxiv.org/abs/2401.17288)|null|
@@ -542,6 +552,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-31**|**Convergence analysis of t-SNE as a gradient flow for point cloud on a manifold**|Seonghyeon Jeong et.al.|[2401.17675](http://arxiv.org/abs/2401.17675)|null|
+|**2024-01-31**|**Image Anything: Towards Reasoning-coherent and Training-free Multi-modal Image Generation**|Yuanhuiyi Lyu et.al.|[2401.17664](http://arxiv.org/abs/2401.17664)|null|
+|**2024-01-31**|**Topology-Aware Latent Diffusion for 3D Shape Generation**|Jiangbei Hu et.al.|[2401.17603](http://arxiv.org/abs/2401.17603)|null|
+|**2024-01-30**|**AdvGPS: Adversarial GPS for Multi-Agent Perception Attack**|Jinlong Li et.al.|[2401.17499](http://arxiv.org/abs/2401.17499)|null|
+|**2024-01-30**|**ATPPNet: Attention based Temporal Point cloud Prediction Network**|Kaustab Pal et.al.|[2401.17399](http://arxiv.org/abs/2401.17399)|null|
 |**2024-01-29**|**Unsupervised Discovery of Steerable Factors When Graph Deep Generative Models Are Entangled**|Shengchao Liu et.al.|[2401.17123](http://arxiv.org/abs/2401.17123)|**[link](https://github.com/chao1224/graphcg)**|
 |**2024-01-30**|**A Point Cloud Enhancement Method for 4D mmWave Radar Imagery**|Qingmian Wan et.al.|[2401.16714](http://arxiv.org/abs/2401.16714)|null|
 |**2024-01-29**|**Pick and Place Planning is Better than Pick Planning then Place Planning**|Mohanraj Devendran Shanthi et.al.|[2401.16585](http://arxiv.org/abs/2401.16585)|null|
