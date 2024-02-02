@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-01**|**Profiling and Modeling of Power Characteristics of Leadership-Scale HPC System Workloads**|Ahmad Maroof Karimi et.al.|[2402.00729](http://arxiv.org/abs/2402.00729)|null|
+|**2024-02-01**|**A Bi-Objective Optimization Based Acquisition Strategy for Batch Bayesian Global Optimization**|Francesco Carciaghi et.al.|[2402.00726](http://arxiv.org/abs/2402.00726)|null|
+|**2024-02-01**|**Comparative Study of Large Language Model Architectures on Frontier**|Junqi Yin et.al.|[2402.00691](http://arxiv.org/abs/2402.00691)|null|
+|**2024-02-01**|**Revising Apetrei's bounding volume hierarchy construction algorithm to allow stackless traversal**|Andrey Prokopenko et.al.|[2402.00665](http://arxiv.org/abs/2402.00665)|null|
+|**2024-02-01**|**The spectral boundary of the Asymmetric Simple Exclusion Process (ASEP) -- free fermions, Bethe ansatz and random matrix theory**|Goran Nakerst et.al.|[2402.00662](http://arxiv.org/abs/2402.00662)|null|
+|**2024-02-01**|**The X-ray Emission Reveals the Coronal Activities of Semi-detached Binaries**|Junhui Liu et.al.|[2402.00640](http://arxiv.org/abs/2402.00640)|null|
+|**2024-02-01**|**Deep Clustering Using the Soft Silhouette Score: Towards Compact and Well-Separated Clusters**|Georgios Vardakas et.al.|[2402.00608](http://arxiv.org/abs/2402.00608)|null|
+|**2024-02-01**|**Small-scale clustering of Primordial Black Holes: cloud-in-cloud and exclusion effects**|Pierre Auclair et.al.|[2402.00600](http://arxiv.org/abs/2402.00600)|null|
+|**2024-02-01**|**Structure determination of alkali trimers on helium nanodroplets through laser-induced Coulomb explosion**|Lorenz Kranabetter et.al.|[2402.00587](http://arxiv.org/abs/2402.00587)|null|
+|**2024-02-01**|**Quasi-perpendicular shocks of galaxy clusters in hybrid kinetic simulations: The structure of the shocks**|S. S. Boula et.al.|[2402.00571](http://arxiv.org/abs/2402.00571)|null|
 |**2024-01-31**|**Neural Locality Sensitive Hashing for Entity Blocking**|Runhui Wang et.al.|[2401.18064](http://arxiv.org/abs/2401.18064)|null|
 |**2024-01-31**|**RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval**|Parth Sarthi et.al.|[2401.18059](http://arxiv.org/abs/2401.18059)|null|
 |**2024-01-31**|**Makinote: An FPGA-Based HW/SW Platform for Pre-Silicon Emulation of RISC-V Designs**|Elias Perdomo et.al.|[2401.17984](http://arxiv.org/abs/2401.17984)|null|
@@ -552,6 +562,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-01**|**GS++: Error Analyzing and Optimal Gaussian Splatting**|Letian Huang et.al.|[2402.00752](http://arxiv.org/abs/2402.00752)|null|
+|**2024-02-01**|**A Framework for Building Point Cloud Cleaning, Plane Detection and Semantic Segmentation**|Ilyass Abouelaziz et.al.|[2402.00692](http://arxiv.org/abs/2402.00692)|null|
+|**2024-02-01**|**Can you see me now? Blind spot estimation for autonomous vehicles using scenario-based simulation with random reference sensors**|Marc Uecker et.al.|[2402.00467](http://arxiv.org/abs/2402.00467)|**[link](https://github.com/pyrestone/numpy_cukd)**|
+|**2024-01-31**|**Distance and Collision Probability Estimation from Gaussian Surface Models**|Kshitij Goel et.al.|[2402.00186](http://arxiv.org/abs/2402.00186)|null|
+|**2024-01-31**|**CMRNext: Camera to LiDAR Matching in the Wild for Localization and Extrinsic Calibration**|Daniele Cattaneo et.al.|[2402.00129](http://arxiv.org/abs/2402.00129)|null|
 |**2024-01-31**|**Convergence analysis of t-SNE as a gradient flow for point cloud on a manifold**|Seonghyeon Jeong et.al.|[2401.17675](http://arxiv.org/abs/2401.17675)|null|
 |**2024-01-31**|**Image Anything: Towards Reasoning-coherent and Training-free Multi-modal Image Generation**|Yuanhuiyi Lyu et.al.|[2401.17664](http://arxiv.org/abs/2401.17664)|null|
 |**2024-01-31**|**Topology-Aware Latent Diffusion for 3D Shape Generation**|Jiangbei Hu et.al.|[2401.17603](http://arxiv.org/abs/2401.17603)|null|
