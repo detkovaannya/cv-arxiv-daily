@@ -15,9 +15,9 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-02-01**|**Profiling and Modeling of Power Characteristics of Leadership-Scale HPC System Workloads**|Ahmad Maroof Karimi et.al.|[2402.00729](http://arxiv.org/abs/2402.00729)|null|
-|**2024-02-01**|**A Bi-Objective Optimization Based Acquisition Strategy for Batch Bayesian Global Optimization**|Francesco Carciaghi et.al.|[2402.00726](http://arxiv.org/abs/2402.00726)|null|
+|**2024-02-01**|**A Bi-Objective Optimization Based Acquisition Strategy for Batch Bayesian Global Optimization**|Francesco Carciaghi et.al.|[2402.00726](http://arxiv.org/abs/2402.00726)|**[link](https://github.com/francic19/biobj_acquistion_function_for_bo)**|
 |**2024-02-01**|**Comparative Study of Large Language Model Architectures on Frontier**|Junqi Yin et.al.|[2402.00691](http://arxiv.org/abs/2402.00691)|null|
-|**2024-02-01**|**Revising Apetrei's bounding volume hierarchy construction algorithm to allow stackless traversal**|Andrey Prokopenko et.al.|[2402.00665](http://arxiv.org/abs/2402.00665)|null|
+|**2024-02-01**|**Revising Apetrei's bounding volume hierarchy construction algorithm to allow stackless traversal**|Andrey Prokopenko et.al.|[2402.00665](http://arxiv.org/abs/2402.00665)|**[link](https://github.com/arborx/ArborX)**|
 |**2024-02-01**|**The spectral boundary of the Asymmetric Simple Exclusion Process (ASEP) -- free fermions, Bethe ansatz and random matrix theory**|Goran Nakerst et.al.|[2402.00662](http://arxiv.org/abs/2402.00662)|null|
 |**2024-02-01**|**The X-ray Emission Reveals the Coronal Activities of Semi-detached Binaries**|Junhui Liu et.al.|[2402.00640](http://arxiv.org/abs/2402.00640)|null|
 |**2024-02-01**|**Deep Clustering Using the Soft Silhouette Score: Towards Compact and Well-Separated Clusters**|Georgios Vardakas et.al.|[2402.00608](http://arxiv.org/abs/2402.00608)|null|
