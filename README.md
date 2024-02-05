@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-02**|**Dynamics of Onsager vortex clustering in decaying turbulent polariton quantum fluids**|P. Comaron et.al.|[2402.01637](http://arxiv.org/abs/2402.01637)|null|
+|**2024-02-02**|**Estimating Max-Stable Random Vectors with Discrete Spectral Measure using Model-Based Clustering**|Alexis Boulin et.al.|[2402.01609](http://arxiv.org/abs/2402.01609)|null|
+|**2024-02-02**|**Q-factor: A measure of competition between the topper and the average in percolation and in SOC**|Asim Ghosh et.al.|[2402.01553](http://arxiv.org/abs/2402.01553)|null|
+|**2024-02-02**|**Privacy-Preserving Distributed Learning for Residential Short-Term Load Forecasting**|Yi Dong et.al.|[2402.01546](http://arxiv.org/abs/2402.01546)|**[link](https://github.com/yingjiewangtony/fl-dl)**|
+|**2024-02-02**|**MCXC-II: Second release of the Meta-Catalogue of X-Ray detected Clusters of galaxies**|T. Sadibekova et.al.|[2402.01538](http://arxiv.org/abs/2402.01538)|null|
+|**2024-02-02**|**Big data applications on small quantum computers**|Boniface Yogendran et.al.|[2402.01529](http://arxiv.org/abs/2402.01529)|null|
+|**2024-02-02**|**Non-resonant relaxation of rotating globular clusters**|Kerwann Tep et.al.|[2402.01506](http://arxiv.org/abs/2402.01506)|null|
+|**2024-02-02**|**Query-Efficient Correlation Clustering with Noisy Oracle**|Yuko Kuroki et.al.|[2402.01400](http://arxiv.org/abs/2402.01400)|null|
+|**2024-02-02**|**FedMoE: Data-Level Personalization with Mixture of Experts for Model-Heterogeneous Personalized Federated Learning**|Liping Yi et.al.|[2402.01350](http://arxiv.org/abs/2402.01350)|null|
+|**2024-02-02**|**Adaptive multi-criteria-based load balancing technique for resource allocation in fog-cloud environments**|Ahmed A. A. Gad-Elrab et.al.|[2402.01326](http://arxiv.org/abs/2402.01326)|null|
 |**2024-02-01**|**Profiling and Modeling of Power Characteristics of Leadership-Scale HPC System Workloads**|Ahmad Maroof Karimi et.al.|[2402.00729](http://arxiv.org/abs/2402.00729)|null|
 |**2024-02-01**|**A Bi-Objective Optimization Based Acquisition Strategy for Batch Bayesian Global Optimization**|Francesco Carciaghi et.al.|[2402.00726](http://arxiv.org/abs/2402.00726)|**[link](https://github.com/francic19/biobj_acquistion_function_for_bo)**|
 |**2024-02-01**|**Comparative Study of Large Language Model Architectures on Frontier**|Junqi Yin et.al.|[2402.00691](http://arxiv.org/abs/2402.00691)|null|
@@ -568,6 +578,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-02**|**A general framework for rotation invariant point cloud analysis**|Shuqing Luo et.al.|[2402.01331](http://arxiv.org/abs/2402.01331)|**[link](https://github.com/luoshuqing2001/ri_framework)**|
 |**2024-02-02**|**Optimal Projection for 3D Gaussian Splatting**|Letian Huang et.al.|[2402.00752](http://arxiv.org/abs/2402.00752)|null|
 |**2024-02-01**|**A Framework for Building Point Cloud Cleaning, Plane Detection and Semantic Segmentation**|Ilyass Abouelaziz et.al.|[2402.00692](http://arxiv.org/abs/2402.00692)|null|
 |**2024-02-01**|**Can you see me now? Blind spot estimation for autonomous vehicles using scenario-based simulation with random reference sensors**|Marc Uecker et.al.|[2402.00467](http://arxiv.org/abs/2402.00467)|**[link](https://github.com/pyrestone/numpy_cukd)**|
