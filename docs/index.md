@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-05**|**HASSOD: Hierarchical Adaptive Self-Supervised Object Detection**|Shengcao Cao et.al.|[2402.03311](http://arxiv.org/abs/2402.03311)|null|
+|**2024-02-05**|**GUARD: Role-playing to Generate Natural-language Jailbreakings to Test Guideline Adherence of Large Language Models**|Haibo Jin et.al.|[2402.03299](http://arxiv.org/abs/2402.03299)|null|
+|**2024-02-05**|**The origin of kinematically-persistent planes of satellite galaxies as driven by the early evolution of the local Cosmic Web in $Λ$ CDM**|Matías Gámez-Marín et.al.|[2402.03288](http://arxiv.org/abs/2402.03288)|null|
+|**2024-02-05**|**Event-based Product Carousel Recommendation with Query-Click Graph**|Luyi Ma et.al.|[2402.03277](http://arxiv.org/abs/2402.03277)|null|
+|**2024-02-05**|**Bluesky and the AT Protocol: Usable Decentralized Social Media**|Martin Kleppmann et.al.|[2402.03239](http://arxiv.org/abs/2402.03239)|null|
+|**2024-02-05**|**Dynamical complex networks for understanding motility induced phase separation in Active Brownian Particles**|Italo Salas et.al.|[2402.03228](http://arxiv.org/abs/2402.03228)|null|
+|**2024-02-05**|**Multiple testing using uniform filtering of ordered p-values**|Zhiwen Jiang et.al.|[2402.03192](http://arxiv.org/abs/2402.03192)|null|
+|**2024-02-05**|**Isotropy, Clusters, and Classifiers**|Timothee Mickus et.al.|[2402.03191](http://arxiv.org/abs/2402.03191)|null|
+|**2024-02-05**|**Comparison of Topic Modelling Approaches in the Banking Context**|Bayode Ogunleye et.al.|[2402.03176](http://arxiv.org/abs/2402.03176)|null|
+|**2024-02-05**|**Just Cluster It: An Approach for Exploration in High-Dimensions using Clustering and Pre-Trained Representations**|Stefan Sylvius Wagner et.al.|[2402.03138](http://arxiv.org/abs/2402.03138)|null|
 |**2024-02-02**|**Dynamics of Onsager vortex clustering in decaying turbulent polariton quantum fluids**|P. Comaron et.al.|[2402.01637](http://arxiv.org/abs/2402.01637)|null|
 |**2024-02-02**|**Estimating Max-Stable Random Vectors with Discrete Spectral Measure using Model-Based Clustering**|Alexis Boulin et.al.|[2402.01609](http://arxiv.org/abs/2402.01609)|null|
 |**2024-02-02**|**Q-factor: A measure of competition between the topper and the average in percolation and in SOC**|Asim Ghosh et.al.|[2402.01553](http://arxiv.org/abs/2402.01553)|null|
@@ -572,6 +582,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-05**|**A Lennard-Jones Layer for Distribution Normalization**|Mulun Na et.al.|[2402.03287](http://arxiv.org/abs/2402.03287)|null|
+|**2024-02-05**|**DexDiffuser: Generating Dexterous Grasps with Diffusion Models**|Zehang Weng et.al.|[2402.02989](http://arxiv.org/abs/2402.02989)|null|
+|**2024-02-04**|**Point Cloud Matters: Rethinking the Impact of Different Observation Spaces on Robot Learning**|Haoyi Zhu et.al.|[2402.02500](http://arxiv.org/abs/2402.02500)|null|
+|**2024-02-04**|**Weisfeiler Leman for Euclidean Equivariant Machine Learning**|Snir Hordan et.al.|[2402.02484](http://arxiv.org/abs/2402.02484)|null|
+|**2024-02-03**|**RecNet: An Invertible Point Cloud Encoding through Range Image Embeddings for Multi-Robot Map Sharing and Reconstruction**|Nikolaos Stathoulopoulos et.al.|[2402.02192](http://arxiv.org/abs/2402.02192)|null|
+|**2024-02-03**|**DCS-Net: Pioneering Leakage-Free Point Cloud Pretraining Framework with Global Insights**|Zhe Li et.al.|[2402.02088](http://arxiv.org/abs/2402.02088)|null|
+|**2024-02-02**|**Surface Reconstruction Using Rotation Systems**|Ruiqi Cui et.al.|[2402.01893](http://arxiv.org/abs/2402.01893)|null|
 |**2024-02-02**|**A general framework for rotation invariant point cloud analysis**|Shuqing Luo et.al.|[2402.01331](http://arxiv.org/abs/2402.01331)|**[link](https://github.com/luoshuqing2001/ri_framework)**|
 |**2024-02-02**|**Optimal Projection for 3D Gaussian Splatting**|Letian Huang et.al.|[2402.00752](http://arxiv.org/abs/2402.00752)|null|
 |**2024-02-01**|**A Framework for Building Point Cloud Cleaning, Plane Detection and Semantic Segmentation**|Ilyass Abouelaziz et.al.|[2402.00692](http://arxiv.org/abs/2402.00692)|null|
