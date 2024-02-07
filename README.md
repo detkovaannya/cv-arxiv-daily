@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-06**|**CAST: Clustering Self-Attention using Surrogate Tokens for Efficient Transformers**|Adjorn van Engelenhoven et.al.|[2402.04239](http://arxiv.org/abs/2402.04239)|null|
+|**2024-02-06**|**Scattering images from autocorrelation functions of P-wave seismic velocity images: the case of Tenerife Island (Canary Islands, Spain)**|A. García-Yeguas et.al.|[2402.04179](http://arxiv.org/abs/2402.04179)|null|
+|**2024-02-06**|**The Stellar "Snake" -- II: The Mass Function**|Xiang-Ming Yang et.al.|[2402.04130](http://arxiv.org/abs/2402.04130)|null|
+|**2024-02-06**|**An Exploration of Clustering Algorithms for Customer Segmentation in the UK Retail Market**|Jeen Mary John et.al.|[2402.04103](http://arxiv.org/abs/2402.04103)|null|
+|**2024-02-06**|**iSLAT: the Interactive Spectral-Line Analysis Tool for JWST and beyond**|Evan Jellison et.al.|[2402.04060](http://arxiv.org/abs/2402.04060)|null|
+|**2024-02-06**|**Electric Field Induced Associations in the Double Layer of Salt-in-Ionic-Liquid Electrolytes**|Daniel M. Markiewitz et.al.|[2402.04039](http://arxiv.org/abs/2402.04039)|null|
+|**2024-02-06**|**Low-Distortion Clustering with Ordinal and Limited Cardinal Information**|Jakob Burkhardt et.al.|[2402.04035](http://arxiv.org/abs/2402.04035)|null|
+|**2024-02-06**|**Cosmological constraints from the Chandra-Planck galaxy cluster sample**|G. Aymerich et.al.|[2402.04006](http://arxiv.org/abs/2402.04006)|null|
+|**2024-02-06**|**A Novel Local and Hyper-Local Multicast Services Transmission Scheme for Beyond 5G Networks**|Sweta Singh et.al.|[2402.03963](http://arxiv.org/abs/2402.03963)|null|
+|**2024-02-06**|**Long-term dust dynamics in Didymos and Dimorphos system: production, stability, and transport**|Gustavo Madeira et.al.|[2402.03943](http://arxiv.org/abs/2402.03943)|null|
 |**2024-02-05**|**HASSOD: Hierarchical Adaptive Self-Supervised Object Detection**|Shengcao Cao et.al.|[2402.03311](http://arxiv.org/abs/2402.03311)|null|
 |**2024-02-05**|**GUARD: Role-playing to Generate Natural-language Jailbreakings to Test Guideline Adherence of Large Language Models**|Haibo Jin et.al.|[2402.03299](http://arxiv.org/abs/2402.03299)|null|
 |**2024-02-05**|**The origin of kinematically-persistent planes of satellite galaxies as driven by the early evolution of the local Cosmic Web in $Λ$ CDM**|Matías Gámez-Marín et.al.|[2402.03288](http://arxiv.org/abs/2402.03288)|null|
@@ -588,6 +598,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-06**|**Multilinear Kernel Regression and Imputation via Manifold Learning**|Duc Thien Nguyen et.al.|[2402.03648](http://arxiv.org/abs/2402.03648)|null|
 |**2024-02-05**|**A Lennard-Jones Layer for Distribution Normalization**|Mulun Na et.al.|[2402.03287](http://arxiv.org/abs/2402.03287)|null|
 |**2024-02-05**|**DexDiffuser: Generating Dexterous Grasps with Diffusion Models**|Zehang Weng et.al.|[2402.02989](http://arxiv.org/abs/2402.02989)|null|
 |**2024-02-04**|**Point Cloud Matters: Rethinking the Impact of Different Observation Spaces on Robot Learning**|Haoyi Zhu et.al.|[2402.02500](http://arxiv.org/abs/2402.02500)|null|
