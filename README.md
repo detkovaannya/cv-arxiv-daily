@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-07**|**PriorBoost: An Adaptive Algorithm for Learning from Aggregate Responses**|Adel Javanmard et.al.|[2402.04987](http://arxiv.org/abs/2402.04987)|null|
+|**2024-02-07**|**Beyond explaining: XAI-based Adaptive Learning with SHAP Clustering for Energy Consumption Prediction**|Tobias Clement et.al.|[2402.04982](http://arxiv.org/abs/2402.04982)|null|
+|**2024-02-07**|**Quantum vortex stability in draining fluid flows**|Sam Patrick et.al.|[2402.04961](http://arxiv.org/abs/2402.04961)|null|
+|**2024-02-07**|**Complexity of the (Connected) Cluster Vertex Deletion problem on $H$ -free graphs**|Hoang-Oanh Le et.al.|[2402.04931](http://arxiv.org/abs/2402.04931)|null|
+|**2024-02-07**|**Predicting Interstellar Object Chemodynamics with Gaia**|Matthew J. Hopkins et.al.|[2402.04904](http://arxiv.org/abs/2402.04904)|null|
+|**2024-02-07**|**Leveraging knowledge-as-a-service (KaaS) for QoS-aware resource management in multi-user video transcoding**|Luis Costero et.al.|[2402.04891](http://arxiv.org/abs/2402.04891)|null|
+|**2024-02-07**|**Understanding the Nature of the Ultra-Steep Spectrum Diffuse Radio Source in the Galaxy Cluster Abell 272**|Arthur Whyley et.al.|[2402.04876](http://arxiv.org/abs/2402.04876)|null|
+|**2024-02-07**|**Distinguish dark matter theories with the cosmic web and next-generation surveys I: an alternative theory of gravity**|Pierre Boldrini et.al.|[2402.04837](http://arxiv.org/abs/2402.04837)|null|
+|**2024-02-07**|**Aspect-Based Sentiment Analysis for Open-Ended HR Survey Responses**|Lois Rink et.al.|[2402.04812](http://arxiv.org/abs/2402.04812)|null|
+|**2024-02-07**|**Scalable Multi-view Clustering via Explicit Kernel Features Maps**|Chakib Fettal et.al.|[2402.04794](http://arxiv.org/abs/2402.04794)|null|
 |**2024-02-06**|**CAST: Clustering Self-Attention using Surrogate Tokens for Efficient Transformers**|Adjorn van Engelenhoven et.al.|[2402.04239](http://arxiv.org/abs/2402.04239)|null|
 |**2024-02-06**|**Scattering images from autocorrelation functions of P-wave seismic velocity images: the case of Tenerife Island (Canary Islands, Spain)**|A. García-Yeguas et.al.|[2402.04179](http://arxiv.org/abs/2402.04179)|null|
 |**2024-02-06**|**The Stellar "Snake" -- II: The Mass Function**|Xiang-Ming Yang et.al.|[2402.04130](http://arxiv.org/abs/2402.04130)|null|
@@ -598,6 +608,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-07**|**Tactile Ergodic Control Using Diffusion and Geometric Algebra**|Cem Bilaloglu et.al.|[2402.04862](http://arxiv.org/abs/2402.04862)|null|
+|**2024-02-07**|**Subjective performance evaluation of bitrate allocation strategies for MPEG and JPEG Pleno point cloud compression**|Davi Lazzarotto et.al.|[2402.04760](http://arxiv.org/abs/2402.04760)|null|
+|**2024-02-07**|**LiDAR-Forest Dataset: LiDAR Point Cloud Simulation Dataset for Forestry Application**|Yawen Lu et.al.|[2402.04546](http://arxiv.org/abs/2402.04546)|null|
+|**2024-02-06**|**Breaking Data Silos: Cross-Domain Learning for Multi-Agent Perception from Independent Private Sources**|Jinlong Li et.al.|[2402.04273](http://arxiv.org/abs/2402.04273)|null|
 |**2024-02-06**|**Multilinear Kernel Regression and Imputation via Manifold Learning**|Duc Thien Nguyen et.al.|[2402.03648](http://arxiv.org/abs/2402.03648)|null|
 |**2024-02-05**|**A Lennard-Jones Layer for Distribution Normalization**|Mulun Na et.al.|[2402.03287](http://arxiv.org/abs/2402.03287)|null|
 |**2024-02-05**|**DexDiffuser: Generating Dexterous Grasps with Diffusion Models**|Zehang Weng et.al.|[2402.02989](http://arxiv.org/abs/2402.02989)|null|
