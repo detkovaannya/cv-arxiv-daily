@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-08**|**Horizontal branch structure, age, and chemical composition for very metal-poor extragalactic globular clusters**|M. E. Sharina et.al.|[2402.05922](http://arxiv.org/abs/2402.05922)|null|
+|**2024-02-08**|**Full SED Analysis of z~0.5-6 Lensed Galaxies Detected with Millimeter Observations**|Ryosuke Uematsu et.al.|[2402.05849](http://arxiv.org/abs/2402.05849)|null|
+|**2024-02-08**|**The roles of environment and interactions on the evolution of red and blue galaxies in the EAGLE simulation**|Apashanka Das et.al.|[2402.05788](http://arxiv.org/abs/2402.05788)|null|
+|**2024-02-08**|**Growth history and quasar bias evolution at z < 3 from Quaia**|G. Piccirilli et.al.|[2402.05761](http://arxiv.org/abs/2402.05761)|null|
+|**2024-02-08**|**Phase stability of Ni-Al nanoparticles**|Susana Ramos de Debiaggi et.al.|[2402.05717](http://arxiv.org/abs/2402.05717)|null|
+|**2024-02-08**|**Exact functional integration of radial and complex slave-boson fields: thermodynamics and dynamics of the two-site extended Hubbard model**|V. H. Dao et.al.|[2402.05701](http://arxiv.org/abs/2402.05701)|null|
+|**2024-02-08**|**Evolving AI for Wellness: Dynamic and Personalized Real-time Loneliness Detection Using Passive Sensing**|Malik Muhammad Qirtas et.al.|[2402.05698](http://arxiv.org/abs/2402.05698)|null|
+|**2024-02-08**|**Characterisation of band bricks over certain string algebras and a variant of perfectly clustering words**|Annoy Sengupta et.al.|[2402.05656](http://arxiv.org/abs/2402.05656)|null|
+|**2024-02-08**|**ShiftDTW: adapting the DTW metric for cyclic time series clustering**|Lucas Foulon et.al.|[2402.05631](http://arxiv.org/abs/2402.05631)|null|
+|**2024-02-08**|**Tight Approximation Bounds on a Simple Algorithm for Minimum Average Search Time in Trees**|Svein Høgemo et.al.|[2402.05560](http://arxiv.org/abs/2402.05560)|null|
 |**2024-02-07**|**PriorBoost: An Adaptive Algorithm for Learning from Aggregate Responses**|Adel Javanmard et.al.|[2402.04987](http://arxiv.org/abs/2402.04987)|null|
 |**2024-02-07**|**Beyond explaining: XAI-based Adaptive Learning with SHAP Clustering for Energy Consumption Prediction**|Tobias Clement et.al.|[2402.04982](http://arxiv.org/abs/2402.04982)|null|
 |**2024-02-07**|**Quantum vortex stability in draining fluid flows**|Sam Patrick et.al.|[2402.04961](http://arxiv.org/abs/2402.04961)|null|
@@ -602,8 +612,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-08**|**CREMA: Multimodal Compositional Video Reasoning via Efficient Modular Adaptation and Fusion**|Shoubin Yu et.al.|[2402.05889](http://arxiv.org/abs/2402.05889)|null|
+|**2024-02-08**|**A Concept for Reconstructing Stucco Statues from historic Sketches using synthetic Data only**|Thomas Pöllabauer et.al.|[2402.05593](http://arxiv.org/abs/2402.05593)|null|
+|**2024-02-08**|**Tightly Coupled Range Inertial Localization on a 3D Prior Map Based on Sliding Window Factor Graph Optimization**|Kenji Koide et.al.|[2402.05540](http://arxiv.org/abs/2402.05540)|null|
+|**2024-02-08**|**DiffTOP: Differentiable Trajectory Optimization for Deep Reinforcement and Imitation Learning**|Weikang Wan et.al.|[2402.05421](http://arxiv.org/abs/2402.05421)|null|
+|**2024-02-07**|**Performance analysis of Deep Learning-based Lossy Point Cloud Geometry Compression Coding Solutions**|Joao Prazeres et.al.|[2402.05192](http://arxiv.org/abs/2402.05192)|null|
+|**2024-02-06**|**LtU-ILI: An All-in-One Framework for Implicit Inference in Astrophysics and Cosmology**|Matthew Ho et.al.|[2402.05137](http://arxiv.org/abs/2402.05137)|null|
 |**2024-02-07**|**Tactile Ergodic Control Using Diffusion and Geometric Algebra**|Cem Bilaloglu et.al.|[2402.04862](http://arxiv.org/abs/2402.04862)|null|
-|**2024-02-07**|**Subjective performance evaluation of bitrate allocation strategies for MPEG and JPEG Pleno point cloud compression**|Davi Lazzarotto et.al.|[2402.04760](http://arxiv.org/abs/2402.04760)|null|
+|**2024-02-08**|**Subjective performance evaluation of bitrate allocation strategies for MPEG and JPEG Pleno point cloud compression**|Davi Lazzarotto et.al.|[2402.04760](http://arxiv.org/abs/2402.04760)|null|
 |**2024-02-07**|**LiDAR-Forest Dataset: LiDAR Point Cloud Simulation Dataset for Forestry Application**|Yawen Lu et.al.|[2402.04546](http://arxiv.org/abs/2402.04546)|null|
 |**2024-02-06**|**Breaking Data Silos: Cross-Domain Learning for Multi-Agent Perception from Independent Private Sources**|Jinlong Li et.al.|[2402.04273](http://arxiv.org/abs/2402.04273)|null|
 |**2024-02-06**|**Multilinear Kernel Regression and Imputation via Manifold Learning**|Duc Thien Nguyen et.al.|[2402.03648](http://arxiv.org/abs/2402.03648)|null|
