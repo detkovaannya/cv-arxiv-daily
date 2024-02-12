@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-09**|**Bakry-Émery-Ricci curvature: An alternative network geometry measure in the expanding toolbox of graph Ricci curvatures**|Madhumita Mondal et.al.|[2402.06616](http://arxiv.org/abs/2402.06616)|null|
+|**2024-02-09**|**Coexistence of asynchronous and clustered dynamics in noisy inhibitory neural networks**|Yannick Feld et.al.|[2402.06548](http://arxiv.org/abs/2402.06548)|null|
+|**2024-02-09**|**Isochrone fitting of Galactic globular clusters -- V. NGC6397 and NGC6809 (M55)**|George A. Gontcharov et.al.|[2402.06524](http://arxiv.org/abs/2402.06524)|null|
+|**2024-02-09**|**Benchmarking ionization potentials from pCCD tailored coupled cluster models**|Marta Gałyńska et.al.|[2402.06496](http://arxiv.org/abs/2402.06496)|null|
+|**2024-02-09**|**Inducing Systematicity in Transformers by Attending to Structurally Quantized Embeddings**|Yichen Jiang et.al.|[2402.06492](http://arxiv.org/abs/2402.06492)|**[link](https://github.com/jiangyctarheel/sq-transformer)**|
+|**2024-02-09**|**Heavy element abundances in Galactic Globular Clusters**|J. Schiappacasse-Ulloa et.al.|[2402.06490](http://arxiv.org/abs/2402.06490)|null|
+|**2024-02-09**|**Population Protocols for Exact Plurality Consensus -- How a small chance of failure helps to eliminate insignificant opinions**|Gregor Bankhamer et.al.|[2402.06471](http://arxiv.org/abs/2402.06471)|null|
+|**2024-02-09**|**Physical, chemical and morphological evolution of incipient soot obtained from molecular dynamics simulation of acetylene pyrolysis**|Khaled Mosharraf Mukut et.al.|[2402.06460](http://arxiv.org/abs/2402.06460)|null|
+|**2024-02-09**|**Internal structure of incipient soot from acetylene pyrolysis obtained via molecular dynamics simulations**|Khaled Mosharraf Mukut et.al.|[2402.06456](http://arxiv.org/abs/2402.06456)|null|
+|**2024-02-09**|**Penrose method for Kuramoto model with inertia and noise**|Artem Alexandrov et.al.|[2402.06442](http://arxiv.org/abs/2402.06442)|null|
 |**2024-02-08**|**Horizontal branch structure, age, and chemical composition for very metal-poor extragalactic globular clusters**|M. E. Sharina et.al.|[2402.05922](http://arxiv.org/abs/2402.05922)|null|
 |**2024-02-08**|**Full SED Analysis of z~0.5-6 Lensed Galaxies Detected with Millimeter Observations**|Ryosuke Uematsu et.al.|[2402.05849](http://arxiv.org/abs/2402.05849)|null|
 |**2024-02-08**|**The roles of environment and interactions on the evolution of red and blue galaxies in the EAGLE simulation**|Apashanka Das et.al.|[2402.05788](http://arxiv.org/abs/2402.05788)|null|
@@ -612,6 +622,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-09**|**Transferring facade labels between point clouds with semantic octrees while considering change detection**|Sophia Schwarz et.al.|[2402.06531](http://arxiv.org/abs/2402.06531)|**[link](https://github.com/schwarzsophia/transferring_urban_labels_between_pointclouds)**|
+|**2024-02-09**|**Reconstructing facade details using MLS point clouds and Bag-of-Words approach**|Thomas Froech et.al.|[2402.06521](http://arxiv.org/abs/2402.06521)|**[link](https://github.com/thomasfroech/reconstructingfacadedetailsbow)**|
+|**2024-02-09**|**Classifying point clouds at the facade-level using geometric features and deep learning networks**|Yue Tan et.al.|[2402.06506](http://arxiv.org/abs/2402.06506)|**[link](https://github.com/yue-t99/pointnet2-geometricfeatures-facade)**|
+|**2024-02-09**|**MLS2LoD3: Refining low LoDs building models with MLS point clouds to reconstruct semantic LoD3 building models**|Olaf Wysocki et.al.|[2402.06288](http://arxiv.org/abs/2402.06288)|null|
+|**2024-02-09**|**GS-CLIP: Gaussian Splatting for Contrastive Language-Image-3D Pretraining from Real-World Data**|Haoyuan Li et.al.|[2402.06198](http://arxiv.org/abs/2402.06198)|null|
+|**2024-02-08**|**A versatile robotic hand with 3D perception, force sensing for autonomous manipulation**|Nikolaus Correll et.al.|[2402.06018](http://arxiv.org/abs/2402.06018)|null|
 |**2024-02-08**|**CREMA: Multimodal Compositional Video Reasoning via Efficient Modular Adaptation and Fusion**|Shoubin Yu et.al.|[2402.05889](http://arxiv.org/abs/2402.05889)|null|
 |**2024-02-08**|**A Concept for Reconstructing Stucco Statues from historic Sketches using synthetic Data only**|Thomas Pöllabauer et.al.|[2402.05593](http://arxiv.org/abs/2402.05593)|null|
 |**2024-02-08**|**Tightly Coupled Range Inertial Localization on a 3D Prior Map Based on Sliding Window Factor Graph Optimization**|Kenji Koide et.al.|[2402.05540](http://arxiv.org/abs/2402.05540)|null|
