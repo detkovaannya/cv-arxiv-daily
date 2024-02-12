@@ -42,13 +42,13 @@
 |**2024-02-06**|**Scattering images from autocorrelation functions of P-wave seismic velocity images: the case of Tenerife Island (Canary Islands, Spain)**|A. García-Yeguas et.al.|[2402.04179](http://arxiv.org/abs/2402.04179)|null|
 |**2024-02-06**|**The Stellar "Snake" -- II: The Mass Function**|Xiang-Ming Yang et.al.|[2402.04130](http://arxiv.org/abs/2402.04130)|null|
 |**2024-02-06**|**An Exploration of Clustering Algorithms for Customer Segmentation in the UK Retail Market**|Jeen Mary John et.al.|[2402.04103](http://arxiv.org/abs/2402.04103)|null|
-|**2024-02-06**|**iSLAT: the Interactive Spectral-Line Analysis Tool for JWST and beyond**|Evan Jellison et.al.|[2402.04060](http://arxiv.org/abs/2402.04060)|null|
+|**2024-02-06**|**iSLAT: the Interactive Spectral-Line Analysis Tool for JWST and beyond**|Evan Jellison et.al.|[2402.04060](http://arxiv.org/abs/2402.04060)|**[link](https://github.com/spexod/islat)**|
 |**2024-02-06**|**Electric Field Induced Associations in the Double Layer of Salt-in-Ionic-Liquid Electrolytes**|Daniel M. Markiewitz et.al.|[2402.04039](http://arxiv.org/abs/2402.04039)|null|
 |**2024-02-06**|**Low-Distortion Clustering with Ordinal and Limited Cardinal Information**|Jakob Burkhardt et.al.|[2402.04035](http://arxiv.org/abs/2402.04035)|null|
 |**2024-02-06**|**Cosmological constraints from the Chandra-Planck galaxy cluster sample**|G. Aymerich et.al.|[2402.04006](http://arxiv.org/abs/2402.04006)|null|
 |**2024-02-06**|**A Novel Local and Hyper-Local Multicast Services Transmission Scheme for Beyond 5G Networks**|Sweta Singh et.al.|[2402.03963](http://arxiv.org/abs/2402.03963)|null|
 |**2024-02-06**|**Long-term dust dynamics in Didymos and Dimorphos system: production, stability, and transport**|Gustavo Madeira et.al.|[2402.03943](http://arxiv.org/abs/2402.03943)|null|
-|**2024-02-05**|**HASSOD: Hierarchical Adaptive Self-Supervised Object Detection**|Shengcao Cao et.al.|[2402.03311](http://arxiv.org/abs/2402.03311)|null|
+|**2024-02-05**|**HASSOD: Hierarchical Adaptive Self-Supervised Object Detection**|Shengcao Cao et.al.|[2402.03311](http://arxiv.org/abs/2402.03311)|**[link](https://github.com/shengcao-cao/hassod)**|
 |**2024-02-05**|**GUARD: Role-playing to Generate Natural-language Jailbreakings to Test Guideline Adherence of Large Language Models**|Haibo Jin et.al.|[2402.03299](http://arxiv.org/abs/2402.03299)|null|
 |**2024-02-05**|**The origin of kinematically-persistent planes of satellite galaxies as driven by the early evolution of the local Cosmic Web in $Λ$ CDM**|Matías Gámez-Marín et.al.|[2402.03288](http://arxiv.org/abs/2402.03288)|null|
 |**2024-02-05**|**Event-based Product Carousel Recommendation with Query-Click Graph**|Luyi Ma et.al.|[2402.03277](http://arxiv.org/abs/2402.03277)|null|
@@ -63,7 +63,7 @@
 |**2024-02-02**|**Q-factor: A measure of competition between the topper and the average in percolation and in SOC**|Asim Ghosh et.al.|[2402.01553](http://arxiv.org/abs/2402.01553)|null|
 |**2024-02-02**|**Privacy-Preserving Distributed Learning for Residential Short-Term Load Forecasting**|Yi Dong et.al.|[2402.01546](http://arxiv.org/abs/2402.01546)|**[link](https://github.com/yingjiewangtony/fl-dl)**|
 |**2024-02-02**|**MCXC-II: Second release of the Meta-Catalogue of X-Ray detected Clusters of galaxies**|T. Sadibekova et.al.|[2402.01538](http://arxiv.org/abs/2402.01538)|null|
-|**2024-02-02**|**Big data applications on small quantum computers**|Boniface Yogendran et.al.|[2402.01529](http://arxiv.org/abs/2402.01529)|null|
+|**2024-02-02**|**Big data applications on small quantum computers**|Boniface Yogendran et.al.|[2402.01529](http://arxiv.org/abs/2402.01529)|**[link](https://github.com/boniface316/vqa)**|
 |**2024-02-02**|**Non-resonant relaxation of rotating globular clusters**|Kerwann Tep et.al.|[2402.01506](http://arxiv.org/abs/2402.01506)|null|
 |**2024-02-02**|**Query-Efficient Correlation Clustering with Noisy Oracle**|Yuko Kuroki et.al.|[2402.01400](http://arxiv.org/abs/2402.01400)|null|
 |**2024-02-02**|**FedMoE: Data-Level Personalization with Mixture of Experts for Model-Heterogeneous Personalized Federated Learning**|Liping Yi et.al.|[2402.01350](http://arxiv.org/abs/2402.01350)|null|
@@ -97,7 +97,7 @@
 |**2024-01-30**|**Characterising resource management performance in Kubernetes**|Víctor Medel et.al.|[2401.17125](http://arxiv.org/abs/2401.17125)|null|
 |**2024-01-30**|**Identifying Quality Mersenne Twister Streams For Parallel Stochastic Simulations**|Benjamin Antunes et.al.|[2401.17115](http://arxiv.org/abs/2401.17115)|null|
 |**2024-01-30**|**Exploring Spatial Segregation Induced by Competition Avoidance as Driving Mechanism for Emergent Coexistence in Microbial Communities**|Mattia Mattei et.al.|[2401.17048](http://arxiv.org/abs/2401.17048)|null|
-|**2024-01-30**|**Robust Kernel Sparse Subspace Clustering**|Ivica Kopriva et.al.|[2401.17035](http://arxiv.org/abs/2401.17035)|null|
+|**2024-01-30**|**Robust Kernel Sparse Subspace Clustering**|Ivica Kopriva et.al.|[2401.17035](http://arxiv.org/abs/2401.17035)|**[link](https://github.com/ikopriva/rkssc)**|
 |**2024-01-29**|**SuNeRF: 3D reconstruction of the solar EUV corona using Neural Radiance Fields**|Robert Jarolim et.al.|[2401.16388](http://arxiv.org/abs/2401.16388)|null|
 |**2024-01-29**|**Invariant splitting of a slab into infinitely many robust clusters**|Péter Mester et.al.|[2401.16357](http://arxiv.org/abs/2401.16357)|null|
 |**2024-01-29**|**FedFair^3: Unlocking Threefold Fairness in Federated Learning**|Simin Javaherian et.al.|[2401.16350](http://arxiv.org/abs/2401.16350)|null|
