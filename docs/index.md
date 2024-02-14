@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-13**|**Clustering of primordial black holes from quantum diffusion during inflation**|Chiara Animali et.al.|[2402.08642](http://arxiv.org/abs/2402.08642)|null|
+|**2024-02-13**|**FedLPS: Heterogeneous Federated Learning for Multiple Tasks with Local Parameter Sharing**|Yongzhe Jia et.al.|[2402.08578](http://arxiv.org/abs/2402.08578)|**[link](https://github.com/jyzgh/fedlps)**|
+|**2024-02-13**|**A new framework for calibrating COVID-19 SEIR models with spatial-/time-varying coefficients using genetic and sliding window algorithms**|Huan Zhou et.al.|[2402.08524](http://arxiv.org/abs/2402.08524)|null|
+|**2024-02-13**|**Migration to Microservices: A Comparative Study of Decomposition Strategies and Analysis Metrics**|Meryam chaieb et.al.|[2402.08481](http://arxiv.org/abs/2402.08481)|null|
+|**2024-02-13**|**Parallel-friendly Spatio-Temporal Graph Learning for Photovoltaic Degradation Analysis at Scale**|Yangxin Fan et.al.|[2402.08470](http://arxiv.org/abs/2402.08470)|**[link](https://github.com/yangxin666/st-gtrend)**|
+|**2024-02-13**|**The SRG/eROSITA All-Sky Survey: Tracing the Large-Scale Structure with a clustering study of galaxy clusters**|R. Seppi et.al.|[2402.08460](http://arxiv.org/abs/2402.08460)|null|
+|**2024-02-13**|**The SRG-eROSITA All-Sky Survey : Constraints on f(R) Gravity from Cluster Abundance**|E. Artis et.al.|[2402.08459](http://arxiv.org/abs/2402.08459)|null|
+|**2024-02-13**|**The SRG/eROSITA All-Sky Survey: Cosmology Constraints from Cluster Abundances in the Western Galactic Hemisphere**|V. Ghirardini et.al.|[2402.08458](http://arxiv.org/abs/2402.08458)|null|
+|**2024-02-13**|**The SRG/eROSITA All-Sky Survey: X-ray selection function models for the eRASS1 galaxy cluster cosmology**|N. Clerc et.al.|[2402.08457](http://arxiv.org/abs/2402.08457)|null|
+|**2024-02-13**|**The SRG/eROSITA All-Sky Survey: Weak-Lensing of eRASS1 Galaxy Clusters in KiDS-1000 and Consistency Checks with DES Y3 & HSC-Y3**|Florian Kleinebreil et.al.|[2402.08456](http://arxiv.org/abs/2402.08456)|null|
 |**2024-02-12**|**A systematic investigation of learnability from single child linguistic input**|Yulu Qin et.al.|[2402.07899](http://arxiv.org/abs/2402.07899)|null|
 |**2024-02-12**|**Consistent eccentricities for gravitational wave astronomy: Resolving discrepancies between astrophysical simulations and waveform models**|Aditya Vijaykumar et.al.|[2402.07892](http://arxiv.org/abs/2402.07892)|null|
 |**2024-02-12**|**Label-Efficient Model Selection for Text Generation**|Shir Ashury-Tahan et.al.|[2402.07891](http://arxiv.org/abs/2402.07891)|null|
@@ -632,6 +642,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-13**|**Approximately Piecewise E(3) Equivariant Point Networks**|Matan Atzmon et.al.|[2402.08529](http://arxiv.org/abs/2402.08529)|null|
 |**2024-02-12**|**A Benchmark Grocery Dataset of Realworld Point Clouds From Single View**|Shivanand Venkanna Sheshappanavar et.al.|[2402.07819](http://arxiv.org/abs/2402.07819)|null|
 |**2024-02-12**|**Optimization of Sparse Convolution for 3D-Point Cloud on GPUs with CUDA**|Chester Luo et.al.|[2402.07710](http://arxiv.org/abs/2402.07710)|null|
 |**2024-02-11**|**LISR: Learning Linear 3D Implicit Surface Representation Using Compactly Supported Radial Basis Functions**|Atharva Pandey et.al.|[2402.07301](http://arxiv.org/abs/2402.07301)|null|
