@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-14**|**Effects of physical conditions on the stellar initial mass function: The low-metallicity star-forming region Sh 2-209**|Marie Zinnkann et.al.|[2402.09405](http://arxiv.org/abs/2402.09405)|null|
+|**2024-02-14**|**Limitless FaaS: Overcoming serverless functions execution time limits with invoke driven architecture and memory checkpoints**|Rodrigo Landa Andraca et.al.|[2402.09377](http://arxiv.org/abs/2402.09377)|null|
+|**2024-02-14**|**Mitigating Reward Hacking via Information-Theoretic Reward Modeling**|Yuchun Miao et.al.|[2402.09345](http://arxiv.org/abs/2402.09345)|null|
+|**2024-02-14**|**EcoVal: An Efficient Data Valuation Framework for Machine Learning**|Ayush K Tarun et.al.|[2402.09288](http://arxiv.org/abs/2402.09288)|null|
+|**2024-02-14**|**Smart Cities and Villages: Concept Review and Implementation Perspectives in Developing Cities**|Kamiba I. Kabuya et.al.|[2402.09284](http://arxiv.org/abs/2402.09284)|null|
+|**2024-02-14**|**Proton-proton and proton-cluster femtoscopy at the HADES experiment**|Maria Stefaniak et.al.|[2402.09280](http://arxiv.org/abs/2402.09280)|null|
+|**2024-02-14**|**Insights and caveats from mining local and global temporal motifs in cryptocurrency transaction networks**|Naomi A. Arnold et.al.|[2402.09272](http://arxiv.org/abs/2402.09272)|null|
+|**2024-02-14**|**Identification of cohesive subgroups in a university hall of residence during the COVID-19 pandemic using a social network analysis approach**|Pilar Marqués-Sánchez et.al.|[2402.09213](http://arxiv.org/abs/2402.09213)|null|
+|**2024-02-14**|**Stabilizing Agreement is Impossible in Delayed Message Passing Models**|Stephan Felber et.al.|[2402.09168](http://arxiv.org/abs/2402.09168)|null|
+|**2024-02-14**|**Evolving Restricted Boltzmann Machine-Kohonen Network for Online Clustering**|J. Senthilnath et.al.|[2402.09167](http://arxiv.org/abs/2402.09167)|null|
 |**2024-02-13**|**Clustering of primordial black holes from quantum diffusion during inflation**|Chiara Animali et.al.|[2402.08642](http://arxiv.org/abs/2402.08642)|null|
 |**2024-02-13**|**FedLPS: Heterogeneous Federated Learning for Multiple Tasks with Local Parameter Sharing**|Yongzhe Jia et.al.|[2402.08578](http://arxiv.org/abs/2402.08578)|**[link](https://github.com/jyzgh/fedlps)**|
 |**2024-02-13**|**A new framework for calibrating COVID-19 SEIR models with spatial-/time-varying coefficients using genetic and sliding window algorithms**|Huan Zhou et.al.|[2402.08524](http://arxiv.org/abs/2402.08524)|null|
@@ -642,6 +652,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-14**|**PC-NeRF: Parent-Child Neural Radiance Fields Using Sparse LiDAR Frames in Autonomous Driving Environments**|Xiuzhong Hu et.al.|[2402.09325](http://arxiv.org/abs/2402.09325)|**[link](https://github.com/biter0088/pc-nerf)**|
+|**2024-02-14**|**Headset: Human emotion awareness under partial occlusions multimodal dataset**|Fatemeh Ghorbani Lohesara et.al.|[2402.09107](http://arxiv.org/abs/2402.09107)|null|
+|**2024-02-13**|**Zero Shot Molecular Generation via Similarity Kernels**|Rokas Elijošius et.al.|[2402.08708](http://arxiv.org/abs/2402.08708)|**[link](https://github.com/rokasel/simgen)**|
 |**2024-02-13**|**Approximately Piecewise E(3) Equivariant Point Networks**|Matan Atzmon et.al.|[2402.08529](http://arxiv.org/abs/2402.08529)|null|
 |**2024-02-12**|**A Benchmark Grocery Dataset of Realworld Point Clouds From Single View**|Shivanand Venkanna Sheshappanavar et.al.|[2402.07819](http://arxiv.org/abs/2402.07819)|null|
 |**2024-02-12**|**Optimization of Sparse Convolution for 3D-Point Cloud on GPUs with CUDA**|Chester Luo et.al.|[2402.07710](http://arxiv.org/abs/2402.07710)|null|
