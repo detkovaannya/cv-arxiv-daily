@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-15**|**Bridging Associative Memory and Probabilistic Modeling**|Rylan Schaeffer et.al.|[2402.10202](http://arxiv.org/abs/2402.10202)|null|
+|**2024-02-15**|**Large Scale Constrained Clustering With Reinforcement Learning**|Benedikt Schesch et.al.|[2402.10177](http://arxiv.org/abs/2402.10177)|null|
+|**2024-02-15**|**A chaotic maps-based privacy-preserving distributed deep learning for incomplete and Non-IID datasets**|Irina Arévalo et.al.|[2402.10145](http://arxiv.org/abs/2402.10145)|null|
+|**2024-02-15**|**Transaction Capacity, Security and Latency in Blockchains**|Mustafa Doger et.al.|[2402.10138](http://arxiv.org/abs/2402.10138)|null|
+|**2024-02-15**|**Benchmarking federated strategies in Peer-to-Peer Federated learning for biomedical data**|Jose L. Salmeron et.al.|[2402.10135](http://arxiv.org/abs/2402.10135)|null|
+|**2024-02-15**|**A privacy-preserving, distributed and cooperative FCM-based learning approach for Cancer Research**|Jose L. Salmeron et.al.|[2402.10102](http://arxiv.org/abs/2402.10102)|null|
+|**2024-02-15**|**MIM-Refiner: A Contrastive Learning Boost from Intermediate Pre-Trained Representations**|Benedikt Alkin et.al.|[2402.10093](http://arxiv.org/abs/2402.10093)|**[link](https://github.com/ml-jku/MIM-Refiner)**|
+|**2024-02-15**|**Partial synchrony for free? New bounds for Byzantine agreement via a generic transformation across network models**|Pierre Civit et.al.|[2402.10059](http://arxiv.org/abs/2402.10059)|null|
+|**2024-02-15**|**Investigation of Federated Learning Algorithms for Retinal Optical Coherence Tomography Image Classification with Statistical Heterogeneity**|Sanskar Amgain et.al.|[2402.10035](http://arxiv.org/abs/2402.10035)|null|
+|**2024-02-15**|**Scalability limitations of Kademlia DHTs when enabling Data Availability Sampling in Ethereum**|Mikel Cortes-Goicoechea et.al.|[2402.09993](http://arxiv.org/abs/2402.09993)|null|
 |**2024-02-14**|**Effects of physical conditions on the stellar initial mass function: The low-metallicity star-forming region Sh 2-209**|Marie Zinnkann et.al.|[2402.09405](http://arxiv.org/abs/2402.09405)|null|
 |**2024-02-14**|**Limitless FaaS: Overcoming serverless functions execution time limits with invoke driven architecture and memory checkpoints**|Rodrigo Landa Andraca et.al.|[2402.09377](http://arxiv.org/abs/2402.09377)|null|
 |**2024-02-14**|**Mitigating Reward Hacking via Information-Theoretic Reward Modeling**|Yuchun Miao et.al.|[2402.09345](http://arxiv.org/abs/2402.09345)|null|
@@ -652,6 +662,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-15**|**MM-Point: Multi-View Information-Enhanced Multi-Modal Self-Supervised 3D Point Cloud Understanding**|Hai-Tao Yu et.al.|[2402.10002](http://arxiv.org/abs/2402.10002)|**[link](https://github.com/haydenyu/mm-point)**|
+|**2024-02-15**|**Reg-NF: Efficient Registration of Implicit Surfaces within Neural Fields**|Stephen Hausler et.al.|[2402.09722](http://arxiv.org/abs/2402.09722)|null|
 |**2024-02-14**|**PC-NeRF: Parent-Child Neural Radiance Fields Using Sparse LiDAR Frames in Autonomous Driving Environments**|Xiuzhong Hu et.al.|[2402.09325](http://arxiv.org/abs/2402.09325)|**[link](https://github.com/biter0088/pc-nerf)**|
 |**2024-02-14**|**Headset: Human emotion awareness under partial occlusions multimodal dataset**|Fatemeh Ghorbani Lohesara et.al.|[2402.09107](http://arxiv.org/abs/2402.09107)|null|
 |**2024-02-13**|**Zero Shot Molecular Generation via Similarity Kernels**|Rokas Elijošius et.al.|[2402.08708](http://arxiv.org/abs/2402.08708)|**[link](https://github.com/rokasel/simgen)**|
