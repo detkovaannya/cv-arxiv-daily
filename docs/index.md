@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-16**|**AbacusPNG: A modest set of simulations of local-type primordial non-Gaussianity in the DESI era**|Boryana Hadzhiyska et.al.|[2402.10881](http://arxiv.org/abs/2402.10881)|null|
+|**2024-02-16**|**Accelerating Sparse DNNs Based on Tiled GEMM**|Cong Guo et.al.|[2402.10876](http://arxiv.org/abs/2402.10876)|null|
+|**2024-02-16**|**Discovering and exploring cases of educational source code plagiarism with Dolos**|Rien Maertens et.al.|[2402.10853](http://arxiv.org/abs/2402.10853)|null|
+|**2024-02-16**|**FedD2S: Personalized Data-Free Federated Knowledge Distillation**|Kawa Atapour et.al.|[2402.10846](http://arxiv.org/abs/2402.10846)|null|
+|**2024-02-16**|**Iterative embedding and reweighting of complex networks reveals community structure**|Bianka Kovács et.al.|[2402.10813](http://arxiv.org/abs/2402.10813)|null|
+|**2024-02-16**|**AIM: Automated Input Set Minimization for Metamorphic Security Testing**|Nazanin Bayati Chaleshtari et.al.|[2402.10773](http://arxiv.org/abs/2402.10773)|null|
+|**2024-02-16**|**Towards Cohesion-Fairness Harmony: Contrastive Regularization in Individual Fair Graph Clustering**|Siamak Ghodsi et.al.|[2402.10756](http://arxiv.org/abs/2402.10756)|**[link](https://github.com/siamakghodsi/ifairnmtf)**|
+|**2024-02-16**|**Black-Hole-to-Halo Mass Relation From UNIONS Weak Lensing**|Qinxun Li et.al.|[2402.10740](http://arxiv.org/abs/2402.10740)|null|
+|**2024-02-16**|**${\tt maria}$ : A novel simulator for forecasting (sub-)mm observations**|J. van Marrewijk et.al.|[2402.10731](http://arxiv.org/abs/2402.10731)|null|
+|**2024-02-16**|**Molecular isotopologue measurements toward super star clusters and the relation to their ages in NGC253 with ALCHEMI**|J. Butterworth et.al.|[2402.10721](http://arxiv.org/abs/2402.10721)|null|
 |**2024-02-15**|**Bridging Associative Memory and Probabilistic Modeling**|Rylan Schaeffer et.al.|[2402.10202](http://arxiv.org/abs/2402.10202)|null|
 |**2024-02-15**|**Large Scale Constrained Clustering With Reinforcement Learning**|Benedikt Schesch et.al.|[2402.10177](http://arxiv.org/abs/2402.10177)|null|
 |**2024-02-15**|**A chaotic maps-based privacy-preserving distributed deep learning for incomplete and Non-IID datasets**|Irina Arévalo et.al.|[2402.10145](http://arxiv.org/abs/2402.10145)|null|
@@ -662,6 +672,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-16**|**Multi-Model 3D Registration: Finding Multiple Moving Objects in Cluttered Point Clouds**|David Jin et.al.|[2402.10865](http://arxiv.org/abs/2402.10865)|null|
+|**2024-02-16**|**PointMamba: A Simple State Space Model for Point Cloud Analysis**|Dingkang Liang et.al.|[2402.10739](http://arxiv.org/abs/2402.10739)|null|
+|**2024-02-15**|**Evaluating NeRFs for 3D Plant Geometry Reconstruction in Field Conditions**|Muhammad Arbab Arshad et.al.|[2402.10344](http://arxiv.org/abs/2402.10344)|null|
 |**2024-02-15**|**MM-Point: Multi-View Information-Enhanced Multi-Modal Self-Supervised 3D Point Cloud Understanding**|Hai-Tao Yu et.al.|[2402.10002](http://arxiv.org/abs/2402.10002)|**[link](https://github.com/haydenyu/mm-point)**|
 |**2024-02-15**|**Reg-NF: Efficient Registration of Implicit Surfaces within Neural Fields**|Stephen Hausler et.al.|[2402.09722](http://arxiv.org/abs/2402.09722)|null|
 |**2024-02-14**|**PC-NeRF: Parent-Child Neural Radiance Fields Using Sparse LiDAR Frames in Autonomous Driving Environments**|Xiuzhong Hu et.al.|[2402.09325](http://arxiv.org/abs/2402.09325)|**[link](https://github.com/biter0088/pc-nerf)**|
