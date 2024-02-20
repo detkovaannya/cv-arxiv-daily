@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-19**|**Graph-Based Retriever Captures the Long Tail of Biomedical Knowledge**|Julien Delile et.al.|[2402.12352](http://arxiv.org/abs/2402.12352)|null|
+|**2024-02-19**|**Asymptotic Gaussian Fluctuations of Eigenvectors in Spectral Clustering**|Hugo Lebeau et.al.|[2402.12302](http://arxiv.org/abs/2402.12302)|null|
+|**2024-02-19**|**Designing and Prototyping Extensions to MPI in MPICH**|Hui Zhou et.al.|[2402.12274](http://arxiv.org/abs/2402.12274)|null|
+|**2024-02-19**|**Exact Ansatz of Fermion-Boson Systems for a Quantum Device**|Samuel Warren et.al.|[2402.12273](http://arxiv.org/abs/2402.12273)|null|
+|**2024-02-19**|**Analysis of Persian News Agencies on Instagram, A Words Co-occurrence Graph-based Approach**|Mohammad Heydari et.al.|[2402.12272](http://arxiv.org/abs/2402.12272)|null|
+|**2024-02-19**|**Secure Federated Learning Across Heterogeneous Cloud and High-Performance Computing Resources -- A Case Study on Federated Fine-tuning of LLaMA 2**|Zilinghan Li et.al.|[2402.12271](http://arxiv.org/abs/2402.12271)|null|
+|**2024-02-19**|**On the Byzantine-Resilience of Distillation-Based Federated Learning**|Christophe Roux et.al.|[2402.12265](http://arxiv.org/abs/2402.12265)|**[link](https://github.com/zib-iol/feddistill)**|
+|**2024-02-19**|**Low-mass Runaways from the Orion Nebula Cluster -- Kinematic Age Constraints on Star Cluster Formation**|Muhammad Fajrin et.al.|[2402.12258](http://arxiv.org/abs/2402.12258)|null|
+|**2024-02-19**|**Kernel KMeans clustering splits for end-to-end unsupervised decision trees**|Louis Ohl et.al.|[2402.12232](http://arxiv.org/abs/2402.12232)|null|
+|**2024-02-19**|**Self-organized clustering, prediction, and superposition of long-term cognitive decline from short-term individual cognitive test scores in Alzheimer's disease**|Hiroyuki Sato et.al.|[2402.12205](http://arxiv.org/abs/2402.12205)|null|
 |**2024-02-16**|**AbacusPNG: A modest set of simulations of local-type primordial non-Gaussianity in the DESI era**|Boryana Hadzhiyska et.al.|[2402.10881](http://arxiv.org/abs/2402.10881)|null|
 |**2024-02-16**|**Accelerating Sparse DNNs Based on Tiled GEMM**|Cong Guo et.al.|[2402.10876](http://arxiv.org/abs/2402.10876)|null|
 |**2024-02-16**|**Discovering and exploring cases of educational source code plagiarism with Dolos**|Rien Maertens et.al.|[2402.10853](http://arxiv.org/abs/2402.10853)|null|
@@ -672,6 +682,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-19**|**Open3DSG: Open-Vocabulary 3D Scene Graphs from Point Clouds with Queryable Objects and Open-Set Relationships**|Sebastian Koch et.al.|[2402.12259](http://arxiv.org/abs/2402.12259)|null|
+|**2024-02-19**|**Pushing Auto-regressive Models for 3D Shape Generation at Capacity and Scalability**|Xuelin Qian et.al.|[2402.12225](http://arxiv.org/abs/2402.12225)|null|
+|**2024-02-19**|**Perceiving Longer Sequences With Bi-Directional Cross-Attention Transformers**|Markus Hiller et.al.|[2402.12138](http://arxiv.org/abs/2402.12138)|null|
+|**2024-02-19**|**Towards Explainable LiDAR Point Cloud Semantic Segmentation via Gradient Based Target Localization**|Abhishek Kuriyal et.al.|[2402.12098](http://arxiv.org/abs/2402.12098)|**[link](https://github.com/geoai4cities/pgs-cam)**|
+|**2024-02-19**|**Real-time 3D Semantic Scene Perception for Egocentric Robots with Binocular Vision**|K. Nguyen et.al.|[2402.11872](http://arxiv.org/abs/2402.11872)|null|
+|**2024-02-18**|**3D Point Cloud Compression with Recurrent Neural Network and Image Compression Methods**|Till Beemelmanns et.al.|[2402.11680](http://arxiv.org/abs/2402.11680)|**[link](https://github.com/ika-rwth-aachen/point-cloud-compression)**|
+|**2024-02-18**|**MultiCorrupt: A Multi-Modal Robustness Dataset and Benchmark of LiDAR-Camera Fusion for 3D Object Detection**|Till Beemelmanns et.al.|[2402.11677](http://arxiv.org/abs/2402.11677)|**[link](https://github.com/ika-rwth-aachen/multicorrupt)**|
+|**2024-02-17**|**Hierarchical Prior-based Super Resolution for Point Cloud Geometry Compression**|Dingquan Li et.al.|[2402.11250](http://arxiv.org/abs/2402.11250)|**[link](https://github.com/lidq92/mpeg-pcc-tmc13)**|
+|**2024-02-17**|**DiffPoint: Single and Multi-view Point Cloud Reconstruction with ViT Based Diffusion Model**|Yu Feng et.al.|[2402.11241](http://arxiv.org/abs/2402.11241)|null|
+|**2024-02-16**|**GIM: Learning Generalizable Image Matcher From Internet Videos**|Xuelun Shen et.al.|[2402.11095](http://arxiv.org/abs/2402.11095)|null|
 |**2024-02-16**|**Multi-Model 3D Registration: Finding Multiple Moving Objects in Cluttered Point Clouds**|David Jin et.al.|[2402.10865](http://arxiv.org/abs/2402.10865)|null|
 |**2024-02-16**|**PointMamba: A Simple State Space Model for Point Cloud Analysis**|Dingkang Liang et.al.|[2402.10739](http://arxiv.org/abs/2402.10739)|null|
 |**2024-02-15**|**Evaluating NeRFs for 3D Plant Geometry Reconstruction in Field Conditions**|Muhammad Arbab Arshad et.al.|[2402.10344](http://arxiv.org/abs/2402.10344)|null|
