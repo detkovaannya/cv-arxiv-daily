@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-20**|**Chemical abundances and ionizing mechanisms in the star-forming double-ring of AM 0644-741 using MUSE data**|V. M. A. Gómez-González et.al.|[2402.13230](http://arxiv.org/abs/2402.13230)|null|
+|**2024-02-20**|**European VLBI Network observations of the peculiar radio source 4C 35.06 overlapping with a compact group of nine galaxies**|Patrik Milán Veres et.al.|[2402.13207](http://arxiv.org/abs/2402.13207)|null|
+|**2024-02-20**|**Integrating Blockchain technology within an Information Ecosystem**|Francesco Salzano et.al.|[2402.13191](http://arxiv.org/abs/2402.13191)|null|
+|**2024-02-20**|**Force-free identification of minimum-energy pathways and transition states for stochastic electronic structure theories**|Gopal R. Iyer et.al.|[2402.13189](http://arxiv.org/abs/2402.13189)|null|
+|**2024-02-20**|**Order-Optimal Regret in Distributed Kernel Bandits using Uniform Sampling with Shared Randomness**|Nikola Pavlovic et.al.|[2402.13182](http://arxiv.org/abs/2402.13182)|null|
+|**2024-02-20**|**Clustered Planarity Variants for Level Graphs**|Simon D. Fink et.al.|[2402.13153](http://arxiv.org/abs/2402.13153)|null|
+|**2024-02-20**|**A Systematic Literature Review on Task Allocation and Performance Management Techniques in Cloud Data Center**|Nidhika Chauhan et.al.|[2402.13135](http://arxiv.org/abs/2402.13135)|null|
+|**2024-02-20**|**Faster and Deterministic Subtrajectory Clustering**|Ivor van der Hoog et.al.|[2402.13117](http://arxiv.org/abs/2402.13117)|null|
+|**2024-02-20**|**Efficient Enumeration of Large Maximal k-Plexes**|Qihao Cheng et.al.|[2402.13008](http://arxiv.org/abs/2402.13008)|null|
+|**2024-02-20**|**Data Unfolding with Mean Integrated Square Error Optimization**|Nikolay D. Gagunashvili et.al.|[2402.12990](http://arxiv.org/abs/2402.12990)|null|
 |**2024-02-19**|**Graph-Based Retriever Captures the Long Tail of Biomedical Knowledge**|Julien Delile et.al.|[2402.12352](http://arxiv.org/abs/2402.12352)|null|
 |**2024-02-19**|**Asymptotic Gaussian Fluctuations of Eigenvectors in Spectral Clustering**|Hugo Lebeau et.al.|[2402.12302](http://arxiv.org/abs/2402.12302)|null|
 |**2024-02-19**|**Designing and Prototyping Extensions to MPI in MPICH**|Hui Zhou et.al.|[2402.12274](http://arxiv.org/abs/2402.12274)|null|
@@ -688,6 +698,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-20**|**See Further Than CFAR: a Data-Driven Radar Detector Trained by Lidar**|Ignacio Roldan et.al.|[2402.12970](http://arxiv.org/abs/2402.12970)|null|
+|**2024-02-20**|**Advancements in Point Cloud-Based 3D Defect Detection and Classification for Industrial Systems: A Comprehensive Survey**|Anju Rani et.al.|[2402.12923](http://arxiv.org/abs/2402.12923)|null|
+|**2024-02-19**|**Locality-Sensitive Hashing-Based Efficient Point Transformer with Applications in High-Energy Physics**|Siqi Miao et.al.|[2402.12535](http://arxiv.org/abs/2402.12535)|null|
+|**2024-02-19**|**Scalable Human-Machine Point Cloud Compression**|Mateen Ulhaq et.al.|[2402.12532](http://arxiv.org/abs/2402.12532)|null|
 |**2024-02-19**|**Open3DSG: Open-Vocabulary 3D Scene Graphs from Point Clouds with Queryable Objects and Open-Set Relationships**|Sebastian Koch et.al.|[2402.12259](http://arxiv.org/abs/2402.12259)|null|
 |**2024-02-19**|**Pushing Auto-regressive Models for 3D Shape Generation at Capacity and Scalability**|Xuelin Qian et.al.|[2402.12225](http://arxiv.org/abs/2402.12225)|null|
 |**2024-02-19**|**Perceiving Longer Sequences With Bi-Directional Cross-Attention Transformers**|Markus Hiller et.al.|[2402.12138](http://arxiv.org/abs/2402.12138)|null|
