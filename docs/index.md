@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-21**|**Particle detection performance and Geant4 simulation with low-cost CMOS technology**|M. Bonnett Del Alamo et.al.|[2402.13993](http://arxiv.org/abs/2402.13993)|null|
+|**2024-02-21**|**FedADMM-InSa: An Inexact and Self-Adaptive ADMM for Federated Learning**|Yongcun Song et.al.|[2402.13989](http://arxiv.org/abs/2402.13989)|null|
+|**2024-02-21**|**On Distributed Computation of the Minimum Triangle Edge Transversal**|Keren Censor-Hillel et.al.|[2402.13985](http://arxiv.org/abs/2402.13985)|null|
+|**2024-02-21**|**Evaluating Ground State Energies of Chemical Systems with Low-Depth Quantum Circuits and High Accuracy**|Shuo Sun et.al.|[2402.13960](http://arxiv.org/abs/2402.13960)|null|
+|**2024-02-21**|**Reference Energies for Valence Ionizations and Satellite Transitions**|Antoine Marie et.al.|[2402.13877](http://arxiv.org/abs/2402.13877)|null|
+|**2024-02-21**|**VL-Trojan: Multimodal Instruction Backdoor Attacks against Autoregressive Visual Language Models**|Jiawei Liang et.al.|[2402.13851](http://arxiv.org/abs/2402.13851)|null|
+|**2024-02-21**|**Multi-Agent Online Graph Exploration on Cycles and Tadpole Graphs**|Erik van den Akker et.al.|[2402.13845](http://arxiv.org/abs/2402.13845)|null|
+|**2024-02-21**|**Identifying Unnecessary 3D Gaussians using Clustering for Fast Rendering of 3D Gaussian Splatting**|Joongho Jo et.al.|[2402.13827](http://arxiv.org/abs/2402.13827)|null|
+|**2024-02-21**|**Preserving Near-Optimal Gradient Sparsification Cost for Scalable Distributed Deep Learning**|Daegun Yoon et.al.|[2402.13781](http://arxiv.org/abs/2402.13781)|**[link](https://github.com/kljp/exdyna)**|
+|**2024-02-21**|**Efficient timing jitter simulation for passively mode-locked semiconductor lasers**|Stefan Meinecke et.al.|[2402.13780](http://arxiv.org/abs/2402.13780)|null|
 |**2024-02-20**|**Chemical abundances and ionizing mechanisms in the star-forming double-ring of AM 0644-741 using MUSE data**|V. M. A. Gómez-González et.al.|[2402.13230](http://arxiv.org/abs/2402.13230)|null|
 |**2024-02-20**|**European VLBI Network observations of the peculiar radio source 4C 35.06 overlapping with a compact group of nine galaxies**|Patrik Milán Veres et.al.|[2402.13207](http://arxiv.org/abs/2402.13207)|null|
 |**2024-02-20**|**Integrating Blockchain technology within an Information Ecosystem**|Francesco Salzano et.al.|[2402.13191](http://arxiv.org/abs/2402.13191)|null|
@@ -692,6 +702,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-21**|**A Ray Launching Approach for Computing Exact Paths with Point Clouds**|Niklas Vaara et.al.|[2402.13747](http://arxiv.org/abs/2402.13747)|null|
+|**2024-02-20**|**Aria Everyday Activities Dataset**|Zhaoyang Lv et.al.|[2402.13349](http://arxiv.org/abs/2402.13349)|**[link](https://github.com/facebookresearch/projectaria_tools)**|
 |**2024-02-20**|**See Further Than CFAR: a Data-Driven Radar Detector Trained by Lidar**|Ignacio Roldan et.al.|[2402.12970](http://arxiv.org/abs/2402.12970)|null|
 |**2024-02-20**|**Advancements in Point Cloud-Based 3D Defect Detection and Classification for Industrial Systems: A Comprehensive Survey**|Anju Rani et.al.|[2402.12923](http://arxiv.org/abs/2402.12923)|null|
 |**2024-02-19**|**Locality-Sensitive Hashing-Based Efficient Point Transformer with Applications in High-Energy Physics**|Siqi Miao et.al.|[2402.12535](http://arxiv.org/abs/2402.12535)|null|
