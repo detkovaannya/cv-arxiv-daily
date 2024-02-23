@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-22**|**Disjointness of inertial KMS states and the role of Lorentz symmetry in thermalization**|Albert Georg Passegger et.al.|[2402.14794](http://arxiv.org/abs/2402.14794)|null|
+|**2024-02-22**|**Antisymmetric galaxy cross-correlations in and beyond $Λ$ CDM**|Eleonora Vanzan et.al.|[2402.14782](http://arxiv.org/abs/2402.14782)|null|
+|**2024-02-22**|**Internal magnetic field structures observed by PSP/WISPR in a filament related coronal mass ejection**|G. M. Cappello et.al.|[2402.14682](http://arxiv.org/abs/2402.14682)|null|
+|**2024-02-22**|**Neutron-nucleus dynamics simulations for quantum computers**|Soorya Rethinasamy et.al.|[2402.14680](http://arxiv.org/abs/2402.14680)|null|
+|**2024-02-22**|**Distributed Radiance Fields for Edge Video Compression and Metaverse Integration in Autonomous Driving**|Eugen Šlapak et.al.|[2402.14642](http://arxiv.org/abs/2402.14642)|null|
+|**2024-02-22**|**latrend: A Framework for Clustering Longitudinal Data**|Niek Den Teuling et.al.|[2402.14621](http://arxiv.org/abs/2402.14621)|null|
+|**2024-02-22**|**Seer: Proactive Revenue-Aware Scheduling for Live Streaming Services in Crowdsourced Cloud-Edge Platforms**|Shaoyuan Huang et.al.|[2402.14619](http://arxiv.org/abs/2402.14619)|null|
+|**2024-02-22**|**Toward Scalable Docker-Based Emulations of Blockchain Networks for Research and Development**|Diego Pennino et.al.|[2402.14610](http://arxiv.org/abs/2402.14610)|null|
+|**2024-02-22**|**The role of gap junctions and clustered connectivity in emergent synchronisation patterns of inhibitory neuronal networks**|Hélène Todd et.al.|[2402.14592](http://arxiv.org/abs/2402.14592)|null|
+|**2024-02-22**|**Self-supervised Visualisation of Medical Image Datasets**|Ifeoma Veronica Nwabufo et.al.|[2402.14566](http://arxiv.org/abs/2402.14566)|**[link](https://github.com/berenslab/medical-t-simcne)**|
 |**2024-02-21**|**Particle detection performance and Geant4 simulation with low-cost CMOS technology**|M. Bonnett Del Alamo et.al.|[2402.13993](http://arxiv.org/abs/2402.13993)|null|
 |**2024-02-21**|**FedADMM-InSa: An Inexact and Self-Adaptive ADMM for Federated Learning**|Yongcun Song et.al.|[2402.13989](http://arxiv.org/abs/2402.13989)|null|
 |**2024-02-21**|**On Distributed Computation of the Minimum Triangle Edge Transversal**|Keren Censor-Hillel et.al.|[2402.13985](http://arxiv.org/abs/2402.13985)|null|
@@ -708,12 +718,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-22**|**GaussianPro: 3D Gaussian Splatting with Progressive Propagation**|Kai Cheng et.al.|[2402.14650](http://arxiv.org/abs/2402.14650)|null|
+|**2024-02-22**|**S^2Former-OR: Single-Stage Bimodal Transformer for Scene Graph Generation in OR**|Jialun Pei et.al.|[2402.14461](http://arxiv.org/abs/2402.14461)|null|
+|**2024-02-22**|**Swin3D++: Effective Multi-Source Pretraining for 3D Indoor Scene Understanding**|Yu-Qi Yang et.al.|[2402.14215](http://arxiv.org/abs/2402.14215)|**[link](https://github.com/microsoft/swin3d)**|
 |**2024-02-21**|**A Ray Launching Approach for Computing Exact Paths with Point Clouds**|Niklas Vaara et.al.|[2402.13747](http://arxiv.org/abs/2402.13747)|null|
-|**2024-02-20**|**Aria Everyday Activities Dataset**|Zhaoyang Lv et.al.|[2402.13349](http://arxiv.org/abs/2402.13349)|**[link](https://github.com/facebookresearch/projectaria_tools)**|
+|**2024-02-22**|**Aria Everyday Activities Dataset**|Zhaoyang Lv et.al.|[2402.13349](http://arxiv.org/abs/2402.13349)|**[link](https://github.com/facebookresearch/projectaria_tools)**|
 |**2024-02-20**|**See Further Than CFAR: a Data-Driven Radar Detector Trained by Lidar**|Ignacio Roldan et.al.|[2402.12970](http://arxiv.org/abs/2402.12970)|null|
 |**2024-02-20**|**Advancements in Point Cloud-Based 3D Defect Detection and Classification for Industrial Systems: A Comprehensive Survey**|Anju Rani et.al.|[2402.12923](http://arxiv.org/abs/2402.12923)|null|
-|**2024-02-19**|**Locality-Sensitive Hashing-Based Efficient Point Transformer with Applications in High-Energy Physics**|Siqi Miao et.al.|[2402.12535](http://arxiv.org/abs/2402.12535)|null|
-|**2024-02-19**|**Scalable Human-Machine Point Cloud Compression**|Mateen Ulhaq et.al.|[2402.12532](http://arxiv.org/abs/2402.12532)|null|
+|**2024-02-19**|**Locality-Sensitive Hashing-Based Efficient Point Transformer with Applications in High-Energy Physics**|Siqi Miao et.al.|[2402.12535](http://arxiv.org/abs/2402.12535)|**[link](https://github.com/graph-com/hept)**|
+|**2024-02-22**|**Scalable Human-Machine Point Cloud Compression**|Mateen Ulhaq et.al.|[2402.12532](http://arxiv.org/abs/2402.12532)|null|
 |**2024-02-19**|**Open3DSG: Open-Vocabulary 3D Scene Graphs from Point Clouds with Queryable Objects and Open-Set Relationships**|Sebastian Koch et.al.|[2402.12259](http://arxiv.org/abs/2402.12259)|null|
 |**2024-02-19**|**Pushing Auto-regressive Models for 3D Shape Generation at Capacity and Scalability**|Xuelin Qian et.al.|[2402.12225](http://arxiv.org/abs/2402.12225)|null|
 |**2024-02-19**|**Perceiving Longer Sequences With Bi-Directional Cross-Attention Transformers**|Markus Hiller et.al.|[2402.12138](http://arxiv.org/abs/2402.12138)|null|
