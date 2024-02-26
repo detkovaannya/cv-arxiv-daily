@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-23**|**Super Caldero--Chapoton map for type $A$**|İlke Çanakçı et.al.|[2402.15495](http://arxiv.org/abs/2402.15495)|null|
+|**2024-02-23**|**Decoding the Pulse of Community during Disasters: Resilience Analysis Based on Fluctuations in Latent Lifestyle Signatures within Human Visitation Networks**|Junwei Ma et.al.|[2402.15434](http://arxiv.org/abs/2402.15434)|null|
+|**2024-02-23**|**Universal Lower Bounds and Optimal Rates: Achieving Minimax Clustering Error in Sub-Exponential Mixture Models**|Maximilien Dreveton et.al.|[2402.15432](http://arxiv.org/abs/2402.15432)|null|
+|**2024-02-23**|**Uncertainty Quantification in Atomistic Simulations of Silicon using Interatomic Potentials**|I. R. Best et.al.|[2402.15419](http://arxiv.org/abs/2402.15419)|null|
+|**2024-02-23**|**The Impact of LoRA on the Emergence of Clusters in Transformers**|Hugo Koubbi et.al.|[2402.15415](http://arxiv.org/abs/2402.15415)|**[link](https://github.com/HugoKoubbi/Transformers-2024-LoRA)**|
+|**2024-02-23**|**Detailed Report on the Measurement of the Positive Muon Anomalous Magnetic Moment to 0.20 ppm**|D. P. Aguillard et.al.|[2402.15410](http://arxiv.org/abs/2402.15410)|null|
+|**2024-02-23**|**Quantum robustness of the toric code in a parallel field on the honeycomb and triangular lattice**|V. Kott et.al.|[2402.15389](http://arxiv.org/abs/2402.15389)|null|
+|**2024-02-23**|**Identifying probabilistic weather regimes targeted to a local-scale impact variable**|Fiona Raphaela Spuler et.al.|[2402.15379](http://arxiv.org/abs/2402.15379)|null|
+|**2024-02-23**|**Worldline Monte Carlo method for few body nuclear physics**|Shailesh Chandrasekharan et.al.|[2402.15377](http://arxiv.org/abs/2402.15377)|null|
+|**2024-02-23**|**Portable acceleration of CMS computing workflows with coprocessors as a service**|CMS Collaboration et.al.|[2402.15366](http://arxiv.org/abs/2402.15366)|null|
 |**2024-02-22**|**Disjointness of inertial KMS states and the role of Lorentz symmetry in thermalization**|Albert Georg Passegger et.al.|[2402.14794](http://arxiv.org/abs/2402.14794)|null|
 |**2024-02-22**|**Antisymmetric galaxy cross-correlations in and beyond $Λ$ CDM**|Eleonora Vanzan et.al.|[2402.14782](http://arxiv.org/abs/2402.14782)|null|
 |**2024-02-22**|**Internal magnetic field structures observed by PSP/WISPR in a filament related coronal mass ejection**|G. M. Cappello et.al.|[2402.14682](http://arxiv.org/abs/2402.14682)|null|
@@ -718,6 +728,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-23**|**CLIPPER+: A Fast Maximal Clique Algorithm for Robust Global Registration**|Kaveh Fathian et.al.|[2402.15464](http://arxiv.org/abs/2402.15464)|null|
+|**2024-02-23**|**Mixup Barcodes: Quantifying Geometric-Topological Interactions between Point Clouds**|Hubert Wagner et.al.|[2402.15058](http://arxiv.org/abs/2402.15058)|null|
 |**2024-02-22**|**GaussianPro: 3D Gaussian Splatting with Progressive Propagation**|Kai Cheng et.al.|[2402.14650](http://arxiv.org/abs/2402.14650)|null|
 |**2024-02-22**|**S^2Former-OR: Single-Stage Bimodal Transformer for Scene Graph Generation in OR**|Jialun Pei et.al.|[2402.14461](http://arxiv.org/abs/2402.14461)|null|
 |**2024-02-22**|**Swin3D++: Effective Multi-Source Pretraining for 3D Indoor Scene Understanding**|Yu-Qi Yang et.al.|[2402.14215](http://arxiv.org/abs/2402.14215)|**[link](https://github.com/microsoft/swin3d)**|
