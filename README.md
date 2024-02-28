@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-27**|**Analyzing Regional Organization of the Human Hippocampus in 3D-PLI Using Contrastive Learning and Geometric Unfolding**|Alexander Oberstrass et.al.|[2402.17744](http://arxiv.org/abs/2402.17744)|null|
+|**2024-02-27**|**Attention-based Neural Network Emulators for Multi-Probe Data Vectors Part I: Forecasting the Growth-Geometry split**|Kunhao Zhong et.al.|[2402.17716](http://arxiv.org/abs/2402.17716)|null|
+|**2024-02-27**|**Cluster Scanning: a novel approach to resonance searches**|Ivan Oleksiyuk et.al.|[2402.17714](http://arxiv.org/abs/2402.17714)|null|
+|**2024-02-27**|**Highly-Efficient Persistent FIFO Queues**|Panagiota Fatourou et.al.|[2402.17674](http://arxiv.org/abs/2402.17674)|null|
+|**2024-02-27**|**SoK: Cryptocurrency Wallets -- A Security Review and Classification based on Authentication Factors**|Ivan Homoliak et.al.|[2402.17659](http://arxiv.org/abs/2402.17659)|null|
+|**2024-02-27**|**Navigator: A Decentralized Scheduler for Latency-Sensitive ML Workflows**|Yuting Yang et.al.|[2402.17652](http://arxiv.org/abs/2402.17652)|null|
+|**2024-02-27**|**Recurrent chaotic clustering and slow chaos in adaptive networks**|Matheus Rolim Sales et.al.|[2402.17646](http://arxiv.org/abs/2402.17646)|null|
+|**2024-02-27**|**Extrapolating the projected potential of gravitational lens models: property-preserving degeneracies**|Jori Liesenborgs et.al.|[2402.17591](http://arxiv.org/abs/2402.17591)|null|
+|**2024-02-27**|**PLReMix: Combating Noisy Labels with Pseudo-Label Relaxed Contrastive Representation Learning**|Xiaoyu Liu et.al.|[2402.17589](http://arxiv.org/abs/2402.17589)|null|
+|**2024-02-27**|**CosmoMIA: Cosmic Web-based redshift space halo distribution**|Daniel Forero-Sánchez et.al.|[2402.17581](http://arxiv.org/abs/2402.17581)|null|
 |**2024-02-26**|**Label Learning Method Based on Tensor Projection**|Jing Li et.al.|[2402.16544](http://arxiv.org/abs/2402.16544)|null|
 |**2024-02-26**|**Cluster Counting Algorithm for Drift Chamber using LSTM and DGCNN**|Zhefei Tian et.al.|[2402.16493](http://arxiv.org/abs/2402.16493)|null|
 |**2024-02-26**|**Exploratory Landscape Analysis for Mixed-Variable Problems**|Raphael Patrick Prager et.al.|[2402.16467](http://arxiv.org/abs/2402.16467)|null|
@@ -738,6 +748,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-27**|**ShapeLLM: Universal 3D Object Understanding for Embodied Interaction**|Zekun Qi et.al.|[2402.17766](http://arxiv.org/abs/2402.17766)|null|
+|**2024-02-27**|**Geometric Deep Learning for Computer-Aided Design: A Survey**|Negar Heidari et.al.|[2402.17695](http://arxiv.org/abs/2402.17695)|null|
+|**2024-02-27**|**CAD-SIGNet: CAD Language Inference from Point Clouds using Layer-wise Sketch Instance Guided Attention**|Mohammad Sadil Khan et.al.|[2402.17678](http://arxiv.org/abs/2402.17678)|null|
+|**2024-02-27**|**AVS-Net: Point Sampling with Adaptive Voxel Size for 3D Point Cloud Analysis**|Hongcheng Yang et.al.|[2402.17521](http://arxiv.org/abs/2402.17521)|null|
+|**2024-02-27**|**Generative 3D Part Assembly via Part-Whole-Hierarchy Message Passing**|Bi'an Du et.al.|[2402.17464](http://arxiv.org/abs/2402.17464)|**[link](https://github.com/pkudba/3dhpa)**|
+|**2024-02-27**|**VastGaussian: Vast 3D Gaussians for Large Scene Reconstruction**|Jiaqi Lin et.al.|[2402.17427](http://arxiv.org/abs/2402.17427)|null|
+|**2024-02-27**|**Coupled Laplacian Eigenmaps for Locally-Aware 3D Rigid Point Cloud Matching**|Matteo Bastico et.al.|[2402.17372](http://arxiv.org/abs/2402.17372)|**[link](https://github.com/matteo-bastico/coupledlaplacian)**|
+|**2024-02-27**|**CAPT: Category-level Articulation Estimation from a Single Point Cloud Using Transformer**|Lian Fu et.al.|[2402.17360](http://arxiv.org/abs/2402.17360)|null|
+|**2024-02-27**|**Explicit Interaction for Fusion-Based Place Recognition**|Jingyi Xu et.al.|[2402.17264](http://arxiv.org/abs/2402.17264)|**[link](https://github.com/bit-xjy/einet)**|
+|**2024-02-27**|**LiveHPS: LiDAR-based Scene-level Human Pose and Shape Estimation in Free Environment**|Yiming Ren et.al.|[2402.17171](http://arxiv.org/abs/2402.17171)|null|
 |**2024-02-26**|**Online Efficient Safety-Critical Control for Mobile Robots in Unknown Dynamic Multi-Obstacle Environments**|Yu Zhang et.al.|[2402.16449](http://arxiv.org/abs/2402.16449)|null|
 |**2024-02-26**|**SeqTrack3D: Exploring Sequence Information for Robust 3D Point Cloud Tracking**|Yu Lin et.al.|[2402.16249](http://arxiv.org/abs/2402.16249)|null|
 |**2024-02-25**|**Equivariant Frames and the Impossibility of Continuous Canonicalization**|Nadav Dym et.al.|[2402.16077](http://arxiv.org/abs/2402.16077)|null|
