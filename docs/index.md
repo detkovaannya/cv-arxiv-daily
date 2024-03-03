@@ -16,8 +16,8 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-02-29**|**SeMoLi: What Moves Together Belongs Together**|Jenny Seidenschwarz et.al.|[2402.19463](http://arxiv.org/abs/2402.19463)|null|
 |**2024-02-29**|**In-beam performance of a Resistive Plate Chamber operated with eco-friendly gas mixtures**|L. Quaglia et.al.|[2402.19408](http://arxiv.org/abs/2402.19408)|null|
-|**2024-02-29**|**Not flexible enough? Impacts of electric carsharing on a power sector with variable renewables**|Adeline Guéret et.al.|[2402.19380](http://arxiv.org/abs/2402.19380)|null|
-|**2024-02-29**|**Arrow Matrix Decomposition: A Novel Approach for Communication-Efficient Sparse Matrix Multiplication**|Lukas Gianinazzi et.al.|[2402.19364](http://arxiv.org/abs/2402.19364)|null|
+|**2024-02-29**|**Not flexible enough? Impacts of electric carsharing on a power sector with variable renewables**|Adeline Guéret et.al.|[2402.19380](http://arxiv.org/abs/2402.19380)|**[link](https://gitlab.com/diw-evu/electric-carsharing)**|
+|**2024-02-29**|**Arrow Matrix Decomposition: A Novel Approach for Communication-Efficient Sparse Matrix Multiplication**|Lukas Gianinazzi et.al.|[2402.19364](http://arxiv.org/abs/2402.19364)|**[link](https://github.com/spcl/arrow-matrix)**|
 |**2024-02-29**|**Attacks Against Mobility Prediction in 5G Networks**|Syafiq Al Atiiq et.al.|[2402.19319](http://arxiv.org/abs/2402.19319)|null|
 |**2024-02-29**|**$\mathrm{SL}_2$ -like Properties of Matrices Over Noncommutative Rings and Generalizations of Markov Numbers**|Zachary Greenberg et.al.|[2402.19300](http://arxiv.org/abs/2402.19300)|null|
 |**2024-02-29**|**Degradation Modeling and Prognostic Analysis Under Unknown Failure Modes**|Ying Fu et.al.|[2402.19294](http://arxiv.org/abs/2402.19294)|**[link](https://github.com/yingfuu/progunknownfms)**|
@@ -765,7 +765,7 @@ layout: default
 |**2024-02-29**|**StiefelGen: A Simple, Model Agnostic Approach for Time Series Data Augmentation over Riemannian Manifolds**|Prasad Cheema et.al.|[2402.19287](http://arxiv.org/abs/2402.19287)|null|
 |**2024-02-29**|**T3DNet: Compressing Point Cloud Models for Lightweight 3D Recognition**|Zhiyuan Yang et.al.|[2402.19264](http://arxiv.org/abs/2402.19264)|null|
 |**2024-02-29**|**Weakly Supervised Monocular 3D Detection with a Single-View Image**|Xueying Jiang et.al.|[2402.19144](http://arxiv.org/abs/2402.19144)|null|
-|**2024-02-29**|**DMSA -- Dense Multi Scan Adjustment for LiDAR Inertial Odometry and Global Optimization**|David Skuddis et.al.|[2402.19044](http://arxiv.org/abs/2402.19044)|null|
+|**2024-02-29**|**DMSA -- Dense Multi Scan Adjustment for LiDAR Inertial Odometry and Global Optimization**|David Skuddis et.al.|[2402.19044](http://arxiv.org/abs/2402.19044)|**[link](https://github.com/davidskdds/dmsa_lidar_slam)**|
 |**2024-02-29**|**RELEAD: Resilient Localization with Enhanced LiDAR Odometry in Adverse Environments**|Zhiqiang Chen et.al.|[2402.18934](http://arxiv.org/abs/2402.18934)|null|
 |**2024-02-28**|**Articulated Object Manipulation with Coarse-to-fine Affordance for Mitigating the Effect of Point Cloud Noise**|Suhan Ling et.al.|[2402.18699](http://arxiv.org/abs/2402.18699)|null|
 |**2024-02-28**|**SD-SLAM: A Semantic SLAM Approach for Dynamic Scenes Based on LiDAR Point Clouds**|Feiya Li et.al.|[2402.18318](http://arxiv.org/abs/2402.18318)|null|
