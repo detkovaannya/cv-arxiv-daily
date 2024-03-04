@@ -30,7 +30,7 @@
 |**2024-02-29**|**Deep Mapper Graph and its Application to Visualize Plausible Pathways on High-Dimensional Distribution with Small Time-Complexity**|Ziyad Oulhaj et.al.|[2402.19177](http://arxiv.org/abs/2402.19177)|null|
 |**2024-02-28**|**On the Age Calibration of Open Clusters using Red Clump Stars**|Abigail R. Chriss et.al.|[2402.18538](http://arxiv.org/abs/2402.18538)|null|
 |**2024-02-28**|**Do galaxy mergers prefer under-dense environments?**|U. Sureshkumar et.al.|[2402.18520](http://arxiv.org/abs/2402.18520)|null|
-|**2024-02-28**|**Libfork: portable continuation-stealing with stackless coroutines**|Conor John Williams et.al.|[2402.18480](http://arxiv.org/abs/2402.18480)|null|
+|**2024-02-28**|**Libfork: portable continuation-stealing with stackless coroutines**|Conor John Williams et.al.|[2402.18480](http://arxiv.org/abs/2402.18480)|**[link](https://github.com/conorwilliams/libfork)**|
 |**2024-02-28**|**NewsQs: Multi-Source Question Generation for the Inquiring Mind**|Alyssa Hwang et.al.|[2402.18479](http://arxiv.org/abs/2402.18479)|null|
 |**2024-02-28**|**Implementing Online Reinforcement Learning with Clustering Neural Networks**|James E. Smith et.al.|[2402.18472](http://arxiv.org/abs/2402.18472)|null|
 |**2024-02-28**|**Dissecting a miniature universe: A multi-wavelength view of galaxy quenching in the Shapley supercluster**|N. Aghanim et.al.|[2402.18455](http://arxiv.org/abs/2402.18455)|null|
@@ -229,7 +229,7 @@
 |**2024-02-01**|**Structure determination of alkali trimers on helium nanodroplets through laser-induced Coulomb explosion**|Lorenz Kranabetter et.al.|[2402.00587](http://arxiv.org/abs/2402.00587)|null|
 |**2024-02-01**|**Quasi-perpendicular shocks of galaxy clusters in hybrid kinetic simulations: The structure of the shocks**|S. S. Boula et.al.|[2402.00571](http://arxiv.org/abs/2402.00571)|null|
 |**2024-01-31**|**Neural Locality Sensitive Hashing for Entity Blocking**|Runhui Wang et.al.|[2401.18064](http://arxiv.org/abs/2401.18064)|null|
-|**2024-01-31**|**RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval**|Parth Sarthi et.al.|[2401.18059](http://arxiv.org/abs/2401.18059)|null|
+|**2024-01-31**|**RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval**|Parth Sarthi et.al.|[2401.18059](http://arxiv.org/abs/2401.18059)|**[link](https://github.com/parthsarthi03/RAPTOR)**|
 |**2024-01-31**|**Makinote: An FPGA-Based HW/SW Platform for Pre-Silicon Emulation of RISC-V Designs**|Elias Perdomo et.al.|[2401.17984](http://arxiv.org/abs/2401.17984)|null|
 |**2024-01-31**|**Intra-community link formation and modularity in ultracold growing hyperbolic networks**|Sámuel G. Balogh et.al.|[2401.17983](http://arxiv.org/abs/2401.17983)|null|
 |**2024-01-31**|**XGBoostPP: Tree-based Estimation of Point Process Intensity Functions**|C. Lu et.al.|[2401.17966](http://arxiv.org/abs/2401.17966)|null|
@@ -269,13 +269,13 @@
 |**2024-01-26**|**The Machine Vision Iceberg Explained: Advancing Dynamic Testing by Considering Holistic Environmental Circumstances**|Hubert Padusinski et.al.|[2401.14831](http://arxiv.org/abs/2401.14831)|null|
 |**2024-01-26**|**Clustering Longitudinal Ordinal Data via Finite Mixture of Matrix-Variate Distributions**|Francesco Amato et.al.|[2401.14827](http://arxiv.org/abs/2401.14827)|null|
 |**2024-01-25**|**Clustering-based spatial interpolation of parametric post-processing models**|Sándor Baran et.al.|[2401.14393](http://arxiv.org/abs/2401.14393)|null|
-|**2024-01-25**|**MoE-Infinity: Activation-Aware Expert Offloading for Efficient MoE Serving**|Leyang Xue et.al.|[2401.14361](http://arxiv.org/abs/2401.14361)|null|
+|**2024-01-25**|**MoE-Infinity: Activation-Aware Expert Offloading for Efficient MoE Serving**|Leyang Xue et.al.|[2401.14361](http://arxiv.org/abs/2401.14361)|**[link](https://github.com/torchmoe/moe-infinity)**|
 |**2024-01-25**|**ServerlessLLM: Locality-Enhanced Serverless Inference for Large Language Models**|Yao Fu et.al.|[2401.14351](http://arxiv.org/abs/2401.14351)|null|
 |**2024-01-25**|**Theory of Acoustic Polarons in the Two-Dimensional SSH Model Applied to the Layered Superatomic Semiconductor Re6Se8Cl2**|Petra Shih et.al.|[2401.14312](http://arxiv.org/abs/2401.14312)|null|
 |**2024-01-25**|**CHIRON: Accelerating Node Synchronization without Security Trade-offs in Distributed Ledgers**|Ray Neiheiser et.al.|[2401.14278](http://arxiv.org/abs/2401.14278)|null|
 |**2024-01-25**|**On mission Twitter Profiles: A Study of Selective Toxic Behavior**|Hina Qayyum et.al.|[2401.14252](http://arxiv.org/abs/2401.14252)|null|
 |**2024-01-25**|**Exploring the time axis within medium-modified jets**|Liliana Apolinário et.al.|[2401.14229](http://arxiv.org/abs/2401.14229)|null|
-|**2024-01-25**|**Communication-Efficient Federated Learning through Adaptive Weight Clustering and Server-Side Distillation**|Vasileios Tsouvalas. Aaqib Saeed et.al.|[2401.14211](http://arxiv.org/abs/2401.14211)|null|
+|**2024-01-25**|**Communication-Efficient Federated Learning through Adaptive Weight Clustering and Server-Side Distillation**|Vasileios Tsouvalas. Aaqib Saeed et.al.|[2401.14211](http://arxiv.org/abs/2401.14211)|**[link](https://github.com/FederatedML/FedCompress)**|
 |**2024-01-25**|**Adapting tree-based multiple imputation methods for multi-level data? A simulation study**|Ketevan Gurtskaia et.al.|[2401.14161](http://arxiv.org/abs/2401.14161)|null|
 |**2024-01-25**|**Enabling Cross-Camera Collaboration for Video Analytics on Distributed Smart Cameras**|Chulhong Min et.al.|[2401.14132](http://arxiv.org/abs/2401.14132)|null|
 |**2024-01-24**|**Enabling Seamless Data Security, Consensus, and Trading in Vehicular Networks**|Emanuel Vieira et.al.|[2401.13630](http://arxiv.org/abs/2401.13630)|null|
@@ -662,7 +662,7 @@
 |**2023-11-27**|**The Common Workflow Scheduler Interface: Status Quo and Future Plans**|Fabian Lehmann et.al.|[2311.15929](http://arxiv.org/abs/2311.15929)|null|
 |**2023-11-27**|**Mass reconstruction and noise reduction with cosmic-web environments**|Feng Fang et.al.|[2311.15903](http://arxiv.org/abs/2311.15903)|null|
 |**2023-11-24**|**A Sparse Factor Model for Clustering High-Dimensional Longitudinal Data**|Zihang Lu et.al.|[2311.14655](http://arxiv.org/abs/2311.14655)|null|
-|**2023-11-24**|**ARIA: On the interaction between Architectures, Aggregation methods and Initializations in federated visual classification**|Vasilis Siomos et.al.|[2311.14625](http://arxiv.org/abs/2311.14625)|null|
+|**2023-11-24**|**ARIA: On the interaction between Architectures, Aggregation methods and Initializations in federated visual classification**|Vasilis Siomos et.al.|[2311.14625](http://arxiv.org/abs/2311.14625)|**[link](https://github.com/siomvas/ARIA)**|
 |**2023-11-24**|**Towards a Peer-to-Peer Data Distribution Layer for Efficient and Collaborative Resource Optimization of Distributed Dataflow Applications**|Dominik Scheinert et.al.|[2311.14600](http://arxiv.org/abs/2311.14600)|null|
 |**2023-11-24**|**GN-z11: witnessing the formation of second generation stars and an accreting massive black hole in a massive star cluster**|F. D'Antona et.al.|[2311.14558](http://arxiv.org/abs/2311.14558)|null|
 |**2023-11-24**|**A Chandra Survey of Milky Way Globular Clusters -- IV. Periodic X-ray sources**|Tong Bao et.al.|[2311.14511](http://arxiv.org/abs/2311.14511)|null|
@@ -1020,7 +1020,7 @@
 |**2023-12-14**|**A Local Appearance Model for Volumetric Capture of Diverse Hairstyle**|Ziyan Wang et.al.|[2312.08679](http://arxiv.org/abs/2312.08679)|null|
 |**2023-12-14**|**SPEAL: Skeletal Prior Embedded Attention Learning for Cross-Source Point Cloud Registration**|Kezheng Xiong et.al.|[2312.08664](http://arxiv.org/abs/2312.08664)|null|
 |**2023-12-13**|**SAM-guided Graph Cut for 3D Instance Segmentation**|Haoyu Guo et.al.|[2312.08372](http://arxiv.org/abs/2312.08372)|null|
-|**2023-12-13**|**PTT: Point-Trajectory Transformer for Efficient Temporal 3D Object Detection**|Kuan-Chih Huang et.al.|[2312.08371](http://arxiv.org/abs/2312.08371)|null|
+|**2023-12-13**|**PTT: Point-Trajectory Transformer for Efficient Temporal 3D Object Detection**|Kuan-Chih Huang et.al.|[2312.08371](http://arxiv.org/abs/2312.08371)|**[link](https://github.com/kuanchihhuang/ptt)**|
 |**2023-12-13**|**Beyond the Label Itself: Latent Labels Enhance Semi-supervised Point Cloud Panoptic Segmentation**|Yujun Chen et.al.|[2312.08234](http://arxiv.org/abs/2312.08234)|null|
 |**2023-12-13**|**Partial Symmetry Detection for 3D Geometry using Contrastive Learning with Geodesic Point Cloud Patches**|Gregor Kobsik et.al.|[2312.08230](http://arxiv.org/abs/2312.08230)|null|
 |**2023-12-13**|**Optimal convergence rates for the spectrum of the graph Laplacian on Poisson point clouds**|Scott Armstrong et.al.|[2312.08149](http://arxiv.org/abs/2312.08149)|null|
@@ -1146,7 +1146,7 @@
 |**2023-11-19**|**On the stability of the filtration functions for weakly dependent data with applications to structural break detection**|Johannes Krebs et.al.|[2311.11259](http://arxiv.org/abs/2311.11259)|null|
 |**2023-11-18**|**Diverse Shape Completion via Style Modulated Generative Adversarial Networks**|Wesley Khademi et.al.|[2311.11184](http://arxiv.org/abs/2311.11184)|null|
 |**2023-11-17**|**Point Cloud Self-supervised Learning via 3D to Multi-view Masked Autoencoder**|Zhimin Chen et.al.|[2311.10887](http://arxiv.org/abs/2311.10887)|**[link](https://github.com/zhimin-c/multiview-mae)**|
-|**2023-11-17**|**Domain Generalization of 3D Object Detection by Density-Resampling**|Shuangzhi Li et.al.|[2311.10845](http://arxiv.org/abs/2311.10845)|null|
+|**2023-11-17**|**Domain Generalization of 3D Object Detection by Density-Resampling**|Shuangzhi Li et.al.|[2311.10845](http://arxiv.org/abs/2311.10845)|**[link](https://github.com/xingyu-group/3d-density-resampling-sdg)**|
 |**2023-11-17**|**Phase Guided Light Field for Spatial-Depth High Resolution 3D Imaging**|Geyou Zhang et.al.|[2311.10568](http://arxiv.org/abs/2311.10568)|null|
 |**2023-11-16**|**Algebraic Topological Networks via the Persistent Local Homology Sheaf**|Gabriele Cesa et.al.|[2311.10156](http://arxiv.org/abs/2311.10156)|null|
 |**2023-11-16**|**DeepEMD: A Transformer-based Fast Estimation of the Earth Mover's Distance**|Atul Kumar Sinha et.al.|[2311.09998](http://arxiv.org/abs/2311.09998)|**[link](https://github.com/atulkumarin/deepemd)**|
