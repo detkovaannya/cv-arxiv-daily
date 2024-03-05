@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-02**|**Mitigating the Bias in the Model for Continual Test-Time Adaptation**|Inseop Chung et.al.|[2403.01344](http://arxiv.org/abs/2403.01344)|null|
+|**2024-03-02**|**Disconnectivity graphs for visualizing combinatorial optimization problems: challenges of embedding to Ising machines**|Dmitrii Dobrynin et.al.|[2403.01320](http://arxiv.org/abs/2403.01320)|null|
+|**2024-03-02**|**Rate-limited Shuffling for Distributed Computing**|Shanuja Sasi et.al.|[2403.01296](http://arxiv.org/abs/2403.01296)|null|
+|**2024-03-02**|**Anomalous mass dependency in Hydra endoderm cell cluster diffusion**|Aline Lütz et.al.|[2403.01294](http://arxiv.org/abs/2403.01294)|null|
+|**2024-03-02**|**Summary Paper: Use Case on Building Collaborative Safe Autonomous Systems-A Robotdog for Guiding Visually Impaired People**|Aman Malhotra et.al.|[2403.01286](http://arxiv.org/abs/2403.01286)|null|
+|**2024-03-02**|**Enhancing Audio Generation Diversity with Visual Information**|Zeyu Xie et.al.|[2403.01278](http://arxiv.org/abs/2403.01278)|null|
+|**2024-03-02**|**Network analysis using Krylov subspace trajectories**|H. Robert Frost et.al.|[2403.01269](http://arxiv.org/abs/2403.01269)|null|
+|**2024-03-02**|**Defending Against Data Reconstruction Attacks in Federated Learning: An Information Theory Approach**|Qi Tan et.al.|[2403.01268](http://arxiv.org/abs/2403.01268)|null|
+|**2024-03-02**|**GSL-LPA: Fast Label Propagation Algorithm (LPA) for Community Detection with no Internally-Disconnected Communities**|Subhajit Sahu et.al.|[2403.01261](http://arxiv.org/abs/2403.01261)|null|
+|**2024-03-02**|**HeteGen: Heterogeneous Parallel Inference for Large Language Models on Resource-Constrained Devices**|Xuanlei Zhao et.al.|[2403.01164](http://arxiv.org/abs/2403.01164)|null|
 |**2024-02-29**|**SeMoLi: What Moves Together Belongs Together**|Jenny Seidenschwarz et.al.|[2402.19463](http://arxiv.org/abs/2402.19463)|null|
 |**2024-02-29**|**In-beam performance of a Resistive Plate Chamber operated with eco-friendly gas mixtures**|L. Quaglia et.al.|[2402.19408](http://arxiv.org/abs/2402.19408)|null|
 |**2024-02-29**|**Not flexible enough? Impacts of electric carsharing on a power sector with variable renewables**|Adeline Guéret et.al.|[2402.19380](http://arxiv.org/abs/2402.19380)|**[link](https://gitlab.com/diw-evu/electric-carsharing)**|
@@ -762,6 +772,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-02**|**TUMTraf V2X Cooperative Perception Dataset**|Walter Zimmer et.al.|[2403.01316](http://arxiv.org/abs/2403.01316)|null|
+|**2024-03-02**|**MPIPN: A Multi Physics-Informed PointNet for solving parametric acoustic-structure systems**|Chu Wang et.al.|[2403.01132](http://arxiv.org/abs/2403.01132)|null|
+|**2024-03-02**|**Dynamic 3D Point Cloud Sequences as 2D Videos**|Yiming Zeng et.al.|[2403.01129](http://arxiv.org/abs/2403.01129)|null|
+|**2024-03-01**|**Point Could Mamba: Point Cloud Learning via State Space Model**|Tao Zhang et.al.|[2403.00762](http://arxiv.org/abs/2403.00762)|**[link](https://github.com/zhang-tao-whu/pcm)**|
+|**2024-03-01**|**Advancing Additive Manufacturing through Deep Learning: A Comprehensive Review of Current Progress and Future Challenges**|Amirul Islam Saimon et.al.|[2403.00669](http://arxiv.org/abs/2403.00669)|null|
+|**2024-03-01**|**Rethinking Few-shot 3D Point Cloud Semantic Segmentation**|Zhaochong An et.al.|[2403.00592](http://arxiv.org/abs/2403.00592)|**[link](https://github.com/Na-Z/attMPTI)**|
+|**2024-03-01**|**Lincoln's Annotated Spatio-Temporal Strawberry Dataset (LAST-Straw)**|Katherine Margaret Frances James et.al.|[2403.00566](http://arxiv.org/abs/2403.00566)|null|
+|**2024-03-01**|**Distributed Persistent Homology for 2D Alpha Complexes**|Freya Jensen et.al.|[2403.00445](http://arxiv.org/abs/2403.00445)|null|
+|**2024-03-01**|**Assessing objective quality metrics for JPEG and MPEG point cloud coding**|Davi Lazzarotto et.al.|[2403.00410](http://arxiv.org/abs/2403.00410)|null|
+|**2024-03-01**|**Small, Versatile and Mighty: A Range-View Perception Framework**|Qiang Meng et.al.|[2403.00325](http://arxiv.org/abs/2403.00325)|null|
 |**2024-02-29**|**StiefelGen: A Simple, Model Agnostic Approach for Time Series Data Augmentation over Riemannian Manifolds**|Prasad Cheema et.al.|[2402.19287](http://arxiv.org/abs/2402.19287)|null|
 |**2024-02-29**|**T3DNet: Compressing Point Cloud Models for Lightweight 3D Recognition**|Zhiyuan Yang et.al.|[2402.19264](http://arxiv.org/abs/2402.19264)|null|
 |**2024-02-29**|**Weakly Supervised Monocular 3D Detection with a Single-View Image**|Xueying Jiang et.al.|[2402.19144](http://arxiv.org/abs/2402.19144)|null|
