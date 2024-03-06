@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-05**|**How much information can be extracted from galaxy clustering at the field level?**|Nhat-Minh Nguyen et.al.|[2403.03220](http://arxiv.org/abs/2403.03220)|null|
+|**2024-03-05**|**Behavior Generation with Latent Actions**|Seungjae Lee et.al.|[2403.03181](http://arxiv.org/abs/2403.03181)|**[link](https://github.com/jayLEE0301/vq_bet_official)**|
+|**2024-03-05**|**Searching for globular clusters in the inner halo of the Circinus galaxy**|C. O. Obasi et.al.|[2403.03177](http://arxiv.org/abs/2403.03177)|null|
+|**2024-03-05**|**Leveraging Federated Learning and Edge Computing for Recommendation Systems within Cloud Computing Networks**|Yaqian Qi et.al.|[2403.03165](http://arxiv.org/abs/2403.03165)|null|
+|**2024-03-05**|**Statistical modeling of equilibrium phase transition in confined fluids**|Gunjan Auti et.al.|[2403.03162](http://arxiv.org/abs/2403.03162)|null|
+|**2024-03-05**|**Rethinking Clustered Federated Learning in NOMA Enhanced Wireless Networks**|Yushen Lin et.al.|[2403.03157](http://arxiv.org/abs/2403.03157)|null|
+|**2024-03-05**|**Robust Federated Learning Mitigates Client-side Training Data Distribution Inference Attacks**|Yichang Xu et.al.|[2403.03149](http://arxiv.org/abs/2403.03149)|null|
+|**2024-03-05**|**A novel methodological framework for the analysis of health trajectories and survival outcomes in heart failure patients**|Juliette Murris et.al.|[2403.03138](http://arxiv.org/abs/2403.03138)|null|
+|**2024-03-05**|**Data Nuggets: A Method for Reducing Big Data While Preserving Data Structure**|Traymon E. Beavers et.al.|[2403.03099](http://arxiv.org/abs/2403.03099)|null|
+|**2024-03-05**|**Physical Properties and Kinematics of Dense Cores Associated with Regions of Massive Star Formation from the Southern Sky**|L. E. Pirogov et.al.|[2403.03074](http://arxiv.org/abs/2403.03074)|null|
 |**2024-03-02**|**Mitigating the Bias in the Model for Continual Test-Time Adaptation**|Inseop Chung et.al.|[2403.01344](http://arxiv.org/abs/2403.01344)|null|
 |**2024-03-02**|**Disconnectivity graphs for visualizing combinatorial optimization problems: challenges of embedding to Ising machines**|Dmitrii Dobrynin et.al.|[2403.01320](http://arxiv.org/abs/2403.01320)|null|
 |**2024-03-02**|**Rate-limited Shuffling for Distributed Computing**|Shanuja Sasi et.al.|[2403.01296](http://arxiv.org/abs/2403.01296)|null|
@@ -772,6 +782,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-05**|**Are Dense Labels Always Necessary for 3D Object Detection from Point Cloud?**|Chenqiang Gao et.al.|[2403.02818](http://arxiv.org/abs/2403.02818)|null|
+|**2024-03-05**|**HUNTER: Unsupervised Human-centric 3D Detection via Transferring Knowledge from Synthetic Instances to Real Scenes**|Yichen Yao et.al.|[2403.02769](http://arxiv.org/abs/2403.02769)|null|
+|**2024-03-05**|**Splat-Nav: Safe Real-Time Robot Navigation in Gaussian Splatting Maps**|Timothy Chen et.al.|[2403.02751](http://arxiv.org/abs/2403.02751)|null|
+|**2024-03-05**|**False Positive Sampling-based Data Augmentation for Enhanced 3D Object Detection Accuracy**|Jiyong Oh et.al.|[2403.02639](http://arxiv.org/abs/2403.02639)|null|
+|**2024-03-05**|**UniDoorManip: Learning Universal Door Manipulation Policy Over Large-scale and Diverse Door Manipulation Environments**|Yu Li et.al.|[2403.02604](http://arxiv.org/abs/2403.02604)|null|
+|**2024-03-04**|**Point2Building: Reconstructing Buildings from Airborne LiDAR Point Clouds**|Yujia Liu et.al.|[2403.02136](http://arxiv.org/abs/2403.02136)|null|
+|**2024-03-04**|**Depth-Guided Robust and Fast Point Cloud Fusion NeRF for Sparse Input Views**|Shuai Guo et.al.|[2403.02063](http://arxiv.org/abs/2403.02063)|null|
+|**2024-03-04**|**Leveraging Anchor-based LiDAR 3D Object Detection via Point Assisted Sample Selection**|Shitao Chen et.al.|[2403.01978](http://arxiv.org/abs/2403.01978)|**[link](https://github.com/xjtu-haolin/point_assisted_sample_selection)**|
+|**2024-03-05**|**Tree Counting by Bridging 3D Point Clouds with Imagery**|Lei Li et.al.|[2403.01932](http://arxiv.org/abs/2403.01932)|null|
+|**2024-03-04**|**Map-aided annotation for pole base detection**|Benjamin Missaoui et.al.|[2403.01868](http://arxiv.org/abs/2403.01868)|null|
 |**2024-03-02**|**TUMTraf V2X Cooperative Perception Dataset**|Walter Zimmer et.al.|[2403.01316](http://arxiv.org/abs/2403.01316)|null|
 |**2024-03-02**|**MPIPN: A Multi Physics-Informed PointNet for solving parametric acoustic-structure systems**|Chu Wang et.al.|[2403.01132](http://arxiv.org/abs/2403.01132)|null|
 |**2024-03-02**|**Dynamic 3D Point Cloud Sequences as 2D Videos**|Yiming Zeng et.al.|[2403.01129](http://arxiv.org/abs/2403.01129)|null|
