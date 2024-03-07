@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-06**|**SPEAR:Exact Gradient Inversion of Batches in Federated Learning**|Dimitar I. Dimitrov et.al.|[2403.03945](http://arxiv.org/abs/2403.03945)|null|
+|**2024-03-06**|**Joint multi-task learning improves weakly-supervised biomarker prediction in computational pathology**|Omar S. M. El Nahhas et.al.|[2403.03891](http://arxiv.org/abs/2403.03891)|**[link](https://github.com/avic3nna/joint-mtl-cpath)**|
+|**2024-03-06**|**A Survey on Adversarial Contention Resolution**|Ioana Banicescu et.al.|[2403.03876](http://arxiv.org/abs/2403.03876)|null|
+|**2024-03-06**|**Decoupled Vertical Federated Learning for Practical Training on Vertically Partitioned Data**|Avi Amalanshu et.al.|[2403.03871](http://arxiv.org/abs/2403.03871)|null|
+|**2024-03-06**|**Cosmological forecasts from the combination of Stage-IV photometric galaxy surveys and the magnification from forthcoming GW observatories**|Matteo Beltrame et.al.|[2403.03859](http://arxiv.org/abs/2403.03859)|null|
+|**2024-03-06**|**Cosmic Insights from Galaxy Clusters: Exploring Magnification Bias on Sub-millimeter Galaxies**|Rebeca Fernández-Fernández et.al.|[2403.03855](http://arxiv.org/abs/2403.03855)|null|
+|**2024-03-06**|**The Emerging Stellar Complex in Mon R2: Membership and Optical Variability Classification**|Sally D. Jiang et.al.|[2403.03843](http://arxiv.org/abs/2403.03843)|null|
+|**2024-03-06**|**Political polarisation in turbulent times: Tracking polarisation trends and partisan news link sharing on Finnish Twitter, 2015-2023**|Antti Gronow et.al.|[2403.03842](http://arxiv.org/abs/2403.03842)|null|
+|**2024-03-06**|**Parameterized Algorithms for Balanced Cluster Edge Modification Problems**|Jayakrishnan Madathil et.al.|[2403.03830](http://arxiv.org/abs/2403.03830)|null|
+|**2024-03-06**|**Continuous and deterministic all-photonic cluster state of indistinguishable photons**|Zu-En Su et.al.|[2403.03820](http://arxiv.org/abs/2403.03820)|null|
 |**2024-03-05**|**How much information can be extracted from galaxy clustering at the field level?**|Nhat-Minh Nguyen et.al.|[2403.03220](http://arxiv.org/abs/2403.03220)|null|
 |**2024-03-05**|**Behavior Generation with Latent Actions**|Seungjae Lee et.al.|[2403.03181](http://arxiv.org/abs/2403.03181)|**[link](https://github.com/jayLEE0301/vq_bet_official)**|
 |**2024-03-05**|**Searching for globular clusters in the inner halo of the Circinus galaxy**|C. O. Obasi et.al.|[2403.03177](http://arxiv.org/abs/2403.03177)|null|
@@ -788,6 +798,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-06**|**3D Diffusion Policy**|Yanjie Ze et.al.|[2403.03954](http://arxiv.org/abs/2403.03954)|**[link](https://github.com/YanjieZe/3D-Diffusion-Policy)**|
+|**2024-03-06**|**Extend Your Own Correspondences: Unsupervised Distant Point Cloud Registration by Progressive Distance Extension**|Quan Liu et.al.|[2403.03532](http://arxiv.org/abs/2403.03532)|**[link](https://github.com/liuquan98/eyoc)**|
+|**2024-03-06**|**Detecting transitions between collective motion regimes using functional hypothesis test of the time-varying persistence homology**|Thevasha Sathiyakumar et.al.|[2403.03428](http://arxiv.org/abs/2403.03428)|null|
 |**2024-03-05**|**Are Dense Labels Always Necessary for 3D Object Detection from Point Cloud?**|Chenqiang Gao et.al.|[2403.02818](http://arxiv.org/abs/2403.02818)|null|
 |**2024-03-05**|**HUNTER: Unsupervised Human-centric 3D Detection via Transferring Knowledge from Synthetic Instances to Real Scenes**|Yichen Yao et.al.|[2403.02769](http://arxiv.org/abs/2403.02769)|null|
 |**2024-03-05**|**Splat-Nav: Safe Real-Time Robot Navigation in Gaussian Splatting Maps**|Timothy Chen et.al.|[2403.02751](http://arxiv.org/abs/2403.02751)|null|
