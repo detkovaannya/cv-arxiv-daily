@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-07**|**Nonparametric Regression under Cluster Sampling**|Yuya Shimizu et.al.|[2403.04766](http://arxiv.org/abs/2403.04766)|null|
+|**2024-03-07**|**Lifelong Intelligence Beyond the Edge using Hyperdimensional Computing**|Xiaofan Yu et.al.|[2403.04759](http://arxiv.org/abs/2403.04759)|**[link](https://github.com/orienfish/lifehd)**|
+|**2024-03-07**|**KnowledgeVIS: Interpreting Language Models by Comparing Fill-in-the-Blank Prompts**|Adam Coscia et.al.|[2403.04758](http://arxiv.org/abs/2403.04758)|null|
+|**2024-03-07**|**That's My Point: Compact Object-centric LiDAR Pose Estimation for Large-scale Outdoor Localisation**|Georgi Pramatarov et.al.|[2403.04755](http://arxiv.org/abs/2403.04755)|null|
+|**2024-03-07**|**Testing an entropy estimator related to the dynamical state of galaxy clusters**|J. M. Zúniga et.al.|[2403.04723](http://arxiv.org/abs/2403.04723)|null|
+|**2024-03-07**|**Parendi: Thousand-Way Parallel RTL Simulation**|Mahyar Emami et.al.|[2403.04714](http://arxiv.org/abs/2403.04714)|null|
+|**2024-03-07**|**GreenBytes: Intelligent Energy Estimation for Edge-Cloud**|Kasra Kassai et.al.|[2403.04665](http://arxiv.org/abs/2403.04665)|null|
+|**2024-03-07**|**kSZ Pairwise Velocity Reconstruction with Machine Learning**|Yulin Gong et.al.|[2403.04664](http://arxiv.org/abs/2403.04664)|null|
+|**2024-03-07**|**Accelerating the Convergence of Coupled Cluster Calculations of the Homogeneous Electron Gas Using Bayesian Ridge Regression**|Julie Butler et.al.|[2403.04645](http://arxiv.org/abs/2403.04645)|null|
+|**2024-03-07**|**ShuffleBench: A Benchmark for Large-Scale Data Shuffling Operations with Distributed Stream Processing Frameworks**|Sören Henning et.al.|[2403.04570](http://arxiv.org/abs/2403.04570)|null|
 |**2024-03-06**|**SPEAR:Exact Gradient Inversion of Batches in Federated Learning**|Dimitar I. Dimitrov et.al.|[2403.03945](http://arxiv.org/abs/2403.03945)|null|
 |**2024-03-06**|**Joint multi-task learning improves weakly-supervised biomarker prediction in computational pathology**|Omar S. M. El Nahhas et.al.|[2403.03891](http://arxiv.org/abs/2403.03891)|**[link](https://github.com/avic3nna/joint-mtl-cpath)**|
 |**2024-03-06**|**A Survey on Adversarial Contention Resolution**|Ioana Banicescu et.al.|[2403.03876](http://arxiv.org/abs/2403.03876)|null|
@@ -792,6 +802,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-07**|**That's My Point: Compact Object-centric LiDAR Pose Estimation for Large-scale Outdoor Localisation**|Georgi Pramatarov et.al.|[2403.04755](http://arxiv.org/abs/2403.04755)|null|
+|**2024-03-07**|**mmPlace: Robust Place Recognition with Intermediate Frequency Signal of Low-cost Single-chip Millimeter Wave Radar**|Chengzhen Meng et.al.|[2403.04703](http://arxiv.org/abs/2403.04703)|null|
+|**2024-03-07**|**3DTextureTransformer: Geometry Aware Texture Generation for Arbitrary Mesh Topology**|Dharma KC et.al.|[2403.04225](http://arxiv.org/abs/2403.04225)|null|
+|**2024-03-07**|**Radiative Gaussian Splatting for Efficient X-ray Novel View Synthesis**|Yuanhao Cai et.al.|[2403.04116](http://arxiv.org/abs/2403.04116)|**[link](https://github.com/caiyuanhao1998/x-gaussian)**|
 |**2024-03-06**|**3D Diffusion Policy**|Yanjie Ze et.al.|[2403.03954](http://arxiv.org/abs/2403.03954)|**[link](https://github.com/YanjieZe/3D-Diffusion-Policy)**|
 |**2024-03-06**|**Extend Your Own Correspondences: Unsupervised Distant Point Cloud Registration by Progressive Distance Extension**|Quan Liu et.al.|[2403.03532](http://arxiv.org/abs/2403.03532)|**[link](https://github.com/liuquan98/eyoc)**|
 |**2024-03-06**|**Detecting transitions between collective motion regimes using functional hypothesis test of the time-varying persistence homology**|Thevasha Sathiyakumar et.al.|[2403.03428](http://arxiv.org/abs/2403.03428)|null|
