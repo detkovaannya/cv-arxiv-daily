@@ -20,10 +20,10 @@
 |---|---|---|---|---|
 |**2024-03-07**|**Nonparametric Regression under Cluster Sampling**|Yuya Shimizu et.al.|[2403.04766](http://arxiv.org/abs/2403.04766)|null|
 |**2024-03-07**|**Lifelong Intelligence Beyond the Edge using Hyperdimensional Computing**|Xiaofan Yu et.al.|[2403.04759](http://arxiv.org/abs/2403.04759)|**[link](https://github.com/orienfish/lifehd)**|
-|**2024-03-07**|**KnowledgeVIS: Interpreting Language Models by Comparing Fill-in-the-Blank Prompts**|Adam Coscia et.al.|[2403.04758](http://arxiv.org/abs/2403.04758)|null|
+|**2024-03-07**|**KnowledgeVIS: Interpreting Language Models by Comparing Fill-in-the-Blank Prompts**|Adam Coscia et.al.|[2403.04758](http://arxiv.org/abs/2403.04758)|**[link](https://github.com/adamcoscia/knowledgevis)**|
 |**2024-03-07**|**That's My Point: Compact Object-centric LiDAR Pose Estimation for Large-scale Outdoor Localisation**|Georgi Pramatarov et.al.|[2403.04755](http://arxiv.org/abs/2403.04755)|null|
 |**2024-03-07**|**Testing an entropy estimator related to the dynamical state of galaxy clusters**|J. M. Zúniga et.al.|[2403.04723](http://arxiv.org/abs/2403.04723)|null|
-|**2024-03-07**|**Parendi: Thousand-Way Parallel RTL Simulation**|Mahyar Emami et.al.|[2403.04714](http://arxiv.org/abs/2403.04714)|null|
+|**2024-03-07**|**Parendi: Thousand-Way Parallel RTL Simulation**|Mahyar Emami et.al.|[2403.04714](http://arxiv.org/abs/2403.04714)|**[link](https://github.com/epfl-vlsc/parendi)**|
 |**2024-03-07**|**GreenBytes: Intelligent Energy Estimation for Edge-Cloud**|Kasra Kassai et.al.|[2403.04665](http://arxiv.org/abs/2403.04665)|null|
 |**2024-03-07**|**kSZ Pairwise Velocity Reconstruction with Machine Learning**|Yulin Gong et.al.|[2403.04664](http://arxiv.org/abs/2403.04664)|null|
 |**2024-03-07**|**Accelerating the Convergence of Coupled Cluster Calculations of the Homogeneous Electron Gas Using Bayesian Ridge Regression**|Julie Butler et.al.|[2403.04645](http://arxiv.org/abs/2403.04645)|null|
