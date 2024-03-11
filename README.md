@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-08**|**Accelerating high order discontinuous Galerkin solvers through a clustering-based viscous/turbulent-inviscid domain decomposition**|Kheir-Eddine Otmani et.al.|[2403.05463](http://arxiv.org/abs/2403.05463)|null|
+|**2024-03-08**|**We Know I Know You Know; Choreographic Programming With Multicast and Multiply Located Values**|Mako Bates et.al.|[2403.05417](http://arxiv.org/abs/2403.05417)|null|
+|**2024-03-08**|**FedFMS: Exploring Federated Foundation Models for Medical Image Segmentation**|Yuxi Liu et.al.|[2403.05408](http://arxiv.org/abs/2403.05408)|**[link](https://github.com/liu-yuxi/fedfms)**|
+|**2024-03-08**|**Multi-reference coupled cluster theory using the normal ordered exponential ansatz**|Alexander Gunasekera et.al.|[2403.05389](http://arxiv.org/abs/2403.05389)|null|
+|**2024-03-08**|**Search for soft unclustered energy patterns in proton-proton collisions at 13 TeV**|CMS Collaboration et.al.|[2403.05311](http://arxiv.org/abs/2403.05311)|null|
+|**2024-03-08**|**Shape of 12C**|Masaaki Kimura et.al.|[2403.05287](http://arxiv.org/abs/2403.05287)|null|
+|**2024-03-08**|**Load Balancing For High Performance Computing Using Quantum Annealing**|Omer Rathore et.al.|[2403.05278](http://arxiv.org/abs/2403.05278)|null|
+|**2024-03-08**|**vSPACE: Voting in a Scalable, Privacy-Aware and Confidential Election**|Se Elnour et.al.|[2403.05275](http://arxiv.org/abs/2403.05275)|null|
+|**2024-03-08**|**Non-additivity in many-body interactions between membrane-deforming spheres increases disorder**|Ali Azadbakht et.al.|[2403.05253](http://arxiv.org/abs/2403.05253)|null|
+|**2024-03-08**|**JWST's first glimpses of a z > 2 forming cluster reveals a top-heavy stellar mass function**|Hanwen Sun et.al.|[2403.05248](http://arxiv.org/abs/2403.05248)|null|
 |**2024-03-07**|**Nonparametric Regression under Cluster Sampling**|Yuya Shimizu et.al.|[2403.04766](http://arxiv.org/abs/2403.04766)|null|
 |**2024-03-07**|**Lifelong Intelligence Beyond the Edge using Hyperdimensional Computing**|Xiaofan Yu et.al.|[2403.04759](http://arxiv.org/abs/2403.04759)|**[link](https://github.com/orienfish/lifehd)**|
 |**2024-03-07**|**KnowledgeVIS: Interpreting Language Models by Comparing Fill-in-the-Blank Prompts**|Adam Coscia et.al.|[2403.04758](http://arxiv.org/abs/2403.04758)|**[link](https://github.com/adamcoscia/knowledgevis)**|
@@ -808,6 +818,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-08**|**Grasping Trajectory Optimization with Point Clouds**|Yu Xiang et.al.|[2403.05466](http://arxiv.org/abs/2403.05466)|null|
+|**2024-03-08**|**On varimax asymptotics in network models and spectral methods for dimensionality reduction**|Joshua Cape et.al.|[2403.05461](http://arxiv.org/abs/2403.05461)|null|
+|**2024-03-08**|**OccFusion: Depth Estimation Free Multi-sensor Fusion for 3D Occupancy Prediction**|Ji Zhang et.al.|[2403.05329](http://arxiv.org/abs/2403.05329)|null|
+|**2024-03-08**|**DiffSF: Diffusion Models for Scene Flow Estimation**|Yushan Zhang et.al.|[2403.05327](http://arxiv.org/abs/2403.05327)|null|
+|**2024-03-08**|**Hide in Thicket: Generating Imperceptible and Rational Adversarial Perturbations on 3D Point Clouds**|Tianrui Lou et.al.|[2403.05247](http://arxiv.org/abs/2403.05247)|null|
+|**2024-03-08**|**Arbitrary-Scale Point Cloud Upsampling by Voxel-Based Network with Latent Geometric-Consistent Learning**|Hang Du et.al.|[2403.05117](http://arxiv.org/abs/2403.05117)|**[link](https://github.com/hikvision-research/3dvision)**|
+|**2024-03-08**|**REPS: Reconstruction-based Point Cloud Sampling**|Guoqing Zhang et.al.|[2403.05047](http://arxiv.org/abs/2403.05047)|**[link](https://github.com/hitcslj/reps)**|
+|**2024-03-08**|**EgoPAT3Dv2: Predicting 3D Action Target from 2D Egocentric Vision for Human-Robot Interaction**|Irving Fang et.al.|[2403.05046](http://arxiv.org/abs/2403.05046)|null|
+|**2024-03-08**|**ERASOR++: Height Coding Plus Egocentric Ratio Based Dynamic Object Removal for Static Point Cloud Mapping**|Jiabao Zhang et.al.|[2403.05019](http://arxiv.org/abs/2403.05019)|null|
+|**2024-03-08**|**DITTO: Dual and Integrated Latent Topologies for Implicit 3D Reconstruction**|Jaehyeok Shim et.al.|[2403.05005](http://arxiv.org/abs/2403.05005)|null|
 |**2024-03-07**|**That's My Point: Compact Object-centric LiDAR Pose Estimation for Large-scale Outdoor Localisation**|Georgi Pramatarov et.al.|[2403.04755](http://arxiv.org/abs/2403.04755)|null|
 |**2024-03-07**|**mmPlace: Robust Place Recognition with Intermediate Frequency Signal of Low-cost Single-chip Millimeter Wave Radar**|Chengzhen Meng et.al.|[2403.04703](http://arxiv.org/abs/2403.04703)|null|
 |**2024-03-07**|**3DTextureTransformer: Geometry Aware Texture Generation for Arbitrary Mesh Topology**|Dharma KC et.al.|[2403.04225](http://arxiv.org/abs/2403.04225)|null|
