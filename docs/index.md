@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-11**|**Optimizing sDTW for AMD GPUs**|Daniel Latta-Lin et.al.|[2403.06931](http://arxiv.org/abs/2403.06931)|null|
+|**2024-03-11**|**Accurate and Interpretable Representation of Correlated Electronic Structure via Tensor Product Selected CI**|Nicole M. Braunscheidel et.al.|[2403.06913](http://arxiv.org/abs/2403.06913)|null|
+|**2024-03-11**|**Dynamic Client Clustering, Bandwidth Allocation, and Workload Optimization for Semi-synchronous Federated Learning**|Liangkun Yu et.al.|[2403.06900](http://arxiv.org/abs/2403.06900)|null|
+|**2024-03-11**|**SFVInt: Simple, Fast and Generic Variable-Length Integer Decoding using Bit Manipulation Instructions**|Gang Liao et.al.|[2403.06898](http://arxiv.org/abs/2403.06898)|null|
+|**2024-03-11**|**Exploring Large Language Models and Hierarchical Frameworks for Classification of Large Unstructured Legal Documents**|Nishchal Prasad et.al.|[2403.06872](http://arxiv.org/abs/2403.06872)|null|
+|**2024-03-11**|**Transparent AI Disclosure Obligations: Who, What, When, Where, Why, How**|Abdallah El Ali et.al.|[2403.06823](http://arxiv.org/abs/2403.06823)|null|
+|**2024-03-11**|**Redefining Event Types and Group Evolution in Temporal Data**|Andrea Failla et.al.|[2403.06771](http://arxiv.org/abs/2403.06771)|null|
+|**2024-03-11**|**Streamlining in the Riemannian Realm: Efficient Riemannian Optimization with Loopless Variance Reduction**|Yury Demidovich et.al.|[2403.06677](http://arxiv.org/abs/2403.06677)|null|
+|**2024-03-11**|**Untangling Gaussian Mixtures**|Eva Fluck et.al.|[2403.06671](http://arxiv.org/abs/2403.06671)|null|
+|**2024-03-11**|**Data Poisoning Attacks in Gossip Learning**|Alexandre Pham et.al.|[2403.06583](http://arxiv.org/abs/2403.06583)|null|
 |**2024-03-08**|**Accelerating high order discontinuous Galerkin solvers through a clustering-based viscous/turbulent-inviscid domain decomposition**|Kheir-Eddine Otmani et.al.|[2403.05463](http://arxiv.org/abs/2403.05463)|null|
 |**2024-03-08**|**We Know I Know You Know; Choreographic Programming With Multicast and Multiply Located Values**|Mako Bates et.al.|[2403.05417](http://arxiv.org/abs/2403.05417)|null|
 |**2024-03-08**|**FedFMS: Exploring Federated Foundation Models for Medical Image Segmentation**|Yuxi Liu et.al.|[2403.05408](http://arxiv.org/abs/2403.05408)|**[link](https://github.com/liu-yuxi/fedfms)**|
@@ -812,6 +822,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-11**|**Memory-based Adapters for Online 3D Scene Perception**|Xiuwei Xu et.al.|[2403.06974](http://arxiv.org/abs/2403.06974)|null|
+|**2024-03-11**|**Bayesian Diffusion Models for 3D Shape Reconstruction**|Haiyang Xu et.al.|[2403.06973](http://arxiv.org/abs/2403.06973)|null|
+|**2024-03-11**|**NeuPAN: Direct Point Robot Navigation with End-to-End Model-based Learning**|Ruihua Han et.al.|[2403.06828](http://arxiv.org/abs/2403.06828)|null|
+|**2024-03-11**|**PCLD: Point Cloud Layerwise Diffusion for Adversarial Purification**|Mert Gulsen et.al.|[2403.06698](http://arxiv.org/abs/2403.06698)|**[link](https://github.com/batuceng/diffusion-layer-robustness-pc)**|
+|**2024-03-11**|**epsilon-Mesh Attack: A Surface-based Adversarial Point Cloud Attack for Facial Expression Recognition**|Batuhan Cengiz et.al.|[2403.06661](http://arxiv.org/abs/2403.06661)|null|
+|**2024-03-11**|**Towards Zero-Shot Interpretable Human Recognition: A 2D-3D Registration Framework**|Henrique Jesus et.al.|[2403.06658](http://arxiv.org/abs/2403.06658)|null|
+|**2024-03-11**|**Ray Launching-Based Computation of Exact Paths with Noisy Dense Point Clouds**|Niklas Vaara et.al.|[2403.06648](http://arxiv.org/abs/2403.06648)|null|
+|**2024-03-11**|**BEV2PR: BEV-Enhanced Visual Place Recognition with Structural Cues**|Fudong Ge et.al.|[2403.06600](http://arxiv.org/abs/2403.06600)|null|
+|**2024-03-11**|**3DRef: 3D Dataset and Benchmark for Reflection Detection in RGB and Lidar Data**|Xiting Zhao et.al.|[2403.06538](http://arxiv.org/abs/2403.06538)|null|
+|**2024-03-11**|**3D Semantic Segmentation-Driven Representations for 3D Object Detection**|Hayeon O et.al.|[2403.06501](http://arxiv.org/abs/2403.06501)|null|
 |**2024-03-08**|**Grasping Trajectory Optimization with Point Clouds**|Yu Xiang et.al.|[2403.05466](http://arxiv.org/abs/2403.05466)|null|
 |**2024-03-08**|**On varimax asymptotics in network models and spectral methods for dimensionality reduction**|Joshua Cape et.al.|[2403.05461](http://arxiv.org/abs/2403.05461)|null|
 |**2024-03-08**|**OccFusion: Depth Estimation Free Multi-sensor Fusion for 3D Occupancy Prediction**|Ji Zhang et.al.|[2403.05329](http://arxiv.org/abs/2403.05329)|null|
