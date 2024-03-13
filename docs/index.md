@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-12**|**Accelerating Biclique Counting on GPU**|Linshan Qiu et.al.|[2403.07858](http://arxiv.org/abs/2403.07858)|null|
+|**2024-03-12**|**Hyper-density functional theory of soft matter**|Florian Sammüller et.al.|[2403.07845](http://arxiv.org/abs/2403.07845)|**[link](https://github.com/sfalmo/HyperDFT)**|
+|**2024-03-12**|**MPCPA: Multi-Center Privacy Computing with Predictions Aggregation based on Denoising Diffusion Probabilistic Model**|Guibo Luo et.al.|[2403.07838](http://arxiv.org/abs/2403.07838)|null|
+|**2024-03-12**|**Satellite quenching and morphological transformation of galaxies in groups and clusters**|M. Oxland et.al.|[2403.07742](http://arxiv.org/abs/2403.07742)|null|
+|**2024-03-12**|**CuVLER: Enhanced Unsupervised Object Discoveries through Exhaustive Self-Supervised Transformers**|Shahaf Arica et.al.|[2403.07700](http://arxiv.org/abs/2403.07700)|**[link](https://github.com/shahaf-arica/cuvler)**|
+|**2024-03-12**|**Characterization of Large Language Model Development in the Datacenter**|Qinghao Hu et.al.|[2403.07648](http://arxiv.org/abs/2403.07648)|**[link](https://github.com/internlm/acmetrace)**|
+|**2024-03-12**|**Scale-free identity: The emergence of social network science**|Haiko Lietz et.al.|[2403.07595](http://arxiv.org/abs/2403.07595)|null|
+|**2024-03-12**|**Communication Optimization for Distributed Training: Architecture, Advances, and Opportunities**|Yunze Wei et.al.|[2403.07585](http://arxiv.org/abs/2403.07585)|null|
+|**2024-03-12**|**Towards a Dynamic Future with Adaptable Computing and Network Convergence (ACNC)**|Masoud Shokrnezhad et.al.|[2403.07573](http://arxiv.org/abs/2403.07573)|null|
+|**2024-03-12**|**MAMMOTH: Massively Multilingual Modular Open Translation @ Helsinki**|Timothee Mickus et.al.|[2403.07544](http://arxiv.org/abs/2403.07544)|**[link](https://github.com/helsinki-nlp/mammoth)**|
 |**2024-03-11**|**Optimizing sDTW for AMD GPUs**|Daniel Latta-Lin et.al.|[2403.06931](http://arxiv.org/abs/2403.06931)|null|
 |**2024-03-11**|**Accurate and Interpretable Representation of Correlated Electronic Structure via Tensor Product Selected CI**|Nicole M. Braunscheidel et.al.|[2403.06913](http://arxiv.org/abs/2403.06913)|null|
 |**2024-03-11**|**Dynamic Client Clustering, Bandwidth Allocation, and Workload Optimization for Semi-synchronous Federated Learning**|Liangkun Yu et.al.|[2403.06900](http://arxiv.org/abs/2403.06900)|null|
@@ -822,6 +832,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-12**|**DexCap: Scalable and Portable Mocap Data Collection System for Dexterous Manipulation**|Chen Wang et.al.|[2403.07788](http://arxiv.org/abs/2403.07788)|null|
+|**2024-03-12**|**Fast and Simple Explainability for Point Cloud Networks**|Meir Yossef Levi et.al.|[2403.07706](http://arxiv.org/abs/2403.07706)|null|
+|**2024-03-12**|**Efficient Global Navigational Planning in 3D Structures based on Point Cloud Tomography**|Bowen Yang et.al.|[2403.07631](http://arxiv.org/abs/2403.07631)|null|
+|**2024-03-12**|**MinkUNeXt: Point Cloud-based Large-scale Place Recognition using 3D Sparse Convolutions**|J. J. Cabrera et.al.|[2403.07593](http://arxiv.org/abs/2403.07593)|null|
+|**2024-03-12**|**A Comprehensive Survey of 3D Dense Captioning: Localizing and Describing Objects in 3D Scenes**|Ting Yu et.al.|[2403.07469](http://arxiv.org/abs/2403.07469)|null|
+|**2024-03-12**|**Category-Agnostic Pose Estimation for Point Clouds**|Bowen Liu et.al.|[2403.07437](http://arxiv.org/abs/2403.07437)|null|
+|**2024-03-12**|**JSTR: Joint Spatio-Temporal Reasoning for Event-based Moving Object Detection**|Hanyu Zhou et.al.|[2403.07436](http://arxiv.org/abs/2403.07436)|null|
+|**2024-03-12**|**FSC: Few-point Shape Completion**|Xianzu Wu et.al.|[2403.07359](http://arxiv.org/abs/2403.07359)|null|
+|**2024-03-11**|**LISO: Lidar-only Self-Supervised 3D Object Detection**|Stefan Baur et.al.|[2403.07071](http://arxiv.org/abs/2403.07071)|null|
 |**2024-03-11**|**Memory-based Adapters for Online 3D Scene Perception**|Xiuwei Xu et.al.|[2403.06974](http://arxiv.org/abs/2403.06974)|null|
 |**2024-03-11**|**Bayesian Diffusion Models for 3D Shape Reconstruction**|Haiyang Xu et.al.|[2403.06973](http://arxiv.org/abs/2403.06973)|null|
 |**2024-03-11**|**NeuPAN: Direct Point Robot Navigation with End-to-End Model-based Learning**|Ruihua Han et.al.|[2403.06828](http://arxiv.org/abs/2403.06828)|null|
