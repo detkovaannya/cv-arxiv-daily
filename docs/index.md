@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-13**|**Observational tests in scale invariance I: galaxy clusters and rotation of galaxies**|Andre Maeder et.al.|[2403.08759](http://arxiv.org/abs/2403.08759)|null|
+|**2024-03-13**|**Torsion pairs, t-structures, and co-t-structures for completions of discrete cluster categories**|Sofia Franchini et.al.|[2403.08735](http://arxiv.org/abs/2403.08735)|null|
+|**2024-03-13**|**Improved Dynamics for the Maximum Common Subgraph Problem**|Davide Guidobene et.al.|[2403.08703](http://arxiv.org/abs/2403.08703)|null|
+|**2024-03-13**|**Elastic shape analysis computations for clustering left atrial appendage geometries of atrial fibrillation patients**|Zan Ahmad et.al.|[2403.08685](http://arxiv.org/abs/2403.08685)|null|
+|**2024-03-13**|**Toward mapping turbulence in the intracluster medium III. Constraints on the turbulent power spectrum with Athena/X-IFU**|Sophie Beaumont et.al.|[2403.08601](http://arxiv.org/abs/2403.08601)|null|
+|**2024-03-13**|**Comparing jet-shaped point symmetry in cluster cooling flows and supernovae**|Noam Soker et.al.|[2403.08544](http://arxiv.org/abs/2403.08544)|null|
+|**2024-03-13**|**Time-bin entanglement in the deterministic generation of linear photonic cluster states**|David Bauch et.al.|[2403.08527](http://arxiv.org/abs/2403.08527)|**[link](https://github.com/davidbauch/QDaCC)**|
+|**2024-03-13**|**Projective Quantum Eigensolver via Adiabatically Decoupled Subsystem Evolution: a Resource Efficient Approach to Molecular Energetics in Noisy Quantum Computers**|Chayan Patra et.al.|[2403.08519](http://arxiv.org/abs/2403.08519)|null|
+|**2024-03-13**|**Plotinus: A Satellite Internet Digital Twin System**|Yue Gao et.al.|[2403.08515](http://arxiv.org/abs/2403.08515)|null|
+|**2024-03-13**|**3D Spectrum Mapping and Reconstruction under Multi-Radiation Source Scenarios**|Wang Jie et.al.|[2403.08513](http://arxiv.org/abs/2403.08513)|null|
 |**2024-03-12**|**Accelerating Biclique Counting on GPU**|Linshan Qiu et.al.|[2403.07858](http://arxiv.org/abs/2403.07858)|**[link](https://github.com/zju-daily/gbc)**|
 |**2024-03-12**|**Hyper-density functional theory of soft matter**|Florian Sammüller et.al.|[2403.07845](http://arxiv.org/abs/2403.07845)|**[link](https://github.com/sfalmo/HyperDFT)**|
 |**2024-03-12**|**MPCPA: Multi-Center Privacy Computing with Predictions Aggregation based on Denoising Diffusion Probabilistic Model**|Guibo Luo et.al.|[2403.07838](http://arxiv.org/abs/2403.07838)|null|
@@ -832,10 +842,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-13**|**FastMAC: Stochastic Spectral Sampling of Correspondence Graph**|Yifei Zhang et.al.|[2403.08770](http://arxiv.org/abs/2403.08770)|null|
+|**2024-03-13**|**Towards Dense and Accurate Radar Perception Via Efficient Cross-Modal Diffusion Model**|Ruibin Zhang et.al.|[2403.08460](http://arxiv.org/abs/2403.08460)|null|
+|**2024-03-13**|**DrFER: Learning Disentangled Representations for 3D Facial Expression Recognition**|Hebeizi Li et.al.|[2403.08318](http://arxiv.org/abs/2403.08318)|null|
+|**2024-03-13**|**Point Cloud Compression via Constrained Optimal Transport**|Zezeng Li et.al.|[2403.08236](http://arxiv.org/abs/2403.08236)|**[link](https://github.com/cognaclee/pcc-cot)**|
+|**2024-03-13**|**Empowering Robotics with Large Language Models: osmAG Map Comprehension with LLMs**|Fujing Xie et.al.|[2403.08228](http://arxiv.org/abs/2403.08228)|null|
+|**2024-03-13**|**NeRF-Supervised Feature Point Detection and Description**|Ali Youssef et.al.|[2403.08156](http://arxiv.org/abs/2403.08156)|null|
 |**2024-03-12**|**DexCap: Scalable and Portable Mocap Data Collection System for Dexterous Manipulation**|Chen Wang et.al.|[2403.07788](http://arxiv.org/abs/2403.07788)|null|
 |**2024-03-12**|**Fast and Simple Explainability for Point Cloud Networks**|Meir Yossef Levi et.al.|[2403.07706](http://arxiv.org/abs/2403.07706)|null|
 |**2024-03-12**|**Efficient Global Navigational Planning in 3D Structures based on Point Cloud Tomography**|Bowen Yang et.al.|[2403.07631](http://arxiv.org/abs/2403.07631)|**[link](https://github.com/byangw/pct_planner)**|
-|**2024-03-12**|**MinkUNeXt: Point Cloud-based Large-scale Place Recognition using 3D Sparse Convolutions**|J. J. Cabrera et.al.|[2403.07593](http://arxiv.org/abs/2403.07593)|null|
+|**2024-03-13**|**MinkUNeXt: Point Cloud-based Large-scale Place Recognition using 3D Sparse Convolutions**|J. J. Cabrera et.al.|[2403.07593](http://arxiv.org/abs/2403.07593)|null|
 |**2024-03-12**|**A Comprehensive Survey of 3D Dense Captioning: Localizing and Describing Objects in 3D Scenes**|Ting Yu et.al.|[2403.07469](http://arxiv.org/abs/2403.07469)|null|
 |**2024-03-12**|**Category-Agnostic Pose Estimation for Point Clouds**|Bowen Liu et.al.|[2403.07437](http://arxiv.org/abs/2403.07437)|null|
 |**2024-03-12**|**JSTR: Joint Spatio-Temporal Reasoning for Event-based Moving Object Detection**|Hanyu Zhou et.al.|[2403.07436](http://arxiv.org/abs/2403.07436)|null|
