@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-14**|**The Size-Linewidth Relation and Signatures of Feedback from Quiescent to Active Star Forming Regions in the LMC**|Alex Green et.al.|[2403.09594](http://arxiv.org/abs/2403.09594)|null|
+|**2024-03-14**|**cosmocnc: A fast, flexible, and accurate galaxy cluster number count likelihood code for cosmology**|Íñigo Zubeldia et.al.|[2403.09589](http://arxiv.org/abs/2403.09589)|null|
+|**2024-03-14**|**Testing MOND on small bodies in the remote solar system**|David Vokrouhlický et.al.|[2403.09555](http://arxiv.org/abs/2403.09555)|null|
+|**2024-03-14**|**Analyzing and Mitigating (with LLMs) the Security Misconfigurations of Helm Charts from Artifact Hub**|Francesco Minna et.al.|[2403.09537](http://arxiv.org/abs/2403.09537)|null|
+|**2024-03-14**|**An Extreme Ultra-Compact X-ray Binary in a Globular Cluster: Multi-Wavelength Observations of RZ2109 Explored in a Triple System Framework**|Kristen C. Dage et.al.|[2403.09525](http://arxiv.org/abs/2403.09525)|null|
+|**2024-03-14**|**Analysis of a continuous opinion and discrete action dynamics model coupled with an external observation dynamics**|Anthony Couthures et.al.|[2403.09473](http://arxiv.org/abs/2403.09473)|null|
+|**2024-03-14**|**Benchmarking Distributed Coordination Systems: A Survey and Analysis**|Bekir Turkkan et.al.|[2403.09445](http://arxiv.org/abs/2403.09445)|null|
+|**2024-03-14**|**BurstAttention: An Efficient Distributed Attention Framework for Extremely Long Sequences**|Sun Ao et.al.|[2403.09347](http://arxiv.org/abs/2403.09347)|**[link](https://github.com/MayDomine/Burst-Attention)**|
+|**2024-03-14**|**Onsager vortex clusters on a sphere**|Jiawen Chen et.al.|[2403.09314](http://arxiv.org/abs/2403.09314)|null|
+|**2024-03-14**|**DA-PFL: Dynamic Affinity Aggregation for Personalized Federated Learning**|Xu Yang et.al.|[2403.09284](http://arxiv.org/abs/2403.09284)|null|
 |**2024-03-13**|**Observational tests in scale invariance I: galaxy clusters and rotation of galaxies**|Andre Maeder et.al.|[2403.08759](http://arxiv.org/abs/2403.08759)|null|
 |**2024-03-13**|**Torsion pairs, t-structures, and co-t-structures for completions of discrete cluster categories**|Sofia Franchini et.al.|[2403.08735](http://arxiv.org/abs/2403.08735)|null|
 |**2024-03-13**|**Improved Dynamics for the Maximum Common Subgraph Problem**|Davide Guidobene et.al.|[2403.08703](http://arxiv.org/abs/2403.08703)|null|
@@ -842,6 +852,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-14**|**GroupContrast: Semantic-aware Self-supervised Representation Learning for 3D Understanding**|Chengyao Wang et.al.|[2403.09639](http://arxiv.org/abs/2403.09639)|null|
+|**2024-03-14**|**3D-VLA: A 3D Vision-Language-Action Generative World Model**|Haoyu Zhen et.al.|[2403.09631](http://arxiv.org/abs/2403.09631)|null|
+|**2024-03-14**|**VIRUS-NeRF -- Vision, InfraRed and UltraSonic based Neural Radiance Fields**|Nicolaj Schmid et.al.|[2403.09477](http://arxiv.org/abs/2403.09477)|null|
+|**2024-03-14**|**Relaxing Accurate Initialization Constraint for 3D Gaussian Splatting**|Jaewoo Jung et.al.|[2403.09413](http://arxiv.org/abs/2403.09413)|null|
+|**2024-03-14**|**OpenGraph: Open-Vocabulary Hierarchical 3D Graph Representation in Large-Scale Outdoor Environments**|Yinan Deng et.al.|[2403.09412](http://arxiv.org/abs/2403.09412)|**[link](https://github.com/bit-dyn/opengraph)**|
+|**2024-03-14**|**PoIFusion: Multi-Modal 3D Object Detection via Fusion at Points of Interest**|Jiajun Deng et.al.|[2403.09212](http://arxiv.org/abs/2403.09212)|null|
+|**2024-03-14**|**A New Split Algorithm for 3D Gaussian Splatting**|Qiyuan Feng et.al.|[2403.09143](http://arxiv.org/abs/2403.09143)|null|
+|**2024-03-14**|**Distribution and Depth-Aware Transformers for 3D Human Mesh Recovery**|Jerrin Bright et.al.|[2403.09063](http://arxiv.org/abs/2403.09063)|null|
 |**2024-03-13**|**FastMAC: Stochastic Spectral Sampling of Correspondence Graph**|Yifei Zhang et.al.|[2403.08770](http://arxiv.org/abs/2403.08770)|null|
 |**2024-03-13**|**Towards Dense and Accurate Radar Perception Via Efficient Cross-Modal Diffusion Model**|Ruibin Zhang et.al.|[2403.08460](http://arxiv.org/abs/2403.08460)|null|
 |**2024-03-13**|**DrFER: Learning Disentangled Representations for 3D Facial Expression Recognition**|Hebeizi Li et.al.|[2403.08318](http://arxiv.org/abs/2403.08318)|null|
