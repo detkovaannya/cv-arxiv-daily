@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-18**|**Variational calculations of symmetric nuclear matter and pure neutron matter with the tensor-optimized Fermi Sphere (TOFS) method: many-body effects and short-range correlation**|Taiichi Yamada et.al.|[2403.11717](http://arxiv.org/abs/2403.11717)|null|
+|**2024-03-18**|**GLACE survey: OSIRIS/GTC tuneable imaging of the galaxy cluster ZwCl 0024.0+1652 II. The mass--metallicity relationship and the effect of the environment**|Bernabé Cedrés et.al.|[2403.11629](http://arxiv.org/abs/2403.11629)|null|
+|**2024-03-18**|**Effects of galaxy environment on merger fraction**|W. J. Pearson et.al.|[2403.11615](http://arxiv.org/abs/2403.11615)|null|
+|**2024-03-18**|**Fair Distributed Cooperative Bandit Learning on Networks for Intelligent Internet of Things Systems (Technical Report)**|Ziqun Chen et.al.|[2403.11603](http://arxiv.org/abs/2403.11603)|null|
+|**2024-03-18**|**Numerical observation of $\mathrm{SU}(N)$ Nagaoka ferromagnetism**|Thomas Botzung et.al.|[2403.11588](http://arxiv.org/abs/2403.11588)|null|
+|**2024-03-18**|**Logistic regression to boost exoplanet detection performances**|Hadrien Cambazard et.al.|[2403.11571](http://arxiv.org/abs/2403.11571)|null|
+|**2024-03-18**|**LOOPer: A Learned Automatic Code Optimizer For Polyhedral Compilers**|Massinissa Merouani et.al.|[2403.11522](http://arxiv.org/abs/2403.11522)|null|
+|**2024-03-18**|**Earth+: on-board satellite imagery compression leveraging historical earth observations**|Kuntai Du et.al.|[2403.11434](http://arxiv.org/abs/2403.11434)|null|
+|**2024-03-18**|**Clustering theorem in 1D long-range interacting systems at arbitrary temperatures**|Yusuke Kimura et.al.|[2403.11431](http://arxiv.org/abs/2403.11431)|null|
+|**2024-03-18**|**The rate and contribution of mergers to mass assembly from NIRCam observations of galaxy candidates up to 13.3 billion years ago**|Nicolò Dalmasso et.al.|[2403.11428](http://arxiv.org/abs/2403.11428)|null|
 |**2024-03-15**|**ATOM: Asynchronous Training of Massive Models for Deep Learning in a Decentralized Environment**|Xiaofeng Wu et.al.|[2403.10504](http://arxiv.org/abs/2403.10504)|null|
 |**2024-03-15**|**Comparative study of the kinetic properties of proton and alpha beams in the Alfvénic wind observed by SWA-PAS onboard Solar Orbiter**|Roberto Bruno et.al.|[2403.10489](http://arxiv.org/abs/2403.10489)|null|
 |**2024-03-15**|**Defect design in ferroelectrics -- new insights on agglomeration**|Sheng-Han Teng et.al.|[2403.10467](http://arxiv.org/abs/2403.10467)|null|
@@ -868,6 +878,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-18**|**TrajectoryNAS: A Neural Architecture Search for Trajectory Prediction**|Ali Asghar Sharifi et.al.|[2403.11695](http://arxiv.org/abs/2403.11695)|null|
+|**2024-03-18**|**DynoSurf: Neural Deformation-based Temporally Consistent Dynamic Surface Reconstruction**|Yuxin Yao et.al.|[2403.11586](http://arxiv.org/abs/2403.11586)|null|
+|**2024-03-18**|**Just Add $100 More: Augmenting NeRF-based Pseudo-LiDAR Point Cloud for Resolving Class-imbalance Problem**|Mincheol Chang et.al.|[2403.11573](http://arxiv.org/abs/2403.11573)|null|
+|**2024-03-17**|**GeoGaussian: Geometry-aware Gaussian Splatting for Scene Rendering**|Yanyan Li et.al.|[2403.11324](http://arxiv.org/abs/2403.11324)|null|
+|**2024-03-17**|**The Simplex Projection: Lossless Visualization of 4D Compositional Data on a 2D Canvas**|Marvin Schmitt et.al.|[2403.11141](http://arxiv.org/abs/2403.11141)|null|
+|**2024-03-17**|**Local-consistent Transformation Learning for Rotation-invariant Point Cloud Analysis**|Yiyang Chen et.al.|[2403.11113](http://arxiv.org/abs/2403.11113)|null|
+|**2024-03-17**|**Customizing Visual-Language Foundation Models for Multi-modal Anomaly Detection and Reasoning**|Xiaohao Xu et.al.|[2403.11083](http://arxiv.org/abs/2403.11083)|**[link](https://github.com/xiaohao-xu/customizable-vlm)**|
+|**2024-03-16**|**Exploiting Topological Prior for Boosting Point Cloud Generation**|Baiyuan Chen et.al.|[2403.10962](http://arxiv.org/abs/2403.10962)|null|
+|**2024-03-16**|**SF(DA) $^2$ : Source-free Domain Adaptation Through the Lens of Data Augmentation**|Uiwon Hwang et.al.|[2403.10834](http://arxiv.org/abs/2403.10834)|**[link](https://github.com/shinyflight/sfda2)**|
+|**2024-03-16**|**CORN: Contact-based Object Representation for Nonprehensile Manipulation of General Unseen Objects**|Yoonyoung Cho et.al.|[2403.10760](http://arxiv.org/abs/2403.10760)|null|
 |**2024-03-15**|**SculptDiff: Learning Robotic Clay Sculpting from Humans with Goal Conditioned Diffusion Policy**|Alison Bartsch et.al.|[2403.10401](http://arxiv.org/abs/2403.10401)|null|
 |**2024-03-15**|**ANIM: Accurate Neural Implicit Model for Human Reconstruction from a single RGB-D image**|Marco Pesavento et.al.|[2403.10357](http://arxiv.org/abs/2403.10357)|null|
 |**2024-03-15**|**ParaPoint: Learning Global Free-Boundary Surface Parameterization of 3D Point Clouds**|Qijian Zhang et.al.|[2403.10349](http://arxiv.org/abs/2403.10349)|null|
