@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.18
+## Updated on 2024.03.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-15**|**ATOM: Asynchronous Training of Massive Models for Deep Learning in a Decentralized Environment**|Xiaofeng Wu et.al.|[2403.10504](http://arxiv.org/abs/2403.10504)|null|
+|**2024-03-15**|**Comparative study of the kinetic properties of proton and alpha beams in the Alfvénic wind observed by SWA-PAS onboard Solar Orbiter**|Roberto Bruno et.al.|[2403.10489](http://arxiv.org/abs/2403.10489)|null|
+|**2024-03-15**|**Defect design in ferroelectrics -- new insights on agglomeration**|Sheng-Han Teng et.al.|[2403.10467](http://arxiv.org/abs/2403.10467)|null|
+|**2024-03-15**|**Microscopic understanding of NMR signals by dynamic mean-field theory for spins**|Timo Gräßer et.al.|[2403.10465](http://arxiv.org/abs/2403.10465)|null|
+|**2024-03-15**|**Evaluation of Quantum and Hybrid Solvers for Combinatorial Optimization**|Amedeo Bertuzzi et.al.|[2403.10455](http://arxiv.org/abs/2403.10455)|null|
+|**2024-03-15**|**Scalable Algorithms for Individual Preference Stable Clustering**|Ron Mosenzon et.al.|[2403.10365](http://arxiv.org/abs/2403.10365)|null|
+|**2024-03-15**|**Denoising Task Difficulty-based Curriculum for Training Diffusion Models**|Jin-Young Kim et.al.|[2403.10348](http://arxiv.org/abs/2403.10348)|null|
+|**2024-03-15**|**Efficient All-electron Hybrid Density Functionals for Atomistic Simulations Beyond 10,000 Atoms**|Sebastian Kokott et.al.|[2403.10343](http://arxiv.org/abs/2403.10343)|null|
+|**2024-03-15**|**GreedyML: A Parallel Algorithm for Maximizing Submodular Functions**|Shivaram Gopal et.al.|[2403.10332](http://arxiv.org/abs/2403.10332)|null|
+|**2024-03-15**|**DSP: Dynamic Sequence Parallelism for Multi-Dimensional Transformers**|Xuanlei Zhao et.al.|[2403.10266](http://arxiv.org/abs/2403.10266)|null|
 |**2024-03-14**|**The Size-Linewidth Relation and Signatures of Feedback from Quiescent to Active Star Forming Regions in the LMC**|Alex Green et.al.|[2403.09594](http://arxiv.org/abs/2403.09594)|null|
 |**2024-03-14**|**cosmocnc: A fast, flexible, and accurate galaxy cluster number count likelihood code for cosmology**|Íñigo Zubeldia et.al.|[2403.09589](http://arxiv.org/abs/2403.09589)|null|
 |**2024-03-14**|**Testing MOND on small bodies in the remote solar system**|David Vokrouhlický et.al.|[2403.09555](http://arxiv.org/abs/2403.09555)|null|
@@ -852,12 +862,22 @@
 |**2023-11-10**|**The First Verification Test of Space-Ground Collaborative Intelligence via Cloud-Native Satellites**|Shangguang Wang et.al.|[2311.06078](http://arxiv.org/abs/2311.06078)|null|
 |**2023-11-10**|**Collaborative Inference in DNN-based Satellite Systems with Dynamic Task Streams**|Jinglong Guan et.al.|[2311.06073](http://arxiv.org/abs/2311.06073)|null|
 
-<p align=right>(<a href=#updated-on-20240318>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240319>back to top</a>)</p>
 
 ## point cloud
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-15**|**SculptDiff: Learning Robotic Clay Sculpting from Humans with Goal Conditioned Diffusion Policy**|Alison Bartsch et.al.|[2403.10401](http://arxiv.org/abs/2403.10401)|null|
+|**2024-03-15**|**ANIM: Accurate Neural Implicit Model for Human Reconstruction from a single RGB-D image**|Marco Pesavento et.al.|[2403.10357](http://arxiv.org/abs/2403.10357)|null|
+|**2024-03-15**|**ParaPoint: Learning Global Free-Boundary Surface Parameterization of 3D Point Clouds**|Qijian Zhang et.al.|[2403.10349](http://arxiv.org/abs/2403.10349)|null|
+|**2024-03-15**|**RCooper: A Real-world Large-scale Dataset for Roadside Cooperative Perception**|Ruiyang Hao et.al.|[2403.10145](http://arxiv.org/abs/2403.10145)|null|
+|**2024-03-15**|**RangeLDM: Fast Realistic LiDAR Point Cloud Generation**|Qianjiang Hu et.al.|[2403.10094](http://arxiv.org/abs/2403.10094)|null|
+|**2024-03-15**|**VRHCF: Cross-Source Point Cloud Registration via Voxel Representation and Hierarchical Correspondence Filtering**|Guiyu Zhao et.al.|[2403.10085](http://arxiv.org/abs/2403.10085)|**[link](https://github.com/guiyuzhao/vrhcf)**|
+|**2024-03-15**|**Contrastive Pre-Training with Multi-View Fusion for No-Reference Point Cloud Quality Assessment**|Ziyu Shan et.al.|[2403.10066](http://arxiv.org/abs/2403.10066)|null|
+|**2024-03-15**|**PAME: Self-Supervised Masked Autoencoder for No-Reference Point Cloud Quality Assessment**|Ziyu Shan et.al.|[2403.10061](http://arxiv.org/abs/2403.10061)|null|
+|**2024-03-15**|**Visual Foundation Models Boost Cross-Modal Unsupervised Domain Adaptation for 3D Semantic Segmentation**|Jingyi Xu et.al.|[2403.10001](http://arxiv.org/abs/2403.10001)|**[link](https://github.com/etrontech/vfmseg)**|
+|**2024-03-15**|**FBPT: A Fully Binary Point Transformer**|Zhixing Hou et.al.|[2403.09998](http://arxiv.org/abs/2403.09998)|null|
 |**2024-03-14**|**GroupContrast: Semantic-aware Self-supervised Representation Learning for 3D Understanding**|Chengyao Wang et.al.|[2403.09639](http://arxiv.org/abs/2403.09639)|**[link](https://github.com/dvlab-research/groupcontrast)**|
 |**2024-03-14**|**3D-VLA: A 3D Vision-Language-Action Generative World Model**|Haoyu Zhen et.al.|[2403.09631](http://arxiv.org/abs/2403.09631)|null|
 |**2024-03-14**|**VIRUS-NeRF -- Vision, InfraRed and UltraSonic based Neural Radiance Fields**|Nicolaj Schmid et.al.|[2403.09477](http://arxiv.org/abs/2403.09477)|null|
@@ -1331,7 +1351,7 @@
 |**2023-11-08**|**VET: Visual Error Tomography for Point Cloud Completion and High-Quality Neural Rendering**|Linus Franke et.al.|[2311.04634](http://arxiv.org/abs/2311.04634)|**[link](https://github.com/lfranke/vet)**|
 |**2023-11-09**|**Rethinking Human Pose Estimation for Autonomous Driving with 3D Event Representations**|Xiaoting Yin et.al.|[2311.04591](http://arxiv.org/abs/2311.04591)|**[link](https://github.com/masterhow/eventpointpose)**|
 
-<p align=right>(<a href=#updated-on-20240318>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240319>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
