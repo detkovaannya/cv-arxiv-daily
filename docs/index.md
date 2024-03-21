@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-20**|**Disentangling the anisotropic radio sky: Fisher forecasts for 21cm arrays**|Zheng Zhang et.al.|[2403.13768](http://arxiv.org/abs/2403.13768)|null|
+|**2024-03-20**|**The Brown Dwarf Kinematics Project (BDKP). VI. Ultracool Dwarf Radial and Rotational Velocities from SDSS/APOGEE High-resolution Spectroscopy**|Chih-Chun Hsu et.al.|[2403.13760](http://arxiv.org/abs/2403.13760)|null|
+|**2024-03-20**|**Agent-based MST Construction**|Ajay D. Kshemkalyani et.al.|[2403.13716](http://arxiv.org/abs/2403.13716)|null|
+|**2024-03-20**|**Unsupervised learning in particle physics**|Jai Bardhan et.al.|[2403.13676](http://arxiv.org/abs/2403.13676)|null|
+|**2024-03-20**|**Phase diagram of generalized TASEP on an open chain: Liggett-like boundary conditions**|Nadezhda Zh Bunzarova et.al.|[2403.13670](http://arxiv.org/abs/2403.13670)|null|
+|**2024-03-20**|**How to Relax Instantly: Elastic Relaxation of Concurrent Data Structures**|Kåre von Geijer et.al.|[2403.13644](http://arxiv.org/abs/2403.13644)|null|
+|**2024-03-20**|**CheckMate: Evaluating Checkpointing Protocols for Streaming Dataflows**|George Siachamis et.al.|[2403.13629](http://arxiv.org/abs/2403.13629)|null|
+|**2024-03-20**|**Dynamic Resource Allocation for Virtual Machine Migration Optimization using Machine Learning**|Yulu Gong et.al.|[2403.13619](http://arxiv.org/abs/2403.13619)|null|
+|**2024-03-20**|**The enigmatic origin of two dormant BH binaries: Gaia BH1 and Gaia BH2**|Iwona Kotko et.al.|[2403.13579](http://arxiv.org/abs/2403.13579)|null|
+|**2024-03-20**|**Adaptive time step selection for Spectral Deferred Corrections**|Thomas Baumann et.al.|[2403.13454](http://arxiv.org/abs/2403.13454)|null|
 |**2024-03-19**|**The FLAMINGO project: the coupling between baryonic feedback and cosmology in light of the $S_8$ tension**|Willem Elbers et.al.|[2403.12967](http://arxiv.org/abs/2403.12967)|null|
 |**2024-03-19**|**Legendrian loops and cluster modular groups**|James Hughes et.al.|[2403.12951](http://arxiv.org/abs/2403.12951)|null|
 |**2024-03-19**|**Segment Anything for comprehensive analysis of grapevine cluster architecture and berry properties**|Efrain Torres-Lomas et.al.|[2403.12935](http://arxiv.org/abs/2403.12935)|null|
@@ -882,6 +892,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-20**|**Embedding Pose Graph, Enabling 3D Foundation Model Capabilities with a Compact Representation**|Hugues Thomas et.al.|[2403.13777](http://arxiv.org/abs/2403.13777)|null|
+|**2024-03-20**|**Machine Learning Optimized Approach for Parameter Selection in MESHFREE Simulations**|Paulami Banerjee et.al.|[2403.13672](http://arxiv.org/abs/2403.13672)|null|
+|**2024-03-20**|**Scaling Diffusion Models to Real-World 3D LiDAR Scene Completion**|Lucas Nunes et.al.|[2403.13470](http://arxiv.org/abs/2403.13470)|**[link](https://github.com/prbonn/lidiff)**|
+|**2024-03-20**|**Self-Supervised Class-Agnostic Motion Prediction with Spatial and Temporal Consistency Regularizations**|Kewei Wang et.al.|[2403.13261](http://arxiv.org/abs/2403.13261)|**[link](https://github.com/kwwcv/selfmotion)**|
+|**2024-03-19**|**SceneScript: Reconstructing Scenes With An Autoregressive Structured Language Model**|Armen Avetisyan et.al.|[2403.13064](http://arxiv.org/abs/2403.13064)|null|
 |**2024-03-19**|**PointGrasp: Point Cloud-based Grasping for Tendon-driven Soft Robotic Glove Applications**|Chen Hu et.al.|[2403.12631](http://arxiv.org/abs/2403.12631)|null|
 |**2024-03-19**|**Multi-View Active Sensing for Human-Robot Interaction via Hierarchically Connected Tree**|Yuanjiong Ying et.al.|[2403.12538](http://arxiv.org/abs/2403.12538)|null|
 |**2024-03-19**|**UniBind: LLM-Augmented Unified and Balanced Representation Space to Bind Them All**|Yuanhuiyi Lyu et.al.|[2403.12532](http://arxiv.org/abs/2403.12532)|null|
