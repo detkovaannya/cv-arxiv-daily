@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-21**|**ClusteringSDF: Self-Organized Neural Implicit Surfaces for 3D Decomposition**|Tianhao Wu et.al.|[2403.14619](http://arxiv.org/abs/2403.14619)|null|
+|**2024-03-21**|**Search for protostellar jets with UWISH2 in the molecular cloud complexes Vulpecula and IRDC G53.2**|Manish Chauhan et.al.|[2403.14615](http://arxiv.org/abs/2403.14615)|null|
+|**2024-03-21**|**Mutation of signed valued quivers and presentations of simple complex Lie algebras**|Joseph Grant et.al.|[2403.14595](http://arxiv.org/abs/2403.14595)|null|
+|**2024-03-21**|**Soft Learning Probabilistic Circuits**|Soroush Ghandi et.al.|[2403.14504](http://arxiv.org/abs/2403.14504)|null|
+|**2024-03-21**|**Phenology curve estimation via a mixed model representation of functional principal components: Characterizing time series of satellite-derived vegetation indices**|Inder Tecuapetla-Gómez et.al.|[2403.14451](http://arxiv.org/abs/2403.14451)|null|
+|**2024-03-21**|**History-Independent Concurrent Objects**|Hagit Attiya et.al.|[2403.14445](http://arxiv.org/abs/2403.14445)|null|
+|**2024-03-21**|**GLC++: Source-Free Universal Domain Adaptation through Global-Local Clustering and Contrastive Affinity Learning**|Sanqing Qu et.al.|[2403.14410](http://arxiv.org/abs/2403.14410)|**[link](https://github.com/ispc-lab/glc-plus)**|
+|**2024-03-21**|**DomainLab: A modular Python package for domain generalization in deep learning**|Xudong Sun et.al.|[2403.14356](http://arxiv.org/abs/2403.14356)|**[link](https://github.com/marrlab/domainlab)**|
+|**2024-03-21**|**Accelerating Time-to-Science by Streaming Detector Data Directly into Perlmutter Compute Nodes**|Samuel S. Welborn et.al.|[2403.14352](http://arxiv.org/abs/2403.14352)|null|
+|**2024-03-21**|**Annotation-Efficient Polyp Segmentation via Active Learning**|Duojun Huang et.al.|[2403.14350](http://arxiv.org/abs/2403.14350)|null|
 |**2024-03-20**|**Disentangling the anisotropic radio sky: Fisher forecasts for 21cm arrays**|Zheng Zhang et.al.|[2403.13768](http://arxiv.org/abs/2403.13768)|null|
 |**2024-03-20**|**The Brown Dwarf Kinematics Project (BDKP). VI. Ultracool Dwarf Radial and Rotational Velocities from SDSS/APOGEE High-resolution Spectroscopy**|Chih-Chun Hsu et.al.|[2403.13760](http://arxiv.org/abs/2403.13760)|null|
 |**2024-03-20**|**Agent-based MST Construction**|Ajay D. Kshemkalyani et.al.|[2403.13716](http://arxiv.org/abs/2403.13716)|null|
@@ -892,6 +902,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-21**|**VXP: Voxel-Cross-Pixel Large-scale Image-LiDAR Place Recognition**|Yun-Jin Li et.al.|[2403.14594](http://arxiv.org/abs/2403.14594)|null|
+|**2024-03-21**|**HAC: Hash-grid Assisted Context for 3D Gaussian Splatting Compression**|Yihang Chen et.al.|[2403.14530](http://arxiv.org/abs/2403.14530)|**[link](https://github.com/yihangchen-ee/hac)**|
+|**2024-03-21**|**OA-CNNs: Omni-Adaptive Sparse CNNs for 3D Semantic Segmentation**|Bohao Peng et.al.|[2403.14418](http://arxiv.org/abs/2403.14418)|null|
+|**2024-03-21**|**A LiDAR-Aided Channel Model for Vehicular Intelligent Sensing-Communication Integration**|Ziwei Huang et.al.|[2403.14185](http://arxiv.org/abs/2403.14185)|null|
+|**2024-03-21**|**HCTO: Optimality-Aware LiDAR Inertial Odometry with Hybrid Continuous Time Optimization for Compact Wearable Mapping System**|Jianping Li et.al.|[2403.14173](http://arxiv.org/abs/2403.14173)|null|
+|**2024-03-21**|**Mini-Splatting: Representing Scenes with a Constrained Number of Gaussians**|Guangchi Fang et.al.|[2403.14166](http://arxiv.org/abs/2403.14166)|null|
+|**2024-03-21**|**Extrinsic Calibration of Multiple LiDARs for a Mobile Robot based on Floor Plane And Object Segmentation**|Shun Niijima et.al.|[2403.14161](http://arxiv.org/abs/2403.14161)|null|
+|**2024-03-21**|**3D Object Detection from Point Cloud via Voting Step Diffusion**|Haoran Hou et.al.|[2403.14133](http://arxiv.org/abs/2403.14133)|null|
+|**2024-03-21**|**Soft Masked Transformer for Point Cloud Processing with Skip Attention-Based Upsampling**|Yong He et.al.|[2403.14124](http://arxiv.org/abs/2403.14124)|null|
+|**2024-03-21**|**Training point-based deep learning networks for forest segmentation with synthetic data**|Francisco Raverta Capua et.al.|[2403.14115](http://arxiv.org/abs/2403.14115)|null|
 |**2024-03-20**|**Embedding Pose Graph, Enabling 3D Foundation Model Capabilities with a Compact Representation**|Hugues Thomas et.al.|[2403.13777](http://arxiv.org/abs/2403.13777)|null|
 |**2024-03-20**|**Machine Learning Optimized Approach for Parameter Selection in MESHFREE Simulations**|Paulami Banerjee et.al.|[2403.13672](http://arxiv.org/abs/2403.13672)|null|
 |**2024-03-20**|**Scaling Diffusion Models to Real-World 3D LiDAR Scene Completion**|Lucas Nunes et.al.|[2403.13470](http://arxiv.org/abs/2403.13470)|**[link](https://github.com/prbonn/lidiff)**|
