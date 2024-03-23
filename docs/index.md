@@ -904,7 +904,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-03-21**|**VXP: Voxel-Cross-Pixel Large-scale Image-LiDAR Place Recognition**|Yun-Jin Li et.al.|[2403.14594](http://arxiv.org/abs/2403.14594)|null|
 |**2024-03-21**|**HAC: Hash-grid Assisted Context for 3D Gaussian Splatting Compression**|Yihang Chen et.al.|[2403.14530](http://arxiv.org/abs/2403.14530)|**[link](https://github.com/yihangchen-ee/hac)**|
-|**2024-03-21**|**OA-CNNs: Omni-Adaptive Sparse CNNs for 3D Semantic Segmentation**|Bohao Peng et.al.|[2403.14418](http://arxiv.org/abs/2403.14418)|null|
+|**2024-03-21**|**OA-CNNs: Omni-Adaptive Sparse CNNs for 3D Semantic Segmentation**|Bohao Peng et.al.|[2403.14418](http://arxiv.org/abs/2403.14418)|**[link](https://github.com/Pointcept/Pointcept)**|
 |**2024-03-21**|**A LiDAR-Aided Channel Model for Vehicular Intelligent Sensing-Communication Integration**|Ziwei Huang et.al.|[2403.14185](http://arxiv.org/abs/2403.14185)|null|
 |**2024-03-21**|**HCTO: Optimality-Aware LiDAR Inertial Odometry with Hybrid Continuous Time Optimization for Compact Wearable Mapping System**|Jianping Li et.al.|[2403.14173](http://arxiv.org/abs/2403.14173)|null|
 |**2024-03-21**|**Mini-Splatting: Representing Scenes with a Constrained Number of Gaussians**|Guangchi Fang et.al.|[2403.14166](http://arxiv.org/abs/2403.14166)|null|
