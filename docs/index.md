@@ -21,6 +21,7 @@ layout: default
 |**2024-03-21**|**Phenology curve estimation via a mixed model representation of functional principal components: Characterizing time series of satellite-derived vegetation indices**|Inder Tecuapetla-Gómez et.al.|[2403.14451](http://arxiv.org/abs/2403.14451)|null|
 |**2024-03-21**|**History-Independent Concurrent Objects**|Hagit Attiya et.al.|[2403.14445](http://arxiv.org/abs/2403.14445)|null|
 |**2024-03-21**|**GLC++: Source-Free Universal Domain Adaptation through Global-Local Clustering and Contrastive Affinity Learning**|Sanqing Qu et.al.|[2403.14410](http://arxiv.org/abs/2403.14410)|**[link](https://github.com/ispc-lab/glc-plus)**|
+|**2024-03-21**|**Loop Improvement: An Efficient Approach for Extracting Shared Features from Heterogeneous Data without Central Server**|Fei Li et.al.|[2403.14371](http://arxiv.org/abs/2403.14371)|**[link](https://github.com/axedge1983/li)**|
 |**2024-03-21**|**DomainLab: A modular Python package for domain generalization in deep learning**|Xudong Sun et.al.|[2403.14356](http://arxiv.org/abs/2403.14356)|**[link](https://github.com/marrlab/domainlab)**|
 |**2024-03-21**|**Accelerating Time-to-Science by Streaming Detector Data Directly into Perlmutter Compute Nodes**|Samuel S. Welborn et.al.|[2403.14352](http://arxiv.org/abs/2403.14352)|null|
 |**2024-03-21**|**Annotation-Efficient Polyp Segmentation via Active Learning**|Duojun Huang et.al.|[2403.14350](http://arxiv.org/abs/2403.14350)|null|
@@ -911,7 +912,7 @@ layout: default
 |**2024-03-21**|**Extrinsic Calibration of Multiple LiDARs for a Mobile Robot based on Floor Plane And Object Segmentation**|Shun Niijima et.al.|[2403.14161](http://arxiv.org/abs/2403.14161)|null|
 |**2024-03-21**|**3D Object Detection from Point Cloud via Voting Step Diffusion**|Haoran Hou et.al.|[2403.14133](http://arxiv.org/abs/2403.14133)|null|
 |**2024-03-21**|**Soft Masked Transformer for Point Cloud Processing with Skip Attention-Based Upsampling**|Yong He et.al.|[2403.14124](http://arxiv.org/abs/2403.14124)|null|
-|**2024-03-21**|**Training point-based deep learning networks for forest segmentation with synthetic data**|Francisco Raverta Capua et.al.|[2403.14115](http://arxiv.org/abs/2403.14115)|null|
+|**2024-03-21**|**Training point-based deep learning networks for forest segmentation with synthetic data**|Francisco Raverta Capua et.al.|[2403.14115](http://arxiv.org/abs/2403.14115)|**[link](https://github.com/lrse/forest-simulator)**|
 |**2024-03-20**|**Embedding Pose Graph, Enabling 3D Foundation Model Capabilities with a Compact Representation**|Hugues Thomas et.al.|[2403.13777](http://arxiv.org/abs/2403.13777)|null|
 |**2024-03-20**|**Machine Learning Optimized Approach for Parameter Selection in MESHFREE Simulations**|Paulami Banerjee et.al.|[2403.13672](http://arxiv.org/abs/2403.13672)|null|
 |**2024-03-20**|**Scaling Diffusion Models to Real-World 3D LiDAR Scene Completion**|Lucas Nunes et.al.|[2403.13470](http://arxiv.org/abs/2403.13470)|**[link](https://github.com/prbonn/lidiff)**|
