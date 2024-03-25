@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-22**|**LLaVA-PruMerge: Adaptive Token Reduction for Efficient Large Multimodal Models**|Yuzhang Shang et.al.|[2403.15388](http://arxiv.org/abs/2403.15388)|null|
+|**2024-03-22**|**Fourier Transform-based Estimators for Data Sketches**|Seth Pettie et.al.|[2403.15366](http://arxiv.org/abs/2403.15366)|null|
+|**2024-03-22**|**Benchmarking of machine learning interatomic potentials for reactive hydrogen dynamics at metal surfaces**|Wojciech G. Stark et.al.|[2403.15334](http://arxiv.org/abs/2403.15334)|null|
+|**2024-03-22**|**ProvDeploy: Provenance-oriented Containerization of High Performance Computing Scientific Workflows**|Liliane Kunstmann et.al.|[2403.15324](http://arxiv.org/abs/2403.15324)|null|
+|**2024-03-22**|**Comprehensive Reassessment of Large-Scale Evaluation Outcomes in LLMs: A Multifaceted Statistical Approach**|Kun Sun et.al.|[2403.15250](http://arxiv.org/abs/2403.15250)|null|
+|**2024-03-22**|**The Dissolution of Planetesimals in Electrostatic Fields**|F. Chioma Onyeagusi et.al.|[2403.15225](http://arxiv.org/abs/2403.15225)|null|
+|**2024-03-22**|**FSD-Inference: Fully Serverless Distributed Inference with Scalable Cloud Communication**|Joe Oakley et.al.|[2403.15195](http://arxiv.org/abs/2403.15195)|null|
+|**2024-03-22**|**ECHO: Efficient Off-Chain Payments and Cross-Chain Swaps for Cryptocurrencies**|Di Wu et.al.|[2403.15191](http://arxiv.org/abs/2403.15191)|null|
+|**2024-03-22**|**Text clustering with LLM embeddings**|Alina Petukhova et.al.|[2403.15112](http://arxiv.org/abs/2403.15112)|null|
+|**2024-03-22**|**Heavy multiquark systems as clusters of smaller units -- a diffusion Monte Carlo calculation --**|M. C. Gordillo et.al.|[2403.15000](http://arxiv.org/abs/2403.15000)|null|
 |**2024-03-21**|**ClusteringSDF: Self-Organized Neural Implicit Surfaces for 3D Decomposition**|Tianhao Wu et.al.|[2403.14619](http://arxiv.org/abs/2403.14619)|null|
 |**2024-03-21**|**Search for protostellar jets with UWISH2 in the molecular cloud complexes Vulpecula and IRDC G53.2**|Manish Chauhan et.al.|[2403.14615](http://arxiv.org/abs/2403.14615)|null|
 |**2024-03-21**|**Mutation of signed valued quivers and presentations of simple complex Lie algebras**|Joseph Grant et.al.|[2403.14595](http://arxiv.org/abs/2403.14595)|null|
@@ -909,6 +919,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-22**|**IS-Fusion: Instance-Scene Collaborative Fusion for Multimodal 3D Object Detection**|Junbo Yin et.al.|[2403.15241](http://arxiv.org/abs/2403.15241)|null|
+|**2024-03-22**|**CRPlace: Camera-Radar Fusion with BEV Representation for Place Recognition**|Shaowei Fu et.al.|[2403.15183](http://arxiv.org/abs/2403.15183)|null|
+|**2024-03-22**|**LSK3DNet: Towards Effective and Efficient 3D Perception with Large Sparse Kernels**|Tuo Feng et.al.|[2403.15173](http://arxiv.org/abs/2403.15173)|null|
+|**2024-03-22**|**PseudoTouch: Efficiently Imaging the Surface Feel of Objects for Robotic Manipulation**|Adrian Röfer et.al.|[2403.15107](http://arxiv.org/abs/2403.15107)|null|
+|**2024-03-22**|**VRSO: Visual-Centric Reconstruction for Static Object Annotation**|Chenyao Yu et.al.|[2403.15026](http://arxiv.org/abs/2403.15026)|null|
+|**2024-03-22**|**Tri-Perspective View Decomposition for Geometry-Aware Depth Completion**|Zhiqiang Yan et.al.|[2403.15008](http://arxiv.org/abs/2403.15008)|null|
+|**2024-03-22**|**STAG4D: Spatial-Temporal Anchored Generative 4D Gaussians**|Yifei Zeng et.al.|[2403.14939](http://arxiv.org/abs/2403.14939)|null|
+|**2024-03-21**|**Offline tagging of radon-induced backgrounds in XENON1T and applicability to other liquid xenon detectors**|E. Aprile et.al.|[2403.14878](http://arxiv.org/abs/2403.14878)|null|
+|**2024-03-21**|**Geom-DeepONet: A Point-cloud-based Deep Operator Network for Field Predictions on 3D Parameterized Geometries**|Junyan He et.al.|[2403.14788](http://arxiv.org/abs/2403.14788)|null|
 |**2024-03-21**|**VXP: Voxel-Cross-Pixel Large-scale Image-LiDAR Place Recognition**|Yun-Jin Li et.al.|[2403.14594](http://arxiv.org/abs/2403.14594)|null|
 |**2024-03-21**|**HAC: Hash-grid Assisted Context for 3D Gaussian Splatting Compression**|Yihang Chen et.al.|[2403.14530](http://arxiv.org/abs/2403.14530)|**[link](https://github.com/yihangchen-ee/hac)**|
 |**2024-03-21**|**OA-CNNs: Omni-Adaptive Sparse CNNs for 3D Semantic Segmentation**|Bohao Peng et.al.|[2403.14418](http://arxiv.org/abs/2403.14418)|**[link](https://github.com/Pointcept/Pointcept)**|
