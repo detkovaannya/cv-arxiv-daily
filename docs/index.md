@@ -31,7 +31,7 @@ layout: default
 |**2024-03-20**|**Unsupervised learning in particle physics**|Jai Bardhan et.al.|[2403.13676](http://arxiv.org/abs/2403.13676)|null|
 |**2024-03-20**|**Phase diagram of generalized TASEP on an open chain: Liggett-like boundary conditions**|Nadezhda Zh Bunzarova et.al.|[2403.13670](http://arxiv.org/abs/2403.13670)|null|
 |**2024-03-20**|**How to Relax Instantly: Elastic Relaxation of Concurrent Data Structures**|Kåre von Geijer et.al.|[2403.13644](http://arxiv.org/abs/2403.13644)|null|
-|**2024-03-20**|**CheckMate: Evaluating Checkpointing Protocols for Streaming Dataflows**|George Siachamis et.al.|[2403.13629](http://arxiv.org/abs/2403.13629)|null|
+|**2024-03-20**|**CheckMate: Evaluating Checkpointing Protocols for Streaming Dataflows**|George Siachamis et.al.|[2403.13629](http://arxiv.org/abs/2403.13629)|**[link](https://github.com/delftdata/checkmate)**|
 |**2024-03-20**|**Dynamic Resource Allocation for Virtual Machine Migration Optimization using Machine Learning**|Yulu Gong et.al.|[2403.13619](http://arxiv.org/abs/2403.13619)|null|
 |**2024-03-20**|**The enigmatic origin of two dormant BH binaries: Gaia BH1 and Gaia BH2**|Iwona Kotko et.al.|[2403.13579](http://arxiv.org/abs/2403.13579)|null|
 |**2024-03-20**|**Adaptive time step selection for Spectral Deferred Corrections**|Thomas Baumann et.al.|[2403.13454](http://arxiv.org/abs/2403.13454)|null|
@@ -42,7 +42,7 @@ layout: default
 |**2024-03-19**|**Toward Sustainable GenAI using Generation Directives for Carbon-Friendly Large Language Model Inference**|Baolin Li et.al.|[2403.12900](http://arxiv.org/abs/2403.12900)|null|
 |**2024-03-19**|**Clustered Mallows Model**|Luiza S. C. Piancastelli et.al.|[2403.12880](http://arxiv.org/abs/2403.12880)|null|
 |**2024-03-19**|**Optimizing Service Placement in Edge-to-Cloud AR/VR Systems using a Multi-Objective Genetic Algorithm**|Mohammadsadeq Garshasbi Herabad et.al.|[2403.12849](http://arxiv.org/abs/2403.12849)|null|
-|**2024-03-19**|**Parallel Gaussian process with kernel approximation in CUDA**|Davide Carminati et.al.|[2403.12797](http://arxiv.org/abs/2403.12797)|null|
+|**2024-03-19**|**Parallel Gaussian process with kernel approximation in CUDA**|Davide Carminati et.al.|[2403.12797](http://arxiv.org/abs/2403.12797)|**[link](https://github.com/davidecarminati/cufagp)**|
 |**2024-03-19**|**Growth of metal catalyst nanoparticles in hydrocarbon-rich atmosphere of arc discharge for synthesis of carbon nanotubes**|Stanislav Musikhin et.al.|[2403.12700](http://arxiv.org/abs/2403.12700)|null|
 |**2024-03-19**|**$n$ -cotorsion pairs and recollements of extriangulated categories**|Jian He et.al.|[2403.12673](http://arxiv.org/abs/2403.12673)|null|
 |**2024-03-18**|**Variational calculations of symmetric nuclear matter and pure neutron matter with the tensor-optimized Fermi Sphere (TOFS) method: many-body effects and short-range correlation**|Taiichi Yamada et.al.|[2403.11717](http://arxiv.org/abs/2403.11717)|null|
@@ -59,14 +59,14 @@ layout: default
 |**2024-03-15**|**Comparative study of the kinetic properties of proton and alpha beams in the Alfvénic wind observed by SWA-PAS onboard Solar Orbiter**|Roberto Bruno et.al.|[2403.10489](http://arxiv.org/abs/2403.10489)|null|
 |**2024-03-15**|**Defect design in ferroelectrics -- new insights on agglomeration**|Sheng-Han Teng et.al.|[2403.10467](http://arxiv.org/abs/2403.10467)|null|
 |**2024-03-15**|**Microscopic understanding of NMR signals by dynamic mean-field theory for spins**|Timo Gräßer et.al.|[2403.10465](http://arxiv.org/abs/2403.10465)|null|
-|**2024-03-15**|**Evaluation of Quantum and Hybrid Solvers for Combinatorial Optimization**|Amedeo Bertuzzi et.al.|[2403.10455](http://arxiv.org/abs/2403.10455)|null|
+|**2024-03-15**|**Evaluation of Quantum and Hybrid Solvers for Combinatorial Optimization**|Amedeo Bertuzzi et.al.|[2403.10455](http://arxiv.org/abs/2403.10455)|**[link](https://github.com/amedeob/quantum-optimization-performance)**|
 |**2024-03-15**|**Scalable Algorithms for Individual Preference Stable Clustering**|Ron Mosenzon et.al.|[2403.10365](http://arxiv.org/abs/2403.10365)|null|
 |**2024-03-15**|**Denoising Task Difficulty-based Curriculum for Training Diffusion Models**|Jin-Young Kim et.al.|[2403.10348](http://arxiv.org/abs/2403.10348)|null|
 |**2024-03-15**|**Efficient All-electron Hybrid Density Functionals for Atomistic Simulations Beyond 10,000 Atoms**|Sebastian Kokott et.al.|[2403.10343](http://arxiv.org/abs/2403.10343)|null|
 |**2024-03-15**|**GreedyML: A Parallel Algorithm for Maximizing Submodular Functions**|Shivaram Gopal et.al.|[2403.10332](http://arxiv.org/abs/2403.10332)|null|
-|**2024-03-15**|**DSP: Dynamic Sequence Parallelism for Multi-Dimensional Transformers**|Xuanlei Zhao et.al.|[2403.10266](http://arxiv.org/abs/2403.10266)|null|
+|**2024-03-15**|**DSP: Dynamic Sequence Parallelism for Multi-Dimensional Transformers**|Xuanlei Zhao et.al.|[2403.10266](http://arxiv.org/abs/2403.10266)|**[link](https://github.com/nus-hpc-ai-lab/opendit)**|
 |**2024-03-14**|**The Size-Linewidth Relation and Signatures of Feedback from Quiescent to Active Star Forming Regions in the LMC**|Alex Green et.al.|[2403.09594](http://arxiv.org/abs/2403.09594)|null|
-|**2024-03-14**|**cosmocnc: A fast, flexible, and accurate galaxy cluster number count likelihood code for cosmology**|Íñigo Zubeldia et.al.|[2403.09589](http://arxiv.org/abs/2403.09589)|null|
+|**2024-03-14**|**cosmocnc: A fast, flexible, and accurate galaxy cluster number count likelihood code for cosmology**|Íñigo Zubeldia et.al.|[2403.09589](http://arxiv.org/abs/2403.09589)|**[link](https://github.com/inigozubeldia/cosmocnc)**|
 |**2024-03-14**|**Testing MOND on small bodies in the remote solar system**|David Vokrouhlický et.al.|[2403.09555](http://arxiv.org/abs/2403.09555)|null|
 |**2024-03-14**|**Analyzing and Mitigating (with LLMs) the Security Misconfigurations of Helm Charts from Artifact Hub**|Francesco Minna et.al.|[2403.09537](http://arxiv.org/abs/2403.09537)|null|
 |**2024-03-14**|**An Extreme Ultra-Compact X-ray Binary in a Globular Cluster: Multi-Wavelength Observations of RZ2109 Explored in a Triple System Framework**|Kristen C. Dage et.al.|[2403.09525](http://arxiv.org/abs/2403.09525)|null|
@@ -99,7 +99,7 @@ layout: default
 |**2024-03-11**|**Accurate and Interpretable Representation of Correlated Electronic Structure via Tensor Product Selected CI**|Nicole M. Braunscheidel et.al.|[2403.06913](http://arxiv.org/abs/2403.06913)|null|
 |**2024-03-11**|**Dynamic Client Clustering, Bandwidth Allocation, and Workload Optimization for Semi-synchronous Federated Learning**|Liangkun Yu et.al.|[2403.06900](http://arxiv.org/abs/2403.06900)|null|
 |**2024-03-11**|**SFVInt: Simple, Fast and Generic Variable-Length Integer Decoding using Bit Manipulation Instructions**|Gang Liao et.al.|[2403.06898](http://arxiv.org/abs/2403.06898)|null|
-|**2024-03-11**|**Exploring Large Language Models and Hierarchical Frameworks for Classification of Large Unstructured Legal Documents**|Nishchal Prasad et.al.|[2403.06872](http://arxiv.org/abs/2403.06872)|null|
+|**2024-03-11**|**Exploring Large Language Models and Hierarchical Frameworks for Classification of Large Unstructured Legal Documents**|Nishchal Prasad et.al.|[2403.06872](http://arxiv.org/abs/2403.06872)|**[link](https://github.com/nishchalprasad/mesc)**|
 |**2024-03-11**|**Transparent AI Disclosure Obligations: Who, What, When, Where, Why, How**|Abdallah El Ali et.al.|[2403.06823](http://arxiv.org/abs/2403.06823)|null|
 |**2024-03-11**|**Redefining Event Types and Group Evolution in Temporal Data**|Andrea Failla et.al.|[2403.06771](http://arxiv.org/abs/2403.06771)|null|
 |**2024-03-11**|**Streamlining in the Riemannian Realm: Efficient Riemannian Optimization with Loopless Variance Reduction**|Yury Demidovich et.al.|[2403.06677](http://arxiv.org/abs/2403.06677)|null|
@@ -936,11 +936,11 @@ layout: default
 |**2024-03-17**|**Customizing Visual-Language Foundation Models for Multi-modal Anomaly Detection and Reasoning**|Xiaohao Xu et.al.|[2403.11083](http://arxiv.org/abs/2403.11083)|**[link](https://github.com/xiaohao-xu/customizable-vlm)**|
 |**2024-03-16**|**Exploiting Topological Prior for Boosting Point Cloud Generation**|Baiyuan Chen et.al.|[2403.10962](http://arxiv.org/abs/2403.10962)|null|
 |**2024-03-16**|**SF(DA) $^2$ : Source-free Domain Adaptation Through the Lens of Data Augmentation**|Uiwon Hwang et.al.|[2403.10834](http://arxiv.org/abs/2403.10834)|**[link](https://github.com/shinyflight/sfda2)**|
-|**2024-03-16**|**CORN: Contact-based Object Representation for Nonprehensile Manipulation of General Unseen Objects**|Yoonyoung Cho et.al.|[2403.10760](http://arxiv.org/abs/2403.10760)|null|
+|**2024-03-16**|**CORN: Contact-based Object Representation for Nonprehensile Manipulation of General Unseen Objects**|Yoonyoung Cho et.al.|[2403.10760](http://arxiv.org/abs/2403.10760)|**[link](https://github.com/contact-non-prehensile/corn)**|
 |**2024-03-15**|**SculptDiff: Learning Robotic Clay Sculpting from Humans with Goal Conditioned Diffusion Policy**|Alison Bartsch et.al.|[2403.10401](http://arxiv.org/abs/2403.10401)|null|
 |**2024-03-15**|**ANIM: Accurate Neural Implicit Model for Human Reconstruction from a single RGB-D image**|Marco Pesavento et.al.|[2403.10357](http://arxiv.org/abs/2403.10357)|null|
 |**2024-03-15**|**ParaPoint: Learning Global Free-Boundary Surface Parameterization of 3D Point Clouds**|Qijian Zhang et.al.|[2403.10349](http://arxiv.org/abs/2403.10349)|null|
-|**2024-03-15**|**RCooper: A Real-world Large-scale Dataset for Roadside Cooperative Perception**|Ruiyang Hao et.al.|[2403.10145](http://arxiv.org/abs/2403.10145)|null|
+|**2024-03-15**|**RCooper: A Real-world Large-scale Dataset for Roadside Cooperative Perception**|Ruiyang Hao et.al.|[2403.10145](http://arxiv.org/abs/2403.10145)|**[link](https://github.com/air-thu/dair-rcooper)**|
 |**2024-03-15**|**RangeLDM: Fast Realistic LiDAR Point Cloud Generation**|Qianjiang Hu et.al.|[2403.10094](http://arxiv.org/abs/2403.10094)|null|
 |**2024-03-15**|**VRHCF: Cross-Source Point Cloud Registration via Voxel Representation and Hierarchical Correspondence Filtering**|Guiyu Zhao et.al.|[2403.10085](http://arxiv.org/abs/2403.10085)|**[link](https://github.com/guiyuzhao/vrhcf)**|
 |**2024-03-15**|**Contrastive Pre-Training with Multi-View Fusion for No-Reference Point Cloud Quality Assessment**|Ziyu Shan et.al.|[2403.10066](http://arxiv.org/abs/2403.10066)|null|
@@ -956,7 +956,7 @@ layout: default
 |**2024-03-14**|**A New Split Algorithm for 3D Gaussian Splatting**|Qiyuan Feng et.al.|[2403.09143](http://arxiv.org/abs/2403.09143)|null|
 |**2024-03-14**|**Distribution and Depth-Aware Transformers for 3D Human Mesh Recovery**|Jerrin Bright et.al.|[2403.09063](http://arxiv.org/abs/2403.09063)|null|
 |**2024-03-13**|**FastMAC: Stochastic Spectral Sampling of Correspondence Graph**|Yifei Zhang et.al.|[2403.08770](http://arxiv.org/abs/2403.08770)|**[link](https://github.com/forrest-110/fastmac)**|
-|**2024-03-13**|**Towards Dense and Accurate Radar Perception Via Efficient Cross-Modal Diffusion Model**|Ruibin Zhang et.al.|[2403.08460](http://arxiv.org/abs/2403.08460)|null|
+|**2024-03-13**|**Towards Dense and Accurate Radar Perception Via Efficient Cross-Modal Diffusion Model**|Ruibin Zhang et.al.|[2403.08460](http://arxiv.org/abs/2403.08460)|**[link](https://github.com/zju-fast-lab/radar-diffusion)**|
 |**2024-03-13**|**DrFER: Learning Disentangled Representations for 3D Facial Expression Recognition**|Hebeizi Li et.al.|[2403.08318](http://arxiv.org/abs/2403.08318)|null|
 |**2024-03-13**|**Point Cloud Compression via Constrained Optimal Transport**|Zezeng Li et.al.|[2403.08236](http://arxiv.org/abs/2403.08236)|**[link](https://github.com/cognaclee/pcc-cot)**|
 |**2024-03-13**|**Empowering Robotics with Large Language Models: osmAG Map Comprehension with LLMs**|Fujing Xie et.al.|[2403.08228](http://arxiv.org/abs/2403.08228)|**[link](https://github.com/xiefujing/llm-osmag-comprehension)**|
@@ -984,7 +984,7 @@ layout: default
 |**2024-03-08**|**On varimax asymptotics in network models and spectral methods for dimensionality reduction**|Joshua Cape et.al.|[2403.05461](http://arxiv.org/abs/2403.05461)|null|
 |**2024-03-08**|**OccFusion: Depth Estimation Free Multi-sensor Fusion for 3D Occupancy Prediction**|Ji Zhang et.al.|[2403.05329](http://arxiv.org/abs/2403.05329)|null|
 |**2024-03-08**|**DiffSF: Diffusion Models for Scene Flow Estimation**|Yushan Zhang et.al.|[2403.05327](http://arxiv.org/abs/2403.05327)|**[link](https://github.com/zhangyushan3/diffsf)**|
-|**2024-03-08**|**Hide in Thicket: Generating Imperceptible and Rational Adversarial Perturbations on 3D Point Clouds**|Tianrui Lou et.al.|[2403.05247](http://arxiv.org/abs/2403.05247)|null|
+|**2024-03-08**|**Hide in Thicket: Generating Imperceptible and Rational Adversarial Perturbations on 3D Point Clouds**|Tianrui Lou et.al.|[2403.05247](http://arxiv.org/abs/2403.05247)|**[link](https://github.com/trlou/hit-adv)**|
 |**2024-03-08**|**Arbitrary-Scale Point Cloud Upsampling by Voxel-Based Network with Latent Geometric-Consistent Learning**|Hang Du et.al.|[2403.05117](http://arxiv.org/abs/2403.05117)|**[link](https://github.com/hikvision-research/3dvision)**|
 |**2024-03-08**|**REPS: Reconstruction-based Point Cloud Sampling**|Guoqing Zhang et.al.|[2403.05047](http://arxiv.org/abs/2403.05047)|**[link](https://github.com/hitcslj/reps)**|
 |**2024-03-08**|**EgoPAT3Dv2: Predicting 3D Action Target from 2D Egocentric Vision for Human-Robot Interaction**|Irving Fang et.al.|[2403.05046](http://arxiv.org/abs/2403.05046)|null|
@@ -1187,7 +1187,7 @@ layout: default
 |**2024-01-11**|**Surface Normal Estimation with Transformers**|Barry Shichen Hu et.al.|[2401.05745](http://arxiv.org/abs/2401.05745)|null|
 |**2024-01-09**|**Iterative Feedback Network for Unsupervised Point Cloud Registration**|Yifan Xie et.al.|[2401.04357](http://arxiv.org/abs/2401.04357)|**[link](https://github.com/ivanxie416/ifnet)**|
 |**2024-01-09**|**Underdetermined Fourier Extensions for Partial Differential Equations on Surfaces**|Daniel R. Venn et.al.|[2401.04328](http://arxiv.org/abs/2401.04328)|null|
-|**2024-01-09**|**RadarCam-Depth: Radar-Camera Fusion for Depth Estimation with Learned Metric Scale**|Han Li et.al.|[2401.04325](http://arxiv.org/abs/2401.04325)|null|
+|**2024-01-09**|**RadarCam-Depth: Radar-Camera Fusion for Depth Estimation with Learned Metric Scale**|Han Li et.al.|[2401.04325](http://arxiv.org/abs/2401.04325)|**[link](https://github.com/mmocking/radarcam-depth)**|
 |**2024-01-08**|**SOAP: Cross-sensor Domain Adaptation for 3D Object Detection Using Stationary Object Aggregation Pseudo-labelling**|Chengjie Huang et.al.|[2401.04230](http://arxiv.org/abs/2401.04230)|null|
 |**2024-01-08**|**Dr $^2$ Net: Dynamic Reversible Dual-Residual Networks for Memory-Efficient Finetuning**|Chen Zhao et.al.|[2401.04105](http://arxiv.org/abs/2401.04105)|null|
 |**2024-01-08**|**UFO: Unidentified Foreground Object Detection in 3D Point Cloud**|Hyunjun Choi et.al.|[2401.03846](http://arxiv.org/abs/2401.03846)|null|
@@ -1349,7 +1349,7 @@ layout: default
 |**2023-11-29**|**Revisiting Poisson-disk Subsampling for Massive Point Cloud Decimation**|Marc Comino-Trinidad et.al.|[2311.17604](http://arxiv.org/abs/2311.17604)|null|
 |**2023-11-29**|**Spherical Frustum Sparse Convolution Network for LiDAR Point Cloud Semantic Segmentation**|Yu Zheng et.al.|[2311.17491](http://arxiv.org/abs/2311.17491)|null|
 |**2023-11-28**|**A point cloud approach to generative modeling for galaxy surveys at the field level**|Carolina Cuesta-Lazaro et.al.|[2311.17141](http://arxiv.org/abs/2311.17141)|**[link](https://github.com/smsharma/point-cloud-galaxy-diffusion)**|
-|**2023-11-28**|**Diffusion 3D Features (Diff3F): Decorating Untextured Shapes with Distilled Semantic Features**|Niladri Shekhar Dutt et.al.|[2311.17024](http://arxiv.org/abs/2311.17024)|null|
+|**2023-11-28**|**Diffusion 3D Features (Diff3F): Decorating Untextured Shapes with Distilled Semantic Features**|Niladri Shekhar Dutt et.al.|[2311.17024](http://arxiv.org/abs/2311.17024)|**[link](https://github.com/niladridutt/Diffusion-3D-Features)**|
 |**2023-11-28**|**UGG: Unified Generative Grasping**|Jiaxin Lu et.al.|[2311.16917](http://arxiv.org/abs/2311.16917)|**[link](https://github.com/autonomousvision/shape_as_points)**|
 |**2023-11-28**|**RGBGrasp: Image-based Object Grasping by Capturing Multiple Views during Robot Arm Movement with Neural Radiance Fields**|Chang Liu et.al.|[2311.16592](http://arxiv.org/abs/2311.16592)|null|
 |**2023-11-27**|**ViT-Lens-2: Gateway to Omni-modal Intelligence**|Weixian Lei et.al.|[2311.16081](http://arxiv.org/abs/2311.16081)|**[link](https://github.com/TencentARC/ViT-Lens)**|
