@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-25**|**Cluster-Based Normalization Layer for Neural Networks**|Bilal Faye et.al.|[2403.16798](http://arxiv.org/abs/2403.16798)|null|
+|**2024-03-25**|**CurbNet: Curb Detection Framework Based on LiDAR Point Cloud Segmentation**|Guoyang Zhao et.al.|[2403.16794](http://arxiv.org/abs/2403.16794)|null|
+|**2024-03-25**|**Direct activation of PMS by highly dispersed amorphous CoOx clusters in anatase TiO2 nanosheets for efficient oxidation of biomass-derived alcohols**|Zhiwei Jiang et.al.|[2403.16733](http://arxiv.org/abs/2403.16733)|null|
+|**2024-03-25**|**The effect of inter-track coupling on H $_2$O$_2$ productions**|Ramin Abolfath et.al.|[2403.16722](http://arxiv.org/abs/2403.16722)|null|
+|**2024-03-25**|**Boson sampling enhanced quantum chemistry**|Zhong-Xia Shang et.al.|[2403.16698](http://arxiv.org/abs/2403.16698)|null|
+|**2024-03-25**|**FOOL: Addressing the Downlink Bottleneck in Satellite Computing with Neural Feature Compression**|Alireza Furutanpey et.al.|[2403.16677](http://arxiv.org/abs/2403.16677)|null|
+|**2024-03-25**|**Probing Stellar Clusters from Gaia DR2 as Galactic PeVatrons: I -- Expected Gamma-ray and Neutrino Emission**|Alison M. W. Mitchell et.al.|[2403.16650](http://arxiv.org/abs/2403.16650)|null|
+|**2024-03-25**|**Clustering Propagation for Universal Medical Image Segmentation**|Yuhang Ding et.al.|[2403.16646](http://arxiv.org/abs/2403.16646)|null|
+|**2024-03-25**|**V2X-PC: Vehicle-to-everything Collaborative Perception via Point Cluster**|Si Liu et.al.|[2403.16635](http://arxiv.org/abs/2403.16635)|null|
+|**2024-03-25**|**Semantically Enriched Cross-Lingual Sentence Embeddings for Crisis-related Social Media Texts**|Rabindra Lamsal et.al.|[2403.16614](http://arxiv.org/abs/2403.16614)|null|
 |**2024-03-22**|**LLaVA-PruMerge: Adaptive Token Reduction for Efficient Large Multimodal Models**|Yuzhang Shang et.al.|[2403.15388](http://arxiv.org/abs/2403.15388)|null|
 |**2024-03-22**|**Fourier Transform-based Estimators for Data Sketches**|Seth Pettie et.al.|[2403.15366](http://arxiv.org/abs/2403.15366)|null|
 |**2024-03-22**|**Benchmarking of machine learning interatomic potentials for reactive hydrogen dynamics at metal surfaces**|Wojciech G. Stark et.al.|[2403.15334](http://arxiv.org/abs/2403.15334)|null|
@@ -919,6 +929,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-25**|**CurbNet: Curb Detection Framework Based on LiDAR Point Cloud Segmentation**|Guoyang Zhao et.al.|[2403.16794](http://arxiv.org/abs/2403.16794)|null|
+|**2024-03-25**|**DOrA: 3D Visual Grounding with Order-Aware Referring**|Tung-Yu Wu et.al.|[2403.16539](http://arxiv.org/abs/2403.16539)|null|
+|**2024-03-25**|**A Method for Target Detection Based on Mmw Radar and Vision Fusion**|Ming Zong et.al.|[2403.16476](http://arxiv.org/abs/2403.16476)|null|
+|**2024-03-25**|**DOCTR: Disentangled Object-Centric Transformer for Point Scene Understanding**|Xiaoxuan Yu et.al.|[2403.16431](http://arxiv.org/abs/2403.16431)|**[link](https://github.com/saitpublic/doctr)**|
+|**2024-03-25**|**Unsupervised Template-assisted Point Cloud Shape Correspondence Network**|Jiacheng Deng et.al.|[2403.16412](http://arxiv.org/abs/2403.16412)|null|
+|**2024-03-24**|**Diffusion Model is a Good Pose Estimator from 3D RF-Vision**|Junqiao Fan et.al.|[2403.16198](http://arxiv.org/abs/2403.16198)|null|
+|**2024-03-24**|**Realtime Robust Shape Estimation of Deformable Linear Object**|Jiaming Zhang et.al.|[2403.16146](http://arxiv.org/abs/2403.16146)|null|
+|**2024-03-24**|**Self-Supervised Multi-Frame Neural Scene Flow**|Dongrui Liu et.al.|[2403.16116](http://arxiv.org/abs/2403.16116)|null|
+|**2024-03-24**|**RPMArt: Towards Robust Perception and Manipulation for Articulated Objects**|Junbo Wang et.al.|[2403.16023](http://arxiv.org/abs/2403.16023)|null|
+|**2024-03-24**|**Exploring Accurate 3D Phenotyping in Greenhouse through Neural Radiance Fields**|unhong Zhao et.al.|[2403.15981](http://arxiv.org/abs/2403.15981)|null|
 |**2024-03-22**|**IS-Fusion: Instance-Scene Collaborative Fusion for Multimodal 3D Object Detection**|Junbo Yin et.al.|[2403.15241](http://arxiv.org/abs/2403.15241)|null|
 |**2024-03-22**|**CRPlace: Camera-Radar Fusion with BEV Representation for Place Recognition**|Shaowei Fu et.al.|[2403.15183](http://arxiv.org/abs/2403.15183)|null|
 |**2024-03-22**|**LSK3DNet: Towards Effective and Efficient 3D Perception with Large Sparse Kernels**|Tuo Feng et.al.|[2403.15173](http://arxiv.org/abs/2403.15173)|null|
