@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-26**|**WKB asymptotics of Stokes matrices, spectral curves and rhombus inequalities**|Anton Alekseev et.al.|[2403.17906](http://arxiv.org/abs/2403.17906)|null|
+|**2024-03-26**|**A severe local flood and social events show a similar impact on human mobility**|Simone Loreti et.al.|[2403.17899](http://arxiv.org/abs/2403.17899)|null|
+|**2024-03-26**|**Empowering Data Mesh with Federated Learning**|Haoyuan Li et.al.|[2403.17878](http://arxiv.org/abs/2403.17878)|**[link](https://github.com/haoyuan-l/fed_datamesh)**|
+|**2024-03-26**|**An AI-Native Runtime for Multi-Wearable Environments**|Chulhong Min et.al.|[2403.17863](http://arxiv.org/abs/2403.17863)|null|
+|**2024-03-26**|**GPFL: A Gradient Projection-Based Client Selection Framework for Efficient Federated Learning**|Shijie Na et.al.|[2403.17833](http://arxiv.org/abs/2403.17833)|null|
+|**2024-03-26**|**Environment Reconstruction based on Multi-User Selection and Multi-Modal Fusion in ISAC**|Bo Lin et.al.|[2403.17810](http://arxiv.org/abs/2403.17810)|null|
+|**2024-03-26**|**Discovery and timing of ten new millisecond pulsars in the globular cluster Terzan 5**|P. V. Padmanabh et.al.|[2403.17799](http://arxiv.org/abs/2403.17799)|null|
+|**2024-03-26**|**On the uniqueness of the infinite cluster and the cluster density in the Poisson driven random connection model**|Mikhail Chebunin et.al.|[2403.17762](http://arxiv.org/abs/2403.17762)|null|
+|**2024-03-26**|**Assessing the similarity of real matrices with arbitrary shape**|Jasper Albers et.al.|[2403.17687](http://arxiv.org/abs/2403.17687)|null|
+|**2024-03-26**|**Towards a Dutch hybrid quantum/HPC infrastructure**|Olaf Schüsler et.al.|[2403.17649](http://arxiv.org/abs/2403.17649)|null|
 |**2024-03-25**|**Cluster-Based Normalization Layer for Neural Networks**|Bilal Faye et.al.|[2403.16798](http://arxiv.org/abs/2403.16798)|null|
 |**2024-03-25**|**CurbNet: Curb Detection Framework Based on LiDAR Point Cloud Segmentation**|Guoyang Zhao et.al.|[2403.16794](http://arxiv.org/abs/2403.16794)|null|
 |**2024-03-25**|**Direct activation of PMS by highly dispersed amorphous CoOx clusters in anatase TiO2 nanosheets for efficient oxidation of biomass-derived alcohols**|Zhiwei Jiang et.al.|[2403.16733](http://arxiv.org/abs/2403.16733)|null|
@@ -932,6 +942,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-26**|**System Calibration of a Field Phenotyping Robot with Multiple High-Precision Profile Laser Scanners**|Felix Esser et.al.|[2403.17788](http://arxiv.org/abs/2403.17788)|null|
+|**2024-03-26**|**Optical Flow Based Detection and Tracking of Moving Objects for Autonomous Vehicles**|MReza Alipour Sormoli et.al.|[2403.17779](http://arxiv.org/abs/2403.17779)|null|
+|**2024-03-26**|**UADA3D: Unsupervised Adversarial Domain Adaptation for 3D Object Detection with Sparse LiDAR and Large Domain Gaps**|Maciej K Wozniak et.al.|[2403.17633](http://arxiv.org/abs/2403.17633)|null|
+|**2024-03-26**|**Online Tree Reconstruction and Forest Inventory on a Mobile Robotic System**|Leonard Freißmuth et.al.|[2403.17622](http://arxiv.org/abs/2403.17622)|null|
+|**2024-03-26**|**Adaptive LiDAR-Radar Fusion for Outdoor Odometry Across Dense Smoke Conditions**|Chiyun Noh et.al.|[2403.17441](http://arxiv.org/abs/2403.17441)|null|
+|**2024-03-26**|**SSF3D: Strict Semi-Supervised 3D Object Detection with Switching Filter**|Songbur Wong et.al.|[2403.17390](http://arxiv.org/abs/2403.17390)|null|
+|**2024-03-25**|**PROSPECT: Precision Robot Spectroscopy Exploration and Characterization Tool**|Nathaniel Hanson et.al.|[2403.17232](http://arxiv.org/abs/2403.17232)|null|
+|**2024-03-25**|**INPC: Implicit Neural Point Clouds for Radiance Field Rendering**|Florian Hahlbohm et.al.|[2403.16862](http://arxiv.org/abs/2403.16862)|null|
 |**2024-03-25**|**CurbNet: Curb Detection Framework Based on LiDAR Point Cloud Segmentation**|Guoyang Zhao et.al.|[2403.16794](http://arxiv.org/abs/2403.16794)|null|
 |**2024-03-25**|**DOrA: 3D Visual Grounding with Order-Aware Referring**|Tung-Yu Wu et.al.|[2403.16539](http://arxiv.org/abs/2403.16539)|null|
 |**2024-03-25**|**A Method for Target Detection Based on Mmw Radar and Vision Fusion**|Ming Zong et.al.|[2403.16476](http://arxiv.org/abs/2403.16476)|null|
