@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-27**|**Constraining primordial non-Gaussianity from the large scale structure two-point and three-point correlation functions**|Z. Brown et.al.|[2403.18789](http://arxiv.org/abs/2403.18789)|null|
+|**2024-03-27**|**Superior Parallel Big Data Clustering through Competitive Stochastic Sample Size Optimization in Big-means**|Rustam Mussabayev et.al.|[2403.18766](http://arxiv.org/abs/2403.18766)|null|
+|**2024-03-27**|**Symmetries of the Large Scale Structures of the Universe as a Phenomenology of a Fractal Turbulence: The Role of the Plasma Component**|Giovanni Montani et.al.|[2403.18759](http://arxiv.org/abs/2403.18759)|null|
+|**2024-03-27**|**Contrastive Learning with Orthonormal Anchors (CLOA)**|Huanran Li et.al.|[2403.18699](http://arxiv.org/abs/2403.18699)|null|
+|**2024-03-27**|**JumpBackHash: Say Goodbye to the Modulo Operation to Distribute Keys Uniformly to Buckets**|Otmar Ertl et.al.|[2403.18682](http://arxiv.org/abs/2403.18682)|null|
+|**2024-03-27**|**TransFusion: Contrastive Learning with Transformers**|Huanran Li et.al.|[2403.18681](http://arxiv.org/abs/2403.18681)|null|
+|**2024-03-27**|**Addressing Data Annotation Challenges in Multiple Sensors: A Solution for Scania Collected Datasets**|Ajinkya Khoche et.al.|[2403.18649](http://arxiv.org/abs/2403.18649)|null|
+|**2024-03-27**|**Can the splashback radius be an observable boundary of galaxy clusters?**|Théo Lebeau et.al.|[2403.18648](http://arxiv.org/abs/2403.18648)|null|
+|**2024-03-27**|**Improving Efficiency of Parallel Across the Method Spectral Deferred Corrections**|Gayatri Čaklović et.al.|[2403.18641](http://arxiv.org/abs/2403.18641)|null|
+|**2024-03-27**|**Optical Identification and Spectroscopic Redshift Measurements of 216 Galaxy Clusters from the SRG/eROSITA All-Sky Survey**|I. A. Zaznobin et.al.|[2403.18625](http://arxiv.org/abs/2403.18625)|null|
 |**2024-03-26**|**WKB asymptotics of Stokes matrices, spectral curves and rhombus inequalities**|Anton Alekseev et.al.|[2403.17906](http://arxiv.org/abs/2403.17906)|null|
 |**2024-03-26**|**A severe local flood and social events show a similar impact on human mobility**|Simone Loreti et.al.|[2403.17899](http://arxiv.org/abs/2403.17899)|null|
 |**2024-03-26**|**Empowering Data Mesh with Federated Learning**|Haoyuan Li et.al.|[2403.17878](http://arxiv.org/abs/2403.17878)|**[link](https://github.com/haoyuan-l/fed_datamesh)**|
@@ -936,6 +946,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-27**|**ModaLink: Unifying Modalities for Efficient Image-to-PointCloud Place Recognition**|Weidong Xie et.al.|[2403.18762](http://arxiv.org/abs/2403.18762)|**[link](https://github.com/haomo-ai/modalink)**|
+|**2024-03-27**|**Efficient Heatmap-Guided 6-Dof Grasp Detection in Cluttered Scenes**|Siang Chen et.al.|[2403.18546](http://arxiv.org/abs/2403.18546)|**[link](https://github.com/THU-VCLab/HGGD)**|
+|**2024-03-27**|**Density-guided Translator Boosts Synthetic-to-Real Unsupervised Domain Adaptive Segmentation of 3D Point Clouds**|Zhimin Yuan et.al.|[2403.18469](http://arxiv.org/abs/2403.18469)|null|
+|**2024-03-27**|**DVLO: Deep Visual-LiDAR Odometry with Local-to-Global Feature Fusion and Bi-Directional Structure Alignment**|Jiuming Liu et.al.|[2403.18274](http://arxiv.org/abs/2403.18274)|null|
+|**2024-03-27**|**Sailing Through Point Clouds: Safe Navigation Using Point Cloud Based Control Barrier Functions**|Bolun Dai et.al.|[2403.18206](http://arxiv.org/abs/2403.18206)|null|
+|**2024-03-26**|**Global Point Cloud Registration Network for Large Transformations**|Hanz Cuevas-Velasquez et.al.|[2403.18040](http://arxiv.org/abs/2403.18040)|null|
 |**2024-03-26**|**System Calibration of a Field Phenotyping Robot with Multiple High-Precision Profile Laser Scanners**|Felix Esser et.al.|[2403.17788](http://arxiv.org/abs/2403.17788)|null|
 |**2024-03-26**|**Optical Flow Based Detection and Tracking of Moving Objects for Autonomous Vehicles**|MReza Alipour Sormoli et.al.|[2403.17779](http://arxiv.org/abs/2403.17779)|null|
 |**2024-03-26**|**UADA3D: Unsupervised Adversarial Domain Adaptation for 3D Object Detection with Sparse LiDAR and Large Domain Gaps**|Maciej K Wozniak et.al.|[2403.17633](http://arxiv.org/abs/2403.17633)|null|
