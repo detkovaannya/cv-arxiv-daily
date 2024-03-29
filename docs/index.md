@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.28
+## Updated on 2024.03.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## clustering
@@ -18,7 +18,7 @@ layout: default
 |**2024-03-27**|**Superior Parallel Big Data Clustering through Competitive Stochastic Sample Size Optimization in Big-means**|Rustam Mussabayev et.al.|[2403.18766](http://arxiv.org/abs/2403.18766)|null|
 |**2024-03-27**|**Symmetries of the Large Scale Structures of the Universe as a Phenomenology of a Fractal Turbulence: The Role of the Plasma Component**|Giovanni Montani et.al.|[2403.18759](http://arxiv.org/abs/2403.18759)|null|
 |**2024-03-27**|**Contrastive Learning with Orthonormal Anchors (CLOA)**|Huanran Li et.al.|[2403.18699](http://arxiv.org/abs/2403.18699)|null|
-|**2024-03-27**|**JumpBackHash: Say Goodbye to the Modulo Operation to Distribute Keys Uniformly to Buckets**|Otmar Ertl et.al.|[2403.18682](http://arxiv.org/abs/2403.18682)|null|
+|**2024-03-27**|**JumpBackHash: Say Goodbye to the Modulo Operation to Distribute Keys Uniformly to Buckets**|Otmar Ertl et.al.|[2403.18682](http://arxiv.org/abs/2403.18682)|**[link](https://github.com/dynatrace-oss/hash4j)**|
 |**2024-03-27**|**TransFusion: Contrastive Learning with Transformers**|Huanran Li et.al.|[2403.18681](http://arxiv.org/abs/2403.18681)|null|
 |**2024-03-27**|**Addressing Data Annotation Challenges in Multiple Sensors: A Solution for Scania Collected Datasets**|Ajinkya Khoche et.al.|[2403.18649](http://arxiv.org/abs/2403.18649)|null|
 |**2024-03-27**|**Can the splashback radius be an observable boundary of galaxy clusters?**|Théo Lebeau et.al.|[2403.18648](http://arxiv.org/abs/2403.18648)|null|
