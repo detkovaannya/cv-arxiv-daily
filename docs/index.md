@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-29**|**Towards Greener LLMs: Bringing Energy-Efficiency to the Forefront of LLM Inference**|Jovan Stojkovic et.al.|[2403.20306](http://arxiv.org/abs/2403.20306)|null|
+|**2024-03-29**|**Balanced Data Placement for GEMV Acceleration with Processing-In-Memory**|Mohamed Assem Ibrahim et.al.|[2403.20297](http://arxiv.org/abs/2403.20297)|null|
+|**2024-03-29**|**Latent Embedding Clustering for Occlusion Robust Head Pose Estimation**|José Celestino et.al.|[2403.20251](http://arxiv.org/abs/2403.20251)|null|
+|**2024-03-29**|**A topology on the poset of quiver mutation classes**|Tucker J. Ervin et.al.|[2403.20245](http://arxiv.org/abs/2403.20245)|null|
+|**2024-03-29**|**Graph Neural Aggregation-diffusion with Metastability**|Kaiyuan Cui et.al.|[2403.20221](http://arxiv.org/abs/2403.20221)|null|
+|**2024-03-29**|**Parallel performance of shared memory parallel spectral deferred corrections**|Philip Freese et.al.|[2403.20135](http://arxiv.org/abs/2403.20135)|null|
+|**2024-03-29**|**Privacy-Preserving Data Aggregation Techniques for Enhanced Efficiency and Security in Wireless Sensor Networks: A Comprehensive Analysis and Evaluation**|Ayush Rastogi et.al.|[2403.20120](http://arxiv.org/abs/2403.20120)|null|
+|**2024-03-29**|**FreeSeg-Diff: Training-Free Open-Vocabulary Segmentation with Diffusion Models**|Barbara Toniella Corradini et.al.|[2403.20105](http://arxiv.org/abs/2403.20105)|null|
+|**2024-03-29**|**Neural Network-based model of galaxy power spectrum: Fast full-shape galaxy power spectrum analysis**|Svyatoslav Trusov et.al.|[2403.20093](http://arxiv.org/abs/2403.20093)|null|
+|**2024-03-29**|**Foreground Dust Properties towards the Cluster NGC 7380**|Sadhana Singh et.al.|[2403.20043](http://arxiv.org/abs/2403.20043)|null|
 |**2024-03-28**|**Reference Energies for Double Excitations: Improvement and Extension**|Fábris Kossoski et.al.|[2403.19597](http://arxiv.org/abs/2403.19597)|null|
 |**2024-03-28**|**Situation Awareness for Driver-Centric Driving Style Adaptation**|Johann Haselberger et.al.|[2403.19595](http://arxiv.org/abs/2403.19595)|**[link](https://github.com/jhaselberger/sadc-situation-awareness-for-driver-centric-driving-style-adaptation)**|
 |**2024-03-28**|**Cosmological inference from combining Planck and ACT cluster counts**|Eunseong Lee et.al.|[2403.19542](http://arxiv.org/abs/2403.19542)|null|
@@ -956,6 +966,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-29**|**SGD: Street View Synthesis with Gaussian Splatting and Diffusion Prior**|Zhongrui Yu et.al.|[2403.20079](http://arxiv.org/abs/2403.20079)|null|
+|**2024-03-29**|**A Unified Framework for Human-centric Point Cloud Video Understanding**|Yiteng Xu et.al.|[2403.20031](http://arxiv.org/abs/2403.20031)|null|
+|**2024-03-28**|**Localization and Offline Mapping of High-Voltage Substations in Rough Terrain Using a Ground Vehicle**|Ioannis Alamanos et.al.|[2403.19875](http://arxiv.org/abs/2403.19875)|null|
 |**2024-03-28**|**TOD3Cap: Towards 3D Dense Captioning in Outdoor Scenes**|Bu Jin et.al.|[2403.19589](http://arxiv.org/abs/2403.19589)|**[link](https://github.com/jxbbb/tod3cap)**|
 |**2024-03-28**|**OV-Uni3DETR: Towards Unified Open-Vocabulary 3D Object Detection via Cycle-Modality Propagation**|Zhenyu Wang et.al.|[2403.19580](http://arxiv.org/abs/2403.19580)|null|
 |**2024-03-28**|**GlORIE-SLAM: Globally Optimized RGB-only Implicit Encoding Point Cloud SLAM**|Ganlin Zhang et.al.|[2403.19549](http://arxiv.org/abs/2403.19549)|null|
