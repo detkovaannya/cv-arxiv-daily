@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.01
+## Updated on 2024.04.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -966,7 +966,7 @@
 |**2023-11-10**|**The First Verification Test of Space-Ground Collaborative Intelligence via Cloud-Native Satellites**|Shangguang Wang et.al.|[2311.06078](http://arxiv.org/abs/2311.06078)|null|
 |**2023-11-10**|**Collaborative Inference in DNN-based Satellite Systems with Dynamic Task Streams**|Jinglong Guan et.al.|[2311.06073](http://arxiv.org/abs/2311.06073)|null|
 
-<p align=right>(<a href=#updated-on-20240401>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240402>back to top</a>)</p>
 
 ## point cloud
 
@@ -977,7 +977,7 @@
 |**2024-03-28**|**Localization and Offline Mapping of High-Voltage Substations in Rough Terrain Using a Ground Vehicle**|Ioannis Alamanos et.al.|[2403.19875](http://arxiv.org/abs/2403.19875)|null|
 |**2024-03-28**|**TOD3Cap: Towards 3D Dense Captioning in Outdoor Scenes**|Bu Jin et.al.|[2403.19589](http://arxiv.org/abs/2403.19589)|**[link](https://github.com/jxbbb/tod3cap)**|
 |**2024-03-28**|**OV-Uni3DETR: Towards Unified Open-Vocabulary 3D Object Detection via Cycle-Modality Propagation**|Zhenyu Wang et.al.|[2403.19580](http://arxiv.org/abs/2403.19580)|null|
-|**2024-03-28**|**GlORIE-SLAM: Globally Optimized RGB-only Implicit Encoding Point Cloud SLAM**|Ganlin Zhang et.al.|[2403.19549](http://arxiv.org/abs/2403.19549)|null|
+|**2024-03-30**|**GlORIE-SLAM: Globally Optimized RGB-only Implicit Encoding Point Cloud SLAM**|Ganlin Zhang et.al.|[2403.19549](http://arxiv.org/abs/2403.19549)|null|
 |**2024-03-28**|**RELI11D: A Comprehensive Multimodal Human Motion Dataset and Method**|Ming Yan et.al.|[2403.19501](http://arxiv.org/abs/2403.19501)|null|
 |**2024-03-28**|**CoherentGS: Sparse Novel View Synthesis with Coherent 3D Gaussians**|Avinash Paliwal et.al.|[2403.19495](http://arxiv.org/abs/2403.19495)|null|
 |**2024-03-28**|**SG-PGM: Partial Graph Matching Network with Semantic Geometric Fusion for 3D Scene Graph Alignment and Its Downstream Tasks**|Yaxu Xie et.al.|[2403.19474](http://arxiv.org/abs/2403.19474)|**[link](https://github.com/dfki-av/sg-pgm)**|
@@ -1536,7 +1536,7 @@
 |**2023-11-08**|**VET: Visual Error Tomography for Point Cloud Completion and High-Quality Neural Rendering**|Linus Franke et.al.|[2311.04634](http://arxiv.org/abs/2311.04634)|**[link](https://github.com/lfranke/vet)**|
 |**2023-11-09**|**Rethinking Human Pose Estimation for Autonomous Driving with 3D Event Representations**|Xiaoting Yin et.al.|[2311.04591](http://arxiv.org/abs/2311.04591)|**[link](https://github.com/masterhow/eventpointpose)**|
 
-<p align=right>(<a href=#updated-on-20240401>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240402>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
