@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-03**|**Boundary Algebras of Positroids**|Jonah Berggren et.al.|[2404.02886](http://arxiv.org/abs/2404.02886)|null|
+|**2024-04-03**|**PoCo: Point Context Cluster for RGBD Indoor Place Recognition**|Jing Liang et.al.|[2404.02885](http://arxiv.org/abs/2404.02885)|null|
+|**2024-04-03**|**Linear Attention Sequence Parallelism**|Weigao Sun et.al.|[2404.02882](http://arxiv.org/abs/2404.02882)|**[link](https://github.com/opennlplab/lasp)**|
+|**2024-04-03**|**Sensing Resource Allocation Against Data-Poisoning Attacks in Traffic Routing**|Yue Yu et.al.|[2404.02876](http://arxiv.org/abs/2404.02876)|null|
+|**2024-04-03**|**Scalable quantum detector tomography by high-performance computing**|Timon Schapeler et.al.|[2404.02844](http://arxiv.org/abs/2404.02844)|null|
+|**2024-04-03**|**A Survey on Error-Bounded Lossy Compression for Scientific Datasets**|Sheng Di et.al.|[2404.02840](http://arxiv.org/abs/2404.02840)|null|
+|**2024-04-03**|**Forming Large Patterns with Local Robots in the OBLOT Model**|Christopher Hahn et.al.|[2404.02771](http://arxiv.org/abs/2404.02771)|null|
+|**2024-04-03**|**Investigating the Relation Between Problem Hardness and QUBO Properties**|Thore Gerlach et.al.|[2404.02751](http://arxiv.org/abs/2404.02751)|null|
+|**2024-04-03**|**Terraced Compression Method with Automated Threshold Selection for Multidimensional Image Clustering of Heterogeneous Bodies**|Jiatong Li et.al.|[2404.02744](http://arxiv.org/abs/2404.02744)|null|
+|**2024-04-03**|**Automatic Prompt Selection for Large Language Models**|Viet-Tung Do et.al.|[2404.02717](http://arxiv.org/abs/2404.02717)|null|
 |**2024-04-02**|**Mass calibration of DES Year-3 clusters via SPT-3G CMB cluster lensing**|B. Ansarinejad et.al.|[2404.02153](http://arxiv.org/abs/2404.02153)|null|
 |**2024-04-02**|**Probing the Physics of Star-Formation (ProPStar): II. The first systematic search for streamers toward protostars**|María Teresa Valdivia-Mena et.al.|[2404.02144](http://arxiv.org/abs/2404.02144)|null|
 |**2024-04-02**|**Lensed Type Ia Supernova "Encore" at z=2: The First Instance of Two Multiply-Imaged Supernovae in the Same Host Galaxy**|J. D. R. Pierel et.al.|[2404.02139](http://arxiv.org/abs/2404.02139)|null|
@@ -976,6 +986,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-03**|**LidarDM: Generative LiDAR Simulation in a Generated World**|Vlas Zyrianov et.al.|[2404.02903](http://arxiv.org/abs/2404.02903)|null|
+|**2024-04-03**|**PoCo: Point Context Cluster for RGBD Indoor Place Recognition**|Jing Liang et.al.|[2404.02885](http://arxiv.org/abs/2404.02885)|null|
+|**2024-04-03**|**Unsupervised Occupancy Learning from Sparse Point Cloud**|Amine Ouasfi et.al.|[2404.02759](http://arxiv.org/abs/2404.02759)|null|
+|**2024-04-03**|**LiDAR4D: Dynamic Neural Fields for Novel Space-time View LiDAR Synthesis**|Zehan Zheng et.al.|[2404.02742](http://arxiv.org/abs/2404.02742)|**[link](https://github.com/ispc-lab/lidar4d)**|
+|**2024-04-03**|**Weakly-Supervised 3D Scene Graph Generation via Visual-Linguistic Assisted Pseudo-labeling**|Xu Wang et.al.|[2404.02527](http://arxiv.org/abs/2404.02527)|null|
+|**2024-04-03**|**On-the-Go Tree Detection and Geometric Traits Estimation with Ground Mobile Robots in Fruit Tree Groves**|Dimitrios Chatziparaschis et.al.|[2404.02516](http://arxiv.org/abs/2404.02516)|null|
+|**2024-04-03**|**Tightly-Coupled LiDAR-IMU-Wheel Odometry with Online Calibration of a Kinematic Model for Skid-Steering Robots**|Taku Okawara et.al.|[2404.02515](http://arxiv.org/abs/2404.02515)|null|
+|**2024-04-03**|**Enhancing Diffusion-based Point Cloud Generation with Smoothness Constraint**|Yukun Li et.al.|[2404.02396](http://arxiv.org/abs/2404.02396)|null|
+|**2024-04-03**|**APC2Mesh: Bridging the gap from occluded building façades to full 3D models**|Perpetual Hope Akwensi et.al.|[2404.02391](http://arxiv.org/abs/2404.02391)|null|
+|**2024-04-02**|**Towards Robust 3D Pose Transfer with Adversarial Learning**|Haoyu Chen et.al.|[2404.02242](http://arxiv.org/abs/2404.02242)|null|
 |**2024-04-02**|**Segment Any 3D Object with Language**|Seungjun Lee et.al.|[2404.02157](http://arxiv.org/abs/2404.02157)|null|
 |**2024-04-02**|**A Linear Time and Space Local Point Cloud Geometry Encoder via Vectorized Kernel Mixture (VecKM)**|Dehao Yuan et.al.|[2404.01568](http://arxiv.org/abs/2404.01568)|null|
 |**2024-04-01**|**SUGAR: Pre-training 3D Visual Representations for Robotics**|Shizhe Chen et.al.|[2404.01491](http://arxiv.org/abs/2404.01491)|null|
