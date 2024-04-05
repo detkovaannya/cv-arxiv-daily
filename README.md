@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.04
+## Updated on 2024.04.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -24,7 +24,7 @@
 |**2024-04-03**|**Sensing Resource Allocation Against Data-Poisoning Attacks in Traffic Routing**|Yue Yu et.al.|[2404.02876](http://arxiv.org/abs/2404.02876)|null|
 |**2024-04-03**|**Scalable quantum detector tomography by high-performance computing**|Timon Schapeler et.al.|[2404.02844](http://arxiv.org/abs/2404.02844)|null|
 |**2024-04-03**|**A Survey on Error-Bounded Lossy Compression for Scientific Datasets**|Sheng Di et.al.|[2404.02840](http://arxiv.org/abs/2404.02840)|null|
-|**2024-04-03**|**Forming Large Patterns with Local Robots in the OBLOT Model**|Christopher Hahn et.al.|[2404.02771](http://arxiv.org/abs/2404.02771)|null|
+|**2024-04-04**|**Forming Large Patterns with Local Robots in the OBLOT Model**|Christopher Hahn et.al.|[2404.02771](http://arxiv.org/abs/2404.02771)|null|
 |**2024-04-03**|**Investigating the Relation Between Problem Hardness and QUBO Properties**|Thore Gerlach et.al.|[2404.02751](http://arxiv.org/abs/2404.02751)|null|
 |**2024-04-03**|**Terraced Compression Method with Automated Threshold Selection for Multidimensional Image Clustering of Heterogeneous Bodies**|Jiatong Li et.al.|[2404.02744](http://arxiv.org/abs/2404.02744)|null|
 |**2024-04-03**|**Automatic Prompt Selection for Large Language Models**|Viet-Tung Do et.al.|[2404.02717](http://arxiv.org/abs/2404.02717)|null|
@@ -986,7 +986,7 @@
 |**2023-11-10**|**The First Verification Test of Space-Ground Collaborative Intelligence via Cloud-Native Satellites**|Shangguang Wang et.al.|[2311.06078](http://arxiv.org/abs/2311.06078)|null|
 |**2023-11-10**|**Collaborative Inference in DNN-based Satellite Systems with Dynamic Task Streams**|Jinglong Guan et.al.|[2311.06073](http://arxiv.org/abs/2311.06073)|null|
 
-<p align=right>(<a href=#updated-on-20240404>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240405>back to top</a>)</p>
 
 ## point cloud
 
@@ -1576,7 +1576,7 @@
 |**2023-11-08**|**VET: Visual Error Tomography for Point Cloud Completion and High-Quality Neural Rendering**|Linus Franke et.al.|[2311.04634](http://arxiv.org/abs/2311.04634)|**[link](https://github.com/lfranke/vet)**|
 |**2023-11-09**|**Rethinking Human Pose Estimation for Autonomous Driving with 3D Event Representations**|Xiaoting Yin et.al.|[2311.04591](http://arxiv.org/abs/2311.04591)|**[link](https://github.com/masterhow/eventpointpose)**|
 
-<p align=right>(<a href=#updated-on-20240404>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240405>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
