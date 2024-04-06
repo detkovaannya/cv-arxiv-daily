@@ -7,13 +7,23 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.05
+## Updated on 2024.04.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## clustering
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-04**|**Magnetic fields from small-scale primordial perturbations**|Nanoom Lee et.al.|[2404.03655](http://arxiv.org/abs/2404.03655)|null|
+|**2024-04-04**|**Wilkins: HPC In Situ Workflows Made Easy**|Orcun Yildiz et.al.|[2404.03591](http://arxiv.org/abs/2404.03591)|null|
+|**2024-04-04**|**High redshift LBGs from deep broadband imaging for future spectroscopic surveys**|Vanina Ruhlmann-Kleider et.al.|[2404.03569](http://arxiv.org/abs/2404.03569)|null|
+|**2024-04-04**|**Approximate Gradient Coding for Privacy-Flexible Federated Learning with Non-IID Data**|Okko Makkonen et.al.|[2404.03524](http://arxiv.org/abs/2404.03524)|**[link](https://github.com/okkomakkonen/label-heterogeneity)**|
+|**2024-04-04**|**Self-Testing Graph States Permitting Bounded Classical Communication**|Uta Isabella Meyer et.al.|[2404.03496](http://arxiv.org/abs/2404.03496)|null|
+|**2024-04-04**|**SP $^2$ OT: Semantic-Regularized Progressive Partial Optimal Transport for Imbalanced Clustering**|Chuyu Zhang et.al.|[2404.03446](http://arxiv.org/abs/2404.03446)|**[link](https://github.com/rhfeiyang/SPPOT)**|
+|**2024-04-04**|**3D scaling laws and projection effects in The300-NIKA2 Sunyaev-Zeldovich Large Program Twin Samples**|A. Paliwal et.al.|[2404.03376](http://arxiv.org/abs/2404.03376)|null|
+|**2024-04-04**|**First detection in space of the high-energy isomer of cyanomethanimine: H2CNCN**|David San Andrés et.al.|[2404.03334](http://arxiv.org/abs/2404.03334)|null|
+|**2024-04-04**|**A classification of well-behaved graph clustering schemes**|Vilhelm Agdur et.al.|[2404.03332](http://arxiv.org/abs/2404.03332)|null|
+|**2024-04-04**|**SiloFuse: Cross-silo Synthetic Data Generation with Latent Tabular Diffusion Models**|Aditya Shankar et.al.|[2404.03299](http://arxiv.org/abs/2404.03299)|null|
 |**2024-04-03**|**Boundary Algebras of Positroids**|Jonah Berggren et.al.|[2404.02886](http://arxiv.org/abs/2404.02886)|null|
 |**2024-04-03**|**PoCo: Point Context Cluster for RGBD Indoor Place Recognition**|Jing Liang et.al.|[2404.02885](http://arxiv.org/abs/2404.02885)|null|
 |**2024-04-03**|**Linear Attention Sequence Parallelism**|Weigao Sun et.al.|[2404.02882](http://arxiv.org/abs/2404.02882)|**[link](https://github.com/opennlplab/lasp)**|
@@ -986,6 +996,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-04**|**OpenNeRF: Open Set 3D Neural Scene Segmentation with Pixel-Wise Features and Rendered Novel Views**|Francis Engelmann et.al.|[2404.03650](http://arxiv.org/abs/2404.03650)|null|
+|**2024-04-04**|**Terrain Point Cloud Inpainting via Signal Decomposition**|Yizhou Xie et.al.|[2404.03572](http://arxiv.org/abs/2404.03572)|null|
+|**2024-04-04**|**Embodied AI with Two Arms: Zero-shot Learning, Safety and Modularity**|Jake Varley et.al.|[2404.03570](http://arxiv.org/abs/2404.03570)|null|
+|**2024-04-04**|**PointInfinity: Resolution-Invariant Point Diffusion Models**|Zixuan Huang et.al.|[2404.03566](http://arxiv.org/abs/2404.03566)|null|
+|**2024-04-04**|**You Only Scan Once: A Dynamic Scene Reconstruction Pipeline for 6-DoF Robotic Grasping of Novel Objects**|Lei Zhou et.al.|[2404.03462](http://arxiv.org/abs/2404.03462)|null|
+|**2024-04-04**|**GMMCalib: Extrinsic Calibration of LiDAR Sensors using GMM-based Joint Registration**|Ilir Tahiraj et.al.|[2404.03427](http://arxiv.org/abs/2404.03427)|null|
+|**2024-04-04**|**VF-NeRF: Viewshed Fields for Rigid NeRF Registration**|Leo Segre et.al.|[2404.03349](http://arxiv.org/abs/2404.03349)|null|
+|**2024-04-04**|**CORP: A Multi-Modal Dataset for Campus-Oriented Roadside Perception Tasks**|Beibei Wang et.al.|[2404.03191](http://arxiv.org/abs/2404.03191)|null|
+|**2024-04-04**|**AGL-NET: Aerial-Ground Cross-Modal Global Localization with Varying Scales**|Tianrui Guan et.al.|[2404.03187](http://arxiv.org/abs/2404.03187)|null|
+|**2024-04-04**|**HandDiff: 3D Hand Pose Estimation with Diffusion on Image-Point Cloud**|Wencan Cheng et.al.|[2404.03159](http://arxiv.org/abs/2404.03159)|**[link](https://github.com/cwc1260/handdiff)**|
 |**2024-04-03**|**LidarDM: Generative LiDAR Simulation in a Generated World**|Vlas Zyrianov et.al.|[2404.02903](http://arxiv.org/abs/2404.02903)|null|
 |**2024-04-03**|**PoCo: Point Context Cluster for RGBD Indoor Place Recognition**|Jing Liang et.al.|[2404.02885](http://arxiv.org/abs/2404.02885)|null|
 |**2024-04-03**|**Unsupervised Occupancy Learning from Sparse Point Cloud**|Amine Ouasfi et.al.|[2404.02759](http://arxiv.org/abs/2404.02759)|null|
