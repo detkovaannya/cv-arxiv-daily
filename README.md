@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-05**|**{\sc SimBIG}: Cosmological Constraints using Simulation-Based Inference of Galaxy Clustering with Marked Power Spectra**|Elena Massara et.al.|[2404.04228](http://arxiv.org/abs/2404.04228)|null|
+|**2024-04-05**|**RACS and SADL: Towards Robust SMR in the Wide-Area Network**|Pasindu Tennage et.al.|[2404.04183](http://arxiv.org/abs/2404.04183)|null|
+|**2024-04-05**|**Thermal Area Law in Long-Range Interacting Systems**|Donghoon Kim et.al.|[2404.04172](http://arxiv.org/abs/2404.04172)|null|
+|**2024-04-05**|**The structural stability of tungsten nanoparticles**|Laurent Pizzagalli et.al.|[2404.04161](http://arxiv.org/abs/2404.04161)|null|
+|**2024-04-05**|**Precision Guided Approach to Mitigate Data Poisoning Attacks in Federated Learning**|K Naveen Kumar et.al.|[2404.04139](http://arxiv.org/abs/2404.04139)|null|
+|**2024-04-05**|**Hidden Markov Models for Multivariate Panel Data**|Mackenzie R. Neal et.al.|[2404.04122](http://arxiv.org/abs/2404.04122)|null|
+|**2024-04-05**|**GNNBENCH: Fair and Productive Benchmarking for Single-GPU GNN System**|Yidong Gong et.al.|[2404.04118](http://arxiv.org/abs/2404.04118)|null|
+|**2024-04-05**|**A MUSE View of the Core of the Giant Low Surface Brightness Galaxy Malin 1**|Evelyn J. Johnston et.al.|[2404.04099](http://arxiv.org/abs/2404.04099)|null|
+|**2024-04-05**|**An Insight of Heart-Like Systems with Percolation**|Md Aquib Molla et.al.|[2404.04052](http://arxiv.org/abs/2404.04052)|null|
+|**2024-04-05**|**Colored Gaussian DAG models**|Tobias Boege et.al.|[2404.04024](http://arxiv.org/abs/2404.04024)|null|
 |**2024-04-04**|**Magnetic fields from small-scale primordial perturbations**|Nanoom Lee et.al.|[2404.03655](http://arxiv.org/abs/2404.03655)|null|
 |**2024-04-04**|**Wilkins: HPC In Situ Workflows Made Easy**|Orcun Yildiz et.al.|[2404.03591](http://arxiv.org/abs/2404.03591)|null|
 |**2024-04-05**|**High redshift LBGs from deep broadband imaging for future spectroscopic surveys**|Vanina Ruhlmann-Kleider et.al.|[2404.03569](http://arxiv.org/abs/2404.03569)|null|
@@ -1002,6 +1012,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-05**|**Physical Property Understanding from Language-Embedded Feature Fields**|Albert J. Zhai et.al.|[2404.04242](http://arxiv.org/abs/2404.04242)|null|
+|**2024-04-05**|**MM-Gaussian: 3D Gaussian-based Multi-modal Fusion for Localization and Reconstruction in Unbounded Scenes**|Chenyang Wu et.al.|[2404.04026](http://arxiv.org/abs/2404.04026)|null|
+|**2024-04-04**|**Accounting for Hysteresis in the Forward Kinematics of Nonlinearly-Routed Tendon-Driven Continuum Robots via a Learned Deep Decoder Network**|Brian Y. Cho et.al.|[2404.03816](http://arxiv.org/abs/2404.03816)|null|
 |**2024-04-04**|**OpenNeRF: Open Set 3D Neural Scene Segmentation with Pixel-Wise Features and Rendered Novel Views**|Francis Engelmann et.al.|[2404.03650](http://arxiv.org/abs/2404.03650)|null|
 |**2024-04-04**|**Terrain Point Cloud Inpainting via Signal Decomposition**|Yizhou Xie et.al.|[2404.03572](http://arxiv.org/abs/2404.03572)|null|
 |**2024-04-04**|**Embodied AI with Two Arms: Zero-shot Learning, Safety and Modularity**|Jake Varley et.al.|[2404.03570](http://arxiv.org/abs/2404.03570)|null|
