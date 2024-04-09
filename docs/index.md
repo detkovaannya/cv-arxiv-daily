@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-08**|**Chebyshev pseudosite matrix product state approach for cluster perturbation theory**|Pei-Yuan Zhao et.al.|[2404.05686](http://arxiv.org/abs/2404.05686)|null|
+|**2024-04-08**|**Dark matter free dwarf galaxy formation at the the tips of the tentacles of jellyfish galaxies**|V. Lora et.al.|[2404.05676](http://arxiv.org/abs/2404.05676)|null|
+|**2024-04-08**|**The impact of large-scale galaxy clustering on the variance of the Hellings-Downs correlation**|Nastassia Grimm et.al.|[2404.05670](http://arxiv.org/abs/2404.05670)|null|
+|**2024-04-08**|**AnchorAL: Computationally Efficient Active Learning for Large and Imbalanced Datasets**|Pietro Lesci et.al.|[2404.05623](http://arxiv.org/abs/2404.05623)|null|
+|**2024-04-08**|**How to Evaluate Entity Resolution Systems: An Entity-Centric Framework with Application to Inventor Name Disambiguation**|Olivier Binette et.al.|[2404.05622](http://arxiv.org/abs/2404.05622)|**[link](https://github.com/olivierbinette/er-evaluation)**|
+|**2024-04-08**|**KaMPIng: Flexible and (Near) Zero-overhead C++ Bindings for MPI**|Demian Hespe et.al.|[2404.05610](http://arxiv.org/abs/2404.05610)|null|
+|**2024-04-08**|**Hook-in Privacy Techniques for gRPC-based Microservice Communication**|Louis Loechel et.al.|[2404.05598](http://arxiv.org/abs/2404.05598)|null|
+|**2024-04-08**|**Differential reddening in 48 globular clusters: An end to the quest for the intracluster medium**|E. Pancino et.al.|[2404.05548](http://arxiv.org/abs/2404.05548)|null|
+|**2024-04-08**|**Optimal Allocation of Tasks and Price of Anarchy of Distributed Optimization in Networked Computing Facilities**|Vincenzo Mancuso et.al.|[2404.05543](http://arxiv.org/abs/2404.05543)|null|
+|**2024-04-08**|**Distributing Arbitrary Quantum Cluster States by Graph Transformation**|Tingxiang Ji et.al.|[2404.05537](http://arxiv.org/abs/2404.05537)|null|
 |**2024-04-05**|**{\sc SimBIG}: Cosmological Constraints using Simulation-Based Inference of Galaxy Clustering with Marked Power Spectra**|Elena Massara et.al.|[2404.04228](http://arxiv.org/abs/2404.04228)|null|
 |**2024-04-05**|**RACS and SADL: Towards Robust SMR in the Wide-Area Network**|Pasindu Tennage et.al.|[2404.04183](http://arxiv.org/abs/2404.04183)|null|
 |**2024-04-05**|**Thermal Area Law in Long-Range Interacting Systems**|Donghoon Kim et.al.|[2404.04172](http://arxiv.org/abs/2404.04172)|null|
@@ -1006,6 +1016,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-08**|**3DMambaIPF: A State Space Model for Iterative Point Cloud Filtering via Differentiable Rendering**|Qingyuan Zhou et.al.|[2404.05522](http://arxiv.org/abs/2404.05522)|null|
+|**2024-04-08**|**Taming Transformers for Realistic Lidar Point Cloud Generation**|Hamed Haghighi et.al.|[2404.05505](http://arxiv.org/abs/2404.05505)|**[link](https://github.com/hamedhaghighi/lidargrit)**|
+|**2024-04-08**|**Rendering-Enhanced Automatic Image-to-Point Cloud Registration for Roadside Scenes**|Yu Sheng et.al.|[2404.05164](http://arxiv.org/abs/2404.05164)|null|
+|**2024-04-07**|**GauU-Scene V2: Expanse Lidar Image Dataset Shows Unreliable Geometric Reconstruction Using Gaussian Splatting and NeRF**|Butian Xiong et.al.|[2404.04880](http://arxiv.org/abs/2404.04880)|null|
+|**2024-04-07**|**Multi-Type Map Construction via Semantics-Aware Autonomous Exploration in Unknown Indoor Environments**|Jianfang Mao et.al.|[2404.04879](http://arxiv.org/abs/2404.04879)|null|
+|**2024-04-07**|**NeRF2Points: Large-Scale Point Cloud Generation From Street Views' Radiance Field Optimization**|Peng Tu et.al.|[2404.04875](http://arxiv.org/abs/2404.04875)|null|
+|**2024-04-06**|**On Exploring PDE Modeling for Point Cloud Video Representation Learning**|Zhuoxu Huang et.al.|[2404.04720](http://arxiv.org/abs/2404.04720)|null|
+|**2024-04-06**|**OmniColor: A Global Camera Pose Optimization Approach of LiDAR-360Camera Fusion for Colorizing Point Clouds**|Bonan Liu et.al.|[2404.04693](http://arxiv.org/abs/2404.04693)|**[link](https://github.com/liubonan123/omnicolor)**|
+|**2024-04-06**|**PointSAGE: Mesh-independent superresolution approach to fluid flow predictions**|Rajat Sarkar et.al.|[2404.04615](http://arxiv.org/abs/2404.04615)|null|
+|**2024-04-06**|**Learning Instance-Aware Correspondences for Robust Multi-Instance Point Cloud Registration in Cluttered Scenes**|Zhiyuan Yu et.al.|[2404.04557](http://arxiv.org/abs/2404.04557)|**[link](https://github.com/zhiyuanyu134/miretr)**|
 |**2024-04-05**|**Physical Property Understanding from Language-Embedded Feature Fields**|Albert J. Zhai et.al.|[2404.04242](http://arxiv.org/abs/2404.04242)|null|
 |**2024-04-05**|**MM-Gaussian: 3D Gaussian-based Multi-modal Fusion for Localization and Reconstruction in Unbounded Scenes**|Chenyang Wu et.al.|[2404.04026](http://arxiv.org/abs/2404.04026)|null|
 |**2024-04-04**|**Accounting for Hysteresis in the Forward Kinematics of Nonlinearly-Routed Tendon-Driven Continuum Robots via a Learned Deep Decoder Network**|Brian Y. Cho et.al.|[2404.03816](http://arxiv.org/abs/2404.03816)|null|
