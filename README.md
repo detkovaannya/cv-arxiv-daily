@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-09**|**Finding Stable Price Zones in European Electricity Markets: Aiming to Square the Circle?**|Teodora Dobos et.al.|[2404.06489](http://arxiv.org/abs/2404.06489)|null|
+|**2024-04-09**|**GO4Align: Group Optimization for Multi-Task Alignment**|Jiayi Shen et.al.|[2404.06486](http://arxiv.org/abs/2404.06486)|**[link](https://github.com/autumn9999/go4align)**|
+|**2024-04-09**|**Scaling to 32 GPUs on a Novel Composable System Architecture**|John Ihnotic et.al.|[2404.06467](http://arxiv.org/abs/2404.06467)|null|
+|**2024-04-09**|**Analysis of Distributed Algorithms for Big-data**|Rajendra Purohit et.al.|[2404.06461](http://arxiv.org/abs/2404.06461)|null|
+|**2024-04-09**|**ClassiPyGRB: Machine Learning-Based Classification and Visualization of Gamma Ray Bursts using t-SNE**|Keneth Garcia-Cifuentes et.al.|[2404.06439](http://arxiv.org/abs/2404.06439)|null|
+|**2024-04-09**|**Non-Gaussian state teleportation with a nonlinear feedforward**|Vojtěch Kala et.al.|[2404.06438](http://arxiv.org/abs/2404.06438)|null|
+|**2024-04-09**|**Software-based Security Framework for Edge and Mobile IoT**|José Cecílio et.al.|[2404.06435](http://arxiv.org/abs/2404.06435)|null|
+|**2024-04-09**|**Quasi-Particle Self-Consistent $GW$ for Molecules**|F. Kaplan et.al.|[2404.06415](http://arxiv.org/abs/2404.06415)|null|
+|**2024-04-09**|**Reconciling $S_8$ : Insights from Interacting Dark Sectors**|Rahul Shah et.al.|[2404.06396](http://arxiv.org/abs/2404.06396)|null|
+|**2024-04-09**|**Toward Reliable Dipole Moments without Single Excitations: The Role of Orbital Rotations and Dynamical Correlation**|Rahul Chakraborty et.al.|[2404.06385](http://arxiv.org/abs/2404.06385)|null|
 |**2024-04-08**|**Chebyshev pseudosite matrix product state approach for cluster perturbation theory**|Pei-Yuan Zhao et.al.|[2404.05686](http://arxiv.org/abs/2404.05686)|null|
 |**2024-04-08**|**Dark matter free dwarf galaxy formation at the the tips of the tentacles of jellyfish galaxies**|V. Lora et.al.|[2404.05676](http://arxiv.org/abs/2404.05676)|null|
 |**2024-04-08**|**The impact of large-scale galaxy clustering on the variance of the Hellings-Downs correlation**|Nastassia Grimm et.al.|[2404.05670](http://arxiv.org/abs/2404.05670)|null|
@@ -1022,6 +1032,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-09**|**The Central Spanning Tree Problem**|Enrique Fita Sanmartín et.al.|[2404.06447](http://arxiv.org/abs/2404.06447)|null|
+|**2024-04-09**|**Label-Efficient 3D Object Detection For Road-Side Units**|Minh-Quan Dao et.al.|[2404.06256](http://arxiv.org/abs/2404.06256)|null|
+|**2024-04-09**|**Enhanced Radar Perception via Multi-Task Learning: Towards Refined Data for Sensor Fusion Applications**|Huawei Sun et.al.|[2404.06165](http://arxiv.org/abs/2404.06165)|null|
+|**2024-04-09**|**Efficient and Robust Point Cloud Registration via Heuristics-guided Parameter Search**|Tianyu Huang et.al.|[2404.06155](http://arxiv.org/abs/2404.06155)|**[link](https://github.com/tyhuang98/here-release)**|
+|**2024-04-09**|**Object Dynamics Modeling with Hierarchical Point Cloud-based Representations**|Chanho Kim et.al.|[2404.06044](http://arxiv.org/abs/2404.06044)|null|
+|**2024-04-09**|**Diffusion-Based Point Cloud Super-Resolution for mmWave Radar Data**|Kai Luan et.al.|[2404.06012](http://arxiv.org/abs/2404.06012)|null|
+|**2024-04-09**|**EasyTrack: Efficient and Compact One-stream 3D Point Clouds Tracker**|Baojie Fan et.al.|[2404.05960](http://arxiv.org/abs/2404.05960)|null|
+|**2024-04-09**|**3D Branch Point Cloud Completion for Robotic Pruning in Apple Orchards**|Tian Qiu et.al.|[2404.05953](http://arxiv.org/abs/2404.05953)|null|
 |**2024-04-08**|**3DMambaIPF: A State Space Model for Iterative Point Cloud Filtering via Differentiable Rendering**|Qingyuan Zhou et.al.|[2404.05522](http://arxiv.org/abs/2404.05522)|null|
 |**2024-04-08**|**Taming Transformers for Realistic Lidar Point Cloud Generation**|Hamed Haghighi et.al.|[2404.05505](http://arxiv.org/abs/2404.05505)|**[link](https://github.com/hamedhaghighi/lidargrit)**|
 |**2024-04-08**|**Rendering-Enhanced Automatic Image-to-Point Cloud Registration for Roadside Scenes**|Yu Sheng et.al.|[2404.05164](http://arxiv.org/abs/2404.05164)|null|
