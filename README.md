@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-10**|**GCV-Turbo: End-to-end Acceleration of GNN-based Computer Vision Tasks on FPGA**|Bingyi Zhang et.al.|[2404.07188](http://arxiv.org/abs/2404.07188)|null|
+|**2024-04-10**|**Analysis of Distributed Optimization Algorithms on a Real Processing-In-Memory System**|Steve Rhyner et.al.|[2404.07164](http://arxiv.org/abs/2404.07164)|null|
+|**2024-04-10**|**Unfolding ADMM for Enhanced Subspace Clustering of Hyperspectral Images**|Xianlu Li et.al.|[2404.07112](http://arxiv.org/abs/2404.07112)|null|
+|**2024-04-10**|**New Parameters for Star Cluster Dynamics: the role of clusters initial conditions**|Bhavana Bhat et.al.|[2404.06992](http://arxiv.org/abs/2404.06992)|null|
+|**2024-04-10**|**Multiple imputation for longitudinal data: A tutorial**|Rushani Wijesuriya et.al.|[2404.06967](http://arxiv.org/abs/2404.06967)|null|
+|**2024-04-10**|**Automorphisms of the generalized cluster complex**|Matthieu Josuat-Vergès et.al.|[2404.06945](http://arxiv.org/abs/2404.06945)|null|
+|**2024-04-10**|**Error Mitigation for TDoA UWB Indoor Localization using Unsupervised Machine Learning**|Phuong Bich Duong et.al.|[2404.06824](http://arxiv.org/abs/2404.06824)|null|
+|**2024-04-10**|**Fully Dynamic Correlation Clustering: Breaking 3-Approximation**|Soheil Behnezhad et.al.|[2404.06797](http://arxiv.org/abs/2404.06797)|null|
+|**2024-04-10**|**Vibrational ADAPT-VQE: Critical points leads to problematic convergence**|Marco Majland et.al.|[2404.06770](http://arxiv.org/abs/2404.06770)|null|
+|**2024-04-10**|**A Reexamination of the COnfLUX 2.5D LU Factorization Algorithm**|Yuan Tang et.al.|[2404.06713](http://arxiv.org/abs/2404.06713)|null|
 |**2024-04-09**|**Finding Stable Price Zones in European Electricity Markets: Aiming to Square the Circle?**|Teodora Dobos et.al.|[2404.06489](http://arxiv.org/abs/2404.06489)|null|
 |**2024-04-09**|**GO4Align: Group Optimization for Multi-Task Alignment**|Jiayi Shen et.al.|[2404.06486](http://arxiv.org/abs/2404.06486)|**[link](https://github.com/autumn9999/go4align)**|
 |**2024-04-09**|**Scaling to 32 GPUs on a Novel Composable System Architecture**|John Ihnotic et.al.|[2404.06467](http://arxiv.org/abs/2404.06467)|null|
@@ -1032,6 +1042,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-10**|**GCV-Turbo: End-to-end Acceleration of GNN-based Computer Vision Tasks on FPGA**|Bingyi Zhang et.al.|[2404.07188](http://arxiv.org/abs/2404.07188)|null|
+|**2024-04-10**|**Reward Learning from Suboptimal Demonstrations with Applications in Surgical Electrocautery**|Zohre Karimi et.al.|[2404.07185](http://arxiv.org/abs/2404.07185)|null|
+|**2024-04-10**|**3DMambaComplete: Exploring Structured State Space Model for Point Cloud Completion**|Yixuan Li et.al.|[2404.07106](http://arxiv.org/abs/2404.07106)|null|
+|**2024-04-10**|**Efficient and Generic Point Model for Lossless Point Cloud Attribute Compression**|Kang You et.al.|[2404.06936](http://arxiv.org/abs/2404.06936)|**[link](https://github.com/i2-multimedia-lab/polopcac)**|
+|**2024-04-10**|**DreamScene360: Unconstrained Text-to-3D Scene Generation with Panoramic Gaussian Splatting**|Shijie Zhou et.al.|[2404.06903](http://arxiv.org/abs/2404.06903)|null|
+|**2024-04-10**|**RESSCAL3D: Resolution Scalable 3D Semantic Segmentation of Point Clouds**|Remco Royen et.al.|[2404.06863](http://arxiv.org/abs/2404.06863)|null|
+|**2024-04-10**|**Zero-shot Point Cloud Completion Via 2D Priors**|Tianxin Huang et.al.|[2404.06814](http://arxiv.org/abs/2404.06814)|null|
+|**2024-04-10**|**CryinGAN: Design and evaluation of point-cloud-based generative adversarial networks using disordered materials $-$ application to Li$_3$ScCl$_6$-LiCoO$_2$ battery interfaces**|Adrian Xiao Bin Yong et.al.|[2404.06734](http://arxiv.org/abs/2404.06734)|null|
+|**2024-04-10**|**Sparse Points to Dense Clouds: Enhancing 3D Detection with Limited LiDAR Data**|Aakash Kumar et.al.|[2404.06715](http://arxiv.org/abs/2404.06715)|null|
+|**2024-04-10**|**Binomial Self-compensation for Motion Error in Dynamic 3D Scanning**|Geyou Zhang et.al.|[2404.06693](http://arxiv.org/abs/2404.06693)|null|
 |**2024-04-09**|**The Central Spanning Tree Problem**|Enrique Fita Sanmartín et.al.|[2404.06447](http://arxiv.org/abs/2404.06447)|null|
 |**2024-04-09**|**Label-Efficient 3D Object Detection For Road-Side Units**|Minh-Quan Dao et.al.|[2404.06256](http://arxiv.org/abs/2404.06256)|null|
 |**2024-04-09**|**Enhanced Radar Perception via Multi-Task Learning: Towards Refined Data for Sensor Fusion Applications**|Huawei Sun et.al.|[2404.06165](http://arxiv.org/abs/2404.06165)|null|
