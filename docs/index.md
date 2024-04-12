@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-11**|**Konnektor: Connection Protocol for Ensuring Peer Uniqueness in Decentralized P2P Networks**|Onur Ozkan et.al.|[2404.07861](http://arxiv.org/abs/2404.07861)|null|
+|**2024-04-11**|**Obstructions to semiorthogonal decompositions for singular projective varieties II: Representation theory**|Martin Kalck et.al.|[2404.07816](http://arxiv.org/abs/2404.07816)|null|
+|**2024-04-11**|**Quality check of a sample partition using multinomial distribution**|Soumita Modak et.al.|[2404.07778](http://arxiv.org/abs/2404.07778)|null|
+|**2024-04-11**|**Orbital optimisation in xTC transcorrelated methods**|Daniel Kats et.al.|[2404.07764](http://arxiv.org/abs/2404.07764)|null|
+|**2024-04-11**|**Aggregation in Dilute Aqueous Solutions of Hydroxypropyl Cellulose with Salt Ions**|Valery I. Kovalchuk et.al.|[2404.07708](http://arxiv.org/abs/2404.07708)|null|
+|**2024-04-11**|**Monge Ampère gravity: from the large deviation principle to cosmological simulations through optimal transport**|Bruno Lévy et.al.|[2404.07697](http://arxiv.org/abs/2404.07697)|null|
+|**2024-04-11**|**Humboldt Highway II -- computer cluster on renewable energies**|Danyer Perez Adan et.al.|[2404.07665](http://arxiv.org/abs/2404.07665)|null|
+|**2024-04-11**|**Kinematics $\&$ Star Formation in the Hub-Filament System G6.55-0.1**|Saurav Sen et.al.|[2404.07640](http://arxiv.org/abs/2404.07640)|null|
+|**2024-04-11**|**Hyperpolarisation Dynamics: Asymptotic Polarisation**|O. T. Whaites et.al.|[2404.07578](http://arxiv.org/abs/2404.07578)|null|
+|**2024-04-11**|**Bayesian Federated Model Compression for Communication and Computation Efficiency**|Chengyu Xia et.al.|[2404.07532](http://arxiv.org/abs/2404.07532)|null|
 |**2024-04-10**|**GCV-Turbo: End-to-end Acceleration of GNN-based Computer Vision Tasks on FPGA**|Bingyi Zhang et.al.|[2404.07188](http://arxiv.org/abs/2404.07188)|null|
 |**2024-04-10**|**Analysis of Distributed Optimization Algorithms on a Real Processing-In-Memory System**|Steve Rhyner et.al.|[2404.07164](http://arxiv.org/abs/2404.07164)|null|
 |**2024-04-10**|**Unfolding ADMM for Enhanced Subspace Clustering of Hyperspectral Images**|Xianlu Li et.al.|[2404.07112](http://arxiv.org/abs/2404.07112)|null|
@@ -1036,6 +1046,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-11**|**3D-CSAD: Untrained 3D Anomaly Detection for Complex Manufacturing Surfaces**|Xuanming Cao et.al.|[2404.07748](http://arxiv.org/abs/2404.07748)|null|
+|**2024-04-11**|**Point cloud obstacle detection with the map filtration**|Lukas Kratochvila et.al.|[2404.07730](http://arxiv.org/abs/2404.07730)|null|
+|**2024-04-11**|**OpenTrench3D: A Photogrammetric 3D Point Cloud Dataset for Semantic Segmentation of Underground Utilities**|Lasse H. Hansen et.al.|[2404.07711](http://arxiv.org/abs/2404.07711)|null|
+|**2024-04-11**|**Point Cloud Geometry Scalable Coding with a Quality-Conditioned Latents Probability Estimator**|Daniele Mari et.al.|[2404.07698](http://arxiv.org/abs/2404.07698)|null|
+|**2024-04-11**|**Shape Completion in the Dark: Completing Vertebrae Morphology from 3D Ultrasound**|Miruna-Alexandra Gafencu et.al.|[2404.07668](http://arxiv.org/abs/2404.07668)|**[link](https://github.com/miruna20/shape-completion-in-the-dark)**|
+|**2024-04-11**|**Mitigating Object Dependencies: Improving Point Cloud Self-Supervised Learning through Object Exchange**|Yanhao Wu et.al.|[2404.07504](http://arxiv.org/abs/2404.07504)|null|
+|**2024-04-11**|**PillarTrack: Redesigning Pillar-based Transformer Network for Single Object Tracking on Point Clouds**|Weisheng Xu et.al.|[2404.07495](http://arxiv.org/abs/2404.07495)|**[link](https://github.com/stiphyjay/pillartrack)**|
 |**2024-04-10**|**GCV-Turbo: End-to-end Acceleration of GNN-based Computer Vision Tasks on FPGA**|Bingyi Zhang et.al.|[2404.07188](http://arxiv.org/abs/2404.07188)|null|
 |**2024-04-10**|**Reward Learning from Suboptimal Demonstrations with Applications in Surgical Electrocautery**|Zohre Karimi et.al.|[2404.07185](http://arxiv.org/abs/2404.07185)|null|
 |**2024-04-10**|**3DMambaComplete: Exploring Structured State Space Model for Point Cloud Completion**|Yixuan Li et.al.|[2404.07106](http://arxiv.org/abs/2404.07106)|null|
