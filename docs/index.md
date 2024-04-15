@@ -7,13 +7,23 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.14
+## Updated on 2024.04.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## clustering
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-12**|**Flashlights: Microlensing vs Stellar Variability of Transients in the Star Clusters of the Dragon Arc**|Sung Kei Li et.al.|[2404.08571](http://arxiv.org/abs/2404.08571)|null|
+|**2024-04-12**|**Relativistic SZ temperatures and hydrostatic mass bias for massive clusters in the FLAMINGO simulations**|Scott T. Kay et.al.|[2404.08539](http://arxiv.org/abs/2404.08539)|null|
+|**2024-04-12**|**Fuxi-DA: A Generalized Deep Learning Data Assimilation Framework for Assimilating Satellite Observations**|Xiaoze Xu et.al.|[2404.08522](http://arxiv.org/abs/2404.08522)|null|
+|**2024-04-12**|**Efficient Interactive LLM Serving with Proxy Model-based Sequence Length Prediction**|Haoran Qiu et.al.|[2404.08509](http://arxiv.org/abs/2404.08509)|**[link](https://github.com/james-qiuhaoran/llm-serving-with-proxy-models)**|
+|**2024-04-12**|**Lightweight Multi-System Multivariate Interconnection and Divergence Discovery**|Mulugeta Weldezgina Asres et.al.|[2404.08453](http://arxiv.org/abs/2404.08453)|**[link](https://github.com/muleina/lidd)**|
+|**2024-04-12**|**Multi-Agent eXperimenter (MAX)**|Önder Gürcan et.al.|[2404.08398](http://arxiv.org/abs/2404.08398)|null|
+|**2024-04-12**|**Coherence properties of NV-center ensembles in diamond coupled to an electron-spin bath**|Reyhaneh Ghassemizadeh et.al.|[2404.08388](http://arxiv.org/abs/2404.08388)|null|
+|**2024-04-12**|**$Ab$-$initio$ nucleon-nucleon correlations and their impact on high energy $^{16}$O+$^{16}$ O collisions**|Chunjian Zhang et.al.|[2404.08385](http://arxiv.org/abs/2404.08385)|null|
+|**2024-04-12**|**FlowWalker: A Memory-efficient and High-performance GPU-based Dynamic Graph Random Walk Framework**|Junyi Mei et.al.|[2404.08364](http://arxiv.org/abs/2404.08364)|null|
+|**2024-04-12**|**Let It Flow: Simultaneous Optimization of 3D Flow and Object Clustering**|Patrik Vacek et.al.|[2404.08363](http://arxiv.org/abs/2404.08363)|null|
 |**2024-04-11**|**Konnektor: Connection Protocol for Ensuring Peer Uniqueness in Decentralized P2P Networks**|Onur Ozkan et.al.|[2404.07861](http://arxiv.org/abs/2404.07861)|null|
 |**2024-04-11**|**Obstructions to semiorthogonal decompositions for singular projective varieties II: Representation theory**|Martin Kalck et.al.|[2404.07816](http://arxiv.org/abs/2404.07816)|null|
 |**2024-04-11**|**Quality check of a sample partition using multinomial distribution**|Soumita Modak et.al.|[2404.07778](http://arxiv.org/abs/2404.07778)|null|
@@ -1046,6 +1056,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-12**|**FusionPortableV2: A Unified Multi-Sensor Dataset for Generalized SLAM Across Diverse Platforms and Scalable Environments**|Hexiang Wei et.al.|[2404.08563](http://arxiv.org/abs/2404.08563)|null|
+|**2024-04-12**|**Let It Flow: Simultaneous Optimization of 3D Flow and Object Clustering**|Patrik Vacek et.al.|[2404.08363](http://arxiv.org/abs/2404.08363)|null|
+|**2024-04-12**|**GPN: Generative Point-based NeRF**|Haipeng Wang et.al.|[2404.08312](http://arxiv.org/abs/2404.08312)|null|
+|**2024-04-11**|**SimpliCity: Reconstructing Buildings with Simple Regularized 3D Models**|Jean-Philippe Bauchet et.al.|[2404.08104](http://arxiv.org/abs/2404.08104)|null|
 |**2024-04-11**|**3D-CSAD: Untrained 3D Anomaly Detection for Complex Manufacturing Surfaces**|Xuanming Cao et.al.|[2404.07748](http://arxiv.org/abs/2404.07748)|null|
 |**2024-04-11**|**Point cloud obstacle detection with the map filtration**|Lukas Kratochvila et.al.|[2404.07730](http://arxiv.org/abs/2404.07730)|null|
 |**2024-04-11**|**OpenTrench3D: A Photogrammetric 3D Point Cloud Dataset for Semantic Segmentation of Underground Utilities**|Lasse H. Hansen et.al.|[2404.07711](http://arxiv.org/abs/2404.07711)|**[link](https://github.com/simonbuusjensen/opentrench3d)**|
