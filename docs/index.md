@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-16**|**Searching for cold gas traced by MgII quasar absorbers in massive X-ray-selected galaxy clusters**|A. Y. Fresco et.al.|[2404.10773](http://arxiv.org/abs/2404.10773)|null|
+|**2024-04-16**|**Unveiling the Cosmic Gems Arc at $z\sim10.2$ with JWST**|Larry D. Bradley et.al.|[2404.10770](http://arxiv.org/abs/2404.10770)|null|
+|**2024-04-16**|**A Young Super Star Cluster Powering a Nebula of Retained Massive Star Ejecta**|Massimo Pascale et.al.|[2404.10755](http://arxiv.org/abs/2404.10755)|null|
+|**2024-04-16**|**Computing Inductive Invariants of Regular Abstraction Frameworks**|Philipp Czerner et.al.|[2404.10752](http://arxiv.org/abs/2404.10752)|null|
+|**2024-04-16**|**Classical and Quantum Distributed Algorithms for the Survivable Network Design Problem**|Phillip Kerger et.al.|[2404.10748](http://arxiv.org/abs/2404.10748)|null|
+|**2024-04-16**|**A Cloud Resources Portfolio Optimization Business Model - From Theory to Practice**|Valentin Haag et.al.|[2404.10641](http://arxiv.org/abs/2404.10641)|null|
+|**2024-04-16**|**Weighting methods for truncation by death in cluster-randomized trials**|Dane Isenberg et.al.|[2404.10629](http://arxiv.org/abs/2404.10629)|null|
+|**2024-04-16**|**Swirling due to misaligned perception-dependent motility**|Rodrigo Saavedra et.al.|[2404.10608](http://arxiv.org/abs/2404.10608)|null|
+|**2024-04-16**|**A Longitudinal Study of Child Wellbeing Assessment via Online Interactions with a Social Robots**|Nida Itrat Abbasi et.al.|[2404.10593](http://arxiv.org/abs/2404.10593)|null|
+|**2024-04-16**|**Data-driven subgrouping of patient trajectories with chronic diseases: Evidence from low back pain**|Christof Naumzik et.al.|[2404.10580](http://arxiv.org/abs/2404.10580)|null|
 |**2024-04-15**|**ChainScience 2024, Conference Proceedings**|Nicolò Vallarano et.al.|[2404.09782](http://arxiv.org/abs/2404.09782)|null|
 |**2024-04-15**|**Squish Jamming**|Samuel Poincloux et.al.|[2404.09773](http://arxiv.org/abs/2404.09773)|null|
 |**2024-04-15**|**Strong coupling electron-photon dynamics: a real-time investigation of energy redistribution in molecular polaritons**|Matteo Castagnola et.al.|[2404.09762](http://arxiv.org/abs/2404.09762)|null|
@@ -1070,6 +1080,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-16**|**ECLAIR: A High-Fidelity Aerial LiDAR Dataset for Semantic Segmentation**|Iaroslav Melekhov et.al.|[2404.10699](http://arxiv.org/abs/2404.10699)|null|
+|**2024-04-16**|**CMU-Flownet: Exploring Point Cloud Scene Flow Estimation in Occluded Scenario**|Jingze Chen et.al.|[2404.10571](http://arxiv.org/abs/2404.10571)|null|
+|**2024-04-16**|**GaitPoint+: A Gait Recognition Network Incorporating Point Cloud Analysis and Recycling**|Huantao Ren et.al.|[2404.10213](http://arxiv.org/abs/2404.10213)|null|
+|**2024-04-15**|**Cross-Modal Self-Training: Aligning Images and Pointclouds to Learn Classification without Labels**|Amaya Dharmasiri et.al.|[2404.10146](http://arxiv.org/abs/2404.10146)|**[link](https://github.com/theamaya/crossmost)**|
+|**2024-04-15**|**Zero-shot detection of buildings in mobile LiDAR using Language Vision Model**|June Moh Goo et.al.|[2404.09931](http://arxiv.org/abs/2404.09931)|null|
 |**2024-04-15**|**LetsGo: Large-Scale Garage Modeling and Rendering via LiDAR-Assisted Gaussian Primitives**|Jiadi Cui et.al.|[2404.09748](http://arxiv.org/abs/2404.09748)|null|
 |**2024-04-15**|**3D Gaussian Splatting as Markov Chain Monte Carlo**|Shakiba Kheradmand et.al.|[2404.09591](http://arxiv.org/abs/2404.09591)|null|
 |**2024-04-15**|**State Space Model for New-Generation Network Alternative to Transformers: A Survey**|Xiao Wang et.al.|[2404.09516](http://arxiv.org/abs/2404.09516)|**[link](https://github.com/event-ahu/mamba_state_space_model_paper_list)**|
