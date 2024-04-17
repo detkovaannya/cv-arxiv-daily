@@ -7,13 +7,17 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.16
+## Updated on 2024.04.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## clustering
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-15**|**ChainScience 2024, Conference Proceedings**|Nicolò Vallarano et.al.|[2404.09782](http://arxiv.org/abs/2404.09782)|null|
+|**2024-04-15**|**Squish Jamming**|Samuel Poincloux et.al.|[2404.09773](http://arxiv.org/abs/2404.09773)|null|
+|**2024-04-15**|**Strong coupling electron-photon dynamics: a real-time investigation of energy redistribution in molecular polaritons**|Matteo Castagnola et.al.|[2404.09762](http://arxiv.org/abs/2404.09762)|null|
+|**2024-04-15**|**Accurate quantum Monte Carlo forces for machine-learned force fields: Ethanol as a benchmark**|Emiel Slootman et.al.|[2404.09755](http://arxiv.org/abs/2404.09755)|null|
 |**2024-04-15**|**1/2 $^-$ $α$ cluster resonances of $^{13}$ C studied by the analytic continuation in the coupling constant**|Seungheon Shin et.al.|[2404.09712](http://arxiv.org/abs/2404.09712)|null|
 |**2024-04-15**|**AntBatchInfer: Elastic Batch Inference in the Kubernetes Cluster**|Siyuan Li et.al.|[2404.09686](http://arxiv.org/abs/2404.09686)|null|
 |**2024-04-15**|**AntDT: A Self-Adaptive Distributed Training Framework for Leader and Straggler Nodes**|Youshao Xiao et.al.|[2404.09679](http://arxiv.org/abs/2404.09679)|null|

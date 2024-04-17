@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.16
+## Updated on 2024.04.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-15**|**ChainScience 2024, Conference Proceedings**|Nicolò Vallarano et.al.|[2404.09782](http://arxiv.org/abs/2404.09782)|null|
+|**2024-04-15**|**Squish Jamming**|Samuel Poincloux et.al.|[2404.09773](http://arxiv.org/abs/2404.09773)|null|
+|**2024-04-15**|**Strong coupling electron-photon dynamics: a real-time investigation of energy redistribution in molecular polaritons**|Matteo Castagnola et.al.|[2404.09762](http://arxiv.org/abs/2404.09762)|null|
+|**2024-04-15**|**Accurate quantum Monte Carlo forces for machine-learned force fields: Ethanol as a benchmark**|Emiel Slootman et.al.|[2404.09755](http://arxiv.org/abs/2404.09755)|null|
 |**2024-04-15**|**1/2 $^-$ $α$ cluster resonances of $^{13}$ C studied by the analytic continuation in the coupling constant**|Seungheon Shin et.al.|[2404.09712](http://arxiv.org/abs/2404.09712)|null|
 |**2024-04-15**|**AntBatchInfer: Elastic Batch Inference in the Kubernetes Cluster**|Siyuan Li et.al.|[2404.09686](http://arxiv.org/abs/2404.09686)|null|
 |**2024-04-15**|**AntDT: A Self-Adaptive Distributed Training Framework for Leader and Straggler Nodes**|Youshao Xiao et.al.|[2404.09679](http://arxiv.org/abs/2404.09679)|null|
@@ -1066,7 +1070,7 @@
 |**2023-11-10**|**The First Verification Test of Space-Ground Collaborative Intelligence via Cloud-Native Satellites**|Shangguang Wang et.al.|[2311.06078](http://arxiv.org/abs/2311.06078)|null|
 |**2023-11-10**|**Collaborative Inference in DNN-based Satellite Systems with Dynamic Task Streams**|Jinglong Guan et.al.|[2311.06073](http://arxiv.org/abs/2311.06073)|null|
 
-<p align=right>(<a href=#updated-on-20240416>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240417>back to top</a>)</p>
 
 ## point cloud
 
@@ -1718,7 +1722,7 @@
 |**2023-11-08**|**VET: Visual Error Tomography for Point Cloud Completion and High-Quality Neural Rendering**|Linus Franke et.al.|[2311.04634](http://arxiv.org/abs/2311.04634)|**[link](https://github.com/lfranke/vet)**|
 |**2023-11-09**|**Rethinking Human Pose Estimation for Autonomous Driving with 3D Event Representations**|Xiaoting Yin et.al.|[2311.04591](http://arxiv.org/abs/2311.04591)|**[link](https://github.com/masterhow/eventpointpose)**|
 
-<p align=right>(<a href=#updated-on-20240416>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240417>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
