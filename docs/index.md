@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.17
+## Updated on 2024.04.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## clustering
@@ -23,7 +23,7 @@ layout: default
 |**2024-04-16**|**Weighting methods for truncation by death in cluster-randomized trials**|Dane Isenberg et.al.|[2404.10629](http://arxiv.org/abs/2404.10629)|null|
 |**2024-04-16**|**Swirling due to misaligned perception-dependent motility**|Rodrigo Saavedra et.al.|[2404.10608](http://arxiv.org/abs/2404.10608)|null|
 |**2024-04-16**|**A Longitudinal Study of Child Wellbeing Assessment via Online Interactions with a Social Robots**|Nida Itrat Abbasi et.al.|[2404.10593](http://arxiv.org/abs/2404.10593)|null|
-|**2024-04-16**|**Data-driven subgrouping of patient trajectories with chronic diseases: Evidence from low back pain**|Christof Naumzik et.al.|[2404.10580](http://arxiv.org/abs/2404.10580)|null|
+|**2024-04-16**|**Data-driven subgrouping of patient trajectories with chronic diseases: Evidence from low back pain**|Christof Naumzik et.al.|[2404.10580](http://arxiv.org/abs/2404.10580)|**[link](https://github.com/sfeuerriegel/patientsubgrouping)**|
 |**2024-04-15**|**ChainScience 2024, Conference Proceedings**|Nicolò Vallarano et.al.|[2404.09782](http://arxiv.org/abs/2404.09782)|null|
 |**2024-04-15**|**Squish Jamming**|Samuel Poincloux et.al.|[2404.09773](http://arxiv.org/abs/2404.09773)|null|
 |**2024-04-15**|**Strong coupling electron-photon dynamics: a real-time investigation of energy redistribution in molecular polaritons**|Matteo Castagnola et.al.|[2404.09762](http://arxiv.org/abs/2404.09762)|null|
