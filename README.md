@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-17**|**The 33 M $_\odot$ black hole Gaia BH3 is part of the disrupted ED-2 star cluster**|E. Balbinot et.al.|[2404.11604](http://arxiv.org/abs/2404.11604)|null|
+|**2024-04-17**|**Generation of Low-Inclination, Neptune-Crossing TNOs by Planet Nine**|Konstantin Batygin et.al.|[2404.11594](http://arxiv.org/abs/2404.11594)|null|
+|**2024-04-17**|**Spatial Heterogeneous Additive Partial Linear Model: A Joint Approach of Bivariate Spline and Forest Lasso**|Xin Zhang et.al.|[2404.11579](http://arxiv.org/abs/2404.11579)|null|
+|**2024-04-17**|**The Low-Mass Stellar Initial Mass Function in Nearby Ultra-Faint Dwarf Galaxies**|Carrie Filion et.al.|[2404.11571](http://arxiv.org/abs/2404.11571)|null|
+|**2024-04-17**|**Non-linear conductances of Galton-Watson trees and application to the (near) critical random cluster model**|Irene Ayuso Ventura et.al.|[2404.11564](http://arxiv.org/abs/2404.11564)|null|
+|**2024-04-17**|**Hierarchical storage management in user space for neuroimaging applications**|Valérie Hayot-Sasson et.al.|[2404.11556](http://arxiv.org/abs/2404.11556)|null|
+|**2024-04-17**|**Resolved properties of a luminous "hinge clump" in the compact group of galaxies NGC\,6845**|Daniela E. Olave-Rojas et.al.|[2404.11549](http://arxiv.org/abs/2404.11549)|null|
+|**2024-04-17**|**Microscopic solutions for vortex clustering in two-band type-1.5 superconductor**|Igor Timoshuk et.al.|[2404.11491](http://arxiv.org/abs/2404.11491)|null|
+|**2024-04-17**|**BSDE-based stochastic control for optimal reinsurance in a dynamic contagion model**|Claudia Ceci et.al.|[2404.11482](http://arxiv.org/abs/2404.11482)|null|
+|**2024-04-17**|**IoTSim-Osmosis-RES: Towards autonomic renewable energy-aware osmotic computing**|Tomasz Szydlo et.al.|[2404.11481](http://arxiv.org/abs/2404.11481)|null|
 |**2024-04-16**|**Searching for cold gas traced by MgII quasar absorbers in massive X-ray-selected galaxy clusters**|A. Y. Fresco et.al.|[2404.10773](http://arxiv.org/abs/2404.10773)|null|
 |**2024-04-16**|**Unveiling the Cosmic Gems Arc at $z\sim10.2$ with JWST**|Larry D. Bradley et.al.|[2404.10770](http://arxiv.org/abs/2404.10770)|null|
 |**2024-04-16**|**A Young Super Star Cluster Powering a Nebula of Retained Massive Star Ejecta**|Massimo Pascale et.al.|[2404.10755](http://arxiv.org/abs/2404.10755)|null|
@@ -1086,6 +1096,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-17**|**VG4D: Vision-Language Model Goes 4D Video Recognition**|Zhichao Deng et.al.|[2404.11605](http://arxiv.org/abs/2404.11605)|**[link](https://github.com/shark0-0/vg4d)**|
+|**2024-04-17**|**VBR: A Vision Benchmark in Rome**|Leonardo Brizi et.al.|[2404.11322](http://arxiv.org/abs/2404.11322)|null|
+|**2024-04-17**|**MMCBE: Multi-modality Dataset for Crop Biomass Estimation and Beyond**|Xuesong Li et.al.|[2404.11256](http://arxiv.org/abs/2404.11256)|**[link](https://github.com/benzlxs/mmcbe)**|
+|**2024-04-17**|**Learning SO(3)-Invariant Semantic Correspondence via Local Shape Transform**|Chunghyun Park et.al.|[2404.11156](http://arxiv.org/abs/2404.11156)|null|
+|**2024-04-17**|**Leveraging 3D LiDAR Sensors to Enable Enhanced Urban Safety and Public Health: Pedestrian Monitoring and Abnormal Activity Detection**|Nawfal Guefrachi et.al.|[2404.10978](http://arxiv.org/abs/2404.10978)|null|
+|**2024-04-16**|**FlexMap Fusion: Georeferencing and Automated Conflation of HD~Maps with OpenStreetMap**|Maximilian Leitenstern et.al.|[2404.10879](http://arxiv.org/abs/2404.10879)|null|
+|**2024-04-16**|**Geometric Neural Operators (GNPs) for Data-Driven Deep Learning of Non-Euclidean Operators**|Blaine Quackenbush et.al.|[2404.10843](http://arxiv.org/abs/2404.10843)|null|
 |**2024-04-16**|**ECLAIR: A High-Fidelity Aerial LiDAR Dataset for Semantic Segmentation**|Iaroslav Melekhov et.al.|[2404.10699](http://arxiv.org/abs/2404.10699)|null|
 |**2024-04-16**|**CMU-Flownet: Exploring Point Cloud Scene Flow Estimation in Occluded Scenario**|Jingze Chen et.al.|[2404.10571](http://arxiv.org/abs/2404.10571)|null|
 |**2024-04-16**|**GaitPoint+: A Gait Recognition Network Incorporating Point Cloud Analysis and Recycling**|Huantao Ren et.al.|[2404.10213](http://arxiv.org/abs/2404.10213)|null|
