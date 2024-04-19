@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-18**|**SOHES: Self-supervised Open-world Hierarchical Entity Segmentation**|Shengcao Cao et.al.|[2404.12386](http://arxiv.org/abs/2404.12386)|null|
+|**2024-04-18**|**Gravitational wave luminosity distance-weighted anisotropies**|A. Begnoni et.al.|[2404.12351](http://arxiv.org/abs/2404.12351)|null|
+|**2024-04-18**|**On the roles of stellar rotation and binarity in NGC 2423's main-sequence turnoff region**|Yutian Bu et.al.|[2404.12331](http://arxiv.org/abs/2404.12331)|null|
+|**2024-04-18**|**Concept Induction: Analyzing Unstructured Text with High-Level Concepts Using LLooM**|Michelle S. Lam et.al.|[2404.12259](http://arxiv.org/abs/2404.12259)|**[link](https://github.com/michelle123lam/lloom)**|
+|**2024-04-18**|**Star-by-star dynamical evolution of the physical pair of the Collinder 135 and UBC 7 open clusters**|Maryna Ishchenko et.al.|[2404.12255](http://arxiv.org/abs/2404.12255)|null|
+|**2024-04-18**|**Blind Localization and Clustering of Anomalies in Textures**|Andrei-Timotei Ardelean et.al.|[2404.12246](http://arxiv.org/abs/2404.12246)|null|
+|**2024-04-18**|**De-DSI: Decentralised Differentiable Search Index**|Petru Neague et.al.|[2404.12237](http://arxiv.org/abs/2404.12237)|null|
+|**2024-04-18**|**Entangled states from arborescent knots**|Sergey Mironov et.al.|[2404.12222](http://arxiv.org/abs/2404.12222)|null|
+|**2024-04-18**|**Euclid preparation. Improving cosmological constraints using a new multi-tracer method with the spectroscopic and photometric samples**|Euclid Collaboration et.al.|[2404.12157](http://arxiv.org/abs/2404.12157)|null|
+|**2024-04-18**|**Unknown Interference Modeling for Rate Adaptation in Cell-Free Massive MIMO Networks**|Mahmoud Zaher et.al.|[2404.12148](http://arxiv.org/abs/2404.12148)|null|
 |**2024-04-17**|**The 33 M $_\odot$ black hole Gaia BH3 is part of the disrupted ED-2 star cluster**|E. Balbinot et.al.|[2404.11604](http://arxiv.org/abs/2404.11604)|null|
 |**2024-04-17**|**Generation of Low-Inclination, Neptune-Crossing TNOs by Planet Nine**|Konstantin Batygin et.al.|[2404.11594](http://arxiv.org/abs/2404.11594)|null|
 |**2024-04-17**|**Spatial Heterogeneous Additive Partial Linear Model: A Joint Approach of Bivariate Spline and Forest Lasso**|Xin Zhang et.al.|[2404.11579](http://arxiv.org/abs/2404.11579)|null|
@@ -1090,8 +1100,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-18**|**Point-In-Context: Understanding Point Cloud via In-Context Learning**|Mengyuan Liu et.al.|[2404.12352](http://arxiv.org/abs/2404.12352)|null|
+|**2024-04-18**|**SPOT: Point Cloud Based Stereo Visual Place Recognition for Similar and Opposing Viewpoints**|Spencer Carmichael et.al.|[2404.12339](http://arxiv.org/abs/2404.12339)|null|
+|**2024-04-18**|**RISE: 3D Perception Makes Real-World Robot Imitation Simple and Effective**|Chenxi Wang et.al.|[2404.12281](http://arxiv.org/abs/2404.12281)|null|
+|**2024-04-17**|**Mushroom Segmentation and 3D Pose Estimation from Point Clouds using Fully Convolutional Geometric Features and Implicit Pose Encoding**|George Retsinas et.al.|[2404.12144](http://arxiv.org/abs/2404.12144)|null|
+|**2024-04-18**|**PureForest: A Large-scale Aerial Lidar and Aerial Imagery Dataset for Tree Species Classification in Monospecific Forests**|Charles Gaydon et.al.|[2404.12064](http://arxiv.org/abs/2404.12064)|null|
+|**2024-04-17**|**Multimodal 3D Object Detection on Unseen Domains**|Deepti Hegde et.al.|[2404.11764](http://arxiv.org/abs/2404.11764)|null|
 |**2024-04-17**|**VG4D: Vision-Language Model Goes 4D Video Recognition**|Zhichao Deng et.al.|[2404.11605](http://arxiv.org/abs/2404.11605)|**[link](https://github.com/shark0-0/vg4d)**|
-|**2024-04-17**|**VBR: A Vision Benchmark in Rome**|Leonardo Brizi et.al.|[2404.11322](http://arxiv.org/abs/2404.11322)|null|
+|**2024-04-17**|**VBR: A Vision Benchmark in Rome**|Leonardo Brizi et.al.|[2404.11322](http://arxiv.org/abs/2404.11322)|**[link](https://github.com/rvp-group/vbr-devkit)**|
 |**2024-04-17**|**MMCBE: Multi-modality Dataset for Crop Biomass Estimation and Beyond**|Xuesong Li et.al.|[2404.11256](http://arxiv.org/abs/2404.11256)|**[link](https://github.com/benzlxs/mmcbe)**|
 |**2024-04-17**|**Learning SO(3)-Invariant Semantic Correspondence via Local Shape Transform**|Chunghyun Park et.al.|[2404.11156](http://arxiv.org/abs/2404.11156)|null|
 |**2024-04-17**|**Leveraging 3D LiDAR Sensors to Enable Enhanced Urban Safety and Public Health: Pedestrian Monitoring and Abnormal Activity Detection**|Nawfal Guefrachi et.al.|[2404.10978](http://arxiv.org/abs/2404.10978)|null|
