@@ -33,7 +33,7 @@
 |**2024-04-17**|**Spatial Heterogeneous Additive Partial Linear Model: A Joint Approach of Bivariate Spline and Forest Lasso**|Xin Zhang et.al.|[2404.11579](http://arxiv.org/abs/2404.11579)|null|
 |**2024-04-17**|**The Low-Mass Stellar Initial Mass Function in Nearby Ultra-Faint Dwarf Galaxies**|Carrie Filion et.al.|[2404.11571](http://arxiv.org/abs/2404.11571)|null|
 |**2024-04-17**|**Non-linear conductances of Galton-Watson trees and application to the (near) critical random cluster model**|Irene Ayuso Ventura et.al.|[2404.11564](http://arxiv.org/abs/2404.11564)|null|
-|**2024-04-17**|**Hierarchical storage management in user space for neuroimaging applications**|Valérie Hayot-Sasson et.al.|[2404.11556](http://arxiv.org/abs/2404.11556)|null|
+|**2024-04-17**|**Hierarchical storage management in user space for neuroimaging applications**|Valérie Hayot-Sasson et.al.|[2404.11556](http://arxiv.org/abs/2404.11556)|**[link](https://github.com/valhayot/sea)**|
 |**2024-04-17**|**Resolved properties of a luminous "hinge clump" in the compact group of galaxies NGC\,6845**|Daniela E. Olave-Rojas et.al.|[2404.11549](http://arxiv.org/abs/2404.11549)|null|
 |**2024-04-17**|**Microscopic solutions for vortex clustering in two-band type-1.5 superconductor**|Igor Timoshuk et.al.|[2404.11491](http://arxiv.org/abs/2404.11491)|null|
 |**2024-04-17**|**BSDE-based stochastic control for optimal reinsurance in a dynamic contagion model**|Claudia Ceci et.al.|[2404.11482](http://arxiv.org/abs/2404.11482)|null|
@@ -44,7 +44,7 @@
 |**2024-04-16**|**Computing Inductive Invariants of Regular Abstraction Frameworks**|Philipp Czerner et.al.|[2404.10752](http://arxiv.org/abs/2404.10752)|null|
 |**2024-04-16**|**Classical and Quantum Distributed Algorithms for the Survivable Network Design Problem**|Phillip Kerger et.al.|[2404.10748](http://arxiv.org/abs/2404.10748)|null|
 |**2024-04-16**|**A Cloud Resources Portfolio Optimization Business Model - From Theory to Practice**|Valentin Haag et.al.|[2404.10641](http://arxiv.org/abs/2404.10641)|null|
-|**2024-04-16**|**Weighting methods for truncation by death in cluster-randomized trials**|Dane Isenberg et.al.|[2404.10629](http://arxiv.org/abs/2404.10629)|null|
+|**2024-04-16**|**Weighting methods for truncation by death in cluster-randomized trials**|Dane Isenberg et.al.|[2404.10629](http://arxiv.org/abs/2404.10629)|**[link](https://github.com/abcdane1/ptsacecrts)**|
 |**2024-04-16**|**Swirling due to misaligned perception-dependent motility**|Rodrigo Saavedra et.al.|[2404.10608](http://arxiv.org/abs/2404.10608)|null|
 |**2024-04-16**|**A Longitudinal Study of Child Wellbeing Assessment via Online Interactions with a Social Robots**|Nida Itrat Abbasi et.al.|[2404.10593](http://arxiv.org/abs/2404.10593)|null|
 |**2024-04-16**|**Data-driven subgrouping of patient trajectories with chronic diseases: Evidence from low back pain**|Christof Naumzik et.al.|[2404.10580](http://arxiv.org/abs/2404.10580)|**[link](https://github.com/sfeuerriegel/patientsubgrouping)**|
@@ -55,7 +55,7 @@
 |**2024-04-15**|**1/2 $^-$ $α$ cluster resonances of $^{13}$ C studied by the analytic continuation in the coupling constant**|Seungheon Shin et.al.|[2404.09712](http://arxiv.org/abs/2404.09712)|null|
 |**2024-04-15**|**AntBatchInfer: Elastic Batch Inference in the Kubernetes Cluster**|Siyuan Li et.al.|[2404.09686](http://arxiv.org/abs/2404.09686)|null|
 |**2024-04-15**|**AntDT: A Self-Adaptive Distributed Training Framework for Leader and Straggler Nodes**|Youshao Xiao et.al.|[2404.09679](http://arxiv.org/abs/2404.09679)|null|
-|**2024-04-15**|**Cluster analysis of the Roma-BZCAT blazars**|D. O. Kudryavtsev et.al.|[2404.09667](http://arxiv.org/abs/2404.09667)|null|
+|**2024-04-15**|**Cluster analysis of the Roma-BZCAT blazars**|D. O. Kudryavtsev et.al.|[2404.09667](http://arxiv.org/abs/2404.09667)|**[link](https://github.com/dkudryavtsev/bzcat-sed-viewer)**|
 |**2024-04-15**|**Pair statistics of anisotropic particles settling in a turbulent flow**|Prateek Anand et.al.|[2404.09635](http://arxiv.org/abs/2404.09635)|null|
 |**2024-04-15**|**Centralization in Proof-of-Stake Blockchains: A Game-Theoretic Analysis of Bootstrapping Protocols**|Varul Srivastava et.al.|[2404.09627](http://arxiv.org/abs/2404.09627)|null|
 |**2024-04-15**|**The "C": The large Chameleon-Musca-Coalsack cloud**|Gordian Edenhofer et.al.|[2404.09592](http://arxiv.org/abs/2404.09592)|null|
@@ -70,7 +70,7 @@
 |**2024-04-12**|**Multi-Agent eXperimenter (MAX)**|Önder Gürcan et.al.|[2404.08398](http://arxiv.org/abs/2404.08398)|null|
 |**2024-04-12**|**Coherence properties of NV-center ensembles in diamond coupled to an electron-spin bath**|Reyhaneh Ghassemizadeh et.al.|[2404.08388](http://arxiv.org/abs/2404.08388)|null|
 |**2024-04-12**|**$Ab$-$initio$ nucleon-nucleon correlations and their impact on high energy $^{16}$O+$^{16}$ O collisions**|Chunjian Zhang et.al.|[2404.08385](http://arxiv.org/abs/2404.08385)|null|
-|**2024-04-12**|**FlowWalker: A Memory-efficient and High-performance GPU-based Dynamic Graph Random Walk Framework**|Junyi Mei et.al.|[2404.08364](http://arxiv.org/abs/2404.08364)|null|
+|**2024-04-12**|**FlowWalker: A Memory-efficient and High-performance GPU-based Dynamic Graph Random Walk Framework**|Junyi Mei et.al.|[2404.08364](http://arxiv.org/abs/2404.08364)|**[link](https://github.com/junyimei/flowwalker-artifact)**|
 |**2024-04-12**|**Let It Flow: Simultaneous Optimization of 3D Flow and Object Clustering**|Patrik Vacek et.al.|[2404.08363](http://arxiv.org/abs/2404.08363)|null|
 |**2024-04-11**|**Konnektor: Connection Protocol for Ensuring Peer Uniqueness in Decentralized P2P Networks**|Onur Ozkan et.al.|[2404.07861](http://arxiv.org/abs/2404.07861)|null|
 |**2024-04-11**|**Obstructions to semiorthogonal decompositions for singular projective varieties II: Representation theory**|Martin Kalck et.al.|[2404.07816](http://arxiv.org/abs/2404.07816)|null|
@@ -909,7 +909,7 @@
 |**2023-12-08**|**The splashback radius for dark matter, gas and observables in the FLAMINGO simulations**|Imogen Towler et.al.|[2312.05126](http://arxiv.org/abs/2312.05126)|**[link](https://github.com/swiftsim/soap)**|
 |**2023-12-08**|**Accurate Measurement of Application-level Energy Consumption for Energy-Aware Large-Scale Simulations**|Osman Seckin Simsek et.al.|[2312.05102](http://arxiv.org/abs/2312.05102)|null|
 |**2023-12-08**|**ScalO-RAN: Energy-aware Network Intelligence Scaling in Open RAN**|Stefano Maxenti et.al.|[2312.05096](http://arxiv.org/abs/2312.05096)|null|
-|**2023-12-07**|**Self-Guided Open-Vocabulary Semantic Segmentation**|Osman Ülger et.al.|[2312.04539](http://arxiv.org/abs/2312.04539)|null|
+|**2023-12-07**|**Self-Guided Open-Vocabulary Semantic Segmentation**|Osman Ülger et.al.|[2312.04539](http://arxiv.org/abs/2312.04539)|**[link](https://github.com/ozzyou/autoseg)**|
 |**2023-12-07**|**Redshift-dependent RSD bias from Intrinsic Alignment with DESI Year 1 Spectra**|Claire Lamman et.al.|[2312.04518](http://arxiv.org/abs/2312.04518)|**[link](https://github.com/cmlamman/ellipse_alignment)**|
 |**2023-12-07**|**Coordination-free Decentralised Federated Learning on Complex Networks: Overcoming Heterogeneity**|Lorenzo Valerio et.al.|[2312.04504](http://arxiv.org/abs/2312.04504)|null|
 |**2023-12-07**|**Assembling PNIPAM-Capped Gold Nanoparticles in Aqueous Solutions**|Binay P. Nayak et.al.|[2312.04490](http://arxiv.org/abs/2312.04490)|null|
@@ -1136,7 +1136,7 @@
 |**2024-04-13**|**A Fourier-enhanced multi-modal 3D small object optical mark recognition and positioning method for percutaneous abdominal puncture surgical navigation**|Zezhao Guo et.al.|[2404.08990](http://arxiv.org/abs/2404.08990)|null|
 |**2024-04-12**|**FusionPortableV2: A Unified Multi-Sensor Dataset for Generalized SLAM Across Diverse Platforms and Scalable Environments**|Hexiang Wei et.al.|[2404.08563](http://arxiv.org/abs/2404.08563)|null|
 |**2024-04-12**|**Let It Flow: Simultaneous Optimization of 3D Flow and Object Clustering**|Patrik Vacek et.al.|[2404.08363](http://arxiv.org/abs/2404.08363)|null|
-|**2024-04-12**|**GPN: Generative Point-based NeRF**|Haipeng Wang et.al.|[2404.08312](http://arxiv.org/abs/2404.08312)|null|
+|**2024-04-12**|**GPN: Generative Point-based NeRF**|Haipeng Wang et.al.|[2404.08312](http://arxiv.org/abs/2404.08312)|**[link](https://github.com/forestsen/GPN)**|
 |**2024-04-11**|**SimpliCity: Reconstructing Buildings with Simple Regularized 3D Models**|Jean-Philippe Bauchet et.al.|[2404.08104](http://arxiv.org/abs/2404.08104)|null|
 |**2024-04-11**|**3D-CSAD: Untrained 3D Anomaly Detection for Complex Manufacturing Surfaces**|Xuanming Cao et.al.|[2404.07748](http://arxiv.org/abs/2404.07748)|null|
 |**2024-04-11**|**Point cloud obstacle detection with the map filtration**|Lukas Kratochvila et.al.|[2404.07730](http://arxiv.org/abs/2404.07730)|null|
@@ -1570,7 +1570,7 @@
 |**2023-12-29**|**Comparing roughness descriptors for distinct terrain surfaces in point cloud data**|Lei Fan et.al.|[2312.17407](http://arxiv.org/abs/2312.17407)|null|
 |**2023-12-28**|**FILP-3D: Enhancing 3D Few-shot Class-incremental Learning with Pre-trained Vision-Language Models**|Wan Xu et.al.|[2312.17051](http://arxiv.org/abs/2312.17051)|**[link](https://github.com/hit-leaderone/flip-3d)**|
 |**2023-12-28**|**Joint Learning for Scattered Point Cloud Understanding with Hierarchical Self-Distillation**|Kaiyue Zhou et.al.|[2312.16902](http://arxiv.org/abs/2312.16902)|null|
-|**2023-12-28**|**DualFluidNet: an Attention-based Dual-pipeline Network for Accurate and Generalizable Fluid-solid Coupled Simulation**|Yu Chen et.al.|[2312.16867](http://arxiv.org/abs/2312.16867)|null|
+|**2023-12-28**|**DualFluidNet: an Attention-based Dual-pipeline Network for Accurate and Generalizable Fluid-solid Coupled Simulation**|Yu Chen et.al.|[2312.16867](http://arxiv.org/abs/2312.16867)|**[link](https://github.com/chenyu-xjtu/dualfluidnet)**|
 |**2023-12-27**|**Learnable Chamfer Distance for Point Cloud Reconstruction**|Tianxin Huang et.al.|[2312.16582](http://arxiv.org/abs/2312.16582)|**[link](https://github.com/tianxinhuang/lcdnet)**|
 |**2023-12-29**|**Multi-modality Affinity Inference for Weakly Supervised 3D Semantic Segmentation**|Xiawei Li et.al.|[2312.16578](http://arxiv.org/abs/2312.16578)|**[link](https://github.com/sunny599/aaai24-3dwssg-mma)**|
 |**2023-12-26**|**VirtualPainting: Addressing Sparsity with Virtual Points and Distance-Aware Data Augmentation for 3D Object Detection**|Sudip Dhakal et.al.|[2312.16141](http://arxiv.org/abs/2312.16141)|null|
