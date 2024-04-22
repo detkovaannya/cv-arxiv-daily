@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-19**|**Dynamical formation of Gaia BH3 in the progenitor globular cluster of the ED-2 stream**|Daniel Marín Pina et.al.|[2404.13036](http://arxiv.org/abs/2404.13036)|null|
+|**2024-04-19**|**Mean-field Potts and random-cluster dynamics from high-entropy initializations**|Antonio Blanca et.al.|[2404.13014](http://arxiv.org/abs/2404.13014)|null|
+|**2024-04-19**|**Influence of strain and point defects on the electronic structure and related properties of (111)NiO epitaxial films**|Bhabani Prasad Sahu et.al.|[2404.13007](http://arxiv.org/abs/2404.13007)|null|
+|**2024-04-19**|**Flat-band ratio and quantum metric in the superconductivity of modified Lieb lattices**|Reko P. S. Penttilä et.al.|[2404.12993](http://arxiv.org/abs/2404.12993)|null|
+|**2024-04-19**|**Scalable Data Assimilation with Message Passing**|Oscar Key et.al.|[2404.12968](http://arxiv.org/abs/2404.12968)|**[link](https://github.com/oscarkey/message-passing-for-da)**|
+|**2024-04-19**|**Improving Pediatric Pneumonia Diagnosis with Adult Chest X-ray Images Utilizing Contrastive Learning and Embedding Similarity**|Mohammad Zunaed et.al.|[2404.12958](http://arxiv.org/abs/2404.12958)|null|
+|**2024-04-19**|**Low-Depth Spatial Tree Algorithms**|Yves Baumann et.al.|[2404.12953](http://arxiv.org/abs/2404.12953)|null|
+|**2024-04-19**|**Fast Broadcast in Highly Connected Networks**|Shashwat Chandra et.al.|[2404.12930](http://arxiv.org/abs/2404.12930)|null|
+|**2024-04-19**|**The Localized Active Space Method with Unitary Selective Coupled Cluster**|Abhishek Mitra et.al.|[2404.12927](http://arxiv.org/abs/2404.12927)|null|
+|**2024-04-19**|**Cloud-based Digital Twin for Cognitive Robotics**|Arthur Niedźwiecki et.al.|[2404.12909](http://arxiv.org/abs/2404.12909)|null|
 |**2024-04-18**|**SOHES: Self-supervised Open-world Hierarchical Entity Segmentation**|Shengcao Cao et.al.|[2404.12386](http://arxiv.org/abs/2404.12386)|null|
 |**2024-04-18**|**Gravitational wave luminosity distance-weighted anisotropies**|A. Begnoni et.al.|[2404.12351](http://arxiv.org/abs/2404.12351)|null|
 |**2024-04-18**|**On the roles of stellar rotation and binarity in NGC 2423's main-sequence turnoff region**|Yutian Bu et.al.|[2404.12331](http://arxiv.org/abs/2404.12331)|null|
@@ -1106,6 +1116,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-19**|**Unified Scene Representation and Reconstruction for 3D Large Language Models**|Tao Chu et.al.|[2404.13044](http://arxiv.org/abs/2404.13044)|null|
+|**2024-04-19**|**Purposer: Putting Human Motion Generation in Context**|Nicolas Ugrinovic et.al.|[2404.12942](http://arxiv.org/abs/2404.12942)|null|
+|**2024-04-19**|**A Hybrid Generative and Discriminative PointNet on Unordered Point Sets**|Yang Ye et.al.|[2404.12925](http://arxiv.org/abs/2404.12925)|null|
+|**2024-04-19**|**Foundation Model assisted Weakly Supervised LiDAR Semantic Segmentation**|Yilong Chen et.al.|[2404.12861](http://arxiv.org/abs/2404.12861)|null|
+|**2024-04-19**|**MAexp: A Generic Platform for RL-based Multi-Agent Exploration**|Shaohao Zhu et.al.|[2404.12824](http://arxiv.org/abs/2404.12824)|**[link](https://github.com/duangzhu/maexp)**|
+|**2024-04-19**|**A Point-Based Approach to Efficient LiDAR Multi-Task Perception**|Christopher Lang et.al.|[2404.12798](http://arxiv.org/abs/2404.12798)|null|
+|**2024-04-19**|**MambaMOS: LiDAR-based 3D Moving Object Segmentation with Motion-aware State Space Model**|Kang Zeng et.al.|[2404.12794](http://arxiv.org/abs/2404.12794)|**[link](https://github.com/terminal-k/mambamos)**|
+|**2024-04-19**|**VoxAtnNet: A 3D Point Clouds Convolutional Neural Network for Generalizable Face Presentation Attack Detection**|Raghavendra Ramachandra et.al.|[2404.12680](http://arxiv.org/abs/2404.12680)|null|
+|**2024-04-18**|**Does Gaussian Splatting need SFM Initialization?**|Yalda Foroutan et.al.|[2404.12547](http://arxiv.org/abs/2404.12547)|null|
+|**2024-04-18**|**Spot-Compose: A Framework for Open-Vocabulary Object Retrieval and Drawer Manipulation in Point Clouds**|Oliver Lemke et.al.|[2404.12440](http://arxiv.org/abs/2404.12440)|null|
 |**2024-04-18**|**Point-In-Context: Understanding Point Cloud via In-Context Learning**|Mengyuan Liu et.al.|[2404.12352](http://arxiv.org/abs/2404.12352)|**[link](https://github.com/fanglaosi/point-in-context)**|
 |**2024-04-18**|**SPOT: Point Cloud Based Stereo Visual Place Recognition for Similar and Opposing Viewpoints**|Spencer Carmichael et.al.|[2404.12339](http://arxiv.org/abs/2404.12339)|null|
 |**2024-04-18**|**RISE: 3D Perception Makes Real-World Robot Imitation Simple and Effective**|Chenxi Wang et.al.|[2404.12281](http://arxiv.org/abs/2404.12281)|null|
