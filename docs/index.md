@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-22**|**STROOBnet Optimization via GPU-Accelerated Proximal Recurrence Strategies**|Ted Edward Holmberg et.al.|[2404.14388](http://arxiv.org/abs/2404.14388)|null|
+|**2024-04-22**|**On the incidence rate of RR Lyrae stars with non-radial modes**|H. Netzel et.al.|[2404.14373](http://arxiv.org/abs/2404.14373)|null|
+|**2024-04-22**|**Broken lines and compatible pairs for rank 2 quantum cluster algebras**|Amanda Burcroff et.al.|[2404.14369](http://arxiv.org/abs/2404.14369)|null|
+|**2024-04-22**|**PM2D: A parallel GPU-based code for the kinetic simulation of laser plasma instabilities in large scale plasmas**|Hanghang Ma et.al.|[2404.14293](http://arxiv.org/abs/2404.14293)|null|
+|**2024-04-22**|**Blockchain in a box: A portable blockchain network implementation on Raspberry Pi's**|Matija Piškorec et.al.|[2404.14282](http://arxiv.org/abs/2404.14282)|null|
+|**2024-04-22**|**The impact of a top-heavy IMF on the formation and evolution of dark star clusters**|Ali Rostami Shirazi et.al.|[2404.14259](http://arxiv.org/abs/2404.14259)|null|
+|**2024-04-22**|**Frosty: Bringing strong liveness guarantees to the Snow family of consensus protocols**|Aaron Buchwald et.al.|[2404.14250](http://arxiv.org/abs/2404.14250)|null|
+|**2024-04-22**|**Properties of the `friend of a friend' model for network generation**|Tiffany Y. Y. Lo et.al.|[2404.14205](http://arxiv.org/abs/2404.14205)|null|
+|**2024-04-22**|**LLAMP: Assessing Network Latency Tolerance of HPC Applications with Linear Programming**|Siyuan Shen et.al.|[2404.14193](http://arxiv.org/abs/2404.14193)|null|
+|**2024-04-22**|**Nonadiabatic excited-state dynamics and energy gradients in the framework of FMO-LC-TDDFTB**|Richard Einsele et.al.|[2404.14174](http://arxiv.org/abs/2404.14174)|null|
 |**2024-04-19**|**Dynamical formation of Gaia BH3 in the progenitor globular cluster of the ED-2 stream**|Daniel Marín Pina et.al.|[2404.13036](http://arxiv.org/abs/2404.13036)|null|
 |**2024-04-19**|**Mean-field Potts and random-cluster dynamics from high-entropy initializations**|Antonio Blanca et.al.|[2404.13014](http://arxiv.org/abs/2404.13014)|null|
 |**2024-04-19**|**Influence of strain and point defects on the electronic structure and related properties of (111)NiO epitaxial films**|Bhabani Prasad Sahu et.al.|[2404.13007](http://arxiv.org/abs/2404.13007)|null|
@@ -1110,6 +1120,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-22**|**Scene Coordinate Reconstruction: Posing of Image Collections via Incremental Learning of a Relocalizer**|Eric Brachmann et.al.|[2404.14351](http://arxiv.org/abs/2404.14351)|null|
+|**2024-04-22**|**Research on Robot Path Planning Based on Reinforcement Learning**|Wang Ruiqi et.al.|[2404.14077](http://arxiv.org/abs/2404.14077)|**[link](https://github.com/Rich-King395/Path-Planning-based-on-Reinforcement-Learning)**|
+|**2024-04-22**|**CloudFort: Enhancing Robustness of 3D Point Cloud Classification Against Backdoor Attacks via Spatial Partitioning and Ensemble Prediction**|Wenhao Lan et.al.|[2404.14042](http://arxiv.org/abs/2404.14042)|null|
+|**2024-04-22**|**PointDifformer: Robust Point Cloud Registration With Neural Diffusion and Transformer**|Rui She et.al.|[2404.14034](http://arxiv.org/abs/2404.14034)|null|
+|**2024-04-22**|**On Support Relations Inference and Scene Hierarchy Graph Construction from Point Cloud in Clustered Environments**|Gang Ma et.al.|[2404.13842](http://arxiv.org/abs/2404.13842)|null|
+|**2024-04-22**|**A Comprehensive Survey and Taxonomy on Point Cloud Registration Based on Deep Learning**|Yu-Xin Zhang et.al.|[2404.13830](http://arxiv.org/abs/2404.13830)|null|
+|**2024-04-21**|**Attack on Scene Flow using Point Clouds**|Haniyeh Ehsani Oskouie et.al.|[2404.13621](http://arxiv.org/abs/2404.13621)|null|
+|**2024-04-21**|**Towards Unified Representation of Multi-Modal Pre-training for 3D Understanding via Differentiable Rendering**|Ben Fei et.al.|[2404.13619](http://arxiv.org/abs/2404.13619)|null|
+|**2024-04-21**|**Pointsoup: High-Performance and Extremely Low-Decoding-Latency Learned Geometry Codec for Large-Scale Point Cloud Scenes**|Kang You et.al.|[2404.13550](http://arxiv.org/abs/2404.13550)|**[link](https://github.com/i2-multimedia-lab/pointsoup)**|
+|**2024-04-20**|**Generalization of Task Parameterized Dynamical Systems using Gaussian Process Transportation**|Giovanni Franzese et.al.|[2404.13458](http://arxiv.org/abs/2404.13458)|null|
 |**2024-04-19**|**Unified Scene Representation and Reconstruction for 3D Large Language Models**|Tao Chu et.al.|[2404.13044](http://arxiv.org/abs/2404.13044)|null|
 |**2024-04-19**|**Purposer: Putting Human Motion Generation in Context**|Nicolas Ugrinovic et.al.|[2404.12942](http://arxiv.org/abs/2404.12942)|null|
 |**2024-04-19**|**A Hybrid Generative and Discriminative PointNet on Unordered Point Sets**|Yang Ye et.al.|[2404.12925](http://arxiv.org/abs/2404.12925)|null|
