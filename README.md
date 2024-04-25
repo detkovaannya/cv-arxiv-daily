@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-24**|**Development of Pattern Recognition Validation for Boson Sampling**|Yang Ji et.al.|[2404.15603](http://arxiv.org/abs/2404.15603)|null|
+|**2024-04-24**|**Variational Deep Survival Machines: Survival Regression with Censored Outcomes**|Qinxin Wang et.al.|[2404.15595](http://arxiv.org/abs/2404.15595)|**[link](https://github.com/qinzzz/auton-survival-785)**|
+|**2024-04-24**|**Brain Storm Optimization Based Swarm Learning for Diabetic Retinopathy Image Classification**|Liang Qu et.al.|[2404.15585](http://arxiv.org/abs/2404.15585)|null|
+|**2024-04-23**|**Low-Bandwidth Matrix Multiplication: Faster Algorithms and More General Forms of Sparsity**|Chetan Gupta et.al.|[2404.15559](http://arxiv.org/abs/2404.15559)|null|
+|**2024-04-23**|**Cross-Temporal Spectrogram Autoencoder (CTSAE): Unsupervised Dimensionality Reduction for Clustering Gravitational Wave Glitches**|Yi Li et.al.|[2404.15552](http://arxiv.org/abs/2404.15552)|**[link](https://github.com/zod-l/ctsae)**|
+|**2024-04-23**|**NGC1856: Using machine learning techniques to uncover detailed stellar abundances from MUSE data**|Randa Asa'd et.al.|[2404.15527](http://arxiv.org/abs/2404.15527)|null|
+|**2024-04-23**|**Are early-type galaxies quenched by present-day environment? A study of dwarfs in the Fornax Cluster**|Romero-Gómez et.al.|[2404.15519](http://arxiv.org/abs/2404.15519)|null|
+|**2024-04-23**|**NeuraChip: Accelerating GNN Computations with a Hash-based Decoupled Spatial Accelerator**|Kaustubh Shivdikar et.al.|[2404.15510](http://arxiv.org/abs/2404.15510)|null|
+|**2024-04-23**|**Simultaneous Chandra and HST observations of the quiescent neutron-star low-mass X-ray binaries in 47 Tucanae**|Maureen van den Berg et.al.|[2404.15504](http://arxiv.org/abs/2404.15504)|null|
+|**2024-04-23**|**FedGreen: Carbon-aware Federated Learning with Model Size Adaptation**|Ali Abbasi et.al.|[2404.15503](http://arxiv.org/abs/2404.15503)|null|
 |**2024-04-23**|**Estimation Network Design framework for efficient distributed optimization**|Mattia Bianchi et.al.|[2404.15273](http://arxiv.org/abs/2404.15273)|null|
 |**2024-04-23**|**Efficient Multi-Processor Scheduling in Increasingly Realistic Models**|Pál András Papp et.al.|[2404.15246](http://arxiv.org/abs/2404.15246)|null|
 |**2024-04-23**|**Multi-Tier Non-Terrestrial Networking for Disaster Communications: A Layered Clustering Approach**|Metin Ozturk et.al.|[2404.15229](http://arxiv.org/abs/2404.15229)|null|
@@ -1141,7 +1151,7 @@
 |**2024-04-23**|**Deep Learning Based Multi-Node ISAC 4D Environmental Reconstruction with Uplink- Downlink Cooperation**|Bohao Lu et.al.|[2404.14862](http://arxiv.org/abs/2404.14862)|null|
 |**2024-04-23**|**Reference-Free Multi-Modality Volume Registration of X-Ray Microscopy and Light-Sheet Fluorescence Microscopy**|Siyuan Mei et.al.|[2404.14807](http://arxiv.org/abs/2404.14807)|null|
 |**2024-04-23**|**ContextualFusion: Context-Based Multi-Sensor Fusion for 3D Object Detection in Adverse Operating Conditions**|Shounak Sural et.al.|[2404.14780](http://arxiv.org/abs/2404.14780)|null|
-|**2024-04-23**|**3DBench: A Scalable 3D Benchmark and Instruction-Tuning Dataset**|Junjie Zhang et.al.|[2404.14678](http://arxiv.org/abs/2404.14678)|null|
+|**2024-04-23**|**3DBench: A Scalable 3D Benchmark and Instruction-Tuning Dataset**|Junjie Zhang et.al.|[2404.14678](http://arxiv.org/abs/2404.14678)|**[link](https://github.com/Inshsang/3DBench)**|
 |**2024-04-23**|**LaneCorrect: Self-supervised Lane Detection**|Ming Nie et.al.|[2404.14671](http://arxiv.org/abs/2404.14671)|null|
 |**2024-04-23**|**First Mapping the Canopy Height of Primeval Forests in the Tallest Tree Area of Asia**|Guangpeng Fan et.al.|[2404.14661](http://arxiv.org/abs/2404.14661)|null|
 |**2024-04-23**|**Machine Vision Based Assessment of Fall Color Changes in Apple Trees: Exploring Relationship with Leaf Nitrogen Concentration**|Achyut Paudel et.al.|[2404.14653](http://arxiv.org/abs/2404.14653)|null|
