@@ -17,13 +17,13 @@ layout: default
 |**2024-04-25**|**ESG: Pipeline-Conscious Efficient Scheduling of DNN Workflows on Serverless Platforms with Shareable GPUs**|Xinning Hui et.al.|[2404.16812](http://arxiv.org/abs/2404.16812)|null|
 |**2024-04-25**|**A Communication- and Memory-Aware Model for Load Balancing Tasks**|Jonathan Lifflander et.al.|[2404.16793](http://arxiv.org/abs/2404.16793)|null|
 |**2024-04-25**|**Rapid thermalization of dissipative many-body dynamics of commuting Hamiltonians**|Jan Kochanowski et.al.|[2404.16780](http://arxiv.org/abs/2404.16780)|null|
-|**2024-04-25**|**Finch: Sparse and Structured Array Programming with Control Flow**|Willow Ahrens et.al.|[2404.16730](http://arxiv.org/abs/2404.16730)|null|
+|**2024-04-25**|**Finch: Sparse and Structured Array Programming with Control Flow**|Willow Ahrens et.al.|[2404.16730](http://arxiv.org/abs/2404.16730)|**[link](https://github.com/willow-ahrens/finch.jl)**|
 |**2024-04-25**|**On the Streaming Complexity of Expander Decomposition**|Yu Chen et.al.|[2404.16701](http://arxiv.org/abs/2404.16701)|null|
 |**2024-04-25**|**Multilayer Correlation Clustering**|Atsushi Miyauchi et.al.|[2404.16676](http://arxiv.org/abs/2404.16676)|null|
 |**2024-04-25**|**A Self-Organizing Clustering System for Unsupervised Distribution Shift Detection**|Sebastián Basterrech et.al.|[2404.16656](http://arxiv.org/abs/2404.16656)|null|
 |**2024-04-25**|**Exploring Internal Numeracy in Language Models: A Case Study on ALBERT**|Ulme Wennberg et.al.|[2404.16574](http://arxiv.org/abs/2404.16574)|null|
 |**2024-04-25**|**Nucleation transitions in polycontextural networks towards consensus**|Johannes Falk et.al.|[2404.16569](http://arxiv.org/abs/2404.16569)|null|
-|**2024-04-25**|**AMEP: The Active Matter Evaluation Package for Python**|Lukas Hecht et.al.|[2404.16533](http://arxiv.org/abs/2404.16533)|null|
+|**2024-04-25**|**AMEP: The Active Matter Evaluation Package for Python**|Lukas Hecht et.al.|[2404.16533](http://arxiv.org/abs/2404.16533)|**[link](https://github.com/amepproject/amep)**|
 |**2024-04-24**|**Development of Pattern Recognition Validation for Boson Sampling**|Yang Ji et.al.|[2404.15603](http://arxiv.org/abs/2404.15603)|null|
 |**2024-04-24**|**Variational Deep Survival Machines: Survival Regression with Censored Outcomes**|Qinxin Wang et.al.|[2404.15595](http://arxiv.org/abs/2404.15595)|**[link](https://github.com/qinzzz/auton-survival-785)**|
 |**2024-04-24**|**Brain Storm Optimization Based Swarm Learning for Diabetic Retinopathy Image Classification**|Liang Qu et.al.|[2404.15585](http://arxiv.org/abs/2404.15585)|null|
