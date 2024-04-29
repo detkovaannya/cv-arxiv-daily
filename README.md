@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-26**|**Federated Transfer Component Analysis Towards Effective VNF Profiling**|Xunzheng ZhangB et.al.|[2404.17553](http://arxiv.org/abs/2404.17553)|null|
+|**2024-04-26**|**Integrating UAV-Enabled Base Stations in 3D Networks: QoS-Aware Joint Fronthaul and Backhaul Design**|Salim Janji et.al.|[2404.17547](http://arxiv.org/abs/2404.17547)|null|
+|**2024-04-26**|**Understanding the Cluster LP for Correlation Clustering**|Nairen Cao et.al.|[2404.17509](http://arxiv.org/abs/2404.17509)|null|
+|**2024-04-26**|**Fast Abstracts and Student Forum Proceedings -- EDCC 2024 -- 19th European Dependable Computing Conference**|Simona Bernardi et.al.|[2404.17465](http://arxiv.org/abs/2404.17465)|null|
+|**2024-04-26**|**Forming off-center massive black hole binaries in dwarf galaxies through Jacobi capture**|Thibaut L. François et.al.|[2404.17423](http://arxiv.org/abs/2404.17423)|null|
+|**2024-04-26**|**The SRG/eROSITA All-Sky Survey: Exploring halo assembly bias with X-ray selected superclusters**|A. Liu et.al.|[2404.17345](http://arxiv.org/abs/2404.17345)|null|
+|**2024-04-26**|**Metronome: tracing variation in poetic meters via local sequence alignment**|Ben Nagy et.al.|[2404.17337](http://arxiv.org/abs/2404.17337)|**[link](https://github.com/bnagy/metronome-paper)**|
+|**2024-04-26**|**From infinite to infinitesimal: Using the Universe as a dataset to probe Casimir corrections to the vacuum energy from fields inhabiting the dark dimension**|Luis A. Anchordoqui et.al.|[2404.17334](http://arxiv.org/abs/2404.17334)|null|
+|**2024-04-26**|**Clustering of Motion Trajectories by a Distance Measure Based on Semantic Features**|Christoph Zelch et.al.|[2404.17269](http://arxiv.org/abs/2404.17269)|null|
+|**2024-04-26**|**The evolution of the permutahedron**|Maurício Collares et.al.|[2404.17260](http://arxiv.org/abs/2404.17260)|null|
 |**2024-04-25**|**ESG: Pipeline-Conscious Efficient Scheduling of DNN Workflows on Serverless Platforms with Shareable GPUs**|Xinning Hui et.al.|[2404.16812](http://arxiv.org/abs/2404.16812)|null|
 |**2024-04-25**|**A Communication- and Memory-Aware Model for Load Balancing Tasks**|Jonathan Lifflander et.al.|[2404.16793](http://arxiv.org/abs/2404.16793)|null|
 |**2024-04-25**|**Rapid thermalization of dissipative many-body dynamics of commuting Hamiltonians**|Jan Kochanowski et.al.|[2404.16780](http://arxiv.org/abs/2404.16780)|null|
@@ -1156,6 +1166,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-26**|**Enhancing mmWave Radar Point Cloud via Visual-inertial Supervision**|Cong Fan et.al.|[2404.17229](http://arxiv.org/abs/2404.17229)|null|
 |**2024-04-25**|**OpenDlign: Enhancing Open-World 3D Learning with Depth-Aligned Images**|Ye Mao et.al.|[2404.16538](http://arxiv.org/abs/2404.16538)|null|
 |**2024-04-25**|**3D deep learning for enhanced atom probe tomography analysis of nanoscale microstructures**|Jiwei Yu et.al.|[2404.16524](http://arxiv.org/abs/2404.16524)|null|
 |**2024-04-25**|**Point-JEPA: A Joint Embedding Predictive Architecture for Self-Supervised Learning on Point Cloud**|Ayumu Saito et.al.|[2404.16432](http://arxiv.org/abs/2404.16432)|null|
@@ -1164,7 +1175,7 @@
 |**2024-04-24**|**Revisiting Out-of-Distribution Detection in LiDAR-based 3D Object Detection**|Michael Kösel et.al.|[2404.15879](http://arxiv.org/abs/2404.15879)|**[link](https://github.com/uulm-mrm/mmood3d)**|
 |**2024-04-24**|**Single-View Scene Point Cloud Human Grasp Generation**|Yan-Kang Wang et.al.|[2404.15815](http://arxiv.org/abs/2404.15815)|null|
 |**2024-04-24**|**3D Face Morphing Attack Generation using Non-Rigid Registration**|Jag Mohan Singh et.al.|[2404.15765](http://arxiv.org/abs/2404.15765)|null|
-|**2024-04-24**|**Building-PCC: Building Point Cloud Completion Benchmarks**|Weixiao Gao et.al.|[2404.15644](http://arxiv.org/abs/2404.15644)|null|
+|**2024-04-24**|**Building-PCC: Building Point Cloud Completion Benchmarks**|Weixiao Gao et.al.|[2404.15644](http://arxiv.org/abs/2404.15644)|**[link](https://github.com/tudelft3d/building-pcc-building-point-cloud-completion-benchmarks)**|
 |**2024-04-23**|**X-3D: Explicit 3D Structure Modeling for Point Cloud Recognition**|Shuofeng Sun et.al.|[2404.15010](http://arxiv.org/abs/2404.15010)|**[link](https://github.com/sunshuofeng/X-3D)**|
 |**2024-04-23**|**Mamba3D: Enhancing Local Features for 3D Point Cloud Analysis via State Space Model**|Xu Han et.al.|[2404.14966](http://arxiv.org/abs/2404.14966)|null|
 |**2024-04-23**|**Deep Learning Based Multi-Node ISAC 4D Environmental Reconstruction with Uplink- Downlink Cooperation**|Bohao Lu et.al.|[2404.14862](http://arxiv.org/abs/2404.14862)|null|
