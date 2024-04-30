@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-29**|**On Clustering Induced Voronoi Diagrams**|Danny Z. Chen et.al.|[2404.18906](http://arxiv.org/abs/2404.18906)|null|
+|**2024-04-29**|**Learning general Gaussian mixtures with efficient score matching**|Sitan Chen et.al.|[2404.18893](http://arxiv.org/abs/2404.18893)|null|
+|**2024-04-29**|**Avalanche Dynamics and the Effect of Straining in Dislocation Systems with Quenched Disorder**|Dénes Berta et.al.|[2404.18871](http://arxiv.org/abs/2404.18871)|null|
+|**2024-04-29**|**Performance-Aligned LLMs for Generating Fast Code**|Daniel Nichols et.al.|[2404.18864](http://arxiv.org/abs/2404.18864)|null|
+|**2024-04-29**|**Solution of a Problem in Monoidal Categorification by Additive Categorification**|Alessandro Contu et.al.|[2404.18830](http://arxiv.org/abs/2404.18830)|null|
+|**2024-04-29**|**Improved bounds for group testing in arbitrary hypergraphs**|Annalisa De Bonis et.al.|[2404.18783](http://arxiv.org/abs/2404.18783)|null|
+|**2024-04-29**|**A faster algorithm for the Fréchet distance in 1D for the imbalanced case**|Lotte Blank et.al.|[2404.18738](http://arxiv.org/abs/2404.18738)|null|
+|**2024-04-29**|**Two-way Homogeneity Pursuit for Quantile Network Vector Autoregression**|Wenyang Liu et.al.|[2404.18732](http://arxiv.org/abs/2404.18732)|null|
+|**2024-04-29**|**Three-state Opinion Dynamics for Financial Markets on Complex Networks**|Bernardo J. Zubillaga et.al.|[2404.18709](http://arxiv.org/abs/2404.18709)|null|
+|**2024-04-29**|**Exploring the evolution of a dwarf spheroidal galaxy with SPH simulations: I. Stellar feedback**|Roberto Hazenfratz et.al.|[2404.18701](http://arxiv.org/abs/2404.18701)|null|
 |**2024-04-26**|**Federated Transfer Component Analysis Towards Effective VNF Profiling**|Xunzheng ZhangB et.al.|[2404.17553](http://arxiv.org/abs/2404.17553)|null|
 |**2024-04-26**|**Integrating UAV-Enabled Base Stations in 3D Networks: QoS-Aware Joint Fronthaul and Backhaul Design**|Salim Janji et.al.|[2404.17547](http://arxiv.org/abs/2404.17547)|null|
 |**2024-04-26**|**Understanding the Cluster LP for Correlation Clustering**|Nairen Cao et.al.|[2404.17509](http://arxiv.org/abs/2404.17509)|null|
@@ -1166,6 +1176,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-29**|**Point Cloud Models Improve Visual Robustness in Robotic Learners**|Skand Peri et.al.|[2404.18926](http://arxiv.org/abs/2404.18926)|null|
+|**2024-04-29**|**A Survey on Vision Mamba: Models, Applications and Challenges**|Rui Xu et.al.|[2404.18861](http://arxiv.org/abs/2404.18861)|**[link](https://github.com/ruixxxx/awesome-vision-mamba-models)**|
+|**2024-04-29**|**Flow AM: Generating Point Cloud Global Explanations by Latent Alignment**|Hanxiao Tan et.al.|[2404.18760](http://arxiv.org/abs/2404.18760)|null|
+|**2024-04-29**|**Leveraging PointNet and PointNet++ for Lyft Point Cloud Classification Challenge**|Rajat K. Doshi et.al.|[2404.18665](http://arxiv.org/abs/2404.18665)|null|
+|**2024-04-29**|**CoSense3D: an Agent-based Efficient Learning Framework for Collective Perception**|Yunshuang Yuan et.al.|[2404.18617](http://arxiv.org/abs/2404.18617)|null|
+|**2024-04-29**|**Reconstructing Satellites in 3D from Amateur Telescope Images**|Zhiming Chang et.al.|[2404.18394](http://arxiv.org/abs/2404.18394)|null|
+|**2024-04-28**|**LMM-PCQA: Assisting Point Cloud Quality Assessment with LMM**|Zicheng Zhang et.al.|[2404.18203](http://arxiv.org/abs/2404.18203)|null|
+|**2024-04-28**|**Dexterous Grasp Transformer**|Guo-Hao Xu et.al.|[2404.18135](http://arxiv.org/abs/2404.18135)|null|
+|**2024-04-27**|**FRAME: A Modular Framework for Autonomous Map-merging: Advancements in the Field**|Nikolaos Stathoulopoulos et.al.|[2404.18006](http://arxiv.org/abs/2404.18006)|null|
+|**2024-04-27**|**Open-Set 3D Semantic Instance Maps for Vision Language Navigation -- O3D-SIM**|Laksh Nanwani et.al.|[2404.17922](http://arxiv.org/abs/2404.17922)|null|
 |**2024-04-26**|**Enhancing mmWave Radar Point Cloud via Visual-inertial Supervision**|Cong Fan et.al.|[2404.17229](http://arxiv.org/abs/2404.17229)|null|
 |**2024-04-25**|**OpenDlign: Enhancing Open-World 3D Learning with Depth-Aligned Images**|Ye Mao et.al.|[2404.16538](http://arxiv.org/abs/2404.16538)|null|
 |**2024-04-25**|**3D deep learning for enhanced atom probe tomography analysis of nanoscale microstructures**|Jiwei Yu et.al.|[2404.16524](http://arxiv.org/abs/2404.16524)|null|
