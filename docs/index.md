@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-30**|**Fairness Without Demographics in Human-Centered Federated Learning**|Roy Shaily et.al.|[2404.19725](http://arxiv.org/abs/2404.19725)|null|
+|**2024-04-30**|**Automated, Reliable, and Efficient Continental-Scale Replication of 7.3 Petabytes of Climate Simulation Data: A Case Study**|Lukasz Lacinski et.al.|[2404.19717](http://arxiv.org/abs/2404.19717)|null|
+|**2024-04-30**|**The Nature of X-Rays from Young Stellar Objects in the Orion Nebula Cluster -- A Chandra HETGS Legacy Project**|Norbert S. Schulz et.al.|[2404.19676](http://arxiv.org/abs/2404.19676)|null|
+|**2024-04-30**|**SpComm3D: A Framework for Enabling Sparse Communication in 3D Sparse Kernels**|Nabil Abubaker et.al.|[2404.19638](http://arxiv.org/abs/2404.19638)|null|
+|**2024-04-30**|**DF Louvain: Fast Incrementally Expanding Approach for Community Detection on Dynamic Graphs**|Subhajit Sahu et.al.|[2404.19634](http://arxiv.org/abs/2404.19634)|null|
+|**2024-04-30**|**A Wide Metallicity Range for Gyr-old Stars in the Nuclear Star Cluster**|Brian Thorsbro et.al.|[2404.19628](http://arxiv.org/abs/2404.19628)|null|
+|**2024-04-30**|**Quantum Cloud Computing: Trends and Challenges**|Muhammed Golec et.al.|[2404.19612](http://arxiv.org/abs/2404.19612)|null|
+|**2024-04-30**|**Parity and time-reversal symmetry violation in diatomic molecules: LaO, LaS and LuO**|Yuly Chamorro et.al.|[2404.19599](http://arxiv.org/abs/2404.19599)|null|
+|**2024-04-30**|**Phase transition and polar cluster behavior above Curie temperature in ferroelectric BaTi $_{0.8}$Zr$_{0.2}$O$_3$**|Oktay Aktas et.al.|[2404.19558](http://arxiv.org/abs/2404.19558)|null|
+|**2024-04-30**|**Cool-core, X-ray cavities and cold front revealed in RXCJ0352.9+1941 cluster by Chandra and GMRT observations**|Satish S. Sonkamble et.al.|[2404.19549](http://arxiv.org/abs/2404.19549)|null|
 |**2024-04-29**|**On Clustering Induced Voronoi Diagrams**|Danny Z. Chen et.al.|[2404.18906](http://arxiv.org/abs/2404.18906)|null|
 |**2024-04-29**|**Learning general Gaussian mixtures with efficient score matching**|Sitan Chen et.al.|[2404.18893](http://arxiv.org/abs/2404.18893)|null|
 |**2024-04-29**|**Avalanche Dynamics and the Effect of Straining in Dislocation Systems with Quenched Disorder**|Dénes Berta et.al.|[2404.18871](http://arxiv.org/abs/2404.18871)|null|
@@ -1170,6 +1180,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-30**|**Continuum limit of $p$ -biharmonic equations on graphs**|Kehan Shi et.al.|[2404.19689](http://arxiv.org/abs/2404.19689)|null|
+|**2024-04-30**|**ESP-Zero: Unsupervised enhancement of zero-shot classification for Extremely Sparse Point cloud**|Jiayi Han et.al.|[2404.19639](http://arxiv.org/abs/2404.19639)|null|
 |**2024-04-29**|**Point Cloud Models Improve Visual Robustness in Robotic Learners**|Skand Peri et.al.|[2404.18926](http://arxiv.org/abs/2404.18926)|null|
 |**2024-04-29**|**A Survey on Vision Mamba: Models, Applications and Challenges**|Rui Xu et.al.|[2404.18861](http://arxiv.org/abs/2404.18861)|**[link](https://github.com/ruixxxx/awesome-vision-mamba-models)**|
 |**2024-04-29**|**Flow AM: Generating Point Cloud Global Explanations by Latent Alignment**|Hanxiao Tan et.al.|[2404.18760](http://arxiv.org/abs/2404.18760)|null|
