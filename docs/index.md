@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-01**|**Euclid preparation. LensMC, weak lensing cosmic shear measurement with forward modelling and Markov Chain Monte Carlo sampling**|Euclid Collaboration et.al.|[2405.00669](http://arxiv.org/abs/2405.00669)|null|
+|**2024-05-01**|**NLU-STR at SemEval-2024 Task 1: Generative-based Augmentation and Encoder-based Scoring for Semantic Textual Relatedness**|Sanad Malaysha et.al.|[2405.00659](http://arxiv.org/abs/2405.00659)|null|
+|**2024-05-01**|**Chemistry in externally FUV irradiated disks in the outskirts of the Orion Nebula**|Javiera K. Díaz-Berríos et.al.|[2405.00615](http://arxiv.org/abs/2405.00615)|null|
+|**2024-05-01**|**Cross-Cluster Networking to Support Extended Reality Services**|Theodoros Theodoropoulos et.al.|[2405.00558](http://arxiv.org/abs/2405.00558)|null|
+|**2024-05-01**|**A Confirmation Rule for the Ethereum Consensus Protocol**|Aditya Asgaonkar et.al.|[2405.00549](http://arxiv.org/abs/2405.00549)|null|
+|**2024-05-01**|**Contrasting Irradiation Behavior of Dual Phases in Ti-6Al-4V Alloy at Low-Temperature Due to Omega-phase Precursors in Beta-phase Matrix**|Taku Ishida et.al.|[2405.00517](http://arxiv.org/abs/2405.00517)|null|
+|**2024-05-01**|**Feature-Aware Noise Contrastive Learning For Unsupervised Red Panda Re-Identification**|Jincheng Zhang et.al.|[2405.00468](http://arxiv.org/abs/2405.00468)|null|
+|**2024-05-01**|**Porting HPC Applications to AMD Instinct $^\text{TM}$ MI300A Using Unified Memory and OpenMP**|Suyash Tandon et.al.|[2405.00436](http://arxiv.org/abs/2405.00436)|null|
+|**2024-05-01**|**On the Potential of RIS in the Context of PLA in Wireless Communication Systems**|Hama Amin et.al.|[2405.00426](http://arxiv.org/abs/2405.00426)|null|
+|**2024-05-01**|**Variational Bayesian Methods for a Tree-Structured Stick-Breaking Process Mixture of Gaussians**|Yuta Nakahara et.al.|[2405.00385](http://arxiv.org/abs/2405.00385)|null|
 |**2024-04-30**|**Fairness Without Demographics in Human-Centered Federated Learning**|Roy Shaily et.al.|[2404.19725](http://arxiv.org/abs/2404.19725)|null|
 |**2024-04-30**|**Automated, Reliable, and Efficient Continental-Scale Replication of 7.3 Petabytes of Climate Simulation Data: A Case Study**|Lukasz Lacinski et.al.|[2404.19717](http://arxiv.org/abs/2404.19717)|null|
 |**2024-04-30**|**The Nature of X-Rays from Young Stellar Objects in the Orion Nebula Cluster -- A Chandra HETGS Legacy Project**|Norbert S. Schulz et.al.|[2404.19676](http://arxiv.org/abs/2404.19676)|null|
