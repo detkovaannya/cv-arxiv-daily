@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-02**|**New Tools for Smoothed Analysis: Least Singular Value Bounds for Random Matrices with Dependent Entries**|Aditya Bhaskara et.al.|[2405.01517](http://arxiv.org/abs/2405.01517)|null|
+|**2024-05-02**|**Surviving tidal tails around the Milky Way bulge globular cluster NGC 6355**|Andrés E. Piatti et.al.|[2405.01485](http://arxiv.org/abs/2405.01485)|null|
+|**2024-05-02**|**GROMACS on AMD GPU-Based HPC Platforms: Using SYCL for Performance and Portability**|Andrey Alekseenko et.al.|[2405.01420](http://arxiv.org/abs/2405.01420)|null|
+|**2024-05-02**|**Unsupervised Flow Discovery from Task-oriented Dialogues**|Patrícia Ferreira et.al.|[2405.01403](http://arxiv.org/abs/2405.01403)|null|
+|**2024-05-02**|**Completing the Node-Averaged Complexity Landscape of LCLs on Trees**|Alkida Balliu et.al.|[2405.01366](http://arxiv.org/abs/2405.01366)|null|
+|**2024-05-02**|**Sensitivity Sampling for $k$ -Means: Worst Case and Stability Optimal Coreset Bounds**|Nikhil Bansal et.al.|[2405.01339](http://arxiv.org/abs/2405.01339)|null|
+|**2024-05-02**|**Weak Convergence for Self-Normalized Partial Sum Processes in the Skorokhod M1 Topology with Applications to Regularly Varying Time Series**|Christis Katsouris et.al.|[2405.01318](http://arxiv.org/abs/2405.01318)|null|
+|**2024-05-02**|**DiffusionPipe: Training Large Diffusion Models with Efficient Pipelines**|Ye Tian et.al.|[2405.01248](http://arxiv.org/abs/2405.01248)|null|
+|**2024-05-02**|**Stability of Information in the Heat Flow Clustering**|Brian Weber et.al.|[2405.01244](http://arxiv.org/abs/2405.01244)|null|
+|**2024-05-02**|**CoolWalks: Assessing the potential of shaded routing for active mobility in urban street networks**|Henrik Wolf et.al.|[2405.01225](http://arxiv.org/abs/2405.01225)|**[link](https://github.com/henrik-wolf/CoolWalks)**|
 |**2024-05-01**|**Euclid preparation. LensMC, weak lensing cosmic shear measurement with forward modelling and Markov Chain Monte Carlo sampling**|Euclid Collaboration et.al.|[2405.00669](http://arxiv.org/abs/2405.00669)|null|
 |**2024-05-01**|**NLU-STR at SemEval-2024 Task 1: Generative-based Augmentation and Encoder-based Scoring for Semantic Textual Relatedness**|Sanad Malaysha et.al.|[2405.00659](http://arxiv.org/abs/2405.00659)|null|
 |**2024-05-01**|**Chemistry in externally FUV irradiated disks in the outskirts of the Orion Nebula**|Javiera K. Díaz-Berríos et.al.|[2405.00615](http://arxiv.org/abs/2405.00615)|null|
@@ -1196,6 +1206,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-02**|**MiniGPT-3D: Efficiently Aligning 3D Point Clouds with Large Language Models using 2D Priors**|Yuan Tang et.al.|[2405.01413](http://arxiv.org/abs/2405.01413)|null|
+|**2024-05-02**|**Towards Consistent Object Detection via LiDAR-Camera Synergy**|Kai Luo et.al.|[2405.01258](http://arxiv.org/abs/2405.01258)|**[link](https://github.com/xifen523/cod)**|
+|**2024-05-02**|**Core Bifiltration**|Nello Blaser et.al.|[2405.01214](http://arxiv.org/abs/2405.01214)|null|
+|**2024-05-02**|**Sports Analysis and VR Viewing System Based on Player Tracking and Pose Estimation with Multimodal and Multiview Sensors**|Wenxuan Guo et.al.|[2405.01112](http://arxiv.org/abs/2405.01112)|null|
+|**2024-05-02**|**Hypergraph $p$ -Laplacian regularization on point clouds for data interpolation**|Kehan Shi et.al.|[2405.01109](http://arxiv.org/abs/2405.01109)|null|
+|**2024-05-01**|**DiL-NeRF: Delving into Lidar for Neural Radiance Field on Street Scenes**|Shanlin Sun et.al.|[2405.00900](http://arxiv.org/abs/2405.00900)|null|
+|**2024-05-01**|**Sim-Grasp: Learning 6-DOF Grasp Policies for Cluttered Environments Using a Synthetic Benchmark**|Juncheng Li et.al.|[2405.00841](http://arxiv.org/abs/2405.00841)|null|
 |**2024-04-30**|**Continuum limit of $p$ -biharmonic equations on graphs**|Kehan Shi et.al.|[2404.19689](http://arxiv.org/abs/2404.19689)|null|
 |**2024-04-30**|**ESP-Zero: Unsupervised enhancement of zero-shot classification for Extremely Sparse Point cloud**|Jiayi Han et.al.|[2404.19639](http://arxiv.org/abs/2404.19639)|null|
 |**2024-04-29**|**Point Cloud Models Improve Visual Robustness in Robotic Learners**|Skand Peri et.al.|[2404.18926](http://arxiv.org/abs/2404.18926)|null|
