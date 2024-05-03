@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.02
+## Updated on 2024.05.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -26,7 +26,7 @@
 |**2024-05-01**|**Contrasting Irradiation Behavior of Dual Phases in Ti-6Al-4V Alloy at Low-Temperature Due to Omega-phase Precursors in Beta-phase Matrix**|Taku Ishida et.al.|[2405.00517](http://arxiv.org/abs/2405.00517)|null|
 |**2024-05-01**|**Feature-Aware Noise Contrastive Learning For Unsupervised Red Panda Re-Identification**|Jincheng Zhang et.al.|[2405.00468](http://arxiv.org/abs/2405.00468)|null|
 |**2024-05-01**|**Porting HPC Applications to AMD Instinct $^\text{TM}$ MI300A Using Unified Memory and OpenMP**|Suyash Tandon et.al.|[2405.00436](http://arxiv.org/abs/2405.00436)|null|
-|**2024-05-01**|**On the Potential of RIS in the Context of PLA in Wireless Communication Systems**|Hama Amin et.al.|[2405.00426](http://arxiv.org/abs/2405.00426)|null|
+|**2024-05-02**|**On the Potential of Re-configurable Intelligent Surface (RIS)-assisted Physical Layer Authentication (PLA)**|Hala Amin et.al.|[2405.00426](http://arxiv.org/abs/2405.00426)|null|
 |**2024-05-01**|**Variational Bayesian Methods for a Tree-Structured Stick-Breaking Process Mixture of Gaussians**|Yuta Nakahara et.al.|[2405.00385](http://arxiv.org/abs/2405.00385)|null|
 |**2024-04-30**|**Fairness Without Demographics in Human-Centered Federated Learning**|Roy Shaily et.al.|[2404.19725](http://arxiv.org/abs/2404.19725)|null|
 |**2024-04-30**|**Automated, Reliable, and Efficient Continental-Scale Replication of 7.3 Petabytes of Climate Simulation Data: A Case Study**|Lukasz Lacinski et.al.|[2404.19717](http://arxiv.org/abs/2404.19717)|null|
@@ -1190,7 +1190,7 @@
 |**2023-11-10**|**The First Verification Test of Space-Ground Collaborative Intelligence via Cloud-Native Satellites**|Shangguang Wang et.al.|[2311.06078](http://arxiv.org/abs/2311.06078)|null|
 |**2023-11-10**|**Collaborative Inference in DNN-based Satellite Systems with Dynamic Task Streams**|Jinglong Guan et.al.|[2311.06073](http://arxiv.org/abs/2311.06073)|null|
 
-<p align=right>(<a href=#updated-on-20240502>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240503>back to top</a>)</p>
 
 ## point cloud
 
@@ -1911,7 +1911,7 @@
 |**2023-11-08**|**VET: Visual Error Tomography for Point Cloud Completion and High-Quality Neural Rendering**|Linus Franke et.al.|[2311.04634](http://arxiv.org/abs/2311.04634)|**[link](https://github.com/lfranke/vet)**|
 |**2023-11-09**|**Rethinking Human Pose Estimation for Autonomous Driving with 3D Event Representations**|Xiaoting Yin et.al.|[2311.04591](http://arxiv.org/abs/2311.04591)|**[link](https://github.com/masterhow/eventpointpose)**|
 
-<p align=right>(<a href=#updated-on-20240502>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240503>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
