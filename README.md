@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-03**|**A Parameter-Masked Mock Data Challenge for Beyond-Two-Point Galaxy Clustering Statistics**|Beyond-2pt Collaboration et.al.|[2405.02252](http://arxiv.org/abs/2405.02252)|null|
+|**2024-05-03**|**Subgraph2vec: A random walk-based algorithm for embedding knowledge graphs**|Elika Bozorgi et.al.|[2405.02240](http://arxiv.org/abs/2405.02240)|null|
+|**2024-05-03**|**Energy-filtered quantum states and the emergence of non-local correlations**|Gianluca Morettini et.al.|[2405.02158](http://arxiv.org/abs/2405.02158)|null|
+|**2024-05-03**|**Dynamics of dilute nuclear matter with light clusters and in-medium effects**|Rui Wang et.al.|[2405.02157](http://arxiv.org/abs/2405.02157)|null|
+|**2024-05-03**|**GMP-ATL: Gender-augmented Multi-scale Pseudo-label Enhanced Adaptive Transfer Learning for Speech Emotion Recognition via HuBERT**|Yu Pan et.al.|[2405.02151](http://arxiv.org/abs/2405.02151)|null|
+|**2024-05-03**|**X-ray observations of the Zwicky 3146 galaxy cluster reveal a 3.5 keV excess**|Sunayana Bhargava et.al.|[2405.02088](http://arxiv.org/abs/2405.02088)|null|
+|**2024-05-03**|**Strategies for Intrusion Monitoring in Cloud Services**|George R. S. Weir et.al.|[2405.02070](http://arxiv.org/abs/2405.02070)|null|
+|**2024-05-03**|**Analyzing Narrative Processing in Large Language Models (LLMs): Using GPT4 to test BERT**|Patrick Krauss et.al.|[2405.02024](http://arxiv.org/abs/2405.02024)|null|
+|**2024-05-03**|**On the original composition of the gas forming first-generation stars in clusters: insights from HST and JWST**|M. V. Legnardi et.al.|[2405.02006](http://arxiv.org/abs/2405.02006)|null|
+|**2024-05-03**|**Optimizing Robot Dispersion on Grids: with and without Fault Tolerance**|Rik Banerjee et.al.|[2405.02002](http://arxiv.org/abs/2405.02002)|null|
 |**2024-05-02**|**New Tools for Smoothed Analysis: Least Singular Value Bounds for Random Matrices with Dependent Entries**|Aditya Bhaskara et.al.|[2405.01517](http://arxiv.org/abs/2405.01517)|null|
 |**2024-05-02**|**Surviving tidal tails around the Milky Way bulge globular cluster NGC 6355**|Andrés E. Piatti et.al.|[2405.01485](http://arxiv.org/abs/2405.01485)|null|
 |**2024-05-02**|**GROMACS on AMD GPU-Based HPC Platforms: Using SYCL for Performance and Portability**|Andrey Alekseenko et.al.|[2405.01420](http://arxiv.org/abs/2405.01420)|null|
@@ -1206,6 +1216,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-03**|**Towards general deep-learning-based tree instance segmentation models**|Jonathan Henrich et.al.|[2405.02061](http://arxiv.org/abs/2405.02061)|null|
+|**2024-05-03**|**HoloGS: Instant Depth-based 3D Gaussian Splatting with Microsoft HoloLens 2**|Miriam Jäger et.al.|[2405.02005](http://arxiv.org/abs/2405.02005)|null|
+|**2024-05-03**|**Cooperation and Federation in Distributed Radar Point Cloud Processing**|S. Savazzi et.al.|[2405.01995](http://arxiv.org/abs/2405.01995)|null|
+|**2024-05-03**|**An Onboard Framework for Staircases Modeling Based on Point Clouds**|Chun Qing et.al.|[2405.01918](http://arxiv.org/abs/2405.01918)|null|
+|**2024-05-03**|**Millimeter Wave Radar-based Human Activity Recognition for Healthcare Monitoring Robot**|Zhanzhong Gu et.al.|[2405.01882](http://arxiv.org/abs/2405.01882)|null|
+|**2024-05-02**|**PointCompress3D -- A Point Cloud Compression Framework for Roadside LiDARs in Intelligent Transportation Systems**|Walter Zimmer et.al.|[2405.01750](http://arxiv.org/abs/2405.01750)|null|
 |**2024-05-02**|**MiniGPT-3D: Efficiently Aligning 3D Point Clouds with Large Language Models using 2D Priors**|Yuan Tang et.al.|[2405.01413](http://arxiv.org/abs/2405.01413)|null|
 |**2024-05-02**|**Towards Consistent Object Detection via LiDAR-Camera Synergy**|Kai Luo et.al.|[2405.01258](http://arxiv.org/abs/2405.01258)|**[link](https://github.com/xifen523/cod)**|
 |**2024-05-02**|**Core Bifiltration**|Nello Blaser et.al.|[2405.01214](http://arxiv.org/abs/2405.01214)|**[link](https://github.com/odinhg/core)**|
