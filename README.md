@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-06**|**Content-Oblivious Leader Election on Rings**|Fabian Frei et.al.|[2405.03646](http://arxiv.org/abs/2405.03646)|null|
+|**2024-05-06**|**Investigating the Hubble Tension and $σ_8$ Discrepancy in f(Q) Cosmology**|Ziad Sakr et.al.|[2405.03627](http://arxiv.org/abs/2405.03627)|null|
+|**2024-05-06**|**From counting blocks to the Lebesgue measure, with an application to the Allouche-Hu-Morin limit theorem on block-constrained harmonic series**|Jean-François Burnol et.al.|[2405.03625](http://arxiv.org/abs/2405.03625)|null|
+|**2024-05-06**|**Trackable Island-model Genetic Algorithms at Wafer Scale**|Matthew Andres Moreno et.al.|[2405.03605](http://arxiv.org/abs/2405.03605)|null|
+|**2024-05-06**|**Deep Clustering with Self-Supervision using Pairwise Similarities**|Mohammadreza Sadeghi et.al.|[2405.03590](http://arxiv.org/abs/2405.03590)|null|
+|**2024-05-06**|**Communities for the Lagrangian Dynamics of the Turbulent Velocity Gradient Tensor: A Network Participation Approach**|Christopher J. Keylock et.al.|[2405.03589](http://arxiv.org/abs/2405.03589)|null|
+|**2024-05-06**|**Demystifying Anonymity: Uncovering the Structure Underlying "Read-Write Wait-Free Covering"**|Giuliano Losa et.al.|[2405.03573](http://arxiv.org/abs/2405.03573)|null|
+|**2024-05-06**|**Majority consensus thresholds in competitive Lotka--Volterra populations**|Matthias Függer et.al.|[2405.03568](http://arxiv.org/abs/2405.03568)|null|
+|**2024-05-06**|**Semi-autonomous Robotic Disassembly Enhanced by Mixed Reality**|Alireza Rastegarpanah et.al.|[2405.03530](http://arxiv.org/abs/2405.03530)|null|
+|**2024-05-06**|**Low-light Object Detection**|Pengpeng Li et.al.|[2405.03519](http://arxiv.org/abs/2405.03519)|null|
 |**2024-05-03**|**A Parameter-Masked Mock Data Challenge for Beyond-Two-Point Galaxy Clustering Statistics**|Beyond-2pt Collaboration et.al.|[2405.02252](http://arxiv.org/abs/2405.02252)|null|
 |**2024-05-03**|**Subgraph2vec: A random walk-based algorithm for embedding knowledge graphs**|Elika Bozorgi et.al.|[2405.02240](http://arxiv.org/abs/2405.02240)|null|
 |**2024-05-03**|**Energy-filtered quantum states and the emergence of non-local correlations**|Gianluca Morettini et.al.|[2405.02158](http://arxiv.org/abs/2405.02158)|null|
@@ -1216,6 +1226,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-06**|**Semi-autonomous Robotic Disassembly Enhanced by Mixed Reality**|Alireza Rastegarpanah et.al.|[2405.03530](http://arxiv.org/abs/2405.03530)|null|
+|**2024-05-06**|**3D LiDAR Mapping in Dynamic Environments Using a 4D Implicit Neural Representation**|Xingguang Zhong et.al.|[2405.03388](http://arxiv.org/abs/2405.03388)|**[link](https://github.com/prbonn/4dndf)**|
+|**2024-05-06**|**Deep Learning-based Point Cloud Registration for Augmented Reality-guided Surgery**|Maximilian Weber et.al.|[2405.03314](http://arxiv.org/abs/2405.03314)|null|
+|**2024-05-05**|**Multimodal Sense-Informed Prediction of 3D Human Motions**|Zhenyu Lou et.al.|[2405.02911](http://arxiv.org/abs/2405.02911)|null|
+|**2024-05-05**|**PVTransformer: Point-to-Voxel Transformer for Scalable 3D Object Detection**|Zhaoqi Leng et.al.|[2405.02811](http://arxiv.org/abs/2405.02811)|null|
+|**2024-05-05**|**Instantaneous Perception of Moving Objects in 3D**|Di Liu et.al.|[2405.02781](http://arxiv.org/abs/2405.02781)|null|
+|**2024-05-04**|**Effects of Realism and Representation on Self-Embodied Avatars in Immersive Virtual Environments**|Rafael Kuffner dos Anjos et.al.|[2405.02672](http://arxiv.org/abs/2405.02672)|null|
 |**2024-05-03**|**Towards general deep-learning-based tree instance segmentation models**|Jonathan Henrich et.al.|[2405.02061](http://arxiv.org/abs/2405.02061)|null|
 |**2024-05-03**|**HoloGS: Instant Depth-based 3D Gaussian Splatting with Microsoft HoloLens 2**|Miriam Jäger et.al.|[2405.02005](http://arxiv.org/abs/2405.02005)|null|
 |**2024-05-03**|**Cooperation and Federation in Distributed Radar Point Cloud Processing**|S. Savazzi et.al.|[2405.01995](http://arxiv.org/abs/2405.01995)|null|
