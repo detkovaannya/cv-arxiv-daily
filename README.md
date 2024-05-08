@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-07**|**PoW Security-Latency under Random Delays and the Effect of Transaction Fees**|Mustafa Doger et.al.|[2405.04526](http://arxiv.org/abs/2405.04526)|null|
+|**2024-05-07**|**Local Advice and Local Decompression**|Alkida Balliu et.al.|[2405.04519](http://arxiv.org/abs/2405.04519)|null|
+|**2024-05-07**|**Scalable Circuit Cutting and Scheduling in a Resource-constrained and Distributed Quantum System**|Shuwen Kan et.al.|[2405.04514](http://arxiv.org/abs/2405.04514)|null|
+|**2024-05-07**|**Representation Learning of Daily Movement Data Using Text Encoders**|Alexander Capstick et.al.|[2405.04494](http://arxiv.org/abs/2405.04494)|**[link](https://github.com/alexcapstick/text-encoders-for-daily-movement-data)**|
+|**2024-05-07**|**Resource-Efficient and Self-Adaptive Quantum Search in a Quantum-Classical Hybrid System**|Zihao Jiang et.al.|[2405.04490](http://arxiv.org/abs/2405.04490)|null|
+|**2024-05-07**|**Neural Network Quantum States for the Interacting Hofstadter Model with Higher Local Occupations and Long-Range Interactions**|Fabian Döschl et.al.|[2405.04472](http://arxiv.org/abs/2405.04472)|null|
+|**2024-05-07**|**First-principles and cluster expansion study of the effect of magnetism on short-range order in Fe-Ni-Cr austenitic stainless steels**|Tianyu Su et.al.|[2405.04423](http://arxiv.org/abs/2405.04423)|null|
+|**2024-05-07**|**Parallelized Multi-Agent Bayesian Optimization in Lava**|Shay Snyder et.al.|[2405.04387](http://arxiv.org/abs/2405.04387)|null|
+|**2024-05-07**|**ASKAP reveals the radio tail structure of the Corkscrew Galaxy shaped by its passage through the Abell 3627 cluster**|Bärbel S. Koribalski et.al.|[2405.04374](http://arxiv.org/abs/2405.04374)|null|
+|**2024-05-07**|**Calculation of the biquadratic spin interactions based on the spin cluster expansion for \textit{ab initio} tight-binding models**|Tatsuto Hatanaka et.al.|[2405.04369](http://arxiv.org/abs/2405.04369)|null|
 |**2024-05-06**|**Content-Oblivious Leader Election on Rings**|Fabian Frei et.al.|[2405.03646](http://arxiv.org/abs/2405.03646)|null|
 |**2024-05-06**|**Investigating the Hubble Tension and $σ_8$ Discrepancy in f(Q) Cosmology**|Ziad Sakr et.al.|[2405.03627](http://arxiv.org/abs/2405.03627)|null|
 |**2024-05-06**|**From counting blocks to the Lebesgue measure, with an application to the Allouche-Hu-Morin limit theorem on block-constrained harmonic series**|Jean-François Burnol et.al.|[2405.03625](http://arxiv.org/abs/2405.03625)|null|
@@ -1226,6 +1236,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-07**|**ELiTe: Efficient Image-to-LiDAR Knowledge Transfer for Semantic Segmentation**|Zhibo Zhang et.al.|[2405.04121](http://arxiv.org/abs/2405.04121)|null|
+|**2024-05-07**|**COM3D: Leveraging Cross-View Correspondence and Cross-Modal Mining for 3D Retrieval**|Hao Wu et.al.|[2405.04103](http://arxiv.org/abs/2405.04103)|null|
+|**2024-05-07**|**Speak the Same Language: Global LiDAR Registration on BIM Using Pose Hough Transform**|Zhijian Qiao et.al.|[2405.03969](http://arxiv.org/abs/2405.03969)|null|
 |**2024-05-06**|**Semi-autonomous Robotic Disassembly Enhanced by Mixed Reality**|Alireza Rastegarpanah et.al.|[2405.03530](http://arxiv.org/abs/2405.03530)|null|
 |**2024-05-06**|**3D LiDAR Mapping in Dynamic Environments Using a 4D Implicit Neural Representation**|Xingguang Zhong et.al.|[2405.03388](http://arxiv.org/abs/2405.03388)|**[link](https://github.com/prbonn/4dndf)**|
 |**2024-05-06**|**Deep Learning-based Point Cloud Registration for Augmented Reality-guided Surgery**|Maximilian Weber et.al.|[2405.03314](http://arxiv.org/abs/2405.03314)|null|
