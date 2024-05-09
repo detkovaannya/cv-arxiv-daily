@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-08**|**Advancing Blockchain Scalability: A Linear Optimization Framework for Diversified Node Allocation in Shards**|Björn Assmann et.al.|[2405.05245](http://arxiv.org/abs/2405.05245)|null|
+|**2024-05-08**|**Clustering Retail Products Based on Customer Behaviour**|Vladimír Holý et.al.|[2405.05218](http://arxiv.org/abs/2405.05218)|null|
+|**2024-05-08**|**Graded Relevance Scoring of Written Essays with Dense Retrieval**|Salam Albatarni et.al.|[2405.05200](http://arxiv.org/abs/2405.05200)|null|
+|**2024-05-08**|**Network mutual information measures for graph similarity**|Helcio Felippe et.al.|[2405.05177](http://arxiv.org/abs/2405.05177)|null|
+|**2024-05-08**|**Data-Error Scaling in Machine Learning on Natural Discrete Combinatorial Mutation-prone Sets: Case Studies on Peptides and Small Molecules**|Vanni Doffini et.al.|[2405.05167](http://arxiv.org/abs/2405.05167)|null|
+|**2024-05-08**|**Dynamic Size Counting in the Population Protocol Model**|Dominik Kaaser et.al.|[2405.05137](http://arxiv.org/abs/2405.05137)|null|
+|**2024-05-08**|**Low-Distortion Clustering in Bounded Growth Graphs**|Yi-Jun Chang et.al.|[2405.05132](http://arxiv.org/abs/2405.05132)|null|
+|**2024-05-08**|**Combining Rollout Designs and Clustering for Causal Inference under Low-order Interference**|Mayleen Cortez-Rodriguez et.al.|[2405.05119](http://arxiv.org/abs/2405.05119)|null|
+|**2024-05-08**|**Chemistry Beyond Exact Solutions on a Quantum-Centric Supercomputer**|Javier Robledo-Moreno et.al.|[2405.05068](http://arxiv.org/abs/2405.05068)|null|
+|**2024-05-08**|**More than 200 Globular Clusters in the Milky Way, and still no super-Solar metallicity ones**|E. R. Garro et.al.|[2405.05055](http://arxiv.org/abs/2405.05055)|null|
 |**2024-05-07**|**PoW Security-Latency under Random Delays and the Effect of Transaction Fees**|Mustafa Doger et.al.|[2405.04526](http://arxiv.org/abs/2405.04526)|null|
 |**2024-05-07**|**Local Advice and Local Decompression**|Alkida Balliu et.al.|[2405.04519](http://arxiv.org/abs/2405.04519)|null|
 |**2024-05-07**|**Scalable Circuit Cutting and Scheduling in a Resource-constrained and Distributed Quantum System**|Shuwen Kan et.al.|[2405.04514](http://arxiv.org/abs/2405.04514)|null|
@@ -1236,6 +1246,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-08**|**Multi-Modal Data-Efficient 3D Scene Understanding for Autonomous Driving**|Lingdong Kong et.al.|[2405.05258](http://arxiv.org/abs/2405.05258)|**[link](https://github.com/ldkong1205/LaserMix)**|
+|**2024-05-08**|**DenserRadar: A 4D millimeter-wave radar point cloud detector based on dense LiDAR point clouds**|Zeyu Han et.al.|[2405.05131](http://arxiv.org/abs/2405.05131)|null|
+|**2024-05-08**|**Fast LiDAR Upsampling using Conditional Diffusion Models**|Sander Elias Magnussen Helgesen et.al.|[2405.04889](http://arxiv.org/abs/2405.04889)|null|
+|**2024-05-08**|**Information Geometric Framework For Point Cloud Data**|Amit Vishwakarma et.al.|[2405.04864](http://arxiv.org/abs/2405.04864)|null|
+|**2024-05-08**|**WixUp: A General Data Augmentation Framework for Wireless Perception in Tracking of Humans**|Yin Li et.al.|[2405.04804](http://arxiv.org/abs/2405.04804)|null|
+|**2024-05-07**|**FRACTAL: An Ultra-Large-Scale Aerial Lidar Dataset for 3D Semantic Segmentation of Diverse Landscapes**|Charles Gaydon et.al.|[2405.04634](http://arxiv.org/abs/2405.04634)|**[link](https://github.com/ignf/myria3d)**|
 |**2024-05-07**|**ELiTe: Efficient Image-to-LiDAR Knowledge Transfer for Semantic Segmentation**|Zhibo Zhang et.al.|[2405.04121](http://arxiv.org/abs/2405.04121)|null|
 |**2024-05-07**|**COM3D: Leveraging Cross-View Correspondence and Cross-Modal Mining for 3D Retrieval**|Hao Wu et.al.|[2405.04103](http://arxiv.org/abs/2405.04103)|null|
 |**2024-05-07**|**Speak the Same Language: Global LiDAR Registration on BIM Using Pose Hough Transform**|Zhijian Qiao et.al.|[2405.03969](http://arxiv.org/abs/2405.03969)|null|
