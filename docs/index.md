@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-09**|**Self-Supervised Learning of Time Series Representation via Diffusion Process and Imputation-Interpolation-Forecasting Mask**|Zineb Senane et.al.|[2405.05959](http://arxiv.org/abs/2405.05959)|**[link](https://github.com/eqtpartners/tsde)**|
+|**2024-05-09**|**Perturbing Dynamics of Active Emulsions and Their Collectives**|Muhammad Turab Ali Khan et.al.|[2405.05889](http://arxiv.org/abs/2405.05889)|null|
+|**2024-05-09**|**Compressed Bayesian Federated Learning for Reliable Passive Radio Sensing in Industrial IoT**|Luca Barbieri et.al.|[2405.05855](http://arxiv.org/abs/2405.05855)|null|
+|**2024-05-09**|**Deploying Graph Neural Networks in Wireless Networks: A Link Stability Viewpoint**|Jun Li et.al.|[2405.05802](http://arxiv.org/abs/2405.05802)|null|
+|**2024-05-09**|**Exploration of morphological coherence in open clusters with "core-shell'' structure**|Qingshun Hu et.al.|[2405.05771](http://arxiv.org/abs/2405.05771)|null|
+|**2024-05-09**|**Cluster statistics of critical Ising and Ashkin-Teller models**|Zhaonian Xu et.al.|[2405.05747](http://arxiv.org/abs/2405.05747)|null|
+|**2024-05-09**|**Massive interacting binaries as an enrichment source for multiple populations in star clusters**|Michelle Nguyen et.al.|[2405.05687](http://arxiv.org/abs/2405.05687)|null|
+|**2024-05-09**|**Approximate Dec-POMDP Solving Using Multi-Agent A***|Wietze Koops et.al.|[2405.05662](http://arxiv.org/abs/2405.05662)|null|
+|**2024-05-09**|**Fractional Payment Transactions: Executing Payment Transactions in Parallel with Less than f+1 Validations**|Rida Bazzi et.al.|[2405.05645](http://arxiv.org/abs/2405.05645)|null|
+|**2024-05-09**|**Complex network analysis of cryptocurrency market during crashes**|Kundan Mukhia et.al.|[2405.05642](http://arxiv.org/abs/2405.05642)|null|
 |**2024-05-08**|**Advancing Blockchain Scalability: A Linear Optimization Framework for Diversified Node Allocation in Shards**|Björn Assmann et.al.|[2405.05245](http://arxiv.org/abs/2405.05245)|null|
 |**2024-05-08**|**Clustering Retail Products Based on Customer Behaviour**|Vladimír Holý et.al.|[2405.05218](http://arxiv.org/abs/2405.05218)|null|
 |**2024-05-08**|**Graded Relevance Scoring of Written Essays with Dense Retrieval**|Salam Albatarni et.al.|[2405.05200](http://arxiv.org/abs/2405.05200)|null|
@@ -1240,6 +1250,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-09**|**ASGrasp: Generalizable Transparent Object Reconstruction and Grasping from RGB-D Active Stereo Camera**|Jun Shi et.al.|[2405.05648](http://arxiv.org/abs/2405.05648)|null|
+|**2024-05-09**|**Rotation Initialization and Stepwise Refinement for Universal LiDAR Calibration**|Yifan Duan et.al.|[2405.05589](http://arxiv.org/abs/2405.05589)|null|
 |**2024-05-08**|**Multi-Modal Data-Efficient 3D Scene Understanding for Autonomous Driving**|Lingdong Kong et.al.|[2405.05258](http://arxiv.org/abs/2405.05258)|**[link](https://github.com/ldkong1205/LaserMix)**|
 |**2024-05-08**|**DenserRadar: A 4D millimeter-wave radar point cloud detector based on dense LiDAR point clouds**|Zeyu Han et.al.|[2405.05131](http://arxiv.org/abs/2405.05131)|null|
 |**2024-05-08**|**Fast LiDAR Upsampling using Conditional Diffusion Models**|Sander Elias Magnussen Helgesen et.al.|[2405.04889](http://arxiv.org/abs/2405.04889)|null|
