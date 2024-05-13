@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-10**|**Optimal Uniform Circle Formation by Asynchronous Luminous Robots**|Caterina Feletti et.al.|[2405.06617](http://arxiv.org/abs/2405.06617)|null|
+|**2024-05-10**|**Simultaneously detecting spatiotemporal changes with penalized Poisson regression models**|Zerui Zhang et.al.|[2405.06613](http://arxiv.org/abs/2405.06613)|null|
+|**2024-05-10**|**The landscapemetrics and motif packages for measuring landscape patterns and processes**|Jakub Nowosad et.al.|[2405.06559](http://arxiv.org/abs/2405.06559)|null|
+|**2024-05-10**|**Sampling the Swadesh List to Identify Similar Languages with Tree Spaces**|Garett Ordway et.al.|[2405.06549](http://arxiv.org/abs/2405.06549)|null|
+|**2024-05-10**|**A Note on an Inferentialist Approach to Resource Semantics**|Alexander V. Gheorghiu et.al.|[2405.06491](http://arxiv.org/abs/2405.06491)|null|
+|**2024-05-10**|**Forecasting constraints from surface brightness fluctuations in galaxy clusters**|Charles Romero et.al.|[2405.06489](http://arxiv.org/abs/2405.06489)|null|
+|**2024-05-10**|**Managing Forensic Recovery in the Cloud**|George R. S. Weir et.al.|[2405.06455](http://arxiv.org/abs/2405.06455)|null|
+|**2024-05-10**|**Fair Mixed Effects Support Vector Machine**|João Vitor Pamplona et.al.|[2405.06433](http://arxiv.org/abs/2405.06433)|null|
+|**2024-05-10**|**Generation of Ultra-Collimated Polarized Attosecond $γ-$ Rays via Beam Instabilities**|Li-Jie Cui et.al.|[2405.06426](http://arxiv.org/abs/2405.06426)|null|
+|**2024-05-10**|**Multi-level Personalized Federated Learning on Heterogeneous and Long-Tailed Data**|Rongyu Zhang et.al.|[2405.06413](http://arxiv.org/abs/2405.06413)|null|
 |**2024-05-09**|**Self-Supervised Learning of Time Series Representation via Diffusion Process and Imputation-Interpolation-Forecasting Mask**|Zineb Senane et.al.|[2405.05959](http://arxiv.org/abs/2405.05959)|**[link](https://github.com/eqtpartners/tsde)**|
 |**2024-05-09**|**Perturbing Dynamics of Active Emulsions and Their Collectives**|Muhammad Turab Ali Khan et.al.|[2405.05889](http://arxiv.org/abs/2405.05889)|null|
 |**2024-05-09**|**Compressed Bayesian Federated Learning for Reliable Passive Radio Sensing in Industrial IoT**|Luca Barbieri et.al.|[2405.05855](http://arxiv.org/abs/2405.05855)|null|
@@ -1256,6 +1266,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-10**|**Mesh Denoising Transformer**|Wenbo Zhao et.al.|[2405.06536](http://arxiv.org/abs/2405.06536)|null|
+|**2024-05-10**|**Benchmarking Classical and Learning-Based Multibeam Point Cloud Registration**|Li Ling et.al.|[2405.06279](http://arxiv.org/abs/2405.06279)|null|
+|**2024-05-09**|**Rethinking Efficient and Effective Point-based Networks for Event Camera Classification and Regression: EventMamba**|Hongwei Ren et.al.|[2405.06116](http://arxiv.org/abs/2405.06116)|null|
 |**2024-05-09**|**ASGrasp: Generalizable Transparent Object Reconstruction and Grasping from RGB-D Active Stereo Camera**|Jun Shi et.al.|[2405.05648](http://arxiv.org/abs/2405.05648)|null|
 |**2024-05-09**|**Rotation Initialization and Stepwise Refinement for Universal LiDAR Calibration**|Yifan Duan et.al.|[2405.05589](http://arxiv.org/abs/2405.05589)|null|
 |**2024-05-08**|**Multi-Modal Data-Efficient 3D Scene Understanding for Autonomous Driving**|Lingdong Kong et.al.|[2405.05258](http://arxiv.org/abs/2405.05258)|**[link](https://github.com/ldkong1205/LaserMix)**|
