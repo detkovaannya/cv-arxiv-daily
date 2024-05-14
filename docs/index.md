@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-13**|**Low-order outcomes and clustered designs: combining design and analysis for causal inference under network interference**|Matthew Eichhorn et.al.|[2405.07979](http://arxiv.org/abs/2405.07979)|null|
+|**2024-05-13**|**Online Load and Graph Balancing for Random Order Inputs**|Sungjin Im et.al.|[2405.07949](http://arxiv.org/abs/2405.07949)|null|
+|**2024-05-13**|**A radial decrease in kinetic temperature measured with formaldehyde in 30 Doradus**|Remy Indebetouw et.al.|[2405.07931](http://arxiv.org/abs/2405.07931)|null|
+|**2024-05-13**|**Stable Diffusion-based Data Augmentation for Federated Learning with Non-IID Data**|Mahdi Morafah et.al.|[2405.07925](http://arxiv.org/abs/2405.07925)|null|
+|**2024-05-13**|**High-level Stream Processing: A Complementary Analysis of Fault Recovery**|Adriano Vogel et.al.|[2405.07917](http://arxiv.org/abs/2405.07917)|null|
+|**2024-05-13**|**Breaking the Molecular Dynamics Timescale Barrier Using a Wafer-Scale System**|Kylee Santos et.al.|[2405.07898](http://arxiv.org/abs/2405.07898)|null|
+|**2024-05-13**|**A study of the nuclear structure of light nuclei at the Electron-Ion Collider**|Niseem Magdy et.al.|[2405.07844](http://arxiv.org/abs/2405.07844)|null|
+|**2024-05-13**|**Ground-based Image Deconvolution with Swin Transformer UNet**|Utsav Akhaury et.al.|[2405.07842](http://arxiv.org/abs/2405.07842)|null|
+|**2024-05-13**|**A Decentralized and Self-Adaptive Approach for Monitoring Volatile Edge Environments**|Shashikant Ilager et.al.|[2405.07806](http://arxiv.org/abs/2405.07806)|null|
+|**2024-05-13**|**Decentralized Kernel Ridge Regression Based on Data-dependent Random Feature**|Ruikai Yang et.al.|[2405.07791](http://arxiv.org/abs/2405.07791)|null|
 |**2024-05-10**|**Optimal Uniform Circle Formation by Asynchronous Luminous Robots**|Caterina Feletti et.al.|[2405.06617](http://arxiv.org/abs/2405.06617)|null|
 |**2024-05-10**|**Simultaneously detecting spatiotemporal changes with penalized Poisson regression models**|Zerui Zhang et.al.|[2405.06613](http://arxiv.org/abs/2405.06613)|null|
 |**2024-05-10**|**The landscapemetrics and motif packages for measuring landscape patterns and processes**|Jakub Nowosad et.al.|[2405.06559](http://arxiv.org/abs/2405.06559)|null|
@@ -1260,6 +1270,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-13**|**OverlapMamba: Novel Shift State Space Model for LiDAR-based Place Recognition**|Qiuchi Xiang et.al.|[2405.07966](http://arxiv.org/abs/2405.07966)|**[link](https://github.com/scnu-rislab/overlapmamba)**|
+|**2024-05-13**|**SceneFactory: A Workflow-centric and Unified Framework for Incremental Scene Modeling**|Yijun Yuan et.al.|[2405.07847](http://arxiv.org/abs/2405.07847)|null|
+|**2024-05-13**|**RGBD-Glue: General Feature Combination for Robust RGB-D Point Cloud Registration**|Congjia Chen et.al.|[2405.07594](http://arxiv.org/abs/2405.07594)|null|
+|**2024-05-13**|**Automatic Odometry-Less OpenDRIVE Generation From Sparse Point Clouds**|Leon Eisemann et.al.|[2405.07544](http://arxiv.org/abs/2405.07544)|null|
+|**2024-05-13**|**Marginal Fairness Sliced Wasserstein Barycenter**|Khai Nguyen et.al.|[2405.07482](http://arxiv.org/abs/2405.07482)|null|
+|**2024-05-13**|**Motion Keyframe Interpolation for Any Human Skeleton via Temporally Consistent Point Cloud Sampling and Reconstruction**|Clinton Mo et.al.|[2405.07444](http://arxiv.org/abs/2405.07444)|null|
+|**2024-05-12**|**BeautyMap: Binary-Encoded Adaptable Ground Matrix for Dynamic Points Removal in Global Maps**|Mingkai Jia et.al.|[2405.07283](http://arxiv.org/abs/2405.07283)|**[link](https://github.com/mkjia/beautymap)**|
+|**2024-05-12**|**5G Virtual Reality Manipulator Teleoperation using a Mobile Phone**|Alexander Werner et.al.|[2405.07128](http://arxiv.org/abs/2405.07128)|null|
+|**2024-05-11**|**ManiFoundation Model for General-Purpose Robotic Manipulation of Contact Synthesis with Arbitrary Objects and Robots**|Zhixuan Xu et.al.|[2405.06964](http://arxiv.org/abs/2405.06964)|null|
+|**2024-05-11**|**PRENet: A Plane-Fit Redundancy Encoding Point Cloud Sequence Network for Real-Time 3D Action Recognition**|Shenglin He et.al.|[2405.06929](http://arxiv.org/abs/2405.06929)|null|
 |**2024-05-10**|**Mesh Denoising Transformer**|Wenbo Zhao et.al.|[2405.06536](http://arxiv.org/abs/2405.06536)|null|
 |**2024-05-10**|**Benchmarking Classical and Learning-Based Multibeam Point Cloud Registration**|Li Ling et.al.|[2405.06279](http://arxiv.org/abs/2405.06279)|null|
 |**2024-05-09**|**Rethinking Efficient and Effective Point-based Networks for Event Camera Classification and Regression: EventMamba**|Hongwei Ren et.al.|[2405.06116](http://arxiv.org/abs/2405.06116)|null|
