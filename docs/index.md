@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.14
+## Updated on 2024.05.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## clustering
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-05-13**|**Low-order outcomes and clustered designs: combining design and analysis for causal inference under network interference**|Matthew Eichhorn et.al.|[2405.07979](http://arxiv.org/abs/2405.07979)|null|
+|**2024-05-14**|**Low-order outcomes and clustered designs: combining design and analysis for causal inference under network interference**|Matthew Eichhorn et.al.|[2405.07979](http://arxiv.org/abs/2405.07979)|null|
 |**2024-05-13**|**Online Load and Graph Balancing for Random Order Inputs**|Sungjin Im et.al.|[2405.07949](http://arxiv.org/abs/2405.07949)|null|
 |**2024-05-13**|**A radial decrease in kinetic temperature measured with formaldehyde in 30 Doradus**|Remy Indebetouw et.al.|[2405.07931](http://arxiv.org/abs/2405.07931)|null|
 |**2024-05-13**|**Stable Diffusion-based Data Augmentation for Federated Learning with Non-IID Data**|Mahdi Morafah et.al.|[2405.07925](http://arxiv.org/abs/2405.07925)|null|
