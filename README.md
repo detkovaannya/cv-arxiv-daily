@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-14**|**Efficient Vision-Language Pre-training by Cluster Masking**|Zihao Wei et.al.|[2405.08815](http://arxiv.org/abs/2405.08815)|**[link](https://github.com/zi-hao-wei/efficient-vision-language-pre-training-by-cluster-masking)**|
+|**2024-05-14**|**Performance of wave function and Green's functions based methods for non equilibrium many-body dynamics**|Cian C. Reeves et.al.|[2405.08814](http://arxiv.org/abs/2405.08814)|null|
+|**2024-05-14**|**Image to Pseudo-Episode: Boosting Few-Shot Segmentation by Unlabeled Data**|Jie Zhang et.al.|[2405.08765](http://arxiv.org/abs/2405.08765)|null|
+|**2024-05-14**|**Hierarchical Resource Partitioning on Modern GPUs: A Reinforcement Learning Approach**|Urvij Saroliya et.al.|[2405.08754](http://arxiv.org/abs/2405.08754)|null|
+|**2024-05-14**|**Byzantine-Resilient Secure Aggregation for Federated Learning Without Privacy Compromises**|Yue Xia et.al.|[2405.08698](http://arxiv.org/abs/2405.08698)|null|
+|**2024-05-14**|**D-CAST: Distributed Consensus Switch in Wireless Trustworthy Autonomous System**|Dachao Yu et.al.|[2405.08663](http://arxiv.org/abs/2405.08663)|null|
+|**2024-05-14**|**BeACONS: A Blockchain-enabled Authentication and Communications Network for Scalable IoV**|Qi Shi et.al.|[2405.08651](http://arxiv.org/abs/2405.08651)|null|
+|**2024-05-14**|**Drift Detection: Introducing Gaussian Split Detector**|Maxime Fuccellaro et.al.|[2405.08637](http://arxiv.org/abs/2405.08637)|null|
+|**2024-05-14**|**The evolution of stellar X-ray activity and angular momentum as seen by eROSITA, TESS, and Gaia**|Keivan G. Stassun et.al.|[2405.08607](http://arxiv.org/abs/2405.08607)|null|
+|**2024-05-14**|**Galaxy clusters in Milgromian dynamics: Missing matter, hydrostatic bias, and the external field effect**|Ruth Kelleher et.al.|[2405.08557](http://arxiv.org/abs/2405.08557)|null|
 |**2024-05-14**|**Low-order outcomes and clustered designs: combining design and analysis for causal inference under network interference**|Matthew Eichhorn et.al.|[2405.07979](http://arxiv.org/abs/2405.07979)|null|
 |**2024-05-13**|**Online Load and Graph Balancing for Random Order Inputs**|Sungjin Im et.al.|[2405.07949](http://arxiv.org/abs/2405.07949)|null|
 |**2024-05-13**|**A radial decrease in kinetic temperature measured with formaldehyde in 30 Doradus**|Remy Indebetouw et.al.|[2405.07931](http://arxiv.org/abs/2405.07931)|null|
@@ -1276,6 +1286,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-14**|**StraightPCF: Straight Point Cloud Filtering**|Dasith de Silva Edirimuni et.al.|[2405.08322](http://arxiv.org/abs/2405.08322)|**[link](https://github.com/ddsediri/straightpcf)**|
+|**2024-05-13**|**Learning functions on symmetric matrices and point clouds via lightweight invariant features**|Ben Blum-Smith et.al.|[2405.08097](http://arxiv.org/abs/2405.08097)|null|
 |**2024-05-13**|**OverlapMamba: Novel Shift State Space Model for LiDAR-based Place Recognition**|Qiuchi Xiang et.al.|[2405.07966](http://arxiv.org/abs/2405.07966)|**[link](https://github.com/scnu-rislab/overlapmamba)**|
 |**2024-05-13**|**SceneFactory: A Workflow-centric and Unified Framework for Incremental Scene Modeling**|Yijun Yuan et.al.|[2405.07847](http://arxiv.org/abs/2405.07847)|null|
 |**2024-05-13**|**RGBD-Glue: General Feature Combination for Robust RGB-D Point Cloud Registration**|Congjia Chen et.al.|[2405.07594](http://arxiv.org/abs/2405.07594)|null|
