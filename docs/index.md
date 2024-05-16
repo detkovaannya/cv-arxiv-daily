@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-15**|**Ticket-based multi-strand method for increased efficiency in proof-of-work based blockchains**|Elias Rudberg et.al.|[2405.09531](http://arxiv.org/abs/2405.09531)|null|
+|**2024-05-15**|**Energy-Efficient Sleep Mode Optimization of 5G mmWave Networks Using Deep Contextual MAB**|Saad Masrur et.al.|[2405.09528](http://arxiv.org/abs/2405.09528)|null|
+|**2024-05-15**|**Distributed Nonlinear Conic Optimisation with partially separable Structure**|Richard Heusdens et.al.|[2405.09490](http://arxiv.org/abs/2405.09490)|null|
+|**2024-05-15**|**Study of possible $DND^*$ bound states**|Victor Montesinos et.al.|[2405.09467](http://arxiv.org/abs/2405.09467)|null|
+|**2024-05-15**|**MicroPython Testbed for Federated Learning Algorithms**|Miroslav Popovic et.al.|[2405.09423](http://arxiv.org/abs/2405.09423)|null|
+|**2024-05-15**|**Highly Tunable Ru-dimer Molecular Orbital State in 6H-perovskite Ba $_3$MRu$_2$O$_9$**|Bo Yuan et.al.|[2405.09418](http://arxiv.org/abs/2405.09418)|null|
+|**2024-05-15**|**Real-World Federated Learning in Radiology: Hurdles to overcome and Benefits to gain**|Markus R. Bujotzek et.al.|[2405.09409](http://arxiv.org/abs/2405.09409)|null|
+|**2024-05-15**|**Encrypted Container File: Design and Implementation of a Hybrid-Encrypted Multi-Recipient File Structure**|Tobias J. Bauer et.al.|[2405.09398](http://arxiv.org/abs/2405.09398)|null|
+|**2024-05-15**|**SA-FedLora: Adaptive Parameter Allocation for Efficient Federated Learning with LoRA Tuning**|Yuning Yang et.al.|[2405.09394](http://arxiv.org/abs/2405.09394)|null|
+|**2024-05-15**|**Clustering of higher order connected correlations in C $^*$ dynamical systems**|Dimitrios Ampelogiannis et.al.|[2405.09388](http://arxiv.org/abs/2405.09388)|null|
 |**2024-05-14**|**Efficient Vision-Language Pre-training by Cluster Masking**|Zihao Wei et.al.|[2405.08815](http://arxiv.org/abs/2405.08815)|**[link](https://github.com/zi-hao-wei/efficient-vision-language-pre-training-by-cluster-masking)**|
 |**2024-05-14**|**Performance of wave function and Green's functions based methods for non equilibrium many-body dynamics**|Cian C. Reeves et.al.|[2405.08814](http://arxiv.org/abs/2405.08814)|null|
 |**2024-05-14**|**Image to Pseudo-Episode: Boosting Few-Shot Segmentation by Unlabeled Data**|Jie Zhang et.al.|[2405.08765](http://arxiv.org/abs/2405.08765)|null|
@@ -1280,6 +1290,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-15**|**GrainGrasp: Dexterous Grasp Generation with Fine-grained Contact Guidance**|Fuqiang Zhao et.al.|[2405.09310](http://arxiv.org/abs/2405.09310)|null|
 |**2024-05-14**|**StraightPCF: Straight Point Cloud Filtering**|Dasith de Silva Edirimuni et.al.|[2405.08322](http://arxiv.org/abs/2405.08322)|**[link](https://github.com/ddsediri/straightpcf)**|
 |**2024-05-15**|**Learning functions on symmetric matrices and point clouds via lightweight invariant features**|Ben Blum-Smith et.al.|[2405.08097](http://arxiv.org/abs/2405.08097)|null|
 |**2024-05-13**|**OverlapMamba: Novel Shift State Space Model for LiDAR-based Place Recognition**|Qiuchi Xiang et.al.|[2405.07966](http://arxiv.org/abs/2405.07966)|**[link](https://github.com/scnu-rislab/overlapmamba)**|
