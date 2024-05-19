@@ -7,13 +7,23 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.18
+## Updated on 2024.05.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## clustering
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-16**|**Automated Federated Learning via Informed Pruning**|Christian Internò et.al.|[2405.10271](http://arxiv.org/abs/2405.10271)|**[link](https://github.com/christianinterno/autoflip)**|
+|**2024-05-16**|**Unifying Partial Synchrony**|Andrei Constantinescu et.al.|[2405.10249](http://arxiv.org/abs/2405.10249)|null|
+|**2024-05-16**|**Rounding Large Independent Sets on Expanders**|Mitali Bafna et.al.|[2405.10238](http://arxiv.org/abs/2405.10238)|null|
+|**2024-05-16**|**ENADPool: The Edge-Node Attention-based Differentiable Pooling for Graph Neural Networks**|Zhehan Zhao et.al.|[2405.10218](http://arxiv.org/abs/2405.10218)|null|
+|**2024-05-16**|**PIR: Remote Sensing Image-Text Retrieval with Prior Instruction Representation Learning**|Jiancheng Pan et.al.|[2405.10160](http://arxiv.org/abs/2405.10160)|**[link](https://github.com/jaychempan/pir-clip)**|
+|**2024-05-16**|**PL-MTEB: Polish Massive Text Embedding Benchmark**|Rafał Poświata et.al.|[2405.10138](http://arxiv.org/abs/2405.10138)|**[link](https://github.com/rafalposwiata/pl-mteb)**|
+|**2024-05-16**|**Trusting the Cloud-Native Edge: Remotely Attested Kubernetes Workers**|Jordi Thijsman et.al.|[2405.10131](http://arxiv.org/abs/2405.10131)|null|
+|**2024-05-16**|**Asynchronous Federated Stochastic Optimization with Exact Averaging for Heterogeneous Local Objectives**|Charikleia Iakovidou et.al.|[2405.10123](http://arxiv.org/abs/2405.10123)|null|
+|**2024-05-16**|**The Effect of Quantization in Federated Learning: A Rényi Differential Privacy Perspective**|Tianqu Kang et.al.|[2405.10096](http://arxiv.org/abs/2405.10096)|null|
+|**2024-05-16**|**Spurious reconstruction from brain activity**|Ken Shirakawa et.al.|[2405.10078](http://arxiv.org/abs/2405.10078)|null|
 |**2024-05-15**|**Ticket-based multi-strand method for increased efficiency in proof-of-work based blockchains**|Elias Rudberg et.al.|[2405.09531](http://arxiv.org/abs/2405.09531)|null|
 |**2024-05-15**|**Energy-Efficient Sleep Mode Optimization of 5G mmWave Networks Using Deep Contextual MAB**|Saad Masrur et.al.|[2405.09528](http://arxiv.org/abs/2405.09528)|null|
 |**2024-05-15**|**Distributed Nonlinear Conic Optimisation with partially separable Structure**|Richard Heusdens et.al.|[2405.09490](http://arxiv.org/abs/2405.09490)|null|
@@ -1290,7 +1300,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-05-16**|**GrainGrasp: Dexterous Grasp Generation with Fine-grained Contact Guidance**|Fuqiang Zhao et.al.|[2405.09310](http://arxiv.org/abs/2405.09310)|null|
+|**2024-05-16**|**When LLMs step into the 3D World: A Survey and Meta-Analysis of 3D Tasks via Multi-modal Large Language Models**|Xianzheng Ma et.al.|[2405.10255](http://arxiv.org/abs/2405.10255)|null|
+|**2024-05-16**|**Filling Missing Values Matters for Range Image-Based Point Cloud Segmentation**|Bike Chen et.al.|[2405.10175](http://arxiv.org/abs/2405.10175)|null|
+|**2024-05-16**|**A Preprocessing and Postprocessing Voxel-based Method for LiDAR Semantic Segmentation Improvement in Long Distance**|Andrea Matteazzi et.al.|[2405.10046](http://arxiv.org/abs/2405.10046)|null|
+|**2024-05-16**|**PillarNeXt: Improving the 3D detector by introducing Voxel2Pillar feature encoding and extracting multi-scale features**|Xusheng Li et.al.|[2405.09828](http://arxiv.org/abs/2405.09828)|null|
+|**2024-05-16**|**EFEAR-4D: Ego-Velocity Filtering for Efficient and Accurate 4D radar Odometry**|Xiaoyi Wu et.al.|[2405.09780](http://arxiv.org/abs/2405.09780)|null|
+|**2024-05-16**|**Collision Avoidance Metric for 3D Camera Evaluation**|Vage Taamazyan et.al.|[2405.09755](http://arxiv.org/abs/2405.09755)|null|
+|**2024-05-15**|**Point2SSM++: Self-Supervised Learning of Anatomical Shape Models from Point Clouds**|Jadie Adams et.al.|[2405.09707](http://arxiv.org/abs/2405.09707)|null|
+|**2024-05-15**|**Weakly Supervised Bayesian Shape Modeling from Unsegmented Medical Images**|Jadie Adams et.al.|[2405.09697](http://arxiv.org/abs/2405.09697)|**[link](https://github.com/jadie1/weakly-supervised-bvib-deepssm)**|
+|**2024-05-16**|**GrainGrasp: Dexterous Grasp Generation with Fine-grained Contact Guidance**|Fuqiang Zhao et.al.|[2405.09310](http://arxiv.org/abs/2405.09310)|**[link](https://github.com/wmtlab/graingrasp)**|
 |**2024-05-14**|**StraightPCF: Straight Point Cloud Filtering**|Dasith de Silva Edirimuni et.al.|[2405.08322](http://arxiv.org/abs/2405.08322)|**[link](https://github.com/ddsediri/straightpcf)**|
 |**2024-05-15**|**Learning functions on symmetric matrices and point clouds via lightweight invariant features**|Ben Blum-Smith et.al.|[2405.08097](http://arxiv.org/abs/2405.08097)|null|
 |**2024-05-13**|**OverlapMamba: Novel Shift State Space Model for LiDAR-based Place Recognition**|Qiuchi Xiang et.al.|[2405.07966](http://arxiv.org/abs/2405.07966)|**[link](https://github.com/scnu-rislab/overlapmamba)**|
