@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-17**|**DINO as a von Mises-Fisher mixture model**|Hariprasath Govindarajan et.al.|[2405.10939](http://arxiv.org/abs/2405.10939)|null|
+|**2024-05-17**|**Prioritising GitHub Priority Labels**|James Caddy et.al.|[2405.10891](http://arxiv.org/abs/2405.10891)|null|
+|**2024-05-17**|**Dark Energy Survey Year 3 results: simulation-based cosmological inference with wavelet harmonics, scattering transforms, and moments of weak lensing mass maps II. Cosmological results**|M. Gatti et.al.|[2405.10881](http://arxiv.org/abs/2405.10881)|null|
+|**2024-05-17**|**BraTS-Path Challenge: Assessing Heterogeneous Histopathologic Brain Tumor Sub-regions**|Spyridon Bakas et.al.|[2405.10871](http://arxiv.org/abs/2405.10871)|null|
+|**2024-05-17**|**Extended Coupled Cluster approach to Twisted Graphene Layers**|Ingvars Vitenburgs et.al.|[2405.10863](http://arxiv.org/abs/2405.10863)|null|
+|**2024-05-17**|**The Future of Large Language Model Pre-training is Federated**|Lorenzo Sani et.al.|[2405.10853](http://arxiv.org/abs/2405.10853)|null|
+|**2024-05-17**|**Heterogeneity-Informed Meta-Parameter Learning for Spatiotemporal Time Series Forecasting**|Zheng Dong et.al.|[2405.10800](http://arxiv.org/abs/2405.10800)|**[link](https://github.com/xdzhelheim/himnet)**|
+|**2024-05-17**|**QEdgeProxy: QoS-Aware Load Balancing for IoT Services in the Computing Continuum**|Ivan Čilić et.al.|[2405.10788](http://arxiv.org/abs/2405.10788)|null|
+|**2024-05-17**|**SynDy: Synthetic Dynamic Dataset Generation Framework for Misinformation Tasks**|Michael Shliselberg et.al.|[2405.10700](http://arxiv.org/abs/2405.10700)|null|
+|**2024-05-17**|**Centre vortex geometry at finite temperature**|Jackson A. Mickley et.al.|[2405.10670](http://arxiv.org/abs/2405.10670)|null|
 |**2024-05-16**|**Automated Federated Learning via Informed Pruning**|Christian Internò et.al.|[2405.10271](http://arxiv.org/abs/2405.10271)|**[link](https://github.com/christianinterno/autoflip)**|
 |**2024-05-16**|**Unifying Partial Synchrony**|Andrei Constantinescu et.al.|[2405.10249](http://arxiv.org/abs/2405.10249)|null|
 |**2024-05-16**|**Rounding Large Independent Sets on Expanders**|Mitali Bafna et.al.|[2405.10238](http://arxiv.org/abs/2405.10238)|null|
@@ -1300,6 +1310,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-17**|**Reconstruction of Manipulated Garment with Guided Deformation Prior**|Ren Li et.al.|[2405.10934](http://arxiv.org/abs/2405.10934)|null|
+|**2024-05-17**|**CCTNet: A Circular Convolutional Transformer Network for LiDAR-based Place Recognition Handling Movable Objects Occlusion**|Gang Wang et.al.|[2405.10793](http://arxiv.org/abs/2405.10793)|null|
+|**2024-05-17**|**ART3D: 3D Gaussian Splatting for Text-Guided Artistic Scenes Generation**|Pengzhi Li et.al.|[2405.10508](http://arxiv.org/abs/2405.10508)|null|
 |**2024-05-16**|**When LLMs step into the 3D World: A Survey and Meta-Analysis of 3D Tasks via Multi-modal Large Language Models**|Xianzheng Ma et.al.|[2405.10255](http://arxiv.org/abs/2405.10255)|null|
 |**2024-05-16**|**Filling Missing Values Matters for Range Image-Based Point Cloud Segmentation**|Bike Chen et.al.|[2405.10175](http://arxiv.org/abs/2405.10175)|null|
 |**2024-05-16**|**A Preprocessing and Postprocessing Voxel-based Method for LiDAR Semantic Segmentation Improvement in Long Distance**|Andrea Matteazzi et.al.|[2405.10046](http://arxiv.org/abs/2405.10046)|null|
