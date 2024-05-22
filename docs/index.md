@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-21**|**G-DIG: Towards Gradient-based DIverse and hiGh-quality Instruction Data Selection for Machine Translation**|Xingyuan Pan et.al.|[2405.12915](http://arxiv.org/abs/2405.12915)|null|
+|**2024-05-21**|**Deep HST/UVIS imaging of the candidate dark galaxy CDG-1**|Pieter van Dokkum et.al.|[2405.12907](http://arxiv.org/abs/2405.12907)|null|
+|**2024-05-21**|**Decentralized Federated Learning Over Imperfect Communication Channels**|Weicai Li et.al.|[2405.12894](http://arxiv.org/abs/2405.12894)|null|
+|**2024-05-21**|**Epitaxial RuO $_2$ and IrO$_2$ films by pulsed laser deposition on TiO$_2$ (110)**|Philipp Keßler et.al.|[2405.12878](http://arxiv.org/abs/2405.12878)|null|
+|**2024-05-21**|**A Quick Guide to Nearby Young Association**|Jonathan Gagné et.al.|[2405.12860](http://arxiv.org/abs/2405.12860)|null|
+|**2024-05-21**|**Application Layer Cyber Deception without Developer Interaction**|Mario Kahlhofer et.al.|[2405.12852](http://arxiv.org/abs/2405.12852)|null|
+|**2024-05-21**|**Unsupervised Multimodal Clustering for Semantics Discovery in Multimodal Utterances**|Hanlei Zhang et.al.|[2405.12775](http://arxiv.org/abs/2405.12775)|null|
+|**2024-05-21**|**No signature of the birth environment of exoplanets from their host stars' Mahalanobis phase space**|George A. Blaylock-Squibbs et.al.|[2405.12741](http://arxiv.org/abs/2405.12741)|null|
+|**2024-05-21**|**Self-assembling clusters of particles on a shrinking liquid surface**|Xin Li et.al.|[2405.12707](http://arxiv.org/abs/2405.12707)|null|
+|**2024-05-21**|**Sorting in One and Two Rounds using $t$ -Comparators**|Ran Gelles et.al.|[2405.12678](http://arxiv.org/abs/2405.12678)|null|
 |**2024-05-20**|**Optimistic Query Routing in Clustering-based Approximate Maximum Inner Product Search**|Sebastian Bruch et.al.|[2405.12207](http://arxiv.org/abs/2405.12207)|null|
 |**2024-05-20**|**Metacognitive Capabilities of LLMs: An Exploration in Mathematical Problem Solving**|Aniket Didolkar et.al.|[2405.12205](http://arxiv.org/abs/2405.12205)|null|
 |**2024-05-20**|**Multi-View Attentive Contextualization for Multi-View 3D Object Detection**|Xianpeng Liu et.al.|[2405.12200](http://arxiv.org/abs/2405.12200)|null|
@@ -1320,6 +1330,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-21**|**Talk2Radar: Bridging Natural Language with 4D mmWave Radar for 3D Referring Expression Comprehension**|Runwei Guan et.al.|[2405.12821](http://arxiv.org/abs/2405.12821)|null|
+|**2024-05-21**|**FFAM: Feature Factorization Activation Map for Explanation of 3D Detectors**|Shuai Liu et.al.|[2405.12601](http://arxiv.org/abs/2405.12601)|**[link](https://github.com/say2l/ffam)**|
+|**2024-05-21**|**NV-LIO: LiDAR-Inertial Odometry using Normal Vectors Towards Robust SLAM in Multifloor Environments**|Dongha Chung et.al.|[2405.12563](http://arxiv.org/abs/2405.12563)|null|
+|**2024-05-20**|**GeoMask3D: Geometrically Informed Mask Selection for Self-Supervised Point Cloud Learning in 3D**|Ali Bahri et.al.|[2405.12419](http://arxiv.org/abs/2405.12419)|null|
 |**2024-05-20**|**Fast Generalizable Gaussian Splatting Reconstruction from Multi-View Stereo**|Tianqi Liu et.al.|[2405.12218](http://arxiv.org/abs/2405.12218)|null|
 |**2024-05-21**|**Gaussian Head & Shoulders: High Fidelity Neural Upper Body Avatars with Anchor Gaussian Guided Texture Warping**|Tianhao Wu et.al.|[2405.12069](http://arxiv.org/abs/2405.12069)|null|
 |**2024-05-20**|**A comprehensive overview of deep learning techniques for 3D point cloud classification and semantic segmentation**|Sushmita Sarker et.al.|[2405.11903](http://arxiv.org/abs/2405.11903)|null|
