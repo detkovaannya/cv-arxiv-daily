@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.21
+## Updated on 2024.05.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## clustering
@@ -17,7 +17,7 @@ layout: default
 |**2024-05-20**|**Optimistic Query Routing in Clustering-based Approximate Maximum Inner Product Search**|Sebastian Bruch et.al.|[2405.12207](http://arxiv.org/abs/2405.12207)|null|
 |**2024-05-20**|**Metacognitive Capabilities of LLMs: An Exploration in Mathematical Problem Solving**|Aniket Didolkar et.al.|[2405.12205](http://arxiv.org/abs/2405.12205)|null|
 |**2024-05-20**|**Multi-View Attentive Contextualization for Multi-View 3D Object Detection**|Xianpeng Liu et.al.|[2405.12200](http://arxiv.org/abs/2405.12200)|null|
-|**2024-05-20**|**Multi-order Graph Clustering with Adaptive Node-level Weight Learning**|Ye Liu et.al.|[2405.12183](http://arxiv.org/abs/2405.12183)|null|
+|**2024-05-20**|**Multi-order Graph Clustering with Adaptive Node-level Weight Learning**|Ye Liu et.al.|[2405.12183](http://arxiv.org/abs/2405.12183)|**[link](https://github.com/scutft-ml/mogc)**|
 |**2024-05-20**|**Nearest Neighbors GParareal: Improving Scalability of Gaussian Processes for Parallel-in-Time Solvers**|Guglielmo Gattiglio et.al.|[2405.12182](http://arxiv.org/abs/2405.12182)|null|
 |**2024-05-20**|**2D vs. 3D BAO: quantification of their tension and test of the Etherington relation**|Arianna Favale et.al.|[2405.12142](http://arxiv.org/abs/2405.12142)|null|
 |**2024-05-20**|**SkyCURTAINs: Model agnostic search for Stellar Streams with Gaia data**|Debajyoti Sengupta et.al.|[2405.12131](http://arxiv.org/abs/2405.12131)|null|
@@ -1321,7 +1321,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-20**|**Fast Generalizable Gaussian Splatting Reconstruction from Multi-View Stereo**|Tianqi Liu et.al.|[2405.12218](http://arxiv.org/abs/2405.12218)|null|
-|**2024-05-20**|**Gaussian Head & Shoulders: High Fidelity Neural Upper Body Avatars with Anchor Gaussian Guided Texture Warping**|Tianhao Wu et.al.|[2405.12069](http://arxiv.org/abs/2405.12069)|null|
+|**2024-05-21**|**Gaussian Head & Shoulders: High Fidelity Neural Upper Body Avatars with Anchor Gaussian Guided Texture Warping**|Tianhao Wu et.al.|[2405.12069](http://arxiv.org/abs/2405.12069)|null|
 |**2024-05-20**|**A comprehensive overview of deep learning techniques for 3D point cloud classification and semantic segmentation**|Sushmita Sarker et.al.|[2405.11903](http://arxiv.org/abs/2405.11903)|null|
 |**2024-05-19**|**FADet: A Multi-sensor 3D Object Detection Network based on Local Featured Attention**|Ziang Guo et.al.|[2405.11682](http://arxiv.org/abs/2405.11682)|**[link](https://github.com/ziongo6/fadet)**|
 |**2024-05-19**|**RobMOT: Robust 3D Multi-Object Tracking by Observational Noise and State Estimation Drift Mitigation on LiDAR PointCloud**|Mohamed Nagy et.al.|[2405.11536](http://arxiv.org/abs/2405.11536)|null|
