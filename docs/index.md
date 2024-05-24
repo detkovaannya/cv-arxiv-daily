@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-23**|**Recurrent Early Exits for Federated Learning with Heterogeneous Clients**|Royson Lee et.al.|[2405.14791](http://arxiv.org/abs/2405.14791)|null|
+|**2024-05-23**|**Construction and sampling of alloy cluster expansions -- A tutorial**|Pernilla Ekborg-Tanner et.al.|[2405.14787](http://arxiv.org/abs/2405.14787)|null|
+|**2024-05-23**|**HC-GAE: The Hierarchical Cluster-based Graph Auto-Encoder for Graph Representation Learning**|Zhuo Xu et.al.|[2405.14742](http://arxiv.org/abs/2405.14742)|null|
+|**2024-05-23**|**The integration of heterogeneous resources in the CMS Submission Infrastructure for the LHC Run 3 and beyond**|Antonio Perez-Calero Yzquierdo et.al.|[2405.14647](http://arxiv.org/abs/2405.14647)|null|
+|**2024-05-23**|**Adoption of a token-based authentication model for the CMS Submission Infrastructure**|Antonio Perez-Calero Yzquierdo et.al.|[2405.14644](http://arxiv.org/abs/2405.14644)|null|
+|**2024-05-23**|**GPU Implementations for Midsize Integer Addition and Multiplication**|Cosmin E. Oancea et.al.|[2405.14642](http://arxiv.org/abs/2405.14642)|null|
+|**2024-05-23**|**Repurposing of the Run 2 CMS High Level Trigger Infrastructure as a Cloud Resource for Offline Computing**|Marco Mascheroni et.al.|[2405.14639](http://arxiv.org/abs/2405.14639)|null|
+|**2024-05-23**|**PerLLM: Personalized Inference Scheduling with Edge-Cloud Collaboration for Diverse LLM Services**|Zheming Yang et.al.|[2405.14636](http://arxiv.org/abs/2405.14636)|null|
+|**2024-05-23**|**HPC resources for CMS offline computing: An integration and scalability challenge for the Submission Infrastructure**|Antonio Perez-Calero Yzquierdo et.al.|[2405.14631](http://arxiv.org/abs/2405.14631)|null|
+|**2024-05-23**|**U-TELL: Unsupervised Task Expert Lifelong Learning**|Indu Solomon et.al.|[2405.14623](http://arxiv.org/abs/2405.14623)|**[link](https://github.com/indusolo/unsup_ll)**|
 |**2024-05-21**|**G-DIG: Towards Gradient-based DIverse and hiGh-quality Instruction Data Selection for Machine Translation**|Xingyuan Pan et.al.|[2405.12915](http://arxiv.org/abs/2405.12915)|null|
 |**2024-05-21**|**Deep HST/UVIS imaging of the candidate dark galaxy CDG-1**|Pieter van Dokkum et.al.|[2405.12907](http://arxiv.org/abs/2405.12907)|null|
 |**2024-05-21**|**Decentralized Federated Learning Over Imperfect Communication Channels**|Weicai Li et.al.|[2405.12894](http://arxiv.org/abs/2405.12894)|null|
@@ -1330,6 +1340,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-23**|**Synergistic Global-space Camera and Human Reconstruction from Videos**|Yizhou Zhao et.al.|[2405.14855](http://arxiv.org/abs/2405.14855)|null|
+|**2024-05-23**|**Flatten Anything: Unsupervised Neural Surface Parameterization**|Qijian Zhang et.al.|[2405.14633](http://arxiv.org/abs/2405.14633)|null|
+|**2024-05-23**|**Aligning Embeddings and Geometric Random Graphs: Informational Results and Computational Approaches for the Procrustes-Wasserstein Problem**|Mathieu Even et.al.|[2405.14532](http://arxiv.org/abs/2405.14532)|null|
+|**2024-05-23**|**RoGS: Large Scale Road Surface Reconstruction based on 2D Gaussian Splatting**|Zhiheng Feng et.al.|[2405.14342](http://arxiv.org/abs/2405.14342)|null|
+|**2024-05-23**|**MAMBA4D: Efficient Long-Sequence Point Cloud Video Understanding with Disentangled Spatial-Temporal State Space Models**|Jiuming Liu et.al.|[2405.14338](http://arxiv.org/abs/2405.14338)|null|
+|**2024-05-23**|**A New Method in Facial Registration in Clinics Based on Structure Light Images**|Pengfei Li et.al.|[2405.14292](http://arxiv.org/abs/2405.14292)|null|
+|**2024-05-23**|**Fine-grained Image-to-LiDAR Contrastive Distillation with Visual Foundation Models**|Yifan Zhang et.al.|[2405.14271](http://arxiv.org/abs/2405.14271)|null|
+|**2024-05-23**|**NeuroGauss4D-PCI: 4D Neural Fields and Gaussian Deformation Fields for Point Cloud Interpolation**|Chaokang Jiang et.al.|[2405.14241](http://arxiv.org/abs/2405.14241)|null|
+|**2024-05-23**|**Eidos: Efficient, Imperceptible Adversarial 3D Point Clouds**|Hanwei Zhang et.al.|[2405.14210](http://arxiv.org/abs/2405.14210)|null|
+|**2024-05-22**|**RadarOcc: Robust 3D Occupancy Prediction with 4D Imaging Radar**|Fangqiang Ding et.al.|[2405.14014](http://arxiv.org/abs/2405.14014)|null|
 |**2024-05-21**|**Talk2Radar: Bridging Natural Language with 4D mmWave Radar for 3D Referring Expression Comprehension**|Runwei Guan et.al.|[2405.12821](http://arxiv.org/abs/2405.12821)|null|
 |**2024-05-21**|**FFAM: Feature Factorization Activation Map for Explanation of 3D Detectors**|Shuai Liu et.al.|[2405.12601](http://arxiv.org/abs/2405.12601)|**[link](https://github.com/say2l/ffam)**|
 |**2024-05-21**|**NV-LIO: LiDAR-Inertial Odometry using Normal Vectors Towards Robust SLAM in Multifloor Environments**|Dongha Chung et.al.|[2405.12563](http://arxiv.org/abs/2405.12563)|null|
