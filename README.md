@@ -34,7 +34,7 @@
 |**2024-05-21**|**Epitaxial RuO $_2$ and IrO$_2$ films by pulsed laser deposition on TiO$_2$ (110)**|Philipp Keßler et.al.|[2405.12878](http://arxiv.org/abs/2405.12878)|null|
 |**2024-05-21**|**A Quick Guide to Nearby Young Association**|Jonathan Gagné et.al.|[2405.12860](http://arxiv.org/abs/2405.12860)|null|
 |**2024-05-21**|**Application Layer Cyber Deception without Developer Interaction**|Mario Kahlhofer et.al.|[2405.12852](http://arxiv.org/abs/2405.12852)|null|
-|**2024-05-21**|**Unsupervised Multimodal Clustering for Semantics Discovery in Multimodal Utterances**|Hanlei Zhang et.al.|[2405.12775](http://arxiv.org/abs/2405.12775)|null|
+|**2024-05-21**|**Unsupervised Multimodal Clustering for Semantics Discovery in Multimodal Utterances**|Hanlei Zhang et.al.|[2405.12775](http://arxiv.org/abs/2405.12775)|**[link](https://github.com/thuiar/umc)**|
 |**2024-05-21**|**No signature of the birth environment of exoplanets from their host stars' Mahalanobis phase space**|George A. Blaylock-Squibbs et.al.|[2405.12741](http://arxiv.org/abs/2405.12741)|null|
 |**2024-05-21**|**Self-assembling clusters of particles on a shrinking liquid surface**|Xin Li et.al.|[2405.12707](http://arxiv.org/abs/2405.12707)|null|
 |**2024-05-21**|**Sorting in One and Two Rounds using $t$ -Comparators**|Ran Gelles et.al.|[2405.12678](http://arxiv.org/abs/2405.12678)|null|
@@ -97,7 +97,7 @@
 |**2024-05-13**|**A study of the nuclear structure of light nuclei at the Electron-Ion Collider**|Niseem Magdy et.al.|[2405.07844](http://arxiv.org/abs/2405.07844)|null|
 |**2024-05-13**|**Ground-based Image Deconvolution with Swin Transformer UNet**|Utsav Akhaury et.al.|[2405.07842](http://arxiv.org/abs/2405.07842)|null|
 |**2024-05-13**|**A Decentralized and Self-Adaptive Approach for Monitoring Volatile Edge Environments**|Shashikant Ilager et.al.|[2405.07806](http://arxiv.org/abs/2405.07806)|**[link](https://github.com/hpc-tuwien/demon)**|
-|**2024-05-13**|**Decentralized Kernel Ridge Regression Based on Data-dependent Random Feature**|Ruikai Yang et.al.|[2405.07791](http://arxiv.org/abs/2405.07791)|null|
+|**2024-05-13**|**Decentralized Kernel Ridge Regression Based on Data-dependent Random Feature**|Ruikai Yang et.al.|[2405.07791](http://arxiv.org/abs/2405.07791)|**[link](https://github.com/Yruikk/DeKRR-DDRF)**|
 |**2024-05-10**|**Optimal Uniform Circle Formation by Asynchronous Luminous Robots**|Caterina Feletti et.al.|[2405.06617](http://arxiv.org/abs/2405.06617)|null|
 |**2024-05-10**|**Simultaneously detecting spatiotemporal changes with penalized Poisson regression models**|Zerui Zhang et.al.|[2405.06613](http://arxiv.org/abs/2405.06613)|null|
 |**2024-05-10**|**The landscapemetrics and motif packages for measuring landscape patterns and processes**|Jakub Nowosad et.al.|[2405.06559](http://arxiv.org/abs/2405.06559)|null|
@@ -168,7 +168,7 @@
 |**2024-05-02**|**DiffusionPipe: Training Large Diffusion Models with Efficient Pipelines**|Ye Tian et.al.|[2405.01248](http://arxiv.org/abs/2405.01248)|null|
 |**2024-05-02**|**Stability of Information in the Heat Flow Clustering**|Brian Weber et.al.|[2405.01244](http://arxiv.org/abs/2405.01244)|null|
 |**2024-05-02**|**CoolWalks: Assessing the potential of shaded routing for active mobility in urban street networks**|Henrik Wolf et.al.|[2405.01225](http://arxiv.org/abs/2405.01225)|**[link](https://github.com/henrik-wolf/CoolWalks)**|
-|**2024-05-01**|**Euclid preparation. LensMC, weak lensing cosmic shear measurement with forward modelling and Markov Chain Monte Carlo sampling**|Euclid Collaboration et.al.|[2405.00669](http://arxiv.org/abs/2405.00669)|null|
+|**2024-05-01**|**Euclid preparation. LensMC, weak lensing cosmic shear measurement with forward modelling and Markov Chain Monte Carlo sampling**|Euclid Collaboration et.al.|[2405.00669](http://arxiv.org/abs/2405.00669)|**[link](https://gitlab.com/gcongedo/LensMC)**|
 |**2024-05-01**|**NLU-STR at SemEval-2024 Task 1: Generative-based Augmentation and Encoder-based Scoring for Semantic Textual Relatedness**|Sanad Malaysha et.al.|[2405.00659](http://arxiv.org/abs/2405.00659)|null|
 |**2024-05-01**|**Chemistry in externally FUV irradiated disks in the outskirts of the Orion Nebula**|Javiera K. Díaz-Berríos et.al.|[2405.00615](http://arxiv.org/abs/2405.00615)|null|
 |**2024-05-01**|**Cross-Cluster Networking to Support Extended Reality Services**|Theodoros Theodoropoulos et.al.|[2405.00558](http://arxiv.org/abs/2405.00558)|null|
@@ -311,7 +311,7 @@
 |**2024-04-12**|**Coherence properties of NV-center ensembles in diamond coupled to an electron-spin bath**|Reyhaneh Ghassemizadeh et.al.|[2404.08388](http://arxiv.org/abs/2404.08388)|null|
 |**2024-04-12**|**$Ab$-$initio$ nucleon-nucleon correlations and their impact on high energy $^{16}$O+$^{16}$ O collisions**|Chunjian Zhang et.al.|[2404.08385](http://arxiv.org/abs/2404.08385)|null|
 |**2024-04-12**|**FlowWalker: A Memory-efficient and High-performance GPU-based Dynamic Graph Random Walk Framework**|Junyi Mei et.al.|[2404.08364](http://arxiv.org/abs/2404.08364)|**[link](https://github.com/junyimei/flowwalker-artifact)**|
-|**2024-04-12**|**Let It Flow: Simultaneous Optimization of 3D Flow and Object Clustering**|Patrik Vacek et.al.|[2404.08363](http://arxiv.org/abs/2404.08363)|null|
+|**2024-04-12**|**Let It Flow: Simultaneous Optimization of 3D Flow and Object Clustering**|Patrik Vacek et.al.|[2404.08363](http://arxiv.org/abs/2404.08363)|**[link](https://github.com/ctu-vras/let-it-flow)**|
 |**2024-04-11**|**Konnektor: Connection Protocol for Ensuring Peer Uniqueness in Decentralized P2P Networks**|Onur Ozkan et.al.|[2404.07861](http://arxiv.org/abs/2404.07861)|null|
 |**2024-04-11**|**Obstructions to semiorthogonal decompositions for singular projective varieties II: Representation theory**|Martin Kalck et.al.|[2404.07816](http://arxiv.org/abs/2404.07816)|null|
 |**2024-04-11**|**Quality check of a sample partition using multinomial distribution**|Soumita Modak et.al.|[2404.07778](http://arxiv.org/abs/2404.07778)|null|
@@ -432,7 +432,7 @@
 |**2024-03-26**|**On the uniqueness of the infinite cluster and the cluster density in the Poisson driven random connection model**|Mikhail Chebunin et.al.|[2403.17762](http://arxiv.org/abs/2403.17762)|null|
 |**2024-03-26**|**Assessing the similarity of real matrices with arbitrary shape**|Jasper Albers et.al.|[2403.17687](http://arxiv.org/abs/2403.17687)|**[link](https://github.com/inm-6/sas)**|
 |**2024-03-26**|**Towards a Dutch hybrid quantum/HPC infrastructure**|Olaf Schüsler et.al.|[2403.17649](http://arxiv.org/abs/2403.17649)|null|
-|**2024-03-25**|**Cluster-Based Normalization Layer for Neural Networks**|Bilal Faye et.al.|[2403.16798](http://arxiv.org/abs/2403.16798)|null|
+|**2024-03-25**|**Cluster-Based Normalization Layer for Neural Networks**|Bilal Faye et.al.|[2403.16798](http://arxiv.org/abs/2403.16798)|**[link](https://github.com/b-faye/cluster-based-norm)**|
 |**2024-03-25**|**CurbNet: Curb Detection Framework Based on LiDAR Point Cloud Segmentation**|Guoyang Zhao et.al.|[2403.16794](http://arxiv.org/abs/2403.16794)|**[link](https://github.com/guoyangzhao/curbnet)**|
 |**2024-03-25**|**Direct activation of PMS by highly dispersed amorphous CoOx clusters in anatase TiO2 nanosheets for efficient oxidation of biomass-derived alcohols**|Zhiwei Jiang et.al.|[2403.16733](http://arxiv.org/abs/2403.16733)|null|
 |**2024-03-25**|**The effect of inter-track coupling on H $_2$O$_2$ productions**|Ramin Abolfath et.al.|[2403.16722](http://arxiv.org/abs/2403.16722)|null|
@@ -787,7 +787,7 @@
 |**2024-02-05**|**Comparison of Topic Modelling Approaches in the Banking Context**|Bayode Ogunleye et.al.|[2402.03176](http://arxiv.org/abs/2402.03176)|null|
 |**2024-02-05**|**Just Cluster It: An Approach for Exploration in High-Dimensions using Clustering and Pre-Trained Representations**|Stefan Sylvius Wagner et.al.|[2402.03138](http://arxiv.org/abs/2402.03138)|null|
 |**2024-02-02**|**Dynamics of Onsager vortex clustering in decaying turbulent polariton quantum fluids**|P. Comaron et.al.|[2402.01637](http://arxiv.org/abs/2402.01637)|null|
-|**2024-02-02**|**Estimating Max-Stable Random Vectors with Discrete Spectral Measure using Model-Based Clustering**|Alexis Boulin et.al.|[2402.01609](http://arxiv.org/abs/2402.01609)|null|
+|**2024-02-02**|**Estimating Max-Stable Random Vectors with Discrete Spectral Measure using Model-Based Clustering**|Alexis Boulin et.al.|[2402.01609](http://arxiv.org/abs/2402.01609)|**[link](https://github.com/aleboul/linear_factor_models)**|
 |**2024-02-02**|**Q-factor: A measure of competition between the topper and the average in percolation and in SOC**|Asim Ghosh et.al.|[2402.01553](http://arxiv.org/abs/2402.01553)|null|
 |**2024-02-02**|**Privacy-Preserving Distributed Learning for Residential Short-Term Load Forecasting**|Yi Dong et.al.|[2402.01546](http://arxiv.org/abs/2402.01546)|**[link](https://github.com/yingjiewangtony/fl-dl)**|
 |**2024-02-02**|**MCXC-II: Second release of the Meta-Catalogue of X-Ray detected Clusters of galaxies**|T. Sadibekova et.al.|[2402.01538](http://arxiv.org/abs/2402.01538)|null|
@@ -1358,7 +1358,7 @@
 |**2024-05-22**|**RadarOcc: Robust 3D Occupancy Prediction with 4D Imaging Radar**|Fangqiang Ding et.al.|[2405.14014](http://arxiv.org/abs/2405.14014)|null|
 |**2024-05-21**|**Talk2Radar: Bridging Natural Language with 4D mmWave Radar for 3D Referring Expression Comprehension**|Runwei Guan et.al.|[2405.12821](http://arxiv.org/abs/2405.12821)|null|
 |**2024-05-21**|**FFAM: Feature Factorization Activation Map for Explanation of 3D Detectors**|Shuai Liu et.al.|[2405.12601](http://arxiv.org/abs/2405.12601)|**[link](https://github.com/say2l/ffam)**|
-|**2024-05-21**|**NV-LIO: LiDAR-Inertial Odometry using Normal Vectors Towards Robust SLAM in Multifloor Environments**|Dongha Chung et.al.|[2405.12563](http://arxiv.org/abs/2405.12563)|null|
+|**2024-05-21**|**NV-LIO: LiDAR-Inertial Odometry using Normal Vectors Towards Robust SLAM in Multifloor Environments**|Dongha Chung et.al.|[2405.12563](http://arxiv.org/abs/2405.12563)|**[link](https://github.com/dhchung/nv_lio)**|
 |**2024-05-20**|**GeoMask3D: Geometrically Informed Mask Selection for Self-Supervised Point Cloud Learning in 3D**|Ali Bahri et.al.|[2405.12419](http://arxiv.org/abs/2405.12419)|null|
 |**2024-05-20**|**Fast Generalizable Gaussian Splatting Reconstruction from Multi-View Stereo**|Tianqi Liu et.al.|[2405.12218](http://arxiv.org/abs/2405.12218)|null|
 |**2024-05-21**|**Gaussian Head & Shoulders: High Fidelity Neural Upper Body Avatars with Anchor Gaussian Guided Texture Warping**|Tianhao Wu et.al.|[2405.12069](http://arxiv.org/abs/2405.12069)|null|
@@ -1508,7 +1508,7 @@
 |**2024-04-13**|**Probabilistic Directed Distance Fields for Ray-Based Shape Representations**|Tristan Aumentado-Armstrong et.al.|[2404.09081](http://arxiv.org/abs/2404.09081)|null|
 |**2024-04-13**|**A Fourier-enhanced multi-modal 3D small object optical mark recognition and positioning method for percutaneous abdominal puncture surgical navigation**|Zezhao Guo et.al.|[2404.08990](http://arxiv.org/abs/2404.08990)|null|
 |**2024-04-12**|**FusionPortableV2: A Unified Multi-Sensor Dataset for Generalized SLAM Across Diverse Platforms and Scalable Environments**|Hexiang Wei et.al.|[2404.08563](http://arxiv.org/abs/2404.08563)|null|
-|**2024-04-12**|**Let It Flow: Simultaneous Optimization of 3D Flow and Object Clustering**|Patrik Vacek et.al.|[2404.08363](http://arxiv.org/abs/2404.08363)|null|
+|**2024-04-12**|**Let It Flow: Simultaneous Optimization of 3D Flow and Object Clustering**|Patrik Vacek et.al.|[2404.08363](http://arxiv.org/abs/2404.08363)|**[link](https://github.com/ctu-vras/let-it-flow)**|
 |**2024-04-12**|**GPN: Generative Point-based NeRF**|Haipeng Wang et.al.|[2404.08312](http://arxiv.org/abs/2404.08312)|**[link](https://github.com/forestsen/GPN)**|
 |**2024-04-11**|**SimpliCity: Reconstructing Buildings with Simple Regularized 3D Models**|Jean-Philippe Bauchet et.al.|[2404.08104](http://arxiv.org/abs/2404.08104)|null|
 |**2024-04-11**|**3D-CSAD: Untrained 3D Anomaly Detection for Complex Manufacturing Surfaces**|Xuanming Cao et.al.|[2404.07748](http://arxiv.org/abs/2404.07748)|null|
@@ -1584,7 +1584,7 @@
 |**2024-03-28**|**Localization and Offline Mapping of High-Voltage Substations in Rough Terrain Using a Ground Vehicle**|Ioannis Alamanos et.al.|[2403.19875](http://arxiv.org/abs/2403.19875)|**[link](https://github.com/iral-ntua/fast_lio_localization)**|
 |**2024-03-28**|**TOD3Cap: Towards 3D Dense Captioning in Outdoor Scenes**|Bu Jin et.al.|[2403.19589](http://arxiv.org/abs/2403.19589)|**[link](https://github.com/jxbbb/tod3cap)**|
 |**2024-03-28**|**OV-Uni3DETR: Towards Unified Open-Vocabulary 3D Object Detection via Cycle-Modality Propagation**|Zhenyu Wang et.al.|[2403.19580](http://arxiv.org/abs/2403.19580)|null|
-|**2024-03-30**|**GlORIE-SLAM: Globally Optimized RGB-only Implicit Encoding Point Cloud SLAM**|Ganlin Zhang et.al.|[2403.19549](http://arxiv.org/abs/2403.19549)|null|
+|**2024-03-30**|**GlORIE-SLAM: Globally Optimized RGB-only Implicit Encoding Point Cloud SLAM**|Ganlin Zhang et.al.|[2403.19549](http://arxiv.org/abs/2403.19549)|**[link](https://github.com/zhangganlin/GlOIRE-SLAM)**|
 |**2024-03-28**|**RELI11D: A Comprehensive Multimodal Human Motion Dataset and Method**|Ming Yan et.al.|[2403.19501](http://arxiv.org/abs/2403.19501)|null|
 |**2024-03-28**|**CoherentGS: Sparse Novel View Synthesis with Coherent 3D Gaussians**|Avinash Paliwal et.al.|[2403.19495](http://arxiv.org/abs/2403.19495)|null|
 |**2024-03-28**|**SG-PGM: Partial Graph Matching Network with Semantic Geometric Fusion for 3D Scene Graph Alignment and Its Downstream Tasks**|Yaxu Xie et.al.|[2403.19474](http://arxiv.org/abs/2403.19474)|**[link](https://github.com/dfki-av/sg-pgm)**|
@@ -1631,7 +1631,7 @@
 |**2024-03-21**|**OA-CNNs: Omni-Adaptive Sparse CNNs for 3D Semantic Segmentation**|Bohao Peng et.al.|[2403.14418](http://arxiv.org/abs/2403.14418)|**[link](https://github.com/Pointcept/Pointcept)**|
 |**2024-03-21**|**A LiDAR-Aided Channel Model for Vehicular Intelligent Sensing-Communication Integration**|Ziwei Huang et.al.|[2403.14185](http://arxiv.org/abs/2403.14185)|null|
 |**2024-03-21**|**HCTO: Optimality-Aware LiDAR Inertial Odometry with Hybrid Continuous Time Optimization for Compact Wearable Mapping System**|Jianping Li et.al.|[2403.14173](http://arxiv.org/abs/2403.14173)|**[link](https://github.com/kafeiyin00/hcto)**|
-|**2024-03-21**|**Mini-Splatting: Representing Scenes with a Constrained Number of Gaussians**|Guangchi Fang et.al.|[2403.14166](http://arxiv.org/abs/2403.14166)|null|
+|**2024-03-21**|**Mini-Splatting: Representing Scenes with a Constrained Number of Gaussians**|Guangchi Fang et.al.|[2403.14166](http://arxiv.org/abs/2403.14166)|**[link](https://github.com/fatpeter/mini-splatting)**|
 |**2024-03-21**|**Extrinsic Calibration of Multiple LiDARs for a Mobile Robot based on Floor Plane And Object Segmentation**|Shun Niijima et.al.|[2403.14161](http://arxiv.org/abs/2403.14161)|null|
 |**2024-03-21**|**3D Object Detection from Point Cloud via Voting Step Diffusion**|Haoran Hou et.al.|[2403.14133](http://arxiv.org/abs/2403.14133)|null|
 |**2024-03-21**|**Soft Masked Transformer for Point Cloud Processing with Skip Attention-Based Upsampling**|Yong He et.al.|[2403.14124](http://arxiv.org/abs/2403.14124)|null|
