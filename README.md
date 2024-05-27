@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-24**|**Sparse Expansion and Neuronal Disentanglement**|Shashata Sawmya et.al.|[2405.15756](http://arxiv.org/abs/2405.15756)|null|
+|**2024-05-24**|**Collaborative Access Control for IoT -- A Blockchain Approach**|Yongtao Huang et.al.|[2405.15749](http://arxiv.org/abs/2405.15749)|null|
+|**2024-05-24**|**Characterizing Discourse Group Roles in Inquiry-based University Science Labs**|Tong Wan et.al.|[2405.15746](http://arxiv.org/abs/2405.15746)|null|
+|**2024-05-24**|**CAFe: Cost and Age aware Federated Learning**|Sahan Liyanaarachchi et.al.|[2405.15744](http://arxiv.org/abs/2405.15744)|null|
+|**2024-05-24**|**More Insight from Being More Focused: Analysis of Clustered Market Apps**|Maleknaz Nayebi et.al.|[2405.15737](http://arxiv.org/abs/2405.15737)|null|
+|**2024-05-24**|**Interaction in the dark sector: a phenomenological approach**|Z. C. Santana et.al.|[2405.15726](http://arxiv.org/abs/2405.15726)|null|
+|**2024-05-24**|**Hierarchical Uncertainty Exploration via Feedforward Posterior Trees**|Elias Nehme et.al.|[2405.15719](http://arxiv.org/abs/2405.15719)|null|
+|**2024-05-24**|**Simulation-based inference of radio millisecond pulsars in globular clusters**|Joanna Berteaud et.al.|[2405.15691](http://arxiv.org/abs/2405.15691)|null|
+|**2024-05-24**|**UNION: Unsupervised 3D Object Detection using Object Appearance-based Pseudo-Classes**|Ted Lentsch et.al.|[2405.15688](http://arxiv.org/abs/2405.15688)|null|
+|**2024-05-24**|**GroundGrid:LiDAR Point Cloud Ground Segmentation and Terrain Estimation**|Nicolai Steinke et.al.|[2405.15664](http://arxiv.org/abs/2405.15664)|**[link](https://github.com/dcmlr/groundgrid)**|
 |**2024-05-23**|**Recurrent Early Exits for Federated Learning with Heterogeneous Clients**|Royson Lee et.al.|[2405.14791](http://arxiv.org/abs/2405.14791)|null|
 |**2024-05-23**|**Construction and sampling of alloy cluster expansions -- A tutorial**|Pernilla Ekborg-Tanner et.al.|[2405.14787](http://arxiv.org/abs/2405.14787)|null|
 |**2024-05-23**|**HC-GAE: The Hierarchical Cluster-based Graph Auto-Encoder for Graph Representation Learning**|Zhuo Xu et.al.|[2405.14742](http://arxiv.org/abs/2405.14742)|null|
@@ -1346,6 +1356,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-24**|**A Higher Order Local Mesh Method for Approximating Laplacians on Unknown Manifolds**|John Wilson Peoples et.al.|[2405.15735](http://arxiv.org/abs/2405.15735)|null|
+|**2024-05-24**|**Neural Persistence Dynamics**|Sebastian Zeng et.al.|[2405.15732](http://arxiv.org/abs/2405.15732)|null|
+|**2024-05-24**|**GroundGrid:LiDAR Point Cloud Ground Segmentation and Terrain Estimation**|Nicolai Steinke et.al.|[2405.15664](http://arxiv.org/abs/2405.15664)|**[link](https://github.com/dcmlr/groundgrid)**|
+|**2024-05-24**|**LAM3D: Large Image-Point-Cloud Alignment Model for 3D Reconstruction from Single Image**|Ruikai Cui et.al.|[2405.15622](http://arxiv.org/abs/2405.15622)|null|
+|**2024-05-24**|**Learning to Discretize Denoising Diffusion ODEs**|Vinh Tong et.al.|[2405.15506](http://arxiv.org/abs/2405.15506)|null|
+|**2024-05-24**|**GSDeformer: Direct Cage-based Deformation for 3D Gaussian Splatting**|Jiajun Huang et.al.|[2405.15491](http://arxiv.org/abs/2405.15491)|null|
+|**2024-05-24**|**PoinTramba: A Hybrid Transformer-Mamba Framework for Point Cloud Analysis**|Zicheng Wang et.al.|[2405.15463](http://arxiv.org/abs/2405.15463)|**[link](https://github.com/xiaoyao3302/pointramba)**|
+|**2024-05-24**|**Tensor Frames -- How To Make Any Message Passing Network Equivariant**|Peter Lippmann et.al.|[2405.15389](http://arxiv.org/abs/2405.15389)|null|
+|**2024-05-24**|**3D Unsupervised Learning by Distilling 2D Open-Vocabulary Segmentation Models for Autonomous Driving**|Boyi Sun et.al.|[2405.15286](http://arxiv.org/abs/2405.15286)|**[link](https://github.com/sbysbysbys/uov)**|
+|**2024-05-24**|**Talk to Parallel LiDARs: A Human-LiDAR Interaction Method Based on 3D Visual Grounding**|Yuhang Liu et.al.|[2405.15274](http://arxiv.org/abs/2405.15274)|null|
 |**2024-05-23**|**Synergistic Global-space Camera and Human Reconstruction from Videos**|Yizhou Zhao et.al.|[2405.14855](http://arxiv.org/abs/2405.14855)|null|
 |**2024-05-23**|**Flatten Anything: Unsupervised Neural Surface Parameterization**|Qijian Zhang et.al.|[2405.14633](http://arxiv.org/abs/2405.14633)|null|
 |**2024-05-23**|**Aligning Embeddings and Geometric Random Graphs: Informational Results and Computational Approaches for the Procrustes-Wasserstein Problem**|Mathieu Even et.al.|[2405.14532](http://arxiv.org/abs/2405.14532)|null|
