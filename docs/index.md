@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-30**|**WIYN Open Cluster Study. XC. Barium Surface Abundances of Blue Straggler Stars in the Open Clusters NGC 7789 and M67**|Andrew C. Nine et.al.|[2405.20242](http://arxiv.org/abs/2405.20242)|null|
+|**2024-05-30**|**Generalized Cluster Correlation Expansion theory for STIRAP processes in the presence of a spin bath**|Tommaso Fazio et.al.|[2405.20235](http://arxiv.org/abs/2405.20235)|null|
+|**2024-05-30**|**BeerReview: A Blockchain-enabled Peer Review Platform**|Guodong Jin et.al.|[2405.20220](http://arxiv.org/abs/2405.20220)|null|
+|**2024-05-30**|**Filter Design for Estimation of Stellar Metallicity: Insights from Experiments with Gaia XP Spectra**|Kai Xiao et.al.|[2405.20212](http://arxiv.org/abs/2405.20212)|null|
+|**2024-05-30**|**Multidimensional spatiotemporal clustering -- An application to environmental sustainability scores in Europe**|Caterina Morelli et.al.|[2405.20191](http://arxiv.org/abs/2405.20191)|null|
+|**2024-05-30**|**Scaling up archival text analysis with the blockmodeling of n-gram networks -- A case study of Bulgaria's representation in the Osservatore Romano (January-May 1877)**|Fabio Ashtar Telarico et.al.|[2405.20156](http://arxiv.org/abs/2405.20156)|null|
+|**2024-05-30**|**Distributed MIMO Precoding with Routing Constraints in Segmented Fronthaul**|Jale Sadreddini et.al.|[2405.20122](http://arxiv.org/abs/2405.20122)|null|
+|**2024-05-30**|**Faces of the Mind: Unveiling Mental Health States Through Facial Expressions in 11,427 Adolescents**|Xiao Xu et.al.|[2405.20072](http://arxiv.org/abs/2405.20072)|null|
+|**2024-05-30**|**A theory of stratification learning**|Eddie Aamari et.al.|[2405.20066](http://arxiv.org/abs/2405.20066)|null|
+|**2024-05-30**|**Hypergraph-Aided Task-Resource Matching for Maximizing Value of Task Completion in Collaborative IoT Systems**|Botao Zhu et.al.|[2405.20055](http://arxiv.org/abs/2405.20055)|null|
 |**2024-05-29**|**Causal Inference for Balanced Incomplete Block Designs**|Taehyeon Koo et.al.|[2405.19312](http://arxiv.org/abs/2405.19312)|null|
 |**2024-05-29**|**EDGE: A new model for Nuclear Star Cluster formation in dwarf galaxies**|Emily I. Gray et.al.|[2405.19286](http://arxiv.org/abs/2405.19286)|null|
 |**2024-05-29**|**Optimizing Foundation Model Inference on a Many-tiny-core Open-source RISC-V Platform**|Viviane Potocnik et.al.|[2405.19284](http://arxiv.org/abs/2405.19284)|null|
@@ -1380,6 +1390,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-30**|**VividDream: Generating 3D Scene with Ambient Dynamics**|Yao-Chih Lee et.al.|[2405.20334](http://arxiv.org/abs/2405.20334)|null|
+|**2024-05-30**|**Integrated Sensing and Communications Framework for 6G Networks**|Hongliang Luo et.al.|[2405.19925](http://arxiv.org/abs/2405.19925)|null|
+|**2024-05-30**|**Twin Deformable Point Convolutions for Point Cloud Semantic Segmentation in Remote Sensing Scenes**|Yong-Qiang Mao et.al.|[2405.19735](http://arxiv.org/abs/2405.19735)|null|
+|**2024-05-30**|**Efficient Trajectory Inference in Wasserstein Space Using Consecutive Averaging**|Amartya Banerjee et.al.|[2405.19679](http://arxiv.org/abs/2405.19679)|null|
+|**2024-05-30**|**GaussianRoom: Improving 3D Gaussian Splatting with SDF Guidance and Monocular Cues for Indoor Scene Reconstruction**|Haodong Xiang et.al.|[2405.19671](http://arxiv.org/abs/2405.19671)|null|
 |**2024-05-29**|**NPGA: Neural Parametric Gaussian Avatars**|Simon Giebenhain et.al.|[2405.19331](http://arxiv.org/abs/2405.19331)|null|
 |**2024-05-29**|**Morse Theory for Chromatic Delaunay Triangulations**|Abhinav Natarajan et.al.|[2405.19303](http://arxiv.org/abs/2405.19303)|null|
 |**2024-05-29**|**Kestrel: Point Grounding Multimodal LLM for Part-Aware 3D Vision-Language Understanding**|Junjie Fei et.al.|[2405.18937](http://arxiv.org/abs/2405.18937)|null|
