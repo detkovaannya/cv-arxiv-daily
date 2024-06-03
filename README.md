@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-31**|**The Velocity Dispersion Function for Quiescent Galaxies in Massive Clusters from IllustrisTNG**|Jubee Sohn et.al.|[2405.21076](http://arxiv.org/abs/2405.21076)|null|
+|**2024-05-31**|**Comparing information content of representation spaces for disentanglement with VAE ensembles**|Kieran A. Murphy et.al.|[2405.21042](http://arxiv.org/abs/2405.21042)|**[link](https://github.com/murphyka/representation-space-info-comparison)**|
+|**2024-05-31**|**On reduction and parameter recovering of Petri's cycloids**|Rüdiger Valk et.al.|[2405.21025](http://arxiv.org/abs/2405.21025)|null|
+|**2024-05-31**|**Bayesian Estimation of Hierarchical Linear Models from Incomplete Data: Cluster-Level Interaction Effects and Small Sample Sizes**|Dongho Shin et.al.|[2405.21020](http://arxiv.org/abs/2405.21020)|null|
+|**2024-05-31**|**The rising costs of training frontier AI models**|Ben Cottier et.al.|[2405.21015](http://arxiv.org/abs/2405.21015)|null|
+|**2024-05-31**|**FunLess: Functions-as-a-Service for Private Edge Cloud Systems**|Giuseppe De Palma et.al.|[2405.21009](http://arxiv.org/abs/2405.21009)|null|
+|**2024-05-31**|**The Renormalization Group for Large-Scale Structure: Primordial non-Gaussianities**|Charalampos Nikolis et.al.|[2405.21002](http://arxiv.org/abs/2405.21002)|null|
+|**2024-05-31**|**Quantum Information Processing with Molecular Nanomagnets: an introduction**|Alessandro Chiesa et.al.|[2405.21000](http://arxiv.org/abs/2405.21000)|null|
+|**2024-05-31**|**Communication-Efficient Distributed Deep Learning via Federated Dynamic Averaging**|Michail Theologitis et.al.|[2405.20988](http://arxiv.org/abs/2405.20988)|null|
+|**2024-05-31**|**Scaling Data Plane Verification with Intent-based Slicing**|Kuan-Yen Chou et.al.|[2405.20982](http://arxiv.org/abs/2405.20982)|null|
 |**2024-05-30**|**WIYN Open Cluster Study. XC. Barium Surface Abundances of Blue Straggler Stars in the Open Clusters NGC 7789 and M67**|Andrew C. Nine et.al.|[2405.20242](http://arxiv.org/abs/2405.20242)|null|
 |**2024-05-30**|**Generalized Cluster Correlation Expansion theory for STIRAP processes in the presence of a spin bath**|Tommaso Fazio et.al.|[2405.20235](http://arxiv.org/abs/2405.20235)|null|
 |**2024-05-30**|**BeerReview: A Blockchain-enabled Peer Review Platform**|Guodong Jin et.al.|[2405.20220](http://arxiv.org/abs/2405.20220)|null|
