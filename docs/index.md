@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-05**|**Seq1F1B: Efficient Sequence-Level Pipeline Parallelism for Large Language Model Training**|Sun Ao et.al.|[2406.03488](http://arxiv.org/abs/2406.03488)|null|
+|**2024-06-05**|**Lagrangian filtering for wave-mean flow decomposition**|Lois E. Baker et.al.|[2406.03477](http://arxiv.org/abs/2406.03477)|null|
+|**2024-06-05**|**On the use of quantality in nuclei and many-body systems**|J. -P. Ebran et.al.|[2406.03378](http://arxiv.org/abs/2406.03378)|null|
+|**2024-06-05**|**Positivity for quantum cluster algebras from orbifolds**|Min Huang et.al.|[2406.03362](http://arxiv.org/abs/2406.03362)|null|
+|**2024-06-05**|**Strength of Kitaev Interaction in Na $_3$Co$_2$SbO$_6$ and Na$_3$Ni$_2$BiO$_6$**|Zefeng Chen et.al.|[2406.03338](http://arxiv.org/abs/2406.03338)|null|
+|**2024-06-05**|**Detection of extended gamma-ray emission in the vicinity of Cl Danks 1 and 2**|Jiahao Liu et.al.|[2406.03320](http://arxiv.org/abs/2406.03320)|null|
+|**2024-06-05**|**How Gaia sheds light on the Milky Way star cluster population**|T. Cantat-Gaudin et.al.|[2406.03308](http://arxiv.org/abs/2406.03308)|null|
+|**2024-06-05**|**Efficient Data-Parallel Continual Learning with Asynchronous Distributed Rehearsal Buffers**|Thomas Bouvier et.al.|[2406.03285](http://arxiv.org/abs/2406.03285)|null|
+|**2024-06-05**|**Writing Order Recovery in Complex and Long Static Handwriting**|Moises Diaz et.al.|[2406.03194](http://arxiv.org/abs/2406.03194)|**[link](https://github.com/gioelecrispo/wor)**|
+|**2024-06-05**|**Highly sensitive AuNCs@GSH/Ch-PtNPs metal nanoprobes for fluorescent and colorimetric dual-mode detection of ascorbic acid in drink**|Wei Zheng et.al.|[2406.03192](http://arxiv.org/abs/2406.03192)|null|
 |**2024-06-04**|**An Empirical Study into Clustering of Unseen Datasets with Self-Supervised Encoders**|Scott C. Lowe et.al.|[2406.02465](http://arxiv.org/abs/2406.02465)|**[link](https://github.com/scottclowe/zs-ssl-clustering)**|
 |**2024-06-04**|**Improved Modelling of Federated Datasets using Mixtures-of-Dirichlet-Multinomials**|Jonathan Scott et.al.|[2406.02416](http://arxiv.org/abs/2406.02416)|**[link](https://github.com/apple/pfl-research)**|
 |**2024-06-04**|**Utilizing Voronoi Tessellations to Determine Radial Density Profiles**|Veronika Dornan et.al.|[2406.02390](http://arxiv.org/abs/2406.02390)|null|
@@ -1410,11 +1420,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-05**|**L-PR: Exploiting LiDAR Fiducial Marker for Unordered Low Overlap Multiview Point Cloud Registration**|Yibo Liu et.al.|[2406.03298](http://arxiv.org/abs/2406.03298)|**[link](https://github.com/yorklyb/LiDAR-SFM)**|
+|**2024-06-05**|**FAPNet: An Effective Frequency Adaptive Point-based Eye Tracker**|Xiaopeng Lin et.al.|[2406.03177](http://arxiv.org/abs/2406.03177)|null|
+|**2024-06-05**|**Adapter-X: A Novel General Parameter-Efficient Fine-Tuning Framework for Vision**|Minglei Li et.al.|[2406.03051](http://arxiv.org/abs/2406.03051)|null|
+|**2024-06-05**|**Which exceptional low-dimensional projections of a Gaussian point cloud can be found in polynomial time?**|Andrea Montanari et.al.|[2406.02970](http://arxiv.org/abs/2406.02970)|null|
+|**2024-06-04**|**Collision-Affording Point Trees: SIMD-Amenable Nearest Neighbors for Fast Collision Checking**|Clayton W. Ramsey et.al.|[2406.02807](http://arxiv.org/abs/2406.02807)|null|
 |**2024-06-04**|**Open-YOLO 3D: Towards Fast and Accurate Open-Vocabulary 3D Instance Segmentation**|Mohamed El Amine Boudjoghra et.al.|[2406.02548](http://arxiv.org/abs/2406.02548)|**[link](https://github.com/aminebdj/openyolo3d)**|
 |**2024-06-05**|**Enhancing Temporal Consistency in Video Editing by Reconstructing Videos with 3D Gaussian Splatting**|Inkyu Shin et.al.|[2406.02541](http://arxiv.org/abs/2406.02541)|null|
 |**2024-06-04**|**Node-Level Topological Representation Learning on Point Clouds**|Vincent P. Grande et.al.|[2406.02300](http://arxiv.org/abs/2406.02300)|**[link](https://github.com/vincent-grande/topf)**|
 |**2024-06-04**|**M3DM-NR: RGB-3D Noisy-Resistant Industrial Anomaly Detection via Multimodal Denoising**|Chengjie Wang et.al.|[2406.02263](http://arxiv.org/abs/2406.02263)|null|
-|**2024-06-04**|**AROMA: Preserving Spatial Structure for Latent PDE Modeling with Local Neural Fields**|Louis Serrano et.al.|[2406.02176](http://arxiv.org/abs/2406.02176)|null|
+|**2024-06-05**|**AROMA: Preserving Spatial Structure for Latent PDE Modeling with Local Neural Fields**|Louis Serrano et.al.|[2406.02176](http://arxiv.org/abs/2406.02176)|null|
 |**2024-06-04**|**Radar Spectra-Language Model for Automotive Scene Parsing**|Mariia Pushkareva et.al.|[2406.02158](http://arxiv.org/abs/2406.02158)|null|
 |**2024-06-04**|**MS-Mapping: Multi-session LiDAR Mapping with Wasserstein-based Keyframe Selection**|Xiangcheng Hu et.al.|[2406.02096](http://arxiv.org/abs/2406.02096)|null|
 |**2024-06-04**|**FaceCom: Towards High-fidelity 3D Facial Shape Completion via Optimization and Inpainting Guidance**|Yinglong Li et.al.|[2406.02074](http://arxiv.org/abs/2406.02074)|**[link](https://github.com/dragonylee/facecom)**|
