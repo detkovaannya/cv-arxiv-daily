@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-06**|**Omni6DPose: A Benchmark and Model for Universal 6D Object Pose Estimation and Tracking**|Jiyao Zhang et.al.|[2406.04316](http://arxiv.org/abs/2406.04316)|null|
+|**2024-06-06**|**An FIO-based approach to $L^p$-bounds for the wave equation on $2$ -step Carnot groups: the case of Métivier groups**|Alessio Martini et.al.|[2406.04315](http://arxiv.org/abs/2406.04315)|null|
+|**2024-06-06**|**A Statistical Characterization of Wireless Channels Conditioned on Side Information**|Benedikt Böck et.al.|[2406.04282](http://arxiv.org/abs/2406.04282)|null|
+|**2024-06-06**|**Interfacing Gottesman-Kitaev-Preskill Qubits to Quantum Memories**|Prajit Dhara et.al.|[2406.04275](http://arxiv.org/abs/2406.04275)|null|
+|**2024-06-06**|**ELFS: Enhancing Label-Free Coreset Selection via Clustering-based Pseudo-Labeling**|Haizhong Zheng et.al.|[2406.04273](http://arxiv.org/abs/2406.04273)|null|
+|**2024-06-06**|**Systematic analysis of jellyfish galaxy candidates in Fornax, Antlia, and Hydra from the S-PLUS survey: A self-supervised visual identification aid**|Yash Gondhalekar et.al.|[2406.04213](http://arxiv.org/abs/2406.04213)|null|
+|**2024-06-06**|**Gaining Cross-Platform Parallelism for HAL's Molecular Dynamics Package using SYCL**|Viktor Skoblin et.al.|[2406.04210](http://arxiv.org/abs/2406.04210)|null|
+|**2024-06-06**|**Large-scale semi-discrete optimal transport with distributed Voronoi diagrams**|Bruno Lévy et.al.|[2406.04192](http://arxiv.org/abs/2406.04192)|null|
+|**2024-06-06**|**Repurposing Language Models into Embedding Models: Finding the Compute-Optimal Recipe**|Alicja Ziarko et.al.|[2406.04165](http://arxiv.org/abs/2406.04165)|null|
+|**2024-06-06**|**Contribution of young massive star clusters to Galactic diffuse $γ$ -ray emission**|Stefano Menchiari et.al.|[2406.04087](http://arxiv.org/abs/2406.04087)|null|
 |**2024-06-06**|**Seq1F1B: Efficient Sequence-Level Pipeline Parallelism for Large Language Model Training**|Ao Sun et.al.|[2406.03488](http://arxiv.org/abs/2406.03488)|null|
 |**2024-06-05**|**Lagrangian filtering for wave-mean flow decomposition**|Lois E. Baker et.al.|[2406.03477](http://arxiv.org/abs/2406.03477)|null|
 |**2024-06-05**|**On the use of quantality in nuclei and many-body systems**|J. -P. Ebran et.al.|[2406.03378](http://arxiv.org/abs/2406.03378)|null|
@@ -1420,6 +1430,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-06**|**GLACE: Global Local Accelerated Coordinate Encoding**|Fangjinhua Wang et.al.|[2406.04340](http://arxiv.org/abs/2406.04340)|**[link](https://github.com/cvg/glace)**|
 |**2024-06-05**|**L-PR: Exploiting LiDAR Fiducial Marker for Unordered Low Overlap Multiview Point Cloud Registration**|Yibo Liu et.al.|[2406.03298](http://arxiv.org/abs/2406.03298)|**[link](https://github.com/yorklyb/LiDAR-SFM)**|
 |**2024-06-05**|**FAPNet: An Effective Frequency Adaptive Point-based Eye Tracker**|Xiaopeng Lin et.al.|[2406.03177](http://arxiv.org/abs/2406.03177)|null|
 |**2024-06-06**|**Adapter-X: A Novel General Parameter-Efficient Fine-Tuning Framework for Vision**|Minglei Li et.al.|[2406.03051](http://arxiv.org/abs/2406.03051)|null|
