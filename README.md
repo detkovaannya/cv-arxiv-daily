@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.08
+## Updated on 2024.06.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -26,7 +26,7 @@
 |**2024-06-06**|**Systematic analysis of jellyfish galaxy candidates in Fornax, Antlia, and Hydra from the S-PLUS survey: A self-supervised visual identification aid**|Yash Gondhalekar et.al.|[2406.04213](http://arxiv.org/abs/2406.04213)|null|
 |**2024-06-06**|**Gaining Cross-Platform Parallelism for HAL's Molecular Dynamics Package using SYCL**|Viktor Skoblin et.al.|[2406.04210](http://arxiv.org/abs/2406.04210)|null|
 |**2024-06-06**|**Large-scale semi-discrete optimal transport with distributed Voronoi diagrams**|Bruno Lévy et.al.|[2406.04192](http://arxiv.org/abs/2406.04192)|null|
-|**2024-06-06**|**Repurposing Language Models into Embedding Models: Finding the Compute-Optimal Recipe**|Alicja Ziarko et.al.|[2406.04165](http://arxiv.org/abs/2406.04165)|null|
+|**2024-06-06**|**Repurposing Language Models into Embedding Models: Finding the Compute-Optimal Recipe**|Alicja Ziarko et.al.|[2406.04165](http://arxiv.org/abs/2406.04165)|**[link](https://github.com/SeqDM/Efficient-Embeddings)**|
 |**2024-06-06**|**Contribution of young massive star clusters to Galactic diffuse $γ$ -ray emission**|Stefano Menchiari et.al.|[2406.04087](http://arxiv.org/abs/2406.04087)|null|
 |**2024-06-06**|**Seq1F1B: Efficient Sequence-Level Pipeline Parallelism for Large Language Model Training**|Ao Sun et.al.|[2406.03488](http://arxiv.org/abs/2406.03488)|null|
 |**2024-06-05**|**Lagrangian filtering for wave-mean flow decomposition**|Lois E. Baker et.al.|[2406.03477](http://arxiv.org/abs/2406.03477)|null|
@@ -1430,7 +1430,7 @@
 |**2023-11-10**|**The First Verification Test of Space-Ground Collaborative Intelligence via Cloud-Native Satellites**|Shangguang Wang et.al.|[2311.06078](http://arxiv.org/abs/2311.06078)|null|
 |**2023-11-10**|**Collaborative Inference in DNN-based Satellite Systems with Dynamic Task Streams**|Jinglong Guan et.al.|[2311.06073](http://arxiv.org/abs/2311.06073)|null|
 
-<p align=right>(<a href=#updated-on-20240608>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240609>back to top</a>)</p>
 
 ## point cloud
 
@@ -2285,7 +2285,7 @@
 |**2023-11-08**|**VET: Visual Error Tomography for Point Cloud Completion and High-Quality Neural Rendering**|Linus Franke et.al.|[2311.04634](http://arxiv.org/abs/2311.04634)|**[link](https://github.com/lfranke/vet)**|
 |**2023-11-09**|**Rethinking Human Pose Estimation for Autonomous Driving with 3D Event Representations**|Xiaoting Yin et.al.|[2311.04591](http://arxiv.org/abs/2311.04591)|**[link](https://github.com/masterhow/eventpointpose)**|
 
-<p align=right>(<a href=#updated-on-20240608>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240609>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

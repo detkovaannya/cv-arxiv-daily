@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.08
+## Updated on 2024.06.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## clustering
@@ -22,7 +22,7 @@ layout: default
 |**2024-06-06**|**Systematic analysis of jellyfish galaxy candidates in Fornax, Antlia, and Hydra from the S-PLUS survey: A self-supervised visual identification aid**|Yash Gondhalekar et.al.|[2406.04213](http://arxiv.org/abs/2406.04213)|null|
 |**2024-06-06**|**Gaining Cross-Platform Parallelism for HAL's Molecular Dynamics Package using SYCL**|Viktor Skoblin et.al.|[2406.04210](http://arxiv.org/abs/2406.04210)|null|
 |**2024-06-06**|**Large-scale semi-discrete optimal transport with distributed Voronoi diagrams**|Bruno Lévy et.al.|[2406.04192](http://arxiv.org/abs/2406.04192)|null|
-|**2024-06-06**|**Repurposing Language Models into Embedding Models: Finding the Compute-Optimal Recipe**|Alicja Ziarko et.al.|[2406.04165](http://arxiv.org/abs/2406.04165)|null|
+|**2024-06-06**|**Repurposing Language Models into Embedding Models: Finding the Compute-Optimal Recipe**|Alicja Ziarko et.al.|[2406.04165](http://arxiv.org/abs/2406.04165)|**[link](https://github.com/SeqDM/Efficient-Embeddings)**|
 |**2024-06-06**|**Contribution of young massive star clusters to Galactic diffuse $γ$ -ray emission**|Stefano Menchiari et.al.|[2406.04087](http://arxiv.org/abs/2406.04087)|null|
 |**2024-06-06**|**Seq1F1B: Efficient Sequence-Level Pipeline Parallelism for Large Language Model Training**|Ao Sun et.al.|[2406.03488](http://arxiv.org/abs/2406.03488)|null|
 |**2024-06-05**|**Lagrangian filtering for wave-mean flow decomposition**|Lois E. Baker et.al.|[2406.03477](http://arxiv.org/abs/2406.03477)|null|
