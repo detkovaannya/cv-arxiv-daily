@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-07**|**Towards Semantic Equivalence of Tokenization in Multimodal LLM**|Shengqiong Wu et.al.|[2406.05127](http://arxiv.org/abs/2406.05127)|null|
+|**2024-06-07**|**Cosmological parameters from the joint analysis of Density Split and Second Order Statistics: an Emulator based on the Halo Occupation Distribution**|Pierre A. Burger et.al.|[2406.05098](http://arxiv.org/abs/2406.05098)|null|
+|**2024-06-07**|**Comprehensive description of color centers by wave function theory: a CASSCF-NEVPT2 study of the NV defect in diamond**|Zsolt Benedek et.al.|[2406.05092](http://arxiv.org/abs/2406.05092)|null|
+|**2024-06-07**|**Searching for stellar population in the molecular cloud GRSMC 045.49+00.04**|N. Azatyan et.al.|[2406.05091](http://arxiv.org/abs/2406.05091)|null|
+|**2024-06-07**|**Efficient Centroid-Linkage Clustering**|MohammadHossein Bateni et.al.|[2406.05066](http://arxiv.org/abs/2406.05066)|null|
+|**2024-06-07**|**The formation and survival of cold gas in a magnetized cool-core galaxy cluster**|Martin Fournier et.al.|[2406.05044](http://arxiv.org/abs/2406.05044)|null|
+|**2024-06-07**|**Diversity in Fermi/GBM Gamma Ray Bursts: New insights from Machine Learning**|Dimple et.al.|[2406.05005](http://arxiv.org/abs/2406.05005)|null|
+|**2024-06-07**|**Quantum hardware demonstrations of relativistic calculations of molecular electric dipole moments: from light to heavy systems using Variational Quantum Eigensolver**|Palak Chawla et.al.|[2406.04992](http://arxiv.org/abs/2406.04992)|null|
+|**2024-06-07**|**M17 MIR: A Massive Star is Forming via Episodic Mass Accretion**|Wei Zhou et.al.|[2406.04980](http://arxiv.org/abs/2406.04980)|null|
+|**2024-06-07**|**Fast Brownian cluster dynamics**|Alexander P. Antonov et.al.|[2406.04972](http://arxiv.org/abs/2406.04972)|null|
 |**2024-06-06**|**Omni6DPose: A Benchmark and Model for Universal 6D Object Pose Estimation and Tracking**|Jiyao Zhang et.al.|[2406.04316](http://arxiv.org/abs/2406.04316)|null|
 |**2024-06-07**|**An FIO-based approach to $L^p$-bounds for the wave equation on $2$ -step Carnot groups: the case of Métivier groups**|Alessio Martini et.al.|[2406.04315](http://arxiv.org/abs/2406.04315)|null|
 |**2024-06-06**|**A Statistical Characterization of Wireless Channels Conditioned on Side Information**|Benedikt Böck et.al.|[2406.04282](http://arxiv.org/abs/2406.04282)|null|
@@ -1436,6 +1446,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-07**|**Progressive Entropic Optimal Transport Solvers**|Parnian Kassraie et.al.|[2406.05061](http://arxiv.org/abs/2406.05061)|null|
+|**2024-06-07**|**Efficient 3D Shape Generation via Diffusion Mamba with Bidirectional SSMs**|Shentong Mo et.al.|[2406.05038](http://arxiv.org/abs/2406.05038)|null|
+|**2024-06-07**|**3DRealCar: An In-the-wild RGB-D Car Dataset with 360-degree Views**|Xiaobiao Du et.al.|[2406.04875](http://arxiv.org/abs/2406.04875)|null|
+|**2024-06-07**|**A Deep Automotive Radar Detector using the RaDelft Dataset**|Ignacio Roldan et.al.|[2406.04723](http://arxiv.org/abs/2406.04723)|null|
+|**2024-06-06**|**DeTra: A Unified Model for Object Detection and Trajectory Forecasting**|Sergio Casas et.al.|[2406.04426](http://arxiv.org/abs/2406.04426)|null|
 |**2024-06-06**|**GLACE: Global Local Accelerated Coordinate Encoding**|Fangjinhua Wang et.al.|[2406.04340](http://arxiv.org/abs/2406.04340)|**[link](https://github.com/cvg/glace)**|
 |**2024-06-05**|**L-PR: Exploiting LiDAR Fiducial Marker for Unordered Low Overlap Multiview Point Cloud Registration**|Yibo Liu et.al.|[2406.03298](http://arxiv.org/abs/2406.03298)|**[link](https://github.com/yorklyb/LiDAR-SFM)**|
 |**2024-06-05**|**FAPNet: An Effective Frequency Adaptive Point-based Eye Tracker**|Xiaopeng Lin et.al.|[2406.03177](http://arxiv.org/abs/2406.03177)|null|
