@@ -28,7 +28,7 @@
 |**2024-06-06**|**Large-scale semi-discrete optimal transport with distributed Voronoi diagrams**|Bruno Lévy et.al.|[2406.04192](http://arxiv.org/abs/2406.04192)|null|
 |**2024-06-06**|**Repurposing Language Models into Embedding Models: Finding the Compute-Optimal Recipe**|Alicja Ziarko et.al.|[2406.04165](http://arxiv.org/abs/2406.04165)|**[link](https://github.com/SeqDM/Efficient-Embeddings)**|
 |**2024-06-06**|**Contribution of young massive star clusters to Galactic diffuse $γ$ -ray emission**|Stefano Menchiari et.al.|[2406.04087](http://arxiv.org/abs/2406.04087)|null|
-|**2024-06-06**|**Seq1F1B: Efficient Sequence-Level Pipeline Parallelism for Large Language Model Training**|Ao Sun et.al.|[2406.03488](http://arxiv.org/abs/2406.03488)|null|
+|**2024-06-06**|**Seq1F1B: Efficient Sequence-Level Pipeline Parallelism for Large Language Model Training**|Ao Sun et.al.|[2406.03488](http://arxiv.org/abs/2406.03488)|**[link](https://github.com/maydomine/seq1f1b)**|
 |**2024-06-05**|**Lagrangian filtering for wave-mean flow decomposition**|Lois E. Baker et.al.|[2406.03477](http://arxiv.org/abs/2406.03477)|null|
 |**2024-06-05**|**On the use of quantality in nuclei and many-body systems**|J. -P. Ebran et.al.|[2406.03378](http://arxiv.org/abs/2406.03378)|null|
 |**2024-06-05**|**Positivity for quantum cluster algebras from orbifolds**|Min Huang et.al.|[2406.03362](http://arxiv.org/abs/2406.03362)|null|
@@ -44,15 +44,15 @@
 |**2024-06-04**|**FedDr+: Stabilizing Dot-regression with Global Feature Distillation for Federated Learning**|Seongyoon Kim et.al.|[2406.02355](http://arxiv.org/abs/2406.02355)|null|
 |**2024-06-05**|**Incorporating Navigation Context into Inland Vessel Trajectory Prediction: A Gaussian Mixture Model and Transformer Approach**|Kathrin Donandt et.al.|[2406.02344](http://arxiv.org/abs/2406.02344)|null|
 |**2024-06-04**|**Cluster-Aware Similarity Diffusion for Instance Retrieval**|Jifei Luo et.al.|[2406.02343](http://arxiv.org/abs/2406.02343)|null|
-|**2024-06-04**|**PeFAD: A Parameter-Efficient Federated Framework for Time Series Anomaly Detection**|Ronghui Xu et.al.|[2406.02318](http://arxiv.org/abs/2406.02318)|null|
+|**2024-06-04**|**PeFAD: A Parameter-Efficient Federated Framework for Time Series Anomaly Detection**|Ronghui Xu et.al.|[2406.02318](http://arxiv.org/abs/2406.02318)|**[link](https://github.com/xu737/PeFAD)**|
 |**2024-06-04**|**Fast and Secure Decentralized Optimistic Rollups Using Setchain**|Margarita Capretto et.al.|[2406.02316](http://arxiv.org/abs/2406.02316)|null|
 |**2024-06-04**|**Towards Supervised Performance on Speaker Verification with Self-Supervised Learning by Leveraging Large-Scale ASR Models**|Victor Miara et.al.|[2406.02285](http://arxiv.org/abs/2406.02285)|null|
-|**2024-06-04**|**Analyzing the Benefits of Prototypes for Semi-Supervised Category Learning**|Liyi Zhang et.al.|[2406.02268](http://arxiv.org/abs/2406.02268)|null|
+|**2024-06-04**|**Analyzing the Benefits of Prototypes for Semi-Supervised Category Learning**|Liyi Zhang et.al.|[2406.02268](http://arxiv.org/abs/2406.02268)|**[link](https://github.com/zhang-liyi/vampprior-prototype)**|
 |**2024-05-31**|**The Velocity Dispersion Function for Quiescent Galaxies in Massive Clusters from IllustrisTNG**|Jubee Sohn et.al.|[2405.21076](http://arxiv.org/abs/2405.21076)|null|
 |**2024-05-31**|**Comparing information content of representation spaces for disentanglement with VAE ensembles**|Kieran A. Murphy et.al.|[2405.21042](http://arxiv.org/abs/2405.21042)|**[link](https://github.com/murphyka/representation-space-info-comparison)**|
 |**2024-05-31**|**On reduction and parameter recovering of Petri's cycloids**|Rüdiger Valk et.al.|[2405.21025](http://arxiv.org/abs/2405.21025)|null|
 |**2024-05-31**|**Bayesian Estimation of Hierarchical Linear Models from Incomplete Data: Cluster-Level Interaction Effects and Small Sample Sizes**|Dongho Shin et.al.|[2405.21020](http://arxiv.org/abs/2405.21020)|null|
-|**2024-05-31**|**The rising costs of training frontier AI models**|Ben Cottier et.al.|[2405.21015](http://arxiv.org/abs/2405.21015)|null|
+|**2024-05-31**|**The rising costs of training frontier AI models**|Ben Cottier et.al.|[2405.21015](http://arxiv.org/abs/2405.21015)|**[link](https://github.com/epoch-research/training-cost-trends)**|
 |**2024-05-31**|**FunLess: Functions-as-a-Service for Private Edge Cloud Systems**|Giuseppe De Palma et.al.|[2405.21009](http://arxiv.org/abs/2405.21009)|null|
 |**2024-05-31**|**The Renormalization Group for Large-Scale Structure: Primordial non-Gaussianities**|Charalampos Nikolis et.al.|[2405.21002](http://arxiv.org/abs/2405.21002)|null|
 |**2024-05-31**|**Quantum Information Processing with Molecular Nanomagnets: an introduction**|Alessandro Chiesa et.al.|[2405.21000](http://arxiv.org/abs/2405.21000)|null|
@@ -90,14 +90,14 @@
 |**2024-05-28**|**FAST Discovery of Eight Isolated Millisecond Pulsars in NGC 6517**|Dejiang Yin et.al.|[2405.18228](http://arxiv.org/abs/2405.18228)|null|
 |**2024-05-27**|**NV-Embed: Improved Techniques for Training LLMs as Generalist Embedding Models**|Chankyu Lee et.al.|[2405.17428](http://arxiv.org/abs/2405.17428)|null|
 |**2024-05-27**|**Critical one-arm probability for the metric Gaussian free field in low dimensions**|Alexander Drewitz et.al.|[2405.17417](http://arxiv.org/abs/2405.17417)|null|
-|**2024-05-27**|**The Peripatetic Hater: Predicting Movement Among Hate Subreddits**|Daniel Hickey et.al.|[2405.17410](http://arxiv.org/abs/2405.17410)|null|
-|**2024-05-27**|**Optimized thread-block arrangement in a GPU implementation of a linear solver for atmospheric chemistry mechanisms**|Christian Guzman Ruiz et.al.|[2405.17363](http://arxiv.org/abs/2405.17363)|null|
+|**2024-05-27**|**The Peripatetic Hater: Predicting Movement Among Hate Subreddits**|Daniel Hickey et.al.|[2405.17410](http://arxiv.org/abs/2405.17410)|**[link](https://github.com/dan-hickey1/peripatetic-hater)**|
+|**2024-05-27**|**Optimized thread-block arrangement in a GPU implementation of a linear solver for atmospheric chemistry mechanisms**|Christian Guzman Ruiz et.al.|[2405.17363](http://arxiv.org/abs/2405.17363)|**[link](https://github.com/open-atmos/camp)**|
 |**2024-05-27**|**EPOCHS Paper X: Environmental effects on Galaxy Formation and Protocluster Galaxy candidates at $4.5<z<10$ from JWST observations**|Qiong Li et.al.|[2405.17359](http://arxiv.org/abs/2405.17359)|null|
 |**2024-05-27**|**Metric structural human connectomes: localization and multifractality of eigenmodes**|Anna Bobyleva et.al.|[2405.17349](http://arxiv.org/abs/2405.17349)|null|
 |**2024-05-27**|**From Seed to Supermassive Black Holes: Capture, Growth, Migration, and Pairing in Dense Proto-Bulge Environments**|Yanlong Shi et.al.|[2405.17338](http://arxiv.org/abs/2405.17338)|null|
 |**2024-05-27**|**Cost-efficient Knowledge-based Question Answering with Large Language Models**|Junnan Dong et.al.|[2405.17337](http://arxiv.org/abs/2405.17337)|null|
 |**2024-05-27**|**Novel Approaches for ML-Assisted Particle Track Reconstruction and Hit Clustering**|Uraz Odyurt et.al.|[2405.17325](http://arxiv.org/abs/2405.17325)|null|
-|**2024-05-27**|**Evaluation of computational and energy performance in matrix multiplication algorithms on CPU and GPU using MKL, cuBLAS and SYCL**|L. A. Torres et.al.|[2405.17322](http://arxiv.org/abs/2405.17322)|null|
+|**2024-05-27**|**Evaluation of computational and energy performance in matrix multiplication algorithms on CPU and GPU using MKL, cuBLAS and SYCL**|L. A. Torres et.al.|[2405.17322](http://arxiv.org/abs/2405.17322)|**[link](https://github.com/alejandrotorresn/MatMul)**|
 |**2024-05-24**|**Sparse Expansion and Neuronal Disentanglement**|Shashata Sawmya et.al.|[2405.15756](http://arxiv.org/abs/2405.15756)|null|
 |**2024-05-24**|**Collaborative Access Control for IoT -- A Blockchain Approach**|Yongtao Huang et.al.|[2405.15749](http://arxiv.org/abs/2405.15749)|null|
 |**2024-05-24**|**Characterizing Discourse Group Roles in Inquiry-based University Science Labs**|Tong Wan et.al.|[2405.15746](http://arxiv.org/abs/2405.15746)|null|
@@ -154,7 +154,7 @@
 |**2024-05-16**|**ENADPool: The Edge-Node Attention-based Differentiable Pooling for Graph Neural Networks**|Zhehan Zhao et.al.|[2405.10218](http://arxiv.org/abs/2405.10218)|null|
 |**2024-05-16**|**PIR: Remote Sensing Image-Text Retrieval with Prior Instruction Representation Learning**|Jiancheng Pan et.al.|[2405.10160](http://arxiv.org/abs/2405.10160)|**[link](https://github.com/jaychempan/pir-clip)**|
 |**2024-05-16**|**PL-MTEB: Polish Massive Text Embedding Benchmark**|Rafał Poświata et.al.|[2405.10138](http://arxiv.org/abs/2405.10138)|**[link](https://github.com/rafalposwiata/pl-mteb)**|
-|**2024-05-16**|**Trusting the Cloud-Native Edge: Remotely Attested Kubernetes Workers**|Jordi Thijsman et.al.|[2405.10131](http://arxiv.org/abs/2405.10131)|null|
+|**2024-05-16**|**Trusting the Cloud-Native Edge: Remotely Attested Kubernetes Workers**|Jordi Thijsman et.al.|[2405.10131](http://arxiv.org/abs/2405.10131)|**[link](https://github.com/idlab-discover/trust-edge)**|
 |**2024-05-16**|**Asynchronous Federated Stochastic Optimization with Exact Averaging for Heterogeneous Local Objectives**|Charikleia Iakovidou et.al.|[2405.10123](http://arxiv.org/abs/2405.10123)|null|
 |**2024-05-16**|**The Effect of Quantization in Federated Learning: A Rényi Differential Privacy Perspective**|Tianqu Kang et.al.|[2405.10096](http://arxiv.org/abs/2405.10096)|null|
 |**2024-05-16**|**Spurious reconstruction from brain activity**|Ken Shirakawa et.al.|[2405.10078](http://arxiv.org/abs/2405.10078)|**[link](https://github.com/KamitaniLab/GOD_stimuli_annotations)**|
@@ -1448,7 +1448,7 @@
 |**2024-06-04**|**M3DM-NR: RGB-3D Noisy-Resistant Industrial Anomaly Detection via Multimodal Denoising**|Chengjie Wang et.al.|[2406.02263](http://arxiv.org/abs/2406.02263)|null|
 |**2024-06-05**|**AROMA: Preserving Spatial Structure for Latent PDE Modeling with Local Neural Fields**|Louis Serrano et.al.|[2406.02176](http://arxiv.org/abs/2406.02176)|null|
 |**2024-06-04**|**Radar Spectra-Language Model for Automotive Scene Parsing**|Mariia Pushkareva et.al.|[2406.02158](http://arxiv.org/abs/2406.02158)|null|
-|**2024-06-04**|**MS-Mapping: Multi-session LiDAR Mapping with Wasserstein-based Keyframe Selection**|Xiangcheng Hu et.al.|[2406.02096](http://arxiv.org/abs/2406.02096)|null|
+|**2024-06-04**|**MS-Mapping: Multi-session LiDAR Mapping with Wasserstein-based Keyframe Selection**|Xiangcheng Hu et.al.|[2406.02096](http://arxiv.org/abs/2406.02096)|**[link](https://github.com/jokerjohn/ms-mapping)**|
 |**2024-06-04**|**FaceCom: Towards High-fidelity 3D Facial Shape Completion via Optimization and Inpainting Guidance**|Yinglong Li et.al.|[2406.02074](http://arxiv.org/abs/2406.02074)|**[link](https://github.com/dragonylee/facecom)**|
 |**2024-06-04**|**OpenGaussian: Towards Point-Level 3D Gaussian-based Open Vocabulary Understanding**|Yanmin Wu et.al.|[2406.02058](http://arxiv.org/abs/2406.02058)|null|
 |**2024-06-04**|**Bayesian Mesh Optimization for Graph Neural Networks to Enhance Engineering Performance Prediction**|Jangseop Park et.al.|[2406.01996](http://arxiv.org/abs/2406.01996)|null|
@@ -1969,7 +1969,7 @@
 |**2024-02-05**|**A Lennard-Jones Layer for Distribution Normalization**|Mulun Na et.al.|[2402.03287](http://arxiv.org/abs/2402.03287)|null|
 |**2024-02-05**|**DexDiffuser: Generating Dexterous Grasps with Diffusion Models**|Zehang Weng et.al.|[2402.02989](http://arxiv.org/abs/2402.02989)|null|
 |**2024-02-04**|**Point Cloud Matters: Rethinking the Impact of Different Observation Spaces on Robot Learning**|Haoyi Zhu et.al.|[2402.02500](http://arxiv.org/abs/2402.02500)|null|
-|**2024-02-04**|**Weisfeiler Leman for Euclidean Equivariant Machine Learning**|Snir Hordan et.al.|[2402.02484](http://arxiv.org/abs/2402.02484)|null|
+|**2024-02-04**|**Weisfeiler Leman for Euclidean Equivariant Machine Learning**|Snir Hordan et.al.|[2402.02484](http://arxiv.org/abs/2402.02484)|**[link](https://github.com/intellifinder/welnet)**|
 |**2024-02-03**|**RecNet: An Invertible Point Cloud Encoding through Range Image Embeddings for Multi-Robot Map Sharing and Reconstruction**|Nikolaos Stathoulopoulos et.al.|[2402.02192](http://arxiv.org/abs/2402.02192)|null|
 |**2024-02-03**|**DCS-Net: Pioneering Leakage-Free Point Cloud Pretraining Framework with Global Insights**|Zhe Li et.al.|[2402.02088](http://arxiv.org/abs/2402.02088)|null|
 |**2024-02-02**|**Surface Reconstruction Using Rotation Systems**|Ruiqi Cui et.al.|[2402.01893](http://arxiv.org/abs/2402.01893)|null|
