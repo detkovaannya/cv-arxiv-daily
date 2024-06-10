@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.09
+## Updated on 2024.06.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,7 +19,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-06-06**|**Omni6DPose: A Benchmark and Model for Universal 6D Object Pose Estimation and Tracking**|Jiyao Zhang et.al.|[2406.04316](http://arxiv.org/abs/2406.04316)|null|
-|**2024-06-06**|**An FIO-based approach to $L^p$-bounds for the wave equation on $2$ -step Carnot groups: the case of Métivier groups**|Alessio Martini et.al.|[2406.04315](http://arxiv.org/abs/2406.04315)|null|
+|**2024-06-07**|**An FIO-based approach to $L^p$-bounds for the wave equation on $2$ -step Carnot groups: the case of Métivier groups**|Alessio Martini et.al.|[2406.04315](http://arxiv.org/abs/2406.04315)|null|
 |**2024-06-06**|**A Statistical Characterization of Wireless Channels Conditioned on Side Information**|Benedikt Böck et.al.|[2406.04282](http://arxiv.org/abs/2406.04282)|null|
 |**2024-06-06**|**Interfacing Gottesman-Kitaev-Preskill Qubits to Quantum Memories**|Prajit Dhara et.al.|[2406.04275](http://arxiv.org/abs/2406.04275)|null|
 |**2024-06-06**|**ELFS: Enhancing Label-Free Coreset Selection via Clustering-based Pseudo-Labeling**|Haizhong Zheng et.al.|[2406.04273](http://arxiv.org/abs/2406.04273)|null|
@@ -1430,7 +1430,7 @@
 |**2023-11-10**|**The First Verification Test of Space-Ground Collaborative Intelligence via Cloud-Native Satellites**|Shangguang Wang et.al.|[2311.06078](http://arxiv.org/abs/2311.06078)|null|
 |**2023-11-10**|**Collaborative Inference in DNN-based Satellite Systems with Dynamic Task Streams**|Jinglong Guan et.al.|[2311.06073](http://arxiv.org/abs/2311.06073)|null|
 
-<p align=right>(<a href=#updated-on-20240609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240610>back to top</a>)</p>
 
 ## point cloud
 
@@ -2285,7 +2285,7 @@
 |**2023-11-08**|**VET: Visual Error Tomography for Point Cloud Completion and High-Quality Neural Rendering**|Linus Franke et.al.|[2311.04634](http://arxiv.org/abs/2311.04634)|**[link](https://github.com/lfranke/vet)**|
 |**2023-11-09**|**Rethinking Human Pose Estimation for Autonomous Driving with 3D Event Representations**|Xiaoting Yin et.al.|[2311.04591](http://arxiv.org/abs/2311.04591)|**[link](https://github.com/masterhow/eventpointpose)**|
 
-<p align=right>(<a href=#updated-on-20240609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240610>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

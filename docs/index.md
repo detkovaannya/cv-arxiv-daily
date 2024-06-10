@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.09
+## Updated on 2024.06.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## clustering
@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-06**|**Omni6DPose: A Benchmark and Model for Universal 6D Object Pose Estimation and Tracking**|Jiyao Zhang et.al.|[2406.04316](http://arxiv.org/abs/2406.04316)|null|
-|**2024-06-06**|**An FIO-based approach to $L^p$-bounds for the wave equation on $2$ -step Carnot groups: the case of Métivier groups**|Alessio Martini et.al.|[2406.04315](http://arxiv.org/abs/2406.04315)|null|
+|**2024-06-07**|**An FIO-based approach to $L^p$-bounds for the wave equation on $2$ -step Carnot groups: the case of Métivier groups**|Alessio Martini et.al.|[2406.04315](http://arxiv.org/abs/2406.04315)|null|
 |**2024-06-06**|**A Statistical Characterization of Wireless Channels Conditioned on Side Information**|Benedikt Böck et.al.|[2406.04282](http://arxiv.org/abs/2406.04282)|null|
 |**2024-06-06**|**Interfacing Gottesman-Kitaev-Preskill Qubits to Quantum Memories**|Prajit Dhara et.al.|[2406.04275](http://arxiv.org/abs/2406.04275)|null|
 |**2024-06-06**|**ELFS: Enhancing Label-Free Coreset Selection via Clustering-based Pseudo-Labeling**|Haizhong Zheng et.al.|[2406.04273](http://arxiv.org/abs/2406.04273)|null|
