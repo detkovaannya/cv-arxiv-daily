@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.11
+## Updated on 2024.06.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -24,7 +24,7 @@
 |**2024-06-10**|**Messengers: Breaking Echo Chambers in Collective Opinion Dynamics with Homophily**|Mohsen Raoufi et.al.|[2406.06440](http://arxiv.org/abs/2406.06440)|null|
 |**2024-06-10**|**Early Acceptance Matching Game for User-Centric Clustering in Scalable Cell-free MIMO Networks**|Ala Eddine Nouali et.al.|[2406.06402](http://arxiv.org/abs/2406.06402)|null|
 |**2024-06-10**|**Tackling Delayed CSI in a Distributed Multi-Satellite MIMO Communication System**|Yasaman Omid et.al.|[2406.06392](http://arxiv.org/abs/2406.06392)|null|
-|**2024-06-10**|**mHuBERT-147: A Compact Multilingual HuBERT Model**|Marcely Zanon Boito et.al.|[2406.06371](http://arxiv.org/abs/2406.06371)|null|
+|**2024-06-10**|**mHuBERT-147: A Compact Multilingual HuBERT Model**|Marcely Zanon Boito et.al.|[2406.06371](http://arxiv.org/abs/2406.06371)|**[link](https://github.com/utter-project/fairseq)**|
 |**2024-06-10**|**Causal Discovery over High-Dimensional Structured Hypothesis Spaces with Causal Graph Partitioning**|Ashka Shah et.al.|[2406.06348](http://arxiv.org/abs/2406.06348)|null|
 |**2024-06-10**|**Should my Blockchain Learn to Drive? A Study of Hyperledger Fabric**|Jeeta Ann Chacko et.al.|[2406.06318](http://arxiv.org/abs/2406.06318)|null|
 |**2024-06-10**|**PowerInfer-2: Fast Large Language Model Inference on a Smartphone**|Zhenliang Xue et.al.|[2406.06282](http://arxiv.org/abs/2406.06282)|null|
@@ -1450,7 +1450,7 @@
 |**2023-11-10**|**The First Verification Test of Space-Ground Collaborative Intelligence via Cloud-Native Satellites**|Shangguang Wang et.al.|[2311.06078](http://arxiv.org/abs/2311.06078)|null|
 |**2023-11-10**|**Collaborative Inference in DNN-based Satellite Systems with Dynamic Task Streams**|Jinglong Guan et.al.|[2311.06073](http://arxiv.org/abs/2311.06073)|null|
 
-<p align=right>(<a href=#updated-on-20240611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240612>back to top</a>)</p>
 
 ## point cloud
 
@@ -1460,7 +1460,7 @@
 |**2024-06-10**|**PointABM:Integrating Bidirectional State Space Model with Multi-Head Self-Attention for Point Cloud Analysis**|Jia-wei Chen et.al.|[2406.06069](http://arxiv.org/abs/2406.06069)|null|
 |**2024-06-09**|**Bits-to-Photon: End-to-End Learned Scalable Point Cloud Compression for Direct Rendering**|Yueyu Hu et.al.|[2406.05915](http://arxiv.org/abs/2406.05915)|null|
 |**2024-06-09**|**A Survey on Text-guided 3D Visual Grounding: Elements, Recent Advances, and Future Directions**|Daizong Liu et.al.|[2406.05785](http://arxiv.org/abs/2406.05785)|**[link](https://github.com/liudaizong/awesome-3d-visual-grounding)**|
-|**2024-06-09**|**Grounding Continuous Representations in Geometry: Equivariant Neural Fields**|David R Wessels et.al.|[2406.05753](http://arxiv.org/abs/2406.05753)|null|
+|**2024-06-11**|**Grounding Continuous Representations in Geometry: Equivariant Neural Fields**|David R Wessels et.al.|[2406.05753](http://arxiv.org/abs/2406.05753)|null|
 |**2024-06-08**|**PAPR in Motion: Seamless Point-level 3D Scene Interpolation**|Shichong Peng et.al.|[2406.05533](http://arxiv.org/abs/2406.05533)|null|
 |**2024-06-08**|**Mean-field Chaos Diffusion Models**|Sungwoo Park et.al.|[2406.05396](http://arxiv.org/abs/2406.05396)|null|
 |**2024-06-07**|**Split-and-Fit: Learning B-Reps via Structure-Aware Voronoi Partitioning**|Yilin Liu et.al.|[2406.05261](http://arxiv.org/abs/2406.05261)|**[link](https://github.com/yilinliu77/nvdnet)**|
@@ -2318,7 +2318,7 @@
 |**2023-11-08**|**VET: Visual Error Tomography for Point Cloud Completion and High-Quality Neural Rendering**|Linus Franke et.al.|[2311.04634](http://arxiv.org/abs/2311.04634)|**[link](https://github.com/lfranke/vet)**|
 |**2023-11-09**|**Rethinking Human Pose Estimation for Autonomous Driving with 3D Event Representations**|Xiaoting Yin et.al.|[2311.04591](http://arxiv.org/abs/2311.04591)|**[link](https://github.com/masterhow/eventpointpose)**|
 
-<p align=right>(<a href=#updated-on-20240611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240612>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
