@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-12**|**A suite of classical Cepheids tied to the binary cluster Berkeley 58 \& NGC 7790**|Daniel Majaess et.al.|[2406.08483](http://arxiv.org/abs/2406.08483)|null|
+|**2024-06-12**|**Improving LLMs for Recommendation with Out-Of-Vocabulary Tokens**|Ting-Ji Huang et.al.|[2406.08477](http://arxiv.org/abs/2406.08477)|null|
+|**2024-06-12**|**Nonconvex Federated Learning on Compact Smooth Submanifolds With Heterogeneous Data**|Jiaojiao Zhang et.al.|[2406.08465](http://arxiv.org/abs/2406.08465)|null|
+|**2024-06-12**|**Detection of Open Cluster Members Inside and Beyond Tidal Radius by Machine Learning Methods Based on Gaia DR3**|Mohammad Noormohammadi Mehdi Khakian Ghomi Atefeh Javadi et.al.|[2406.08450](http://arxiv.org/abs/2406.08450)|null|
+|**2024-06-12**|**The unresolved mystery of dust particle swarms within the magnetosphere**|Max Sommer et.al.|[2406.08376](http://arxiv.org/abs/2406.08376)|null|
+|**2024-06-12**|**Enhancing Cosmological Model Selection with Interpretable Machine Learning**|Indira Ocampo et.al.|[2406.08351](http://arxiv.org/abs/2406.08351)|null|
+|**2024-06-12**|**ProTrain: Efficient LLM Training via Memory-Aware Techniques**|Hanmei Yang et.al.|[2406.08334](http://arxiv.org/abs/2406.08334)|null|
+|**2024-06-12**|**GPU-accelerated Auxiliary-field quantum Monte Carlo with multi-Slater determinant trial states**|Yifei Huang et.al.|[2406.08314](http://arxiv.org/abs/2406.08314)|null|
+|**2024-06-12**|**GraphFM: A Comprehensive Benchmark for Graph Foundation Model**|Yuhao Xu et.al.|[2406.08310](http://arxiv.org/abs/2406.08310)|**[link](https://github.com/nyushcs/graphfm)**|
+|**2024-06-12**|**Dynamical evolution of social network polarization and its impact on the propagation of a virus**|Ixandra Achitouv et.al.|[2406.08299](http://arxiv.org/abs/2406.08299)|null|
 |**2024-06-11**|**Interacting-bath dynamical embedding for capturing non-local electron correlation in solids**|Jiachen Li et.al.|[2406.07531](http://arxiv.org/abs/2406.07531)|null|
 |**2024-06-11**|**COMAP Pathfinder -- Season 2 results III. Implications for cosmic molecular gas content at "Cosmic Half-past Eleven"**|D. T. Chung et.al.|[2406.07512](http://arxiv.org/abs/2406.07512)|null|
 |**2024-06-11**|**Choreographing the Rhythms of Observation: Dynamics for Ranged Observer Bipartite-Unipartite SpatioTemporal (ROBUST) Networks**|Ted Edward Holmberg et.al.|[2406.07473](http://arxiv.org/abs/2406.07473)|null|
@@ -1460,6 +1470,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-12**|**CT3D++: Improving 3D Object Detection with Keypoint-induced Channel-wise Transformer**|Hualian Sheng et.al.|[2406.08152](http://arxiv.org/abs/2406.08152)|null|
+|**2024-06-12**|**IFTD: Image Feature Triangle Descriptor for Loop Detection in Driving Scenes**|Fengtian Lang et.al.|[2406.07937](http://arxiv.org/abs/2406.07937)|null|
+|**2024-06-12**|**Micro-expression recognition based on depth map to point cloud**|Ren Zhang et.al.|[2406.07918](http://arxiv.org/abs/2406.07918)|null|
 |**2024-06-11**|**Embedded Graph Convolutional Networks for Real-Time Event Data Processing on SoC FPGAs**|Kamil Jeziorek et.al.|[2406.07318](http://arxiv.org/abs/2406.07318)|null|
 |**2024-06-10**|**PGSR: Planar-based Gaussian Splatting for Efficient and High-Fidelity Surface Reconstruction**|Danpeng Chen et.al.|[2406.06521](http://arxiv.org/abs/2406.06521)|null|
 |**2024-06-10**|**PointABM:Integrating Bidirectional State Space Model with Multi-Head Self-Attention for Point Cloud Analysis**|Jia-wei Chen et.al.|[2406.06069](http://arxiv.org/abs/2406.06069)|null|
