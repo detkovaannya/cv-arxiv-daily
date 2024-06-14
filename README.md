@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.13
+## Updated on 2024.06.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1470,14 +1470,14 @@
 |**2023-11-10**|**The First Verification Test of Space-Ground Collaborative Intelligence via Cloud-Native Satellites**|Shangguang Wang et.al.|[2311.06078](http://arxiv.org/abs/2311.06078)|null|
 |**2023-11-10**|**Collaborative Inference in DNN-based Satellite Systems with Dynamic Task Streams**|Jinglong Guan et.al.|[2311.06073](http://arxiv.org/abs/2311.06073)|null|
 
-<p align=right>(<a href=#updated-on-20240613>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240614>back to top</a>)</p>
 
 ## point cloud
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-06-12**|**CT3D++: Improving 3D Object Detection with Keypoint-induced Channel-wise Transformer**|Hualian Sheng et.al.|[2406.08152](http://arxiv.org/abs/2406.08152)|null|
-|**2024-06-12**|**IFTD: Image Feature Triangle Descriptor for Loop Detection in Driving Scenes**|Fengtian Lang et.al.|[2406.07937](http://arxiv.org/abs/2406.07937)|null|
+|**2024-06-12**|**IFTD: Image Feature Triangle Descriptor for Loop Detection in Driving Scenes**|Fengtian Lang et.al.|[2406.07937](http://arxiv.org/abs/2406.07937)|**[link](https://github.com/EinsTian1/iftd)**|
 |**2024-06-12**|**Micro-expression recognition based on depth map to point cloud**|Ren Zhang et.al.|[2406.07918](http://arxiv.org/abs/2406.07918)|null|
 |**2024-06-11**|**Embedded Graph Convolutional Networks for Real-Time Event Data Processing on SoC FPGAs**|Kamil Jeziorek et.al.|[2406.07318](http://arxiv.org/abs/2406.07318)|null|
 |**2024-06-10**|**PGSR: Planar-based Gaussian Splatting for Efficient and High-Fidelity Surface Reconstruction**|Danpeng Chen et.al.|[2406.06521](http://arxiv.org/abs/2406.06521)|null|
@@ -2342,7 +2342,7 @@
 |**2023-11-08**|**VET: Visual Error Tomography for Point Cloud Completion and High-Quality Neural Rendering**|Linus Franke et.al.|[2311.04634](http://arxiv.org/abs/2311.04634)|**[link](https://github.com/lfranke/vet)**|
 |**2023-11-09**|**Rethinking Human Pose Estimation for Autonomous Driving with 3D Event Representations**|Xiaoting Yin et.al.|[2311.04591](http://arxiv.org/abs/2311.04591)|**[link](https://github.com/masterhow/eventpointpose)**|
 
-<p align=right>(<a href=#updated-on-20240613>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240614>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

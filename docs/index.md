@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.13
+## Updated on 2024.06.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## clustering
@@ -1471,7 +1471,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-12**|**CT3D++: Improving 3D Object Detection with Keypoint-induced Channel-wise Transformer**|Hualian Sheng et.al.|[2406.08152](http://arxiv.org/abs/2406.08152)|null|
-|**2024-06-12**|**IFTD: Image Feature Triangle Descriptor for Loop Detection in Driving Scenes**|Fengtian Lang et.al.|[2406.07937](http://arxiv.org/abs/2406.07937)|null|
+|**2024-06-12**|**IFTD: Image Feature Triangle Descriptor for Loop Detection in Driving Scenes**|Fengtian Lang et.al.|[2406.07937](http://arxiv.org/abs/2406.07937)|**[link](https://github.com/EinsTian1/iftd)**|
 |**2024-06-12**|**Micro-expression recognition based on depth map to point cloud**|Ren Zhang et.al.|[2406.07918](http://arxiv.org/abs/2406.07918)|null|
 |**2024-06-11**|**Embedded Graph Convolutional Networks for Real-Time Event Data Processing on SoC FPGAs**|Kamil Jeziorek et.al.|[2406.07318](http://arxiv.org/abs/2406.07318)|null|
 |**2024-06-10**|**PGSR: Planar-based Gaussian Splatting for Efficient and High-Fidelity Surface Reconstruction**|Danpeng Chen et.al.|[2406.06521](http://arxiv.org/abs/2406.06521)|null|
