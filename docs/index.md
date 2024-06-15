@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-13**|**Electronic Excitations in the Bulk of Fractional Quantum Hall States**|Xinlei Yue et.al.|[2406.09382](http://arxiv.org/abs/2406.09382)|null|
+|**2024-06-13**|**Learning conditional distributions on continuous spaces**|Cyril Bénézet et.al.|[2406.09375](http://arxiv.org/abs/2406.09375)|**[link](https://github.com/zcheng-a/lcd_knn)**|
+|**2024-06-13**|**DiscreteSLU: A Large Language Model with Self-Supervised Discrete Speech Units for Spoken Language Understanding**|Suwon Shon et.al.|[2406.09345](http://arxiv.org/abs/2406.09345)|null|
+|**2024-06-13**|**A Flexible, Equivariant Framework for Subgraph GNNs via Graph Products and Graph Coarsening**|Guy Bar-Shalom et.al.|[2406.09291](http://arxiv.org/abs/2406.09291)|null|
+|**2024-06-13**|**Sparse reconstruction in spin systems II: Ising and other factor of IID measures**|Pál Galicza et.al.|[2406.09232](http://arxiv.org/abs/2406.09232)|null|
+|**2024-06-13**|**Three New Galactic Globular Cluster Candidates: FSR1700, Teutsch67, and CWNU4193**|Saroon S et.al.|[2406.09216](http://arxiv.org/abs/2406.09216)|null|
+|**2024-06-13**|**An attractive way to correct for missing singles excitations in unitary coupled cluster doubles theory**|Zachary W. Windom et.al.|[2406.09174](http://arxiv.org/abs/2406.09174)|null|
+|**2024-06-13**|**EncCluster: Scalable Functional Encryption in Federated Learning through Weight Clustering and Probabilistic Filters**|Vasileios Tsouvalas et.al.|[2406.09152](http://arxiv.org/abs/2406.09152)|null|
+|**2024-06-13**|**Weakly-supervised anomaly detection for multimodal data distributions**|Xu Tan et.al.|[2406.09147](http://arxiv.org/abs/2406.09147)|null|
+|**2024-06-13**|**Dynamic Correlation Clustering in Sublinear Update Time**|Vincent Cohen-Addad et.al.|[2406.09137](http://arxiv.org/abs/2406.09137)|null|
 |**2024-06-12**|**A suite of classical Cepheids tied to the binary cluster Berkeley 58 \& NGC 7790**|Daniel Majaess et.al.|[2406.08483](http://arxiv.org/abs/2406.08483)|null|
 |**2024-06-12**|**Improving LLMs for Recommendation with Out-Of-Vocabulary Tokens**|Ting-Ji Huang et.al.|[2406.08477](http://arxiv.org/abs/2406.08477)|null|
 |**2024-06-12**|**Nonconvex Federated Learning on Compact Smooth Submanifolds With Heterogeneous Data**|Jiaojiao Zhang et.al.|[2406.08465](http://arxiv.org/abs/2406.08465)|null|
@@ -1470,6 +1480,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-13**|**Flexible Heteroscedastic Count Regression with Deep Double Poisson Networks**|Spencer Young et.al.|[2406.09262](http://arxiv.org/abs/2406.09262)|null|
+|**2024-06-13**|**Auto-Vocabulary Segmentation for LiDAR Points**|Weijie Wei et.al.|[2406.09126](http://arxiv.org/abs/2406.09126)|null|
+|**2024-06-13**|**Dual Attribute-Spatial Relation Alignment for 3D Visual Grounding**|Yue Xu et.al.|[2406.08907](http://arxiv.org/abs/2406.08907)|null|
+|**2024-06-12**|**UnO: Unsupervised Occupancy Fields for Perception and Forecasting**|Ben Agro et.al.|[2406.08691](http://arxiv.org/abs/2406.08691)|null|
 |**2024-06-12**|**CT3D++: Improving 3D Object Detection with Keypoint-induced Channel-wise Transformer**|Hualian Sheng et.al.|[2406.08152](http://arxiv.org/abs/2406.08152)|null|
 |**2024-06-12**|**IFTD: Image Feature Triangle Descriptor for Loop Detection in Driving Scenes**|Fengtian Lang et.al.|[2406.07937](http://arxiv.org/abs/2406.07937)|**[link](https://github.com/EinsTian1/iftd)**|
 |**2024-06-12**|**Micro-expression recognition based on depth map to point cloud**|Ren Zhang et.al.|[2406.07918](http://arxiv.org/abs/2406.07918)|null|
