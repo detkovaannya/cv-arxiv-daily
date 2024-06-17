@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-14**|**Entanglement entropy bounds for pure states of rapid decorrelation**|Michael Aizenman et.al.|[2406.10194](http://arxiv.org/abs/2406.10194)|null|
+|**2024-06-14**|**Practical offloading for fine-tuning LLM on commodity GPU via learned subspace projectors**|Siyuan Chen et.al.|[2406.10181](http://arxiv.org/abs/2406.10181)|null|
+|**2024-06-14**|**Harnessing GPU Power for Enhanced OLTP: A Study in Concurrency Control Schemes**|Zihan Sun et.al.|[2406.10158](http://arxiv.org/abs/2406.10158)|null|
+|**2024-06-14**|**Subhalos are Distributed Anisotropically About Their Hosts**|Lorena Mezini et.al.|[2406.10150](http://arxiv.org/abs/2406.10150)|null|
+|**2024-06-14**|**Annotation Cost-Efficient Active Learning for Deep Metric Learning Driven Remote Sensing Image Retrieval**|Genc Hoxha et.al.|[2406.10107](http://arxiv.org/abs/2406.10107)|null|
+|**2024-06-14**|**Discovering influential text using convolutional neural networks**|Megan Ayers et.al.|[2406.10086](http://arxiv.org/abs/2406.10086)|null|
+|**2024-06-14**|**TACCO: Task-guided Co-clustering of Clinical Concepts and Patient Visits for Disease Subtyping based on EHR Data**|Ziyang Zhang et.al.|[2406.10061](http://arxiv.org/abs/2406.10061)|**[link](https://github.com/pericleshat/tacco)**|
+|**2024-06-14**|**Consistent Update Synthesis via Privatized Beliefs**|Thomas Schlögl et.al.|[2406.10010](http://arxiv.org/abs/2406.10010)|null|
+|**2024-06-14**|**Task segmentation based on transition state clustering for surgical robot assistance**|Yutaro Yamada et.al.|[2406.09990](http://arxiv.org/abs/2406.09990)|null|
+|**2024-06-14**|**Candidate Young Stellar Objects in the S-cluster: The Kinematic Analysis of a Sub-population of the Low-mass G-objects close to Sgr A***|Florian Peißker et.al.|[2406.09916](http://arxiv.org/abs/2406.09916)|null|
 |**2024-06-13**|**Electronic Excitations in the Bulk of Fractional Quantum Hall States**|Xinlei Yue et.al.|[2406.09382](http://arxiv.org/abs/2406.09382)|null|
 |**2024-06-13**|**Learning conditional distributions on continuous spaces**|Cyril Bénézet et.al.|[2406.09375](http://arxiv.org/abs/2406.09375)|**[link](https://github.com/zcheng-a/lcd_knn)**|
 |**2024-06-13**|**DiscreteSLU: A Large Language Model with Self-Supervised Discrete Speech Units for Spoken Language Understanding**|Suwon Shon et.al.|[2406.09345](http://arxiv.org/abs/2406.09345)|null|
@@ -1486,6 +1496,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-14**|**Training-free Camera Control for Video Generation**|Chen Hou et.al.|[2406.10126](http://arxiv.org/abs/2406.10126)|null|
+|**2024-06-14**|**Shelf-Supervised Multi-Modal Pre-Training for 3D Object Detection**|Mehar Khurana et.al.|[2406.10115](http://arxiv.org/abs/2406.10115)|null|
+|**2024-06-14**|**D-NPC: Dynamic Neural Point Clouds for Non-Rigid View Synthesis from Monocular Video**|Moritz Kappel et.al.|[2406.10078](http://arxiv.org/abs/2406.10078)|null|
+|**2024-06-14**|**DurLAR: A High-fidelity 128-channel LiDAR Dataset with Panoramic Ambient and Reflectivity Imagery for Multi-modal Autonomous Driving Applications**|Li Li et.al.|[2406.10068](http://arxiv.org/abs/2406.10068)|**[link](https://github.com/l1997i/DurLAR)**|
+|**2024-06-14**|**SemanticSpray++: A Multimodal Dataset for Autonomous Driving in Wet Surface Conditions**|Aldi Piroli et.al.|[2406.09945](http://arxiv.org/abs/2406.09945)|null|
+|**2024-06-14**|**Label-Efficient Semantic Segmentation of LiDAR Point Clouds in Adverse Weather Conditions**|Aldi Piroli et.al.|[2406.09906](http://arxiv.org/abs/2406.09906)|null|
+|**2024-06-14**|**Nymeria: A Massive Collection of Multimodal Egocentric Daily Motion in the Wild**|Lingni Ma et.al.|[2406.09905](http://arxiv.org/abs/2406.09905)|null|
+|**2024-06-14**|**Full-reference Point Cloud Quality Assessment Using Spectral Graph Wavelets**|Ryosuke Watanabe et.al.|[2406.09762](http://arxiv.org/abs/2406.09762)|null|
+|**2024-06-14**|**Asymmetrical Siamese Network for Point Clouds Normal Estimation**|Wei Jin et.al.|[2406.09681](http://arxiv.org/abs/2406.09681)|null|
+|**2024-06-13**|**DrivAerNet++: A Large-Scale Multimodal Car Dataset with Computational Fluid Dynamics Simulations and Deep Learning Benchmarks**|Mohamed Elrefaie et.al.|[2406.09624](http://arxiv.org/abs/2406.09624)|null|
 |**2024-06-13**|**Flexible Heteroscedastic Count Regression with Deep Double Poisson Networks**|Spencer Young et.al.|[2406.09262](http://arxiv.org/abs/2406.09262)|null|
 |**2024-06-13**|**Auto-Vocabulary Segmentation for LiDAR Points**|Weijie Wei et.al.|[2406.09126](http://arxiv.org/abs/2406.09126)|null|
 |**2024-06-13**|**Dual Attribute-Spatial Relation Alignment for 3D Visual Grounding**|Yue Xu et.al.|[2406.08907](http://arxiv.org/abs/2406.08907)|null|
