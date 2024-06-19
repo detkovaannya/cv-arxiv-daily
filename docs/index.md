@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-18**|**Privacy Preserving Federated Learning in Medical Imaging with Uncertainty Estimation**|Nikolas Koutsoubis et.al.|[2406.12815](http://arxiv.org/abs/2406.12815)|**[link](https://github.com/niko-k98/awesome-list-federated-learning-review)**|
+|**2024-06-18**|**Dissociative Electron Attachment on Metal Surfaces: The Case of HCl $^-$ on Au(111)**|Robin E. Moorby et.al.|[2406.12790](http://arxiv.org/abs/2406.12790)|null|
+|**2024-06-18**|**Zeroing neural dynamics solving time-variant complex conjugate matrix equation**|Jiakuang He et.al.|[2406.12783](http://arxiv.org/abs/2406.12783)|null|
+|**2024-06-18**|**Unsupervised explainable activity prediction in competitive Nordic Walking from experimental data**|Silvia García-Méndez et.al.|[2406.12762](http://arxiv.org/abs/2406.12762)|null|
+|**2024-06-18**|**Massively Parallel Ruling Set Made Deterministic**|Jeff Giliberti et.al.|[2406.12727](http://arxiv.org/abs/2406.12727)|null|
+|**2024-06-18**|**BIOSCAN-5M: A Multimodal Dataset for Insect Biodiversity**|Zahra Gharaee et.al.|[2406.12723](http://arxiv.org/abs/2406.12723)|**[link](https://github.com/zahrag/BIOSCAN-5M)**|
+|**2024-06-18**|**Parameterized Shortest Path Reconfiguration**|Nicolas Bousquet et.al.|[2406.12717](http://arxiv.org/abs/2406.12717)|null|
+|**2024-06-18**|**The Enigma of Li-Rich Giants and its Relation with Temporal Variations Observed in Radial Velocity and Stellar Activity Signals**|Inês Rolo et.al.|[2406.12711](http://arxiv.org/abs/2406.12711)|null|
+|**2024-06-18**|**What is in the Chrome Web Store? Investigating Security-Noteworthy Browser Extensions**|Sheryl Hsu et.al.|[2406.12710](http://arxiv.org/abs/2406.12710)|null|
+|**2024-06-18**|**Dynamical traceback age of the Octans young stellar association**|P. A. B. Galli et.al.|[2406.12686](http://arxiv.org/abs/2406.12686)|null|
 |**2024-06-17**|**MMDU: A Multi-Turn Multi-Image Dialog Understanding Benchmark and Instruction-Tuning Dataset for LVLMs**|Ziyu Liu et.al.|[2406.11833](http://arxiv.org/abs/2406.11833)|**[link](https://github.com/liuziyu77/mmdu)**|
 |**2024-06-17**|**Understanding Layered Portability from HPC to Cloud in Containerized Environments**|Daniel Medeiros et.al.|[2406.11760](http://arxiv.org/abs/2406.11760)|null|
 |**2024-06-17**|**LibProf: A Python Profiler for Improving Cold Start Performance in Serverless Applications**|Syed Salauddin Mohammad Tariq et.al.|[2406.11734](http://arxiv.org/abs/2406.11734)|null|
@@ -1500,6 +1510,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-18**|**Scan-to-BIM for As-built Roads: Automatic Road Digital Twinning from Semantically Labeled Point Cloud Data**|Yuexiong Ding et.al.|[2406.12404](http://arxiv.org/abs/2406.12404)|null|
+|**2024-06-18**|**Generalized Moving Least-Squares for Solving Vector-valued PDEs on Unknown Manifolds**|Rongji Li et.al.|[2406.12210](http://arxiv.org/abs/2406.12210)|null|
 |**2024-06-17**|**Imagination Policy: Using Generative Point Cloud Models for Learning Manipulation Policies**|Haojie Huang et.al.|[2406.11740](http://arxiv.org/abs/2406.11740)|null|
 |**2024-06-17**|**Correspondence Free Multivector Cloud Registration using Conformal Geometric Algebra**|Francisco Xavier Vasconcelos et.al.|[2406.11732](http://arxiv.org/abs/2406.11732)|**[link](https://github.com/numerical-geometric-algebra/registrationga)**|
 |**2024-06-17**|**Duoduo CLIP: Efficient 3D Understanding with Multi-View Images**|Han-Hung Lee et.al.|[2406.11579](http://arxiv.org/abs/2406.11579)|**[link](https://github.com/3dlg-hcvc/DuoduoCLIP)**|
@@ -1507,7 +1519,7 @@ layout: default
 |**2024-06-17**|**DRIP: Discriminative Rotation-Invariant Pole Landmark Descriptor for 3D LiDAR Localization**|Dingrui Li et.al.|[2406.11266](http://arxiv.org/abs/2406.11266)|null|
 |**2024-06-16**|**MV2Cyl: Reconstructing 3D Extrusion Cylinders from Multi-View Images**|Eunji Hong et.al.|[2406.10853](http://arxiv.org/abs/2406.10853)|null|
 |**2024-06-15**|**MMVR: Millimeter-wave Multi-View Radar Dataset and Benchmark for Indoor Perception**|M. Mahbubur Rahman et.al.|[2406.10708](http://arxiv.org/abs/2406.10708)|null|
-|**2024-06-15**|**Voxel Mamba: Group-Free State Space Models for Point Cloud based 3D Object Detection**|Guowen Zhang et.al.|[2406.10700](http://arxiv.org/abs/2406.10700)|null|
+|**2024-06-18**|**Voxel Mamba: Group-Free State Space Models for Point Cloud based 3D Object Detection**|Guowen Zhang et.al.|[2406.10700](http://arxiv.org/abs/2406.10700)|**[link](https://github.com/gwenzhang/voxel-mamba)**|
 |**2024-06-18**|**SparseRadNet: Sparse Perception Neural Network on Subsampled Radar Data**|Jialong Wu et.al.|[2406.10600](http://arxiv.org/abs/2406.10600)|null|
 |**2024-06-15**|**Full reference point cloud quality assessment using support vector regression**|Ryosuke Watanabe et.al.|[2406.10520](http://arxiv.org/abs/2406.10520)|**[link](https://github.com/stac-usc/frsvr-pcqa)**|
 |**2024-06-14**|**Training-free Camera Control for Video Generation**|Chen Hou et.al.|[2406.10126](http://arxiv.org/abs/2406.10126)|null|
