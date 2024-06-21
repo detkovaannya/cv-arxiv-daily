@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-20**|**On estimation and order selection for multivariate extremes via clustering**|Shiyuan Deng et.al.|[2406.14535](http://arxiv.org/abs/2406.14535)|null|
+|**2024-06-20**|**Ambiguity Clustering: an accurate and efficient decoder for qLDPC codes**|Stasiu Wolanski et.al.|[2406.14527](http://arxiv.org/abs/2406.14527)|null|
+|**2024-06-20**|**Energy Mapping of Existing Building Stock in Cambridge using Energy Performance Certificates and Thermal Infrared Imagery**|Yinglong He et.al.|[2406.14520](http://arxiv.org/abs/2406.14520)|null|
+|**2024-06-20**|**Vahana.jl -- A framework (not only) for large-scale agent-based models**|Steffen Fürst et.al.|[2406.14441](http://arxiv.org/abs/2406.14441)|null|
+|**2024-06-20**|**CascadeServe: Unlocking Model Cascades for Inference Serving**|Ferdi Kossmann et.al.|[2406.14424](http://arxiv.org/abs/2406.14424)|null|
+|**2024-06-20**|**Communication-efficient Vertical Federated Learning via Compressed Error Feedback**|Pedro Valdeira et.al.|[2406.14420](http://arxiv.org/abs/2406.14420)|null|
+|**2024-06-20**|**Safety-Critical Edge Robotics Architecture with Bounded End-to-End Latency**|Gautam Gala et.al.|[2406.14391](http://arxiv.org/abs/2406.14391)|null|
+|**2024-06-20**|**The neural correlates of logical-mathematical symbol systems processing resemble that of spatial cognition more than natural language processing**|Yuannan Li et.al.|[2406.14358](http://arxiv.org/abs/2406.14358)|null|
+|**2024-06-20**|**Cluster Formation induced by local dielectric saturation in Restricted Primitive Model Electrolytes**|David Ribar et.al.|[2406.14316](http://arxiv.org/abs/2406.14316)|null|
+|**2024-06-20**|**AI-coupled HPC Workflow Applications, Middleware and Performance**|Wes Brewer et.al.|[2406.14315](http://arxiv.org/abs/2406.14315)|null|
 |**2024-06-18**|**Privacy Preserving Federated Learning in Medical Imaging with Uncertainty Estimation**|Nikolas Koutsoubis et.al.|[2406.12815](http://arxiv.org/abs/2406.12815)|**[link](https://github.com/niko-k98/awesome-list-federated-learning-review)**|
 |**2024-06-18**|**Dissociative Electron Attachment on Metal Surfaces: The Case of HCl $^-$ on Au(111)**|Robin E. Moorby et.al.|[2406.12790](http://arxiv.org/abs/2406.12790)|null|
 |**2024-06-18**|**Zeroing neural dynamics solving time-variant complex conjugate matrix equation**|Jiakuang He et.al.|[2406.12783](http://arxiv.org/abs/2406.12783)|null|
@@ -1510,6 +1520,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-20**|**CityNav: Language-Goal Aerial Navigation Dataset with Geographic Information**|Jungdae Lee et.al.|[2406.14240](http://arxiv.org/abs/2406.14240)|null|
+|**2024-06-19**|**DPO: Dual-Perturbation Optimization for Test-time Adaptation in 3D Object Detection**|Zhuoxiao Chen et.al.|[2406.13891](http://arxiv.org/abs/2406.13891)|**[link](https://github.com/jo-wang/dpo)**|
+|**2024-06-19**|**MVSBoost: An Efficient Point Cloud-based 3D Reconstruction**|Umair Haroon et.al.|[2406.13515](http://arxiv.org/abs/2406.13515)|null|
+|**2024-06-19**|**Deep Learning-Based 3D Instance and Semantic Segmentation: A Review**|Siddiqui Muhammad Yasir et.al.|[2406.13308](http://arxiv.org/abs/2406.13308)|null|
 |**2024-06-18**|**Scan-to-BIM for As-built Roads: Automatic Road Digital Twinning from Semantically Labeled Point Cloud Data**|Yuexiong Ding et.al.|[2406.12404](http://arxiv.org/abs/2406.12404)|null|
 |**2024-06-18**|**Generalized Moving Least-Squares for Solving Vector-valued PDEs on Unknown Manifolds**|Rongji Li et.al.|[2406.12210](http://arxiv.org/abs/2406.12210)|null|
 |**2024-06-17**|**Imagination Policy: Using Generative Point Cloud Models for Learning Manipulation Policies**|Haojie Huang et.al.|[2406.11740](http://arxiv.org/abs/2406.11740)|null|
