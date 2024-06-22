@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.21
+## Updated on 2024.06.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1520,7 +1520,7 @@
 |**2023-11-10**|**The First Verification Test of Space-Ground Collaborative Intelligence via Cloud-Native Satellites**|Shangguang Wang et.al.|[2311.06078](http://arxiv.org/abs/2311.06078)|null|
 |**2023-11-10**|**Collaborative Inference in DNN-based Satellite Systems with Dynamic Task Streams**|Jinglong Guan et.al.|[2311.06073](http://arxiv.org/abs/2311.06073)|null|
 
-<p align=right>(<a href=#updated-on-20240621>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240622>back to top</a>)</p>
 
 ## point cloud
 
@@ -1535,7 +1535,7 @@
 |**2024-06-17**|**Imagination Policy: Using Generative Point Cloud Models for Learning Manipulation Policies**|Haojie Huang et.al.|[2406.11740](http://arxiv.org/abs/2406.11740)|null|
 |**2024-06-17**|**Correspondence Free Multivector Cloud Registration using Conformal Geometric Algebra**|Francisco Xavier Vasconcelos et.al.|[2406.11732](http://arxiv.org/abs/2406.11732)|**[link](https://github.com/numerical-geometric-algebra/registrationga)**|
 |**2024-06-17**|**Duoduo CLIP: Efficient 3D Understanding with Multi-View Images**|Han-Hung Lee et.al.|[2406.11579](http://arxiv.org/abs/2406.11579)|**[link](https://github.com/3dlg-hcvc/DuoduoCLIP)**|
-|**2024-06-17**|**SWCF-Net: Similarity-weighted Convolution and Local-global Fusion for Efficient Large-scale Point Cloud Semantic Segmentation**|Zhenchao Lin et.al.|[2406.11441](http://arxiv.org/abs/2406.11441)|**[link](https://github.com/Sylva-Lin/SWCF-Net)**|
+|**2024-06-17**|**SWCF-Net: Similarity-weighted Convolution and Local-global Fusion for Efficient Large-scale Point Cloud Semantic Segmentation**|Zhenchao Lin et.al.|[2406.11441](http://arxiv.org/abs/2406.11441)|null|
 |**2024-06-17**|**DRIP: Discriminative Rotation-Invariant Pole Landmark Descriptor for 3D LiDAR Localization**|Dingrui Li et.al.|[2406.11266](http://arxiv.org/abs/2406.11266)|null|
 |**2024-06-16**|**MV2Cyl: Reconstructing 3D Extrusion Cylinders from Multi-View Images**|Eunji Hong et.al.|[2406.10853](http://arxiv.org/abs/2406.10853)|null|
 |**2024-06-15**|**MMVR: Millimeter-wave Multi-View Radar Dataset and Benchmark for Indoor Perception**|M. Mahbubur Rahman et.al.|[2406.10708](http://arxiv.org/abs/2406.10708)|null|
@@ -2422,7 +2422,7 @@
 |**2023-11-08**|**VET: Visual Error Tomography for Point Cloud Completion and High-Quality Neural Rendering**|Linus Franke et.al.|[2311.04634](http://arxiv.org/abs/2311.04634)|**[link](https://github.com/lfranke/vet)**|
 |**2023-11-09**|**Rethinking Human Pose Estimation for Autonomous Driving with 3D Event Representations**|Xiaoting Yin et.al.|[2311.04591](http://arxiv.org/abs/2311.04591)|**[link](https://github.com/masterhow/eventpointpose)**|
 
-<p align=right>(<a href=#updated-on-20240621>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240622>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
