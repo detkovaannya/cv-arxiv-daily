@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-21**|**A model-independent measurement of the expansion and growth rates from BOSS using the FreePower method**|Adrian P. Schirra et.al.|[2406.15347](http://arxiv.org/abs/2406.15347)|null|
+|**2024-06-21**|**Privacy Preserved Blood Glucose Level Cross-Prediction: An Asynchronous Decentralized Federated Learning Approach**|Chengzhe Piao et.al.|[2406.15346](http://arxiv.org/abs/2406.15346)|**[link](https://github.com/chengzhepiao/coldstartbglp)**|
+|**2024-06-21**|**Search and Study of the Brightest Stars in the Galaxy IC 342**|O. N. Sholukhova et.al.|[2406.15270](http://arxiv.org/abs/2406.15270)|null|
+|**2024-06-21**|**The incipient infinite cluster of the FK-Ising model in dimensions $d\geq 3$ and the susceptibility of the high-dimensional Ising model**|Romain Panis et.al.|[2406.15243](http://arxiv.org/abs/2406.15243)|null|
+|**2024-06-21**|**Ab initio modeling of superconducting alloys**|Pedro N. Ferreira et.al.|[2406.15174](http://arxiv.org/abs/2406.15174)|null|
+|**2024-06-21**|**Introducing the modularity graph: an application to brain functional networks**|Tiziana Cattai et.al.|[2406.15155](http://arxiv.org/abs/2406.15155)|null|
+|**2024-06-21**|**Luttinger surface dominance and Fermi liquid behaviour of topological Kondo insulators SmB $_6$ and YbB$_{12}$**|Andrea Blason et.al.|[2406.15143](http://arxiv.org/abs/2406.15143)|null|
+|**2024-06-21**|**Exact loop densities in $O(1)$ dense loop model on the cylinder of odd circumference and clusters in half-turn self-dual critical percolation**|A. M. Povolotsky et.al.|[2406.15133](http://arxiv.org/abs/2406.15133)|null|
+|**2024-06-21**|**Embracing Federated Learning: Enabling Weak Client Participation via Partial Model Training**|Sunwoo Lee et.al.|[2406.15125](http://arxiv.org/abs/2406.15125)|null|
+|**2024-06-21**|**Occamy: A 432-Core 28.1 DP-GFLOP/s/W 83% FPU Utilization Dual-Chiplet, Dual-HBM2E RISC-V-based Accelerator for Stencil and Sparse Linear Algebra Computations with 8-to-64-bit Floating-Point Support in 12nm FinFET**|Gianna Paulin et.al.|[2406.15068](http://arxiv.org/abs/2406.15068)|null|
 |**2024-06-20**|**On estimation and order selection for multivariate extremes via clustering**|Shiyuan Deng et.al.|[2406.14535](http://arxiv.org/abs/2406.14535)|null|
 |**2024-06-20**|**Ambiguity Clustering: an accurate and efficient decoder for qLDPC codes**|Stasiu Wolanski et.al.|[2406.14527](http://arxiv.org/abs/2406.14527)|null|
 |**2024-06-20**|**Energy Mapping of Existing Building Stock in Cambridge using Energy Performance Certificates and Thermal Infrared Imagery**|Yinglong He et.al.|[2406.14520](http://arxiv.org/abs/2406.14520)|null|
@@ -1526,6 +1536,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-21**|**Voxel-Based Point Cloud Localization for Smart Spaces Management**|F. S. Mortazavi et.al.|[2406.15110](http://arxiv.org/abs/2406.15110)|null|
+|**2024-06-21**|**MOS: Model Synergy for Test-Time Adaptation on LiDAR-Based 3D Object Detection**|Zhuoxiao Chen et.al.|[2406.14878](http://arxiv.org/abs/2406.14878)|null|
+|**2024-06-19**|**3D Instance Segmentation Using Deep Learning on RGB-D Indoor Data**|Siddiqui Muhammad Yasir et.al.|[2406.14581](http://arxiv.org/abs/2406.14581)|null|
 |**2024-06-20**|**CityNav: Language-Goal Aerial Navigation Dataset with Geographic Information**|Jungdae Lee et.al.|[2406.14240](http://arxiv.org/abs/2406.14240)|null|
 |**2024-06-19**|**DPO: Dual-Perturbation Optimization for Test-time Adaptation in 3D Object Detection**|Zhuoxiao Chen et.al.|[2406.13891](http://arxiv.org/abs/2406.13891)|**[link](https://github.com/jo-wang/dpo)**|
 |**2024-06-19**|**MVSBoost: An Efficient Point Cloud-based 3D Reconstruction**|Umair Haroon et.al.|[2406.13515](http://arxiv.org/abs/2406.13515)|null|
