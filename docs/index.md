@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.23
+## Updated on 2024.06.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## clustering
@@ -20,7 +20,7 @@ layout: default
 |**2024-06-20**|**Vahana.jl -- A framework (not only) for large-scale agent-based models**|Steffen Fürst et.al.|[2406.14441](http://arxiv.org/abs/2406.14441)|null|
 |**2024-06-20**|**CascadeServe: Unlocking Model Cascades for Inference Serving**|Ferdi Kossmann et.al.|[2406.14424](http://arxiv.org/abs/2406.14424)|null|
 |**2024-06-20**|**Communication-efficient Vertical Federated Learning via Compressed Error Feedback**|Pedro Valdeira et.al.|[2406.14420](http://arxiv.org/abs/2406.14420)|null|
-|**2024-06-20**|**Safety-Critical Edge Robotics Architecture with Bounded End-to-End Latency**|Gautam Gala et.al.|[2406.14391](http://arxiv.org/abs/2406.14391)|null|
+|**2024-06-21**|**Safety-Critical Edge Robotics Architecture with Bounded End-to-End Latency**|Gautam Gala et.al.|[2406.14391](http://arxiv.org/abs/2406.14391)|null|
 |**2024-06-20**|**The neural correlates of logical-mathematical symbol systems processing resemble that of spatial cognition more than natural language processing**|Yuannan Li et.al.|[2406.14358](http://arxiv.org/abs/2406.14358)|null|
 |**2024-06-20**|**Cluster Formation induced by local dielectric saturation in Restricted Primitive Model Electrolytes**|David Ribar et.al.|[2406.14316](http://arxiv.org/abs/2406.14316)|null|
 |**2024-06-20**|**AI-coupled HPC Workflow Applications, Middleware and Performance**|Wes Brewer et.al.|[2406.14315](http://arxiv.org/abs/2406.14315)|null|
