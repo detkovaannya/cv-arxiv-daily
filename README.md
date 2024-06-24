@@ -67,7 +67,7 @@
 |**2024-06-13**|**An attractive way to correct for missing singles excitations in unitary coupled cluster doubles theory**|Zachary W. Windom et.al.|[2406.09174](http://arxiv.org/abs/2406.09174)|null|
 |**2024-06-13**|**EncCluster: Scalable Functional Encryption in Federated Learning through Weight Clustering and Probabilistic Filters**|Vasileios Tsouvalas et.al.|[2406.09152](http://arxiv.org/abs/2406.09152)|null|
 |**2024-06-13**|**Weakly-supervised anomaly detection for multimodal data distributions**|Xu Tan et.al.|[2406.09147](http://arxiv.org/abs/2406.09147)|null|
-|**2024-06-13**|**Dynamic Correlation Clustering in Sublinear Update Time**|Vincent Cohen-Addad et.al.|[2406.09137](http://arxiv.org/abs/2406.09137)|null|
+|**2024-06-13**|**Dynamic Correlation Clustering in Sublinear Update Time**|Vincent Cohen-Addad et.al.|[2406.09137](http://arxiv.org/abs/2406.09137)|**[link](https://github.com/andreasr27/DCC)**|
 |**2024-06-12**|**A suite of classical Cepheids tied to the binary cluster Berkeley 58 \& NGC 7790**|Daniel Majaess et.al.|[2406.08483](http://arxiv.org/abs/2406.08483)|null|
 |**2024-06-12**|**Improving LLMs for Recommendation with Out-Of-Vocabulary Tokens**|Ting-Ji Huang et.al.|[2406.08477](http://arxiv.org/abs/2406.08477)|null|
 |**2024-06-12**|**Nonconvex Federated Learning on Compact Smooth Submanifolds With Heterogeneous Data**|Jiaojiao Zhang et.al.|[2406.08465](http://arxiv.org/abs/2406.08465)|null|
@@ -77,7 +77,7 @@
 |**2024-06-12**|**ProTrain: Efficient LLM Training via Memory-Aware Techniques**|Hanmei Yang et.al.|[2406.08334](http://arxiv.org/abs/2406.08334)|null|
 |**2024-06-12**|**GPU-accelerated Auxiliary-field quantum Monte Carlo with multi-Slater determinant trial states**|Yifei Huang et.al.|[2406.08314](http://arxiv.org/abs/2406.08314)|null|
 |**2024-06-12**|**GraphFM: A Comprehensive Benchmark for Graph Foundation Model**|Yuhao Xu et.al.|[2406.08310](http://arxiv.org/abs/2406.08310)|**[link](https://github.com/nyushcs/graphfm)**|
-|**2024-06-12**|**Dynamical evolution of social network polarization and its impact on the propagation of a virus**|Ixandra Achitouv et.al.|[2406.08299](http://arxiv.org/abs/2406.08299)|null|
+|**2024-06-12**|**Dynamical evolution of social network polarization and its impact on the propagation of a virus**|Ixandra Achitouv et.al.|[2406.08299](http://arxiv.org/abs/2406.08299)|**[link](https://github.com/IxandraAchitouv/ABM-social-network-)**|
 |**2024-06-11**|**Interacting-bath dynamical embedding for capturing non-local electron correlation in solids**|Jiachen Li et.al.|[2406.07531](http://arxiv.org/abs/2406.07531)|null|
 |**2024-06-11**|**COMAP Pathfinder -- Season 2 results III. Implications for cosmic molecular gas content at "Cosmic Half-past Eleven"**|D. T. Chung et.al.|[2406.07512](http://arxiv.org/abs/2406.07512)|null|
 |**2024-06-11**|**Choreographing the Rhythms of Observation: Dynamics for Ranged Observer Bipartite-Unipartite SpatioTemporal (ROBUST) Networks**|Ted Edward Holmberg et.al.|[2406.07473](http://arxiv.org/abs/2406.07473)|null|
@@ -91,7 +91,7 @@
 |**2024-06-10**|**Most nearby young star clusters formed in three massive complexes**|Cameren Swiggum et.al.|[2406.06510](http://arxiv.org/abs/2406.06510)|null|
 |**2024-06-10**|**Verification-Guided Shielding for Deep Reinforcement Learning**|Davide Corsi et.al.|[2406.06507](http://arxiv.org/abs/2406.06507)|null|
 |**2024-06-10**|**Which topics are best represented by science maps? An analysis of clustering effectiveness for citation and text similarity networks**|Juan Pablo Bascur et.al.|[2406.06454](http://arxiv.org/abs/2406.06454)|null|
-|**2024-06-10**|**Messengers: Breaking Echo Chambers in Collective Opinion Dynamics with Homophily**|Mohsen Raoufi et.al.|[2406.06440](http://arxiv.org/abs/2406.06440)|null|
+|**2024-06-10**|**Messengers: Breaking Echo Chambers in Collective Opinion Dynamics with Homophily**|Mohsen Raoufi et.al.|[2406.06440](http://arxiv.org/abs/2406.06440)|**[link](https://github.com/mohsen-raoufi/messengers)**|
 |**2024-06-10**|**Early Acceptance Matching Game for User-Centric Clustering in Scalable Cell-free MIMO Networks**|Ala Eddine Nouali et.al.|[2406.06402](http://arxiv.org/abs/2406.06402)|null|
 |**2024-06-10**|**Tackling Delayed CSI in a Distributed Multi-Satellite MIMO Communication System**|Yasaman Omid et.al.|[2406.06392](http://arxiv.org/abs/2406.06392)|null|
 |**2024-06-10**|**mHuBERT-147: A Compact Multilingual HuBERT Model**|Marcely Zanon Boito et.al.|[2406.06371](http://arxiv.org/abs/2406.06371)|**[link](https://github.com/utter-project/fairseq)**|
@@ -568,7 +568,7 @@
 |**2024-04-02**|**Gas kinematics and dynamics of Carina Pillars: A case study of G287.76-0.87**|Ngo Duy Tung et.al.|[2404.02119](http://arxiv.org/abs/2404.02119)|null|
 |**2024-04-02**|**On Hamiltonian Structures of Partial Difference Equations**|Zhonglun Cao et.al.|[2404.02055](http://arxiv.org/abs/2404.02055)|null|
 |**2024-04-02**|**Ram pressure stripping in clusters: Gravity can bind the ISM but not the CGM**|Ritali Ghosh et.al.|[2404.02035](http://arxiv.org/abs/2404.02035)|**[link](https://github.com/RitaliG/rps_cgm_hydro)**|
-|**2024-04-02**|**MuxServe: Flexible Multiplexing for Efficient Multiple LLM Serving**|Jiangfei Duan et.al.|[2404.02015](http://arxiv.org/abs/2404.02015)|null|
+|**2024-04-02**|**MuxServe: Flexible Multiplexing for Efficient Multiple LLM Serving**|Jiangfei Duan et.al.|[2404.02015](http://arxiv.org/abs/2404.02015)|**[link](https://github.com/hao-ai-lab/muxserve)**|
 |**2024-04-02**|**A catalog of 1.58 million clusters of galaxies identified from the DESI Legacy Imaging Surveys**|Z. L. Wen et.al.|[2404.02002](http://arxiv.org/abs/2404.02002)|null|
 |**2024-04-02**|**Flow Of Information In a Mechanically Quenched Confined Flock**|Md. Samsuzzaman et.al.|[2404.01942](http://arxiv.org/abs/2404.01942)|null|
 |**2024-04-02**|**Settling Time vs. Accuracy Tradeoffs for Clustering Big Data**|Andrew Draganov et.al.|[2404.01936](http://arxiv.org/abs/2404.01936)|**[link](https://github.com/andrew-draganov/fast-coreset-generation)**|
@@ -1551,7 +1551,7 @@
 |**2024-06-14**|**Nymeria: A Massive Collection of Multimodal Egocentric Daily Motion in the Wild**|Lingni Ma et.al.|[2406.09905](http://arxiv.org/abs/2406.09905)|null|
 |**2024-06-14**|**Full-reference Point Cloud Quality Assessment Using Spectral Graph Wavelets**|Ryosuke Watanabe et.al.|[2406.09762](http://arxiv.org/abs/2406.09762)|null|
 |**2024-06-14**|**Asymmetrical Siamese Network for Point Clouds Normal Estimation**|Wei Jin et.al.|[2406.09681](http://arxiv.org/abs/2406.09681)|null|
-|**2024-06-13**|**DrivAerNet++: A Large-Scale Multimodal Car Dataset with Computational Fluid Dynamics Simulations and Deep Learning Benchmarks**|Mohamed Elrefaie et.al.|[2406.09624](http://arxiv.org/abs/2406.09624)|null|
+|**2024-06-13**|**DrivAerNet++: A Large-Scale Multimodal Car Dataset with Computational Fluid Dynamics Simulations and Deep Learning Benchmarks**|Mohamed Elrefaie et.al.|[2406.09624](http://arxiv.org/abs/2406.09624)|**[link](https://github.com/mohamedelrefaie/drivaernet)**|
 |**2024-06-13**|**Flexible Heteroscedastic Count Regression with Deep Double Poisson Networks**|Spencer Young et.al.|[2406.09262](http://arxiv.org/abs/2406.09262)|null|
 |**2024-06-13**|**Auto-Vocabulary Segmentation for LiDAR Points**|Weijie Wei et.al.|[2406.09126](http://arxiv.org/abs/2406.09126)|null|
 |**2024-06-13**|**Dual Attribute-Spatial Relation Alignment for 3D Visual Grounding**|Yue Xu et.al.|[2406.08907](http://arxiv.org/abs/2406.08907)|null|
@@ -1571,7 +1571,7 @@
 |**2024-06-07**|**Progressive Entropic Optimal Transport Solvers**|Parnian Kassraie et.al.|[2406.05061](http://arxiv.org/abs/2406.05061)|null|
 |**2024-06-07**|**Efficient 3D Shape Generation via Diffusion Mamba with Bidirectional SSMs**|Shentong Mo et.al.|[2406.05038](http://arxiv.org/abs/2406.05038)|null|
 |**2024-06-07**|**3DRealCar: An In-the-wild RGB-D Car Dataset with 360-degree Views**|Xiaobiao Du et.al.|[2406.04875](http://arxiv.org/abs/2406.04875)|null|
-|**2024-06-07**|**A Deep Automotive Radar Detector using the RaDelft Dataset**|Ignacio Roldan et.al.|[2406.04723](http://arxiv.org/abs/2406.04723)|null|
+|**2024-06-07**|**A Deep Automotive Radar Detector using the RaDelft Dataset**|Ignacio Roldan et.al.|[2406.04723](http://arxiv.org/abs/2406.04723)|**[link](https://github.com/RaDelft/RaDelft-Dataset)**|
 |**2024-06-06**|**DeTra: A Unified Model for Object Detection and Trajectory Forecasting**|Sergio Casas et.al.|[2406.04426](http://arxiv.org/abs/2406.04426)|null|
 |**2024-06-06**|**GLACE: Global Local Accelerated Coordinate Encoding**|Fangjinhua Wang et.al.|[2406.04340](http://arxiv.org/abs/2406.04340)|**[link](https://github.com/cvg/glace)**|
 |**2024-06-05**|**L-PR: Exploiting LiDAR Fiducial Marker for Unordered Low Overlap Multiview Point Cloud Registration**|Yibo Liu et.al.|[2406.03298](http://arxiv.org/abs/2406.03298)|**[link](https://github.com/yorklyb/LiDAR-SFM)**|
@@ -1652,7 +1652,7 @@
 |**2024-05-17**|**Reconstruction of Manipulated Garment with Guided Deformation Prior**|Ren Li et.al.|[2405.10934](http://arxiv.org/abs/2405.10934)|null|
 |**2024-05-17**|**CCTNet: A Circular Convolutional Transformer Network for LiDAR-based Place Recognition Handling Movable Objects Occlusion**|Gang Wang et.al.|[2405.10793](http://arxiv.org/abs/2405.10793)|null|
 |**2024-05-17**|**ART3D: 3D Gaussian Splatting for Text-Guided Artistic Scenes Generation**|Pengzhi Li et.al.|[2405.10508](http://arxiv.org/abs/2405.10508)|null|
-|**2024-05-16**|**When LLMs step into the 3D World: A Survey and Meta-Analysis of 3D Tasks via Multi-modal Large Language Models**|Xianzheng Ma et.al.|[2405.10255](http://arxiv.org/abs/2405.10255)|null|
+|**2024-05-16**|**When LLMs step into the 3D World: A Survey and Meta-Analysis of 3D Tasks via Multi-modal Large Language Models**|Xianzheng Ma et.al.|[2405.10255](http://arxiv.org/abs/2405.10255)|**[link](https://github.com/activevisionlab/awesome-llm-3d)**|
 |**2024-05-16**|**Filling Missing Values Matters for Range Image-Based Point Cloud Segmentation**|Bike Chen et.al.|[2405.10175](http://arxiv.org/abs/2405.10175)|null|
 |**2024-05-16**|**A Preprocessing and Postprocessing Voxel-based Method for LiDAR Semantic Segmentation Improvement in Long Distance**|Andrea Matteazzi et.al.|[2405.10046](http://arxiv.org/abs/2405.10046)|null|
 |**2024-05-19**|**PillarNeXt: Improving the 3D detector by introducing Voxel2Pillar feature encoding and extracting multi-scale features**|Xusheng Li et.al.|[2405.09828](http://arxiv.org/abs/2405.09828)|null|
@@ -2041,7 +2041,7 @@
 |**2024-02-27**|**LiveHPS: LiDAR-based Scene-level Human Pose and Shape Estimation in Free Environment**|Yiming Ren et.al.|[2402.17171](http://arxiv.org/abs/2402.17171)|null|
 |**2024-02-26**|**Online Efficient Safety-Critical Control for Mobile Robots in Unknown Dynamic Multi-Obstacle Environments**|Yu Zhang et.al.|[2402.16449](http://arxiv.org/abs/2402.16449)|null|
 |**2024-02-26**|**SeqTrack3D: Exploring Sequence Information for Robust 3D Point Cloud Tracking**|Yu Lin et.al.|[2402.16249](http://arxiv.org/abs/2402.16249)|**[link](https://github.com/aron-lin/seqtrack3d)**|
-|**2024-02-25**|**Equivariant Frames and the Impossibility of Continuous Canonicalization**|Nadav Dym et.al.|[2402.16077](http://arxiv.org/abs/2402.16077)|null|
+|**2024-02-25**|**Equivariant Frames and the Impossibility of Continuous Canonicalization**|Nadav Dym et.al.|[2402.16077](http://arxiv.org/abs/2402.16077)|**[link](https://github.com/jwsiegel2510/sn-invariant-weighted-frames)**|
 |**2024-02-25**|**VOLoc: Visual Place Recognition by Querying Compressed Lidar Map**|Xudong Cai et.al.|[2402.15961](http://arxiv.org/abs/2402.15961)|**[link](https://github.com/master-cai/voloc)**|
 |**2024-02-24**|**Field-based Molecule Generation**|Alexandru Dumitrescu et.al.|[2402.15864](http://arxiv.org/abs/2402.15864)|null|
 |**2024-02-24**|**Parameter-efficient Prompt Learning for 3D Point Cloud Understanding**|Hongyu Sun et.al.|[2402.15823](http://arxiv.org/abs/2402.15823)|**[link](https://github.com/auniquesun/ppt)**|
@@ -2058,7 +2058,7 @@
 |**2024-02-20**|**See Further Than CFAR: a Data-Driven Radar Detector Trained by Lidar**|Ignacio Roldan et.al.|[2402.12970](http://arxiv.org/abs/2402.12970)|null|
 |**2024-02-20**|**Advancements in Point Cloud-Based 3D Defect Detection and Classification for Industrial Systems: A Comprehensive Survey**|Anju Rani et.al.|[2402.12923](http://arxiv.org/abs/2402.12923)|null|
 |**2024-02-19**|**Locality-Sensitive Hashing-Based Efficient Point Transformer with Applications in High-Energy Physics**|Siqi Miao et.al.|[2402.12535](http://arxiv.org/abs/2402.12535)|**[link](https://github.com/graph-com/hept)**|
-|**2024-02-22**|**Scalable Human-Machine Point Cloud Compression**|Mateen Ulhaq et.al.|[2402.12532](http://arxiv.org/abs/2402.12532)|null|
+|**2024-02-22**|**Scalable Human-Machine Point Cloud Compression**|Mateen Ulhaq et.al.|[2402.12532](http://arxiv.org/abs/2402.12532)|**[link](https://github.com/multimedialabsfu/learned-point-cloud-compression-for-classification)**|
 |**2024-02-19**|**Open3DSG: Open-Vocabulary 3D Scene Graphs from Point Clouds with Queryable Objects and Open-Set Relationships**|Sebastian Koch et.al.|[2402.12259](http://arxiv.org/abs/2402.12259)|null|
 |**2024-02-19**|**Pushing Auto-regressive Models for 3D Shape Generation at Capacity and Scalability**|Xuelin Qian et.al.|[2402.12225](http://arxiv.org/abs/2402.12225)|null|
 |**2024-02-19**|**Perceiving Longer Sequences With Bi-Directional Cross-Attention Transformers**|Markus Hiller et.al.|[2402.12138](http://arxiv.org/abs/2402.12138)|null|
