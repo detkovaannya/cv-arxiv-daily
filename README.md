@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-24**|**Exploring Simple-Population and Multiple-Population Globular Clusters in the Outer Galactic Halo using the Hubble Space Telescope**|E. P. Lagioia et.al.|[2406.16824](http://arxiv.org/abs/2406.16824)|null|
+|**2024-06-24**|**A Multi-Party, Multi-Blockchain Atomic Swap Protocol with Universal Adaptor Secret**|Shengewei You et.al.|[2406.16822](http://arxiv.org/abs/2406.16822)|null|
+|**2024-06-24**|**Bisimulation for Impure Simplicial Complexes**|Marta Bílková et.al.|[2406.16785](http://arxiv.org/abs/2406.16785)|null|
+|**2024-06-24**|**One-Class Learning with Adaptive Centroid Shift for Audio Deepfake Detection**|Hyun Myung Kim et.al.|[2406.16716](http://arxiv.org/abs/2406.16716)|null|
+|**2024-06-24**|**ShanghaiTech Mapping Robot is All You Need: Robot System for Collecting Universal Ground Vehicle Datasets**|Bowen Xu et.al.|[2406.16713](http://arxiv.org/abs/2406.16713)|null|
+|**2024-06-24**|**North-PHASE: Studying Periodicity, Hot Spots, Accretion Stability and Early Evolution in young stars in the northern hemisphere**|A. Sicilia-Aguilar et.al.|[2406.16702](http://arxiv.org/abs/2406.16702)|null|
+|**2024-06-24**|**Towards Communication-Efficient Peer-to-Peer Networks**|Khalid Hourani et.al.|[2406.16661](http://arxiv.org/abs/2406.16661)|null|
+|**2024-06-24**|**A 100 Mpc $^2$ structure traced by hyperluminous galaxies around a massive $z$ = 2.85 protocluster**|George C. P. Wang et.al.|[2406.16637](http://arxiv.org/abs/2406.16637)|null|
+|**2024-06-24**|**GATSBI: An Online GTSP-Based Algorithm for Targeted Surface Bridge Inspection and Defect Detection**|Harnaik Dhami et.al.|[2406.16625](http://arxiv.org/abs/2406.16625)|null|
+|**2024-06-24**|**Simultaneous Generation of Quantum Frequency Combs across Distinct Modal Families in a Single $Si_3 N_4$ Whispering Gallery Mode Resonator**|Bo Ji et.al.|[2406.16622](http://arxiv.org/abs/2406.16622)|null|
 |**2024-06-21**|**A model-independent measurement of the expansion and growth rates from BOSS using the FreePower method**|Adrian P. Schirra et.al.|[2406.15347](http://arxiv.org/abs/2406.15347)|null|
 |**2024-06-21**|**Privacy Preserved Blood Glucose Level Cross-Prediction: An Asynchronous Decentralized Federated Learning Approach**|Chengzhe Piao et.al.|[2406.15346](http://arxiv.org/abs/2406.15346)|**[link](https://github.com/chengzhepiao/coldstartbglp)**|
 |**2024-06-21**|**Search and Study of the Brightest Stars in the Galaxy IC 342**|O. N. Sholukhova et.al.|[2406.15270](http://arxiv.org/abs/2406.15270)|null|
@@ -1536,6 +1546,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-24**|**FASTC: A Fast Attentional Framework for Semantic Traversability Classification Using Point Cloud**|Yirui Chen et.al.|[2406.16564](http://arxiv.org/abs/2406.16564)|**[link](https://github.com/chenyirui/fastc)**|
+|**2024-06-24**|**Testing Topological Data Analysis for Condition Monitoring of Wind Turbines**|Simone Casolo et.al.|[2406.16380](http://arxiv.org/abs/2406.16380)|null|
+|**2024-06-22**|**PointDreamer: Zero-shot 3D Textured Mesh Reconstruction from Colored Point Cloud by 2D Inpainting**|Qiao Yu et.al.|[2406.15811](http://arxiv.org/abs/2406.15811)|**[link](https://github.com/yuqiao0303/pointdreamer)**|
+|**2024-06-22**|**Smart Feature is What You Need**|Zhaoxin Hu et.al.|[2406.15805](http://arxiv.org/abs/2406.15805)|**[link](https://github.com/hzx-9894/mma)**|
+|**2024-06-21**|**A Topology Scavenger Hunt to Introduce Topological Data Analysis**|Lori Ziegelmeier et.al.|[2406.15580](http://arxiv.org/abs/2406.15580)|null|
 |**2024-06-21**|**Voxel-Based Point Cloud Localization for Smart Spaces Management**|F. S. Mortazavi et.al.|[2406.15110](http://arxiv.org/abs/2406.15110)|null|
 |**2024-06-21**|**MOS: Model Synergy for Test-Time Adaptation on LiDAR-Based 3D Object Detection**|Zhuoxiao Chen et.al.|[2406.14878](http://arxiv.org/abs/2406.14878)|null|
 |**2024-06-19**|**3D Instance Segmentation Using Deep Learning on RGB-D Indoor Data**|Siddiqui Muhammad Yasir et.al.|[2406.14581](http://arxiv.org/abs/2406.14581)|null|
