@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-25**|**Spectroscopic and Dynamic Orbital Analyses of Metal-Poor and High Proper Motion Stars: I. HD\,8724 and HD\,195633**|M. Marismak et.al.|[2406.17776](http://arxiv.org/abs/2406.17776)|null|
+|**2024-06-25**|**GreenFaaS: Maximizing Energy Efficiency of HPC Workloads with FaaS**|Alok Kamatar et.al.|[2406.17710](http://arxiv.org/abs/2406.17710)|null|
+|**2024-06-25**|**FedBiOT: LLM Local Fine-tuning in Federated Learning without Full Model**|Feijie Wu et.al.|[2406.17706](http://arxiv.org/abs/2406.17706)|null|
+|**2024-06-25**|**Alignment-Induced Self-Organization of Autonomously Steering Microswimmers: Turbulence, Vortices, and Jets**|Segun Goh et.al.|[2406.17704](http://arxiv.org/abs/2406.17704)|null|
+|**2024-06-25**|**Stellar s-process neutron capture cross section of Ce isotopes**|R. N. Sahoo et.al.|[2406.17646](http://arxiv.org/abs/2406.17646)|null|
+|**2024-06-25**|**Cluster-glass behaviour and large magnetocaloric effect in frustrated hyperkagome ferromagnet Li $_2$MgMn$_3$O$_8$**|R. Kolay et.al.|[2406.17623](http://arxiv.org/abs/2406.17623)|null|
+|**2024-06-25**|**Experimental Evaluation of Distributed k-Core Decomposition**|Bin Guo et.al.|[2406.17580](http://arxiv.org/abs/2406.17580)|null|
+|**2024-06-25**|**MemServe: Context Caching for Disaggregated LLM Serving with Elastic Memory Pool**|Cunchen Hu et.al.|[2406.17565](http://arxiv.org/abs/2406.17565)|null|
+|**2024-06-25**|**A microscopic approach to crystallization: challenging the classical/non-classical dichotomy**|James F. Lutsko et.al.|[2406.17543](http://arxiv.org/abs/2406.17543)|null|
+|**2024-06-25**|**Principal Component Clustering for Semantic Segmentation in Synthetic Data Generation**|Felix Stillger et.al.|[2406.17541](http://arxiv.org/abs/2406.17541)|null|
 |**2024-06-24**|**Exploring Simple-Population and Multiple-Population Globular Clusters in the Outer Galactic Halo using the Hubble Space Telescope**|E. P. Lagioia et.al.|[2406.16824](http://arxiv.org/abs/2406.16824)|null|
 |**2024-06-24**|**A Multi-Party, Multi-Blockchain Atomic Swap Protocol with Universal Adaptor Secret**|Shengewei You et.al.|[2406.16822](http://arxiv.org/abs/2406.16822)|null|
 |**2024-06-24**|**Bisimulation for Impure Simplicial Complexes**|Marta Bílková et.al.|[2406.16785](http://arxiv.org/abs/2406.16785)|null|
@@ -1540,6 +1550,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-25**|**Point-SAM: Promptable 3D Segmentation Model for Point Clouds**|Yuchen Zhou et.al.|[2406.17741](http://arxiv.org/abs/2406.17741)|**[link](https://github.com/zyc00/point-sam)**|
+|**2024-06-25**|**Point Tree Transformer for Point Cloud Registration**|Meiling Wang et.al.|[2406.17530](http://arxiv.org/abs/2406.17530)|null|
+|**2024-06-25**|**Mamba24/8D: Enhancing Global Interaction in Point Clouds via State Space Model**|Zhuoyuan Li et.al.|[2406.17442](http://arxiv.org/abs/2406.17442)|null|
+|**2024-06-25**|**Masked Generative Extractor for Synergistic Representation and 3D Generation of Point Clouds**|Hongliang Zeng et.al.|[2406.17342](http://arxiv.org/abs/2406.17342)|null|
+|**2024-06-25**|**DMF-Net: Image-Guided Point Cloud Completion with Dual-Channel Modality Fusion and Shape-Aware Upsampling Transformer**|Aihua Mao et.al.|[2406.17319](http://arxiv.org/abs/2406.17319)|null|
+|**2024-06-25**|**Image-Guided Outdoor LiDAR Perception Quality Assessment for Autonomous Driving**|Ce Zhang et.al.|[2406.17265](http://arxiv.org/abs/2406.17265)|null|
 |**2024-06-24**|**FASTC: A Fast Attentional Framework for Semantic Traversability Classification Using Point Cloud**|Yirui Chen et.al.|[2406.16564](http://arxiv.org/abs/2406.16564)|**[link](https://github.com/chenyirui/fastc)**|
 |**2024-06-24**|**Testing Topological Data Analysis for Condition Monitoring of Wind Turbines**|Simone Casolo et.al.|[2406.16380](http://arxiv.org/abs/2406.16380)|null|
 |**2024-06-22**|**PointDreamer: Zero-shot 3D Textured Mesh Reconstruction from Colored Point Cloud by 2D Inpainting**|Qiao Yu et.al.|[2406.15811](http://arxiv.org/abs/2406.15811)|**[link](https://github.com/yuqiao0303/pointdreamer)**|
