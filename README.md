@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-26**|**Addressing intra-area oscillations and frequency stability after DC segmentation of a large AC power system**|Mathieu Robin et.al.|[2406.18514](http://arxiv.org/abs/2406.18514)|null|
+|**2024-06-26**|**WildTeaming at Scale: From In-the-Wild Jailbreaks to (Adversarially) Safer Language Models**|Liwei Jiang et.al.|[2406.18510](http://arxiv.org/abs/2406.18510)|null|
+|**2024-06-26**|**Enhancing Federated Learning with Adaptive Differential Privacy and Priority-Based Aggregation**|Mahtab Talaei et.al.|[2406.18491](http://arxiv.org/abs/2406.18491)|null|
+|**2024-06-26**|**LoongTrain: Efficient Training of Long-Sequence LLMs with Head-Context Parallelism**|Diandian Gu et.al.|[2406.18485](http://arxiv.org/abs/2406.18485)|null|
+|**2024-06-26**|**Cloud structure and young star distribution in the Dragonfish complex**|Nestor Sanchez et.al.|[2406.18432](http://arxiv.org/abs/2406.18432)|null|
+|**2024-06-26**|**L-Sort: An Efficient Hardware for Real-time Multi-channel Spike Sorting with Localization**|Yuntao Han et.al.|[2406.18425](http://arxiv.org/abs/2406.18425)|null|
+|**2024-06-26**|**Cavity-modified electronic interactions in molecular ensembles under vibrational strong coupling: Combined insights from cavity Born-Oppenheimer perturbation theory and ab initio wave function theory**|Eric W. Fischer et.al.|[2406.18355](http://arxiv.org/abs/2406.18355)|null|
+|**2024-06-26**|**AlignedCut: Visual Concepts Discovery on Brain-Guided Universal Feature Space**|Huzheng Yang et.al.|[2406.18344](http://arxiv.org/abs/2406.18344)|null|
+|**2024-06-26**|**Euclid preparation. Sensitivity to non-standard particle dark matter model**|Euclid Collaboration et.al.|[2406.18274](http://arxiv.org/abs/2406.18274)|null|
+|**2024-06-26**|**Wide-binary eccentricity distribution in young star clusters: dependence on the binary separation and mass**|S. S. Mathew et.al.|[2406.18184](http://arxiv.org/abs/2406.18184)|null|
 |**2024-06-25**|**Spectroscopic and Dynamic Orbital Analyses of Metal-Poor and High Proper Motion Stars: I. HD\,8724 and HD\,195633**|M. Marismak et.al.|[2406.17776](http://arxiv.org/abs/2406.17776)|null|
 |**2024-06-25**|**GreenFaaS: Maximizing Energy Efficiency of HPC Workloads with FaaS**|Alok Kamatar et.al.|[2406.17710](http://arxiv.org/abs/2406.17710)|null|
 |**2024-06-25**|**FedBiOT: LLM Local Fine-tuning in Federated Learning without Full Model**|Feijie Wu et.al.|[2406.17706](http://arxiv.org/abs/2406.17706)|null|
@@ -1556,6 +1566,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-26**|**B-TMS: Bayesian Traversable Terrain Modeling and Segmentation Across 3D LiDAR Scans and Maps for Enhanced Off-Road Navigation**|Minho Oh et.al.|[2406.18138](http://arxiv.org/abs/2406.18138)|null|
+|**2024-06-26**|**An Eulerian Meshless Method for Two-phase Flows with Embedded Geometries**|Anand S Bharadwaj et.al.|[2406.18057](http://arxiv.org/abs/2406.18057)|null|
 |**2024-06-25**|**Point-SAM: Promptable 3D Segmentation Model for Point Clouds**|Yuchen Zhou et.al.|[2406.17741](http://arxiv.org/abs/2406.17741)|**[link](https://github.com/zyc00/point-sam)**|
 |**2024-06-25**|**Point Tree Transformer for Point Cloud Registration**|Meiling Wang et.al.|[2406.17530](http://arxiv.org/abs/2406.17530)|null|
 |**2024-06-25**|**Mamba24/8D: Enhancing Global Interaction in Point Clouds via State Space Model**|Zhuoyuan Li et.al.|[2406.17442](http://arxiv.org/abs/2406.17442)|null|
