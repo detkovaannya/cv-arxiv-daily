@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-27**|**scTree: Discovering Cellular Hierarchies in the Presence of Batch Effects in scRNA-seq Data**|Moritz Vandenhirtz et.al.|[2406.19300](http://arxiv.org/abs/2406.19300)|null|
+|**2024-06-27**|**Insights into the Structured Coordination Game with Neutral Options through Simulation**|John S. McAlister et.al.|[2406.19273](http://arxiv.org/abs/2406.19273)|null|
+|**2024-06-27**|**A rare, strong shock front in the merging cluster SPT-CL J2031-4037**|Purva Diwanji et.al.|[2406.19264](http://arxiv.org/abs/2406.19264)|null|
+|**2024-06-27**|**Local Manifold Learning for No-Reference Image Quality Assessment**|Timin Gao et.al.|[2406.19247](http://arxiv.org/abs/2406.19247)|null|
+|**2024-06-27**|**OTFS-NOMA System for MIMO Communication Networks with Spatial Diversity**|Wafa Hedhly et.al.|[2406.19216](http://arxiv.org/abs/2406.19216)|null|
+|**2024-06-27**|**Origin of extended Main Sequence Turn Off in open cluster NGC 2355**|Jayanand Maurya et.al.|[2406.19132](http://arxiv.org/abs/2406.19132)|null|
+|**2024-06-27**|**$n$ qubits can be entangled in two different ways**|Dafa Li et.al.|[2406.19119](http://arxiv.org/abs/2406.19119)|null|
+|**2024-06-27**|**MegIS: High-Performance, Energy-Efficient, and Low-Cost Metagenomic Analysis with In-Storage Processing**|Nika Mansouri Ghiasi et.al.|[2406.19113](http://arxiv.org/abs/2406.19113)|null|
+|**2024-06-27**|**A halo model approach to describe clustering and emission of the two main star forming galaxy populations for Cosmic Infrared Background studies**|Giorgia Zagatti et.al.|[2406.19069](http://arxiv.org/abs/2406.19069)|null|
+|**2024-06-27**|**Understanding the Impact of openPMD on BIT1, a Particle-in-Cell Monte Carlo Code, through Instrumentation, Monitoring, and In-Situ Analysis**|Jeremy J. Williams et.al.|[2406.19058](http://arxiv.org/abs/2406.19058)|null|
 |**2024-06-26**|**Addressing intra-area oscillations and frequency stability after DC segmentation of a large AC power system**|Mathieu Robin et.al.|[2406.18514](http://arxiv.org/abs/2406.18514)|null|
 |**2024-06-26**|**WildTeaming at Scale: From In-the-Wild Jailbreaks to (Adversarially) Safer Language Models**|Liwei Jiang et.al.|[2406.18510](http://arxiv.org/abs/2406.18510)|null|
 |**2024-06-26**|**Enhancing Federated Learning with Adaptive Differential Privacy and Priority-Based Aggregation**|Mahtab Talaei et.al.|[2406.18491](http://arxiv.org/abs/2406.18491)|null|
@@ -1566,6 +1576,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-27**|**Scatterer Recognition from LiDAR Point Clouds for Environment-Embedded Vehicular Channel Modeling via Synesthesia of Machines**|Ziwei Huang et.al.|[2406.19072](http://arxiv.org/abs/2406.19072)|null|
+|**2024-06-27**|**CLIP3D-AD: Extending CLIP for 3D Few-Shot Anomaly Detection with Multi-View Images Generation**|Zuo Zuo et.al.|[2406.18941](http://arxiv.org/abs/2406.18941)|null|
+|**2024-06-27**|**Retain, Blend, and Exchange: A Quality-aware Spatial-Stereo Fusion Approach for Event Stream Recognition**|Lan Chen et.al.|[2406.18845](http://arxiv.org/abs/2406.18845)|**[link](https://github.com/event-ahu/efv_event_classification)**|
 |**2024-06-26**|**B-TMS: Bayesian Traversable Terrain Modeling and Segmentation Across 3D LiDAR Scans and Maps for Enhanced Off-Road Navigation**|Minho Oh et.al.|[2406.18138](http://arxiv.org/abs/2406.18138)|null|
 |**2024-06-26**|**An Eulerian Meshless Method for Two-phase Flows with Embedded Geometries**|Anand S Bharadwaj et.al.|[2406.18057](http://arxiv.org/abs/2406.18057)|null|
 |**2024-06-25**|**Point-SAM: Promptable 3D Segmentation Model for Point Clouds**|Yuchen Zhou et.al.|[2406.17741](http://arxiv.org/abs/2406.17741)|**[link](https://github.com/zyc00/point-sam)**|
