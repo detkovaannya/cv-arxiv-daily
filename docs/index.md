@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-28**|**Segment Anything without Supervision**|XuDong Wang et.al.|[2406.20081](http://arxiv.org/abs/2406.20081)|**[link](https://github.com/frank-xwang/unsam)**|
+|**2024-06-28**|**To Word Senses and Beyond: Inducing Concepts with Contextualized Language Models**|Bastien Liétard et.al.|[2406.20054](http://arxiv.org/abs/2406.20054)|null|
+|**2024-06-28**|**LEMoE: Advanced Mixture of Experts Adaptor for Lifelong Model Editing of Large Language Models**|Renzhi Wang et.al.|[2406.20030](http://arxiv.org/abs/2406.20030)|null|
+|**2024-06-28**|**Cauliflower shapes of bacterial clusters in the off-lattice Eden model for bacterial growth in a Petri dish**|Szymon Kaczmarczyk et.al.|[2406.20011](http://arxiv.org/abs/2406.20011)|null|
+|**2024-06-28**|**NetNN: Neural Intrusion Detection System in Programmable Networks**|Kamran Razavi et.al.|[2406.19990](http://arxiv.org/abs/2406.19990)|null|
+|**2024-06-28**|**Uncovering the hidden core-periphery structure in hyperbolic networks**|Imran Ansari et.al.|[2406.19953](http://arxiv.org/abs/2406.19953)|**[link](https://github.com/imran10896/cp_structure_in_hyperbolic_networks)**|
+|**2024-06-28**|**Interactive Topic Models with Optimal Transport**|Garima Dhanania et.al.|[2406.19928](http://arxiv.org/abs/2406.19928)|null|
+|**2024-06-28**|**Fully Dynamic k-Means Coreset in Near-Optimal Update Time**|Max Dupré la Tour et.al.|[2406.19926](http://arxiv.org/abs/2406.19926)|null|
+|**2024-06-28**|**Automated Deep Neural Network Inference Partitioning for Distributed Embedded Systems**|Fabian Kreß et.al.|[2406.19913](http://arxiv.org/abs/2406.19913)|null|
+|**2024-06-28**|**Runtime Instrumentation for Reactive Components (Extended Version)**|Luca Aceto et.al.|[2406.19904](http://arxiv.org/abs/2406.19904)|null|
 |**2024-06-27**|**scTree: Discovering Cellular Hierarchies in the Presence of Batch Effects in scRNA-seq Data**|Moritz Vandenhirtz et.al.|[2406.19300](http://arxiv.org/abs/2406.19300)|null|
 |**2024-06-27**|**Insights into the Structured Coordination Game with Neutral Options through Simulation**|John S. McAlister et.al.|[2406.19273](http://arxiv.org/abs/2406.19273)|null|
 |**2024-06-27**|**A rare, strong shock front in the merging cluster SPT-CL J2031-4037**|Purva Diwanji et.al.|[2406.19264](http://arxiv.org/abs/2406.19264)|null|
@@ -1570,6 +1580,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-28**|**Modeling the Real World with High-Density Visual Particle Dynamics**|William F. Whitney et.al.|[2406.19800](http://arxiv.org/abs/2406.19800)|null|
+|**2024-06-28**|**Multi-UAVs end-to-end Distributed Trajectory Generation over Point Cloud Data**|Antonio Marino et.al.|[2406.19742](http://arxiv.org/abs/2406.19742)|null|
 |**2024-06-27**|**Scatterer Recognition from LiDAR Point Clouds for Environment-Embedded Vehicular Channel Modeling via Synesthesia of Machines**|Ziwei Huang et.al.|[2406.19072](http://arxiv.org/abs/2406.19072)|null|
 |**2024-06-27**|**CLIP3D-AD: Extending CLIP for 3D Few-Shot Anomaly Detection with Multi-View Images Generation**|Zuo Zuo et.al.|[2406.18941](http://arxiv.org/abs/2406.18941)|null|
 |**2024-06-27**|**Retain, Blend, and Exchange: A Quality-aware Spatial-Stereo Fusion Approach for Event Stream Recognition**|Lan Chen et.al.|[2406.18845](http://arxiv.org/abs/2406.18845)|**[link](https://github.com/event-ahu/efv_event_classification)**|
