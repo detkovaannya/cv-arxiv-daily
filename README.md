@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.30
+## Updated on 2024.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -26,7 +26,7 @@
 |**2024-06-27**|**Origin of extended Main Sequence Turn Off in open cluster NGC 2355**|Jayanand Maurya et.al.|[2406.19132](http://arxiv.org/abs/2406.19132)|null|
 |**2024-06-27**|**$n$ qubits can be entangled in two different ways**|Dafa Li et.al.|[2406.19119](http://arxiv.org/abs/2406.19119)|null|
 |**2024-06-27**|**MegIS: High-Performance, Energy-Efficient, and Low-Cost Metagenomic Analysis with In-Storage Processing**|Nika Mansouri Ghiasi et.al.|[2406.19113](http://arxiv.org/abs/2406.19113)|null|
-|**2024-06-27**|**A halo model approach to describe clustering and emission of the two main star forming galaxy populations for Cosmic Infrared Background studies**|Giorgia Zagatti et.al.|[2406.19069](http://arxiv.org/abs/2406.19069)|null|
+|**2024-06-27**|**A halo model approach to describe clustering and emission of the two main star forming galaxy populations for Cosmic Infrared Background studies**|Giorgia Zagatti et.al.|[2406.19069](http://arxiv.org/abs/2406.19069)|**[link](https://github.com/giorgiazagatti/cib_halomodel)**|
 |**2024-06-27**|**Understanding the Impact of openPMD on BIT1, a Particle-in-Cell Monte Carlo Code, through Instrumentation, Monitoring, and In-Situ Analysis**|Jeremy J. Williams et.al.|[2406.19058](http://arxiv.org/abs/2406.19058)|null|
 |**2024-06-26**|**Addressing intra-area oscillations and frequency stability after DC segmentation of a large AC power system**|Mathieu Robin et.al.|[2406.18514](http://arxiv.org/abs/2406.18514)|null|
 |**2024-06-26**|**WildTeaming at Scale: From In-the-Wild Jailbreaks to (Adversarially) Safer Language Models**|Liwei Jiang et.al.|[2406.18510](http://arxiv.org/abs/2406.18510)|null|
@@ -1570,7 +1570,7 @@
 |**2023-11-10**|**The First Verification Test of Space-Ground Collaborative Intelligence via Cloud-Native Satellites**|Shangguang Wang et.al.|[2311.06078](http://arxiv.org/abs/2311.06078)|null|
 |**2023-11-10**|**Collaborative Inference in DNN-based Satellite Systems with Dynamic Task Streams**|Jinglong Guan et.al.|[2311.06073](http://arxiv.org/abs/2311.06073)|null|
 
-<p align=right>(<a href=#updated-on-20240630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240701>back to top</a>)</p>
 
 ## point cloud
 
@@ -2491,7 +2491,7 @@
 |**2023-11-08**|**VET: Visual Error Tomography for Point Cloud Completion and High-Quality Neural Rendering**|Linus Franke et.al.|[2311.04634](http://arxiv.org/abs/2311.04634)|**[link](https://github.com/lfranke/vet)**|
 |**2023-11-09**|**Rethinking Human Pose Estimation for Autonomous Driving with 3D Event Representations**|Xiaoting Yin et.al.|[2311.04591](http://arxiv.org/abs/2311.04591)|**[link](https://github.com/masterhow/eventpointpose)**|
 
-<p align=right>(<a href=#updated-on-20240630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240701>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

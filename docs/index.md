@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.30
+## Updated on 2024.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## clustering
@@ -22,7 +22,7 @@ layout: default
 |**2024-06-27**|**Origin of extended Main Sequence Turn Off in open cluster NGC 2355**|Jayanand Maurya et.al.|[2406.19132](http://arxiv.org/abs/2406.19132)|null|
 |**2024-06-27**|**$n$ qubits can be entangled in two different ways**|Dafa Li et.al.|[2406.19119](http://arxiv.org/abs/2406.19119)|null|
 |**2024-06-27**|**MegIS: High-Performance, Energy-Efficient, and Low-Cost Metagenomic Analysis with In-Storage Processing**|Nika Mansouri Ghiasi et.al.|[2406.19113](http://arxiv.org/abs/2406.19113)|null|
-|**2024-06-27**|**A halo model approach to describe clustering and emission of the two main star forming galaxy populations for Cosmic Infrared Background studies**|Giorgia Zagatti et.al.|[2406.19069](http://arxiv.org/abs/2406.19069)|null|
+|**2024-06-27**|**A halo model approach to describe clustering and emission of the two main star forming galaxy populations for Cosmic Infrared Background studies**|Giorgia Zagatti et.al.|[2406.19069](http://arxiv.org/abs/2406.19069)|**[link](https://github.com/giorgiazagatti/cib_halomodel)**|
 |**2024-06-27**|**Understanding the Impact of openPMD on BIT1, a Particle-in-Cell Monte Carlo Code, through Instrumentation, Monitoring, and In-Situ Analysis**|Jeremy J. Williams et.al.|[2406.19058](http://arxiv.org/abs/2406.19058)|null|
 |**2024-06-26**|**Addressing intra-area oscillations and frequency stability after DC segmentation of a large AC power system**|Mathieu Robin et.al.|[2406.18514](http://arxiv.org/abs/2406.18514)|null|
 |**2024-06-26**|**WildTeaming at Scale: From In-the-Wild Jailbreaks to (Adversarially) Safer Language Models**|Liwei Jiang et.al.|[2406.18510](http://arxiv.org/abs/2406.18510)|null|
