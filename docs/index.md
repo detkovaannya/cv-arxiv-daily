@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-02**|**Analogs of the dual canonical bases for cluster algebras from Lie theory**|Fan Qin et.al.|[2407.02480](http://arxiv.org/abs/2407.02480)|null|
+|**2024-07-02**|**Decentralized Intelligence Network (DIN)**|Abraham Nash et.al.|[2407.02461](http://arxiv.org/abs/2407.02461)|null|
+|**2024-07-02**|**Fundamentals of Broken Line Convex Geometry**|Juan Bosco Frías-Medina et.al.|[2407.02427](http://arxiv.org/abs/2407.02427)|null|
+|**2024-07-02**|**Uncertainty-Aware Decarbonization for Datacenters**|Amy Li et.al.|[2407.02390](http://arxiv.org/abs/2407.02390)|null|
+|**2024-07-02**|**A new subclass of gamma-ray burst originating from compact binary merger**|Chen-Wei Wang et.al.|[2407.02376](http://arxiv.org/abs/2407.02376)|null|
+|**2024-07-02**|**Revisiting Cascaded Ensembles for Efficient Inference**|Steven Kolawole et.al.|[2407.02348](http://arxiv.org/abs/2407.02348)|null|
+|**2024-07-02**|**QSync: Quantization-Minimized Synchronous Distributed Training Across Hybrid Devices**|Juntao Zhao et.al.|[2407.02327](http://arxiv.org/abs/2407.02327)|null|
+|**2024-07-02**|**Light clusters in hot nuclear matter: calibrating the interaction with heavy-ion collisions**|Tiago Custódio et.al.|[2407.02307](http://arxiv.org/abs/2407.02307)|null|
+|**2024-07-02**|**Learning Paradigms and Modelling Methodologies for Digital Twins in Process Industry**|Michael Mayr et.al.|[2407.02275](http://arxiv.org/abs/2407.02275)|null|
+|**2024-07-02**|**MIREncoder: Multi-modal IR-based Pretrained Embeddings for Performance Optimizations**|Akash Dutta et.al.|[2407.02238](http://arxiv.org/abs/2407.02238)|null|
 |**2024-06-28**|**Segment Anything without Supervision**|XuDong Wang et.al.|[2406.20081](http://arxiv.org/abs/2406.20081)|**[link](https://github.com/frank-xwang/unsam)**|
 |**2024-06-28**|**To Word Senses and Beyond: Inducing Concepts with Contextualized Language Models**|Bastien Liétard et.al.|[2406.20054](http://arxiv.org/abs/2406.20054)|null|
 |**2024-06-28**|**LEMoE: Advanced Mixture of Experts Adaptor for Lifelong Model Editing of Large Language Models**|Renzhi Wang et.al.|[2406.20030](http://arxiv.org/abs/2406.20030)|null|
@@ -1580,6 +1590,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-02**|**SUPER: Seated Upper Body Pose Estimation using mmWave Radars**|Bo Zhang et.al.|[2407.02455](http://arxiv.org/abs/2407.02455)|null|
+|**2024-07-02**|**I2EKF-LO: A Dual-Iteration Extended Kalman Filter Based LiDAR Odometry**|Wenlu Yu et.al.|[2407.02190](http://arxiv.org/abs/2407.02190)|null|
+|**2024-07-02**|**DM3D: Distortion-Minimized Weight Pruning for Lossless 3D Object Detection**|Kaixin Xu et.al.|[2407.02098](http://arxiv.org/abs/2407.02098)|null|
+|**2024-07-02**|**LiDAR-based HD Map Localization using Semantic Generalized ICP with Road Marking Detection**|Yansong Gong et.al.|[2407.02061](http://arxiv.org/abs/2407.02061)|null|
+|**2024-07-02**|**Camera-LiDAR Cross-modality Gait Recognition**|Wenxuan Guo et.al.|[2407.02038](http://arxiv.org/abs/2407.02038)|null|
+|**2024-07-01**|**fVDB: A Deep-Learning Framework for Sparse, Large-Scale, and High-Performance Spatial Intelligence**|Francis Williams et.al.|[2407.01781](http://arxiv.org/abs/2407.01781)|null|
+|**2024-07-01**|**Learning Unsigned Distance Fields from Local Shape Functions for 3D Surface Reconstruction**|Jiangbei Hu et.al.|[2407.01330](http://arxiv.org/abs/2407.01330)|null|
+|**2024-07-01**|**SGCCNet: Single-Stage 3D Object Detector With Saliency-Guided Data Augmentation and Confidence Correction Mechanism**|Ao Liang et.al.|[2407.01239](http://arxiv.org/abs/2407.01239)|null|
+|**2024-07-01**|**MARS: Multimodal Active Robotic Sensing for Articulated Characterization**|Hongliang Zeng et.al.|[2407.01191](http://arxiv.org/abs/2407.01191)|**[link](https://github.com/robhlzeng/mars)**|
+|**2024-07-01**|**RMS-FlowNet++: Efficient and Robust Multi-Scale Scene Flow Estimation for Large-Scale Point Clouds**|Ramy Battrawy et.al.|[2407.01129](http://arxiv.org/abs/2407.01129)|null|
 |**2024-06-28**|**Modeling the Real World with High-Density Visual Particle Dynamics**|William F. Whitney et.al.|[2406.19800](http://arxiv.org/abs/2406.19800)|null|
 |**2024-06-28**|**Multi-UAVs end-to-end Distributed Trajectory Generation over Point Cloud Data**|Antonio Marino et.al.|[2406.19742](http://arxiv.org/abs/2406.19742)|null|
 |**2024-06-27**|**Scatterer Recognition from LiDAR Point Clouds for Environment-Embedded Vehicular Channel Modeling via Synesthesia of Machines**|Ziwei Huang et.al.|[2406.19072](http://arxiv.org/abs/2406.19072)|null|
