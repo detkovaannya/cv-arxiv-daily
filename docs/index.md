@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-03**|**Timing of millisecond pulsars in NGC\,6752 -- III. On the presence of non-luminous matter in the cluster's core**|A. Corongiu et.al.|[2407.03271](http://arxiv.org/abs/2407.03271)|null|
+|**2024-07-03**|**Bridging Model Heterogeneity in Federated Learning via Uncertainty-based Asymmetrical Reciprocity Learning**|Jiaqi Wang et.al.|[2407.03247](http://arxiv.org/abs/2407.03247)|null|
+|**2024-07-03**|**The large-scale structure around the Fornax-Eridanus Complex**|Maria Angela Raj et.al.|[2407.03225](http://arxiv.org/abs/2407.03225)|null|
+|**2024-07-03**|**Streaming Large-Scale Electron Microscopy Data to a Supercomputing Facility**|Samuel S. Welborn et.al.|[2407.03215](http://arxiv.org/abs/2407.03215)|null|
+|**2024-07-03**|**Applications of the freezing operators on cluster algebras**|Fan Qin et.al.|[2407.03186](http://arxiv.org/abs/2407.03186)|null|
+|**2024-07-03**|**Closing Pandora's Box -- The deepest X-ray observations of Abell 2744 and a multi-wavelength merger picture**|Urmila Chadayammuri et.al.|[2407.03142](http://arxiv.org/abs/2407.03142)|null|
+|**2024-07-03**|**Hardware-efficient variational quantum algorithm in trapped-ion quantum computer**|J. -Z. Zhuang et.al.|[2407.03116](http://arxiv.org/abs/2407.03116)|null|
+|**2024-07-03**|**Anti-Collapse Loss for Deep Metric Learning Based on Coding Rate Metric**|Xiruo Jiang et.al.|[2407.03106](http://arxiv.org/abs/2407.03106)|**[link](https://github.com/nust-machine-intelligence-laboratory/anti-collapse-loss)**|
+|**2024-07-03**|**Droplets of Bosons at a Narrow Resonance**|Ke Wang et.al.|[2407.03102](http://arxiv.org/abs/2407.03102)|null|
+|**2024-07-03**|**Effective Heterogeneous Federated Learning via Efficient Hypernetwork-based Weight Generation**|Yujin Shin et.al.|[2407.03086](http://arxiv.org/abs/2407.03086)|null|
 |**2024-07-02**|**Analogs of the dual canonical bases for cluster algebras from Lie theory**|Fan Qin et.al.|[2407.02480](http://arxiv.org/abs/2407.02480)|null|
 |**2024-07-02**|**Decentralized Intelligence Network (DIN)**|Abraham Nash et.al.|[2407.02461](http://arxiv.org/abs/2407.02461)|null|
 |**2024-07-02**|**Fundamentals of Broken Line Convex Geometry**|Juan Bosco Frías-Medina et.al.|[2407.02427](http://arxiv.org/abs/2407.02427)|null|
@@ -1590,6 +1600,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-03**|**TieBot: Learning to Knot a Tie from Visual Demonstration through a Real-to-Sim-to-Real Approach**|Weikun Peng et.al.|[2407.03245](http://arxiv.org/abs/2407.03245)|null|
+|**2024-07-03**|**Consistent Point Orientation for Manifold Surfaces via Boundary Integration**|Weizhou Liu et.al.|[2407.03165](http://arxiv.org/abs/2407.03165)|**[link](https://github.com/liuweizhou319/bim)**|
+|**2024-07-03**|**Applying Extended Object Tracking for Self-Localization of Roadside Radar Sensors**|Longfei Han et.al.|[2407.03084](http://arxiv.org/abs/2407.03084)|null|
+|**2024-07-03**|**Electromagnetic Property Sensing Based on Diffusion Model in ISAC System**|Yuhua Jiang et.al.|[2407.03075](http://arxiv.org/abs/2407.03075)|null|
+|**2024-07-03**|**EgoFlowNet: Non-Rigid Scene Flow from Point Clouds with Ego-Motion Support**|Ramy Battrawy et.al.|[2407.02920](http://arxiv.org/abs/2407.02920)|null|
+|**2024-07-03**|**Free-SurGS: SfM-Free 3D Gaussian Splatting for Surgical Scene Reconstruction**|Jiaxin Guo et.al.|[2407.02918](http://arxiv.org/abs/2407.02918)|null|
+|**2024-07-03**|**Explicitly Guided Information Interaction Network for Cross-modal Point Cloud Completion**|Hang Xu et.al.|[2407.02887](http://arxiv.org/abs/2407.02887)|**[link](https://github.com/whu-usi3dv/egiinet)**|
+|**2024-07-03**|**A Radiometric Correction based Optical Modeling Approach to Removing Reflection Noise in TLS Point Clouds of Urban Scenes**|Li Fang et.al.|[2407.02830](http://arxiv.org/abs/2407.02830)|null|
+|**2024-07-03**|**LiDAR-Inertial Odometry Based on Extended Kalman Filter**|Naoki Akai et.al.|[2407.02786](http://arxiv.org/abs/2407.02786)|null|
 |**2024-07-02**|**SUPER: Seated Upper Body Pose Estimation using mmWave Radars**|Bo Zhang et.al.|[2407.02455](http://arxiv.org/abs/2407.02455)|null|
 |**2024-07-02**|**I2EKF-LO: A Dual-Iteration Extended Kalman Filter Based LiDAR Odometry**|Wenlu Yu et.al.|[2407.02190](http://arxiv.org/abs/2407.02190)|null|
 |**2024-07-02**|**DM3D: Distortion-Minimized Weight Pruning for Lossless 3D Object Detection**|Kaixin Xu et.al.|[2407.02098](http://arxiv.org/abs/2407.02098)|null|
