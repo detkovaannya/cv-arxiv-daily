@@ -30,7 +30,7 @@ layout: default
 |**2024-07-02**|**Uncertainty-Aware Decarbonization for Datacenters**|Amy Li et.al.|[2407.02390](http://arxiv.org/abs/2407.02390)|null|
 |**2024-07-02**|**A new subclass of gamma-ray burst originating from compact binary merger**|Chen-Wei Wang et.al.|[2407.02376](http://arxiv.org/abs/2407.02376)|null|
 |**2024-07-02**|**Revisiting Cascaded Ensembles for Efficient Inference**|Steven Kolawole et.al.|[2407.02348](http://arxiv.org/abs/2407.02348)|null|
-|**2024-07-02**|**QSync: Quantization-Minimized Synchronous Distributed Training Across Hybrid Devices**|Juntao Zhao et.al.|[2407.02327](http://arxiv.org/abs/2407.02327)|null|
+|**2024-07-02**|**QSync: Quantization-Minimized Synchronous Distributed Training Across Hybrid Devices**|Juntao Zhao et.al.|[2407.02327](http://arxiv.org/abs/2407.02327)|**[link](https://github.com/bytedance/QSync)**|
 |**2024-07-02**|**Light clusters in hot nuclear matter: calibrating the interaction with heavy-ion collisions**|Tiago Custódio et.al.|[2407.02307](http://arxiv.org/abs/2407.02307)|null|
 |**2024-07-02**|**Learning Paradigms and Modelling Methodologies for Digital Twins in Process Industry**|Michael Mayr et.al.|[2407.02275](http://arxiv.org/abs/2407.02275)|null|
 |**2024-07-02**|**MIREncoder: Multi-modal IR-based Pretrained Embeddings for Performance Optimizations**|Akash Dutta et.al.|[2407.02238](http://arxiv.org/abs/2407.02238)|null|
@@ -38,7 +38,7 @@ layout: default
 |**2024-06-28**|**To Word Senses and Beyond: Inducing Concepts with Contextualized Language Models**|Bastien Liétard et.al.|[2406.20054](http://arxiv.org/abs/2406.20054)|null|
 |**2024-06-28**|**LEMoE: Advanced Mixture of Experts Adaptor for Lifelong Model Editing of Large Language Models**|Renzhi Wang et.al.|[2406.20030](http://arxiv.org/abs/2406.20030)|null|
 |**2024-06-28**|**Cauliflower shapes of bacterial clusters in the off-lattice Eden model for bacterial growth in a Petri dish**|Szymon Kaczmarczyk et.al.|[2406.20011](http://arxiv.org/abs/2406.20011)|null|
-|**2024-06-28**|**NetNN: Neural Intrusion Detection System in Programmable Networks**|Kamran Razavi et.al.|[2406.19990](http://arxiv.org/abs/2406.19990)|null|
+|**2024-06-28**|**NetNN: Neural Intrusion Detection System in Programmable Networks**|Kamran Razavi et.al.|[2406.19990](http://arxiv.org/abs/2406.19990)|**[link](https://github.com/shynfard/netnn)**|
 |**2024-06-28**|**Uncovering the hidden core-periphery structure in hyperbolic networks**|Imran Ansari et.al.|[2406.19953](http://arxiv.org/abs/2406.19953)|**[link](https://github.com/imran10896/cp_structure_in_hyperbolic_networks)**|
 |**2024-06-28**|**Interactive Topic Models with Optimal Transport**|Garima Dhanania et.al.|[2406.19928](http://arxiv.org/abs/2406.19928)|null|
 |**2024-06-28**|**Fully Dynamic k-Means Coreset in Near-Optimal Update Time**|Max Dupré la Tour et.al.|[2406.19926](http://arxiv.org/abs/2406.19926)|null|
@@ -62,15 +62,15 @@ layout: default
 |**2024-06-26**|**L-Sort: An Efficient Hardware for Real-time Multi-channel Spike Sorting with Localization**|Yuntao Han et.al.|[2406.18425](http://arxiv.org/abs/2406.18425)|null|
 |**2024-06-26**|**Cavity-modified electronic interactions in molecular ensembles under vibrational strong coupling: Combined insights from cavity Born-Oppenheimer perturbation theory and ab initio wave function theory**|Eric W. Fischer et.al.|[2406.18355](http://arxiv.org/abs/2406.18355)|null|
 |**2024-06-26**|**AlignedCut: Visual Concepts Discovery on Brain-Guided Universal Feature Space**|Huzheng Yang et.al.|[2406.18344](http://arxiv.org/abs/2406.18344)|null|
-|**2024-06-26**|**Euclid preparation. Sensitivity to non-standard particle dark matter model**|Euclid Collaboration et.al.|[2406.18274](http://arxiv.org/abs/2406.18274)|null|
+|**2024-06-26**|**Euclid preparation. Sensitivity to non-standard particle dark matter model**|Euclid Collaboration et.al.|[2406.18274](http://arxiv.org/abs/2406.18274)|**[link](https://github.com/sambit-giri/BCemu)**|
 |**2024-06-26**|**Wide-binary eccentricity distribution in young star clusters: dependence on the binary separation and mass**|S. S. Mathew et.al.|[2406.18184](http://arxiv.org/abs/2406.18184)|null|
 |**2024-06-25**|**Spectroscopic and Dynamic Orbital Analyses of Metal-Poor and High Proper Motion Stars: I. HD\,8724 and HD\,195633**|M. Marismak et.al.|[2406.17776](http://arxiv.org/abs/2406.17776)|null|
-|**2024-06-25**|**GreenFaaS: Maximizing Energy Efficiency of HPC Workloads with FaaS**|Alok Kamatar et.al.|[2406.17710](http://arxiv.org/abs/2406.17710)|null|
+|**2024-06-25**|**GreenFaaS: Maximizing Energy Efficiency of HPC Workloads with FaaS**|Alok Kamatar et.al.|[2406.17710](http://arxiv.org/abs/2406.17710)|**[link](https://github.com/ak2000/caws)**|
 |**2024-06-25**|**FedBiOT: LLM Local Fine-tuning in Federated Learning without Full Model**|Feijie Wu et.al.|[2406.17706](http://arxiv.org/abs/2406.17706)|**[link](https://github.com/HarliWu/FedBiOT)**|
 |**2024-06-25**|**Alignment-Induced Self-Organization of Autonomously Steering Microswimmers: Turbulence, Vortices, and Jets**|Segun Goh et.al.|[2406.17704](http://arxiv.org/abs/2406.17704)|null|
 |**2024-06-25**|**Stellar s-process neutron capture cross section of Ce isotopes**|R. N. Sahoo et.al.|[2406.17646](http://arxiv.org/abs/2406.17646)|null|
 |**2024-06-25**|**Cluster-glass behaviour and large magnetocaloric effect in frustrated hyperkagome ferromagnet Li $_2$MgMn$_3$O$_8$**|R. Kolay et.al.|[2406.17623](http://arxiv.org/abs/2406.17623)|null|
-|**2024-06-25**|**Experimental Evaluation of Distributed k-Core Decomposition**|Bin Guo et.al.|[2406.17580](http://arxiv.org/abs/2406.17580)|null|
+|**2024-06-25**|**Experimental Evaluation of Distributed k-Core Decomposition**|Bin Guo et.al.|[2406.17580](http://arxiv.org/abs/2406.17580)|**[link](https://github.com/Marcus1211/MEng)**|
 |**2024-06-26**|**MemServe: Context Caching for Disaggregated LLM Serving with Elastic Memory Pool**|Cunchen Hu et.al.|[2406.17565](http://arxiv.org/abs/2406.17565)|null|
 |**2024-06-25**|**A microscopic approach to crystallization: challenging the classical/non-classical dichotomy**|James F. Lutsko et.al.|[2406.17543](http://arxiv.org/abs/2406.17543)|null|
 |**2024-06-25**|**Principal Component Clustering for Semantic Segmentation in Synthetic Data Generation**|Felix Stillger et.al.|[2406.17541](http://arxiv.org/abs/2406.17541)|null|
@@ -1358,7 +1358,7 @@ layout: default
 |**2023-12-14**|**LIME: Localized Image Editing via Attention Regularization in Diffusion Models**|Enis Simsar et.al.|[2312.09256](http://arxiv.org/abs/2312.09256)|null|
 |**2023-12-14**|**Diagnostic diagrams for ram-pressure stripped candidates**|A. C. Krabbe et.al.|[2312.09220](http://arxiv.org/abs/2312.09220)|**[link](https://gitlab.com/joseaher/astromorphlib)**|
 |**2023-12-14**|**MAGICS I. The First Few Orbits Encode the Fate of Seed Massive Black Hole Pairs**|Nianyi Chen et.al.|[2312.09183](http://arxiv.org/abs/2312.09183)|**[link](https://github.com/MP-Gadget/MP-Gadget)**|
-|**2023-12-14**|**Improving Efficiency of Diffusion Models via Multi-Stage Framework and Tailored Multi-Decoder Architectures**|Huijie Zhang et.al.|[2312.09181](http://arxiv.org/abs/2312.09181)|null|
+|**2023-12-14**|**Improving Efficiency of Diffusion Models via Multi-Stage Framework and Tailored Multi-Decoder Architectures**|Huijie Zhang et.al.|[2312.09181](http://arxiv.org/abs/2312.09181)|**[link](https://github.com/lucasyfl/multistage_diffusion)**|
 |**2023-12-14**|**Self-organisation of auto-phoretic suspensions in confined shear flows**|Prathmesh Vinze et.al.|[2312.09178](http://arxiv.org/abs/2312.09178)|null|
 |**2023-12-14**|**MRL-PoS: A Multi-agent Reinforcement Learning based Proof of Stake Consensus Algorithm for Blockchain**|Tariqul Islam et.al.|[2312.09123](http://arxiv.org/abs/2312.09123)|null|
 |**2023-12-14**|**LayerZero**|Ryan Zarick et.al.|[2312.09118](http://arxiv.org/abs/2312.09118)|null|
@@ -1649,7 +1649,7 @@ layout: default
 |**2024-06-17**|**Imagination Policy: Using Generative Point Cloud Models for Learning Manipulation Policies**|Haojie Huang et.al.|[2406.11740](http://arxiv.org/abs/2406.11740)|null|
 |**2024-06-17**|**Correspondence Free Multivector Cloud Registration using Conformal Geometric Algebra**|Francisco Xavier Vasconcelos et.al.|[2406.11732](http://arxiv.org/abs/2406.11732)|**[link](https://github.com/numerical-geometric-algebra/registrationga)**|
 |**2024-06-17**|**Duoduo CLIP: Efficient 3D Understanding with Multi-View Images**|Han-Hung Lee et.al.|[2406.11579](http://arxiv.org/abs/2406.11579)|**[link](https://github.com/3dlg-hcvc/DuoduoCLIP)**|
-|**2024-06-17**|**SWCF-Net: Similarity-weighted Convolution and Local-global Fusion for Efficient Large-scale Point Cloud Semantic Segmentation**|Zhenchao Lin et.al.|[2406.11441](http://arxiv.org/abs/2406.11441)|null|
+|**2024-06-17**|**SWCF-Net: Similarity-weighted Convolution and Local-global Fusion for Efficient Large-scale Point Cloud Semantic Segmentation**|Zhenchao Lin et.al.|[2406.11441](http://arxiv.org/abs/2406.11441)|**[link](https://github.com/Sylva-Lin/SWCF-Net)**|
 |**2024-06-17**|**DRIP: Discriminative Rotation-Invariant Pole Landmark Descriptor for 3D LiDAR Localization**|Dingrui Li et.al.|[2406.11266](http://arxiv.org/abs/2406.11266)|null|
 |**2024-06-16**|**MV2Cyl: Reconstructing 3D Extrusion Cylinders from Multi-View Images**|Eunji Hong et.al.|[2406.10853](http://arxiv.org/abs/2406.10853)|null|
 |**2024-06-15**|**MMVR: Millimeter-wave Multi-View Radar Dataset and Benchmark for Indoor Perception**|M. Mahbubur Rahman et.al.|[2406.10708](http://arxiv.org/abs/2406.10708)|null|
@@ -1742,7 +1742,7 @@ layout: default
 |**2024-05-23**|**Synergistic Global-space Camera and Human Reconstruction from Videos**|Yizhou Zhao et.al.|[2405.14855](http://arxiv.org/abs/2405.14855)|null|
 |**2024-05-23**|**Flatten Anything: Unsupervised Neural Surface Parameterization**|Qijian Zhang et.al.|[2405.14633](http://arxiv.org/abs/2405.14633)|null|
 |**2024-05-23**|**Aligning Embeddings and Geometric Random Graphs: Informational Results and Computational Approaches for the Procrustes-Wasserstein Problem**|Mathieu Even et.al.|[2405.14532](http://arxiv.org/abs/2405.14532)|null|
-|**2024-05-24**|**RoGS: Large Scale Road Surface Reconstruction based on 2D Gaussian Splatting**|Zhiheng Feng et.al.|[2405.14342](http://arxiv.org/abs/2405.14342)|null|
+|**2024-05-24**|**RoGS: Large Scale Road Surface Reconstruction based on 2D Gaussian Splatting**|Zhiheng Feng et.al.|[2405.14342](http://arxiv.org/abs/2405.14342)|**[link](https://github.com/fzhiheng/RoGS)**|
 |**2024-05-23**|**MAMBA4D: Efficient Long-Sequence Point Cloud Video Understanding with Disentangled Spatial-Temporal State Space Models**|Jiuming Liu et.al.|[2405.14338](http://arxiv.org/abs/2405.14338)|null|
 |**2024-05-23**|**A New Method in Facial Registration in Clinics Based on Structure Light Images**|Pengfei Li et.al.|[2405.14292](http://arxiv.org/abs/2405.14292)|null|
 |**2024-05-23**|**Fine-grained Image-to-LiDAR Contrastive Distillation with Visual Foundation Models**|Yifan Zhang et.al.|[2405.14271](http://arxiv.org/abs/2405.14271)|**[link](https://github.com/eaphan/olivine)**|
@@ -2093,7 +2093,7 @@ layout: default
 |**2024-03-11**|**epsilon-Mesh Attack: A Surface-based Adversarial Point Cloud Attack for Facial Expression Recognition**|Batuhan Cengiz et.al.|[2403.06661](http://arxiv.org/abs/2403.06661)|null|
 |**2024-03-11**|**Towards Zero-Shot Interpretable Human Recognition: A 2D-3D Registration Framework**|Henrique Jesus et.al.|[2403.06658](http://arxiv.org/abs/2403.06658)|null|
 |**2024-03-11**|**Ray Launching-Based Computation of Exact Paths with Noisy Dense Point Clouds**|Niklas Vaara et.al.|[2403.06648](http://arxiv.org/abs/2403.06648)|**[link](https://github.com/nvaara/nimbusrt)**|
-|**2024-03-11**|**BEV2PR: BEV-Enhanced Visual Place Recognition with Structural Cues**|Fudong Ge et.al.|[2403.06600](http://arxiv.org/abs/2403.06600)|null|
+|**2024-03-11**|**BEV2PR: BEV-Enhanced Visual Place Recognition with Structural Cues**|Fudong Ge et.al.|[2403.06600](http://arxiv.org/abs/2403.06600)|**[link](https://github.com/fudongge/bev2pr)**|
 |**2024-03-11**|**3DRef: 3D Dataset and Benchmark for Reflection Detection in RGB and Lidar Data**|Xiting Zhao et.al.|[2403.06538](http://arxiv.org/abs/2403.06538)|null|
 |**2024-03-11**|**3D Semantic Segmentation-Driven Representations for 3D Object Detection**|Hayeon O et.al.|[2403.06501](http://arxiv.org/abs/2403.06501)|**[link](https://github.com/hama-dl-dev/sesame)**|
 |**2024-03-08**|**Grasping Trajectory Optimization with Point Clouds**|Yu Xiang et.al.|[2403.05466](http://arxiv.org/abs/2403.05466)|null|
@@ -2317,7 +2317,7 @@ layout: default
 |**2024-01-04**|**OptFlow: Fast Optimization-based Scene Flow Estimation without Supervision**|Rahul Ahuja et.al.|[2401.02550](http://arxiv.org/abs/2401.02550)|null|
 |**2024-01-04**|**ODIN: A Single Model for 2D and 3D Perception**|Ayush Jain et.al.|[2401.02416](http://arxiv.org/abs/2401.02416)|**[link](https://github.com/ayushjain1144/odin)**|
 |**2024-01-04**|**GridFormer: Point-Grid Transformer for Surface Reconstruction**|Shengtao Li et.al.|[2401.02292](http://arxiv.org/abs/2401.02292)|**[link](https://github.com/list17/gridformer)**|
-|**2024-01-04**|**PEGASUS: Physically Enhanced Gaussian Splatting Simulation System for 6DOF Object Pose Dataset Generation**|Lukas Meyer et.al.|[2401.02281](http://arxiv.org/abs/2401.02281)|null|
+|**2024-01-04**|**PEGASUS: Physically Enhanced Gaussian Splatting Simulation System for 6DOF Object Pose Dataset Generation**|Lukas Meyer et.al.|[2401.02281](http://arxiv.org/abs/2401.02281)|**[link](https://github.com/meyerls/pegasus)**|
 |**2024-01-03**|**Step length measurement in the wild using FMCW radar**|Parthipan Siva et.al.|[2401.01868](http://arxiv.org/abs/2401.01868)|null|
 |**2024-01-03**|**A quatum inspired neural network for geometric modeling**|Weitao Du et.al.|[2401.01801](http://arxiv.org/abs/2401.01801)|null|
 |**2024-01-03**|**CRA-PCN: Point Cloud Completion with Intra- and Inter-level Cross-Resolution Transformers**|Yi Rong et.al.|[2401.01552](http://arxiv.org/abs/2401.01552)|**[link](https://github.com/easyry/cra-pcn)**|
@@ -2365,7 +2365,7 @@ layout: default
 |**2023-12-20**|**LHManip: A Dataset for Long-Horizon Language-Grounded Manipulation Tasks in Cluttered Tabletop Environments**|Federico Ceola et.al.|[2312.12036](http://arxiv.org/abs/2312.12036)|**[link](https://github.com/fedeceola/lhmanip)**|
 |**2023-12-19**|**Point Cloud Segmentation Using Transfer Learning with RandLA-Net: A Case Study on Urban Areas**|Alperen Enes Bayar et.al.|[2312.11880](http://arxiv.org/abs/2312.11880)|null|
 |**2023-12-19**|**Point Cloud Part Editing: Segmentation, Generation, Assembly, and Selection**|Kaiyi Zhang et.al.|[2312.11867](http://arxiv.org/abs/2312.11867)|**[link](https://github.com/kaiyizhang/SGAS)**|
-|**2023-12-18**|**HAAR: Text-Conditioned Generative Model of 3D Strand-based Human Hairstyles**|Vanessa Sklyarova et.al.|[2312.11666](http://arxiv.org/abs/2312.11666)|null|
+|**2023-12-18**|**HAAR: Text-Conditioned Generative Model of 3D Strand-based Human Hairstyles**|Vanessa Sklyarova et.al.|[2312.11666](http://arxiv.org/abs/2312.11666)|**[link](https://github.com/Vanessik/HAAR)**|
 |**2023-12-18**|**GauFRe: Gaussian Deformation Fields for Real-time Dynamic Novel View Synthesis**|Yiqing Liang et.al.|[2312.11458](http://arxiv.org/abs/2312.11458)|null|
 |**2023-12-18**|**Language-Assisted 3D Scene Understanding**|Yanmin Wu et.al.|[2312.11451](http://arxiv.org/abs/2312.11451)|**[link](https://github.com/yanmin-wu/last-pcl)**|
 |**2023-12-18**|**Active search and coverage using point-cloud reinforcement learning**|Matthias Rosynski et.al.|[2312.11410](http://arxiv.org/abs/2312.11410)|null|
