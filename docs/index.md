@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-05**|**Eigen-decomposition of Covariance matrices: An application to the BAO Linear Point**|Jaemyoung Jason Lee et.al.|[2407.04692](http://arxiv.org/abs/2407.04692)|null|
+|**2024-07-05**|**Is plantar thermography a valid digital biomarker for characterising diabetic foot ulceration risk?**|Akshay Jagadeesh et.al.|[2407.04676](http://arxiv.org/abs/2407.04676)|null|
+|**2024-07-05**|**COBRA: Optimal Factorization of Cosmological Observables**|Thomas Bakx et.al.|[2407.04660](http://arxiv.org/abs/2407.04660)|null|
+|**2024-07-05**|**Lazarus: Resilient and Elastic Training of Mixture-of-Experts Models with Adaptive Expert Placement**|Yongji Wu et.al.|[2407.04656](http://arxiv.org/abs/2407.04656)|null|
+|**2024-07-05**|**Global Spectral Gap in Bosonic Molecular Hamiltonians**|Sebastian Gherghe et.al.|[2407.04640](http://arxiv.org/abs/2407.04640)|null|
+|**2024-07-05**|**An autoencoder for compressing angle-resolved photoemission spectroscopy data**|Steinn Ymir Agustsson et.al.|[2407.04631](http://arxiv.org/abs/2407.04631)|null|
+|**2024-07-05**|**PartCraft: Crafting Creative Objects by Parts**|Kam Woh Ng et.al.|[2407.04604](http://arxiv.org/abs/2407.04604)|**[link](https://github.com/kamwoh/partcraft)**|
+|**2024-07-05**|**GOALPlace: Begin with the End in Mind**|Anthony Agnesina et.al.|[2407.04579](http://arxiv.org/abs/2407.04579)|null|
+|**2024-07-05**|**Self-Assembly of Active Bivalent Patchy Particles**|Caterina Landi et.al.|[2407.04572](http://arxiv.org/abs/2407.04572)|null|
+|**2024-07-05**|**Longitudinal market structure detection using a dynamic modularity-spectral algorithm**|Philipp Wirth et.al.|[2407.04500](http://arxiv.org/abs/2407.04500)|null|
 |**2024-07-03**|**Timing of millisecond pulsars in NGC\,6752 -- III. On the presence of non-luminous matter in the cluster's core**|A. Corongiu et.al.|[2407.03271](http://arxiv.org/abs/2407.03271)|null|
 |**2024-07-03**|**Bridging Model Heterogeneity in Federated Learning via Uncertainty-based Asymmetrical Reciprocity Learning**|Jiaqi Wang et.al.|[2407.03247](http://arxiv.org/abs/2407.03247)|null|
 |**2024-07-03**|**The large-scale structure around the Fornax-Eridanus Complex**|Maria Angela Raj et.al.|[2407.03225](http://arxiv.org/abs/2407.03225)|null|
@@ -1600,6 +1610,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-05**|**Rethinking Data Input for Point Cloud Upsampling**|Tongxu Zhang et.al.|[2407.04476](http://arxiv.org/abs/2407.04476)|null|
+|**2024-07-05**|**TSC-PCAC: Voxel Transformer and Sparse Convolution Based Point Cloud Attribute Compression for 3D Broadcasting**|Zixi Guo et.al.|[2407.04284](http://arxiv.org/abs/2407.04284)|null|
+|**2024-07-04**|**Reduced-Order Neural Operators: Learning Lagrangian Dynamics on Highly Sparse Graphs**|Hrishikesh Viswanath et.al.|[2407.03925](http://arxiv.org/abs/2407.03925)|null|
+|**2024-07-04**|**Perception-Guided Quality Metric of 3D Point Clouds Using Hybrid Strategy**|Yujie Zhang et.al.|[2407.03885](http://arxiv.org/abs/2407.03885)|null|
+|**2024-07-04**|**PFGS: High Fidelity Point Cloud Rendering via Feature Splatting**|Jiaxu Wang et.al.|[2407.03857](http://arxiv.org/abs/2407.03857)|null|
+|**2024-07-04**|**ConPR: Ongoing Construction Site Dataset for Place Recognition**|Dongjae Lee et.al.|[2407.03684](http://arxiv.org/abs/2407.03684)|null|
+|**2024-07-03**|**OrbitGrasp: $SE(3)$ -Equivariant Grasp Learning**|Boce Hu et.al.|[2407.03531](http://arxiv.org/abs/2407.03531)|null|
+|**2024-07-03**|**A multicategory jet image classification framework using deep neural network**|Jairo Orozco Sandoval et.al.|[2407.03524](http://arxiv.org/abs/2407.03524)|null|
 |**2024-07-04**|**TieBot: Learning to Knot a Tie from Visual Demonstration through a Real-to-Sim-to-Real Approach**|Weikun Peng et.al.|[2407.03245](http://arxiv.org/abs/2407.03245)|null|
 |**2024-07-03**|**Consistent Point Orientation for Manifold Surfaces via Boundary Integration**|Weizhou Liu et.al.|[2407.03165](http://arxiv.org/abs/2407.03165)|**[link](https://github.com/liuweizhou319/bim)**|
 |**2024-07-03**|**Applying Extended Object Tracking for Self-Localization of Roadside Radar Sensors**|Longfei Han et.al.|[2407.03084](http://arxiv.org/abs/2407.03084)|null|
