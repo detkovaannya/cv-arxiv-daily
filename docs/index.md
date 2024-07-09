@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-08**|**Structured Generations: Using Hierarchical Clusters to guide Diffusion Models**|Jorge da Silva Goncalves et.al.|[2407.06124](http://arxiv.org/abs/2407.06124)|null|
+|**2024-07-08**|**Object-Oriented Material Classification and 3D Clustering for Improved Semantic Perception and Mapping in Mobile Robots**|Siva Krishna Ravipati et.al.|[2407.06077](http://arxiv.org/abs/2407.06077)|null|
+|**2024-07-08**|**Quantum rotor in a two-dimensional mesoscopic Bose gas**|Michał Suchorowski et.al.|[2407.06046](http://arxiv.org/abs/2407.06046)|null|
+|**2024-07-08**|**Argon in beta Pictoris -- entrapment and release of volatile in disks**|Yanqin Wu et.al.|[2407.06035](http://arxiv.org/abs/2407.06035)|null|
+|**2024-07-08**|**Investigation of microstructural evolution of irradiation-induced defects in tungsten: an experimental-numerical approach**|Salahudeen Mohamed et.al.|[2407.06022](http://arxiv.org/abs/2407.06022)|null|
+|**2024-07-08**|**A multigrid reduction framework for domains with symmetries**|Àdel Alsalti-Baldellou et.al.|[2407.05930](http://arxiv.org/abs/2407.05930)|null|
+|**2024-07-08**|**Dynamical Swirl Structures Powered by Microswimmers in Active Nematics**|Partha Sarathi Mondal et.al.|[2407.05861](http://arxiv.org/abs/2407.05861)|null|
+|**2024-07-08**|**DFedSat: Communication-Efficient and Robust Decentralized Federated Learning for LEO Satellite Constellations**|Minghao Yang et.al.|[2407.05850](http://arxiv.org/abs/2407.05850)|null|
+|**2024-07-08**|**Academic Article Recommendation Using Multiple Perspectives**|Kenneth Church et.al.|[2407.05836](http://arxiv.org/abs/2407.05836)|null|
+|**2024-07-08**|**Clustering of conditional mutual information and quantum Markov structure at arbitrary temperatures**|Tomotaka Kuwahara et.al.|[2407.05835](http://arxiv.org/abs/2407.05835)|null|
 |**2024-07-05**|**Eigen-decomposition of Covariance matrices: An application to the BAO Linear Point**|Jaemyoung Jason Lee et.al.|[2407.04692](http://arxiv.org/abs/2407.04692)|null|
 |**2024-07-05**|**Is plantar thermography a valid digital biomarker for characterising diabetic foot ulceration risk?**|Akshay Jagadeesh et.al.|[2407.04676](http://arxiv.org/abs/2407.04676)|null|
 |**2024-07-05**|**COBRA: Optimal Factorization of Cosmological Observables**|Thomas Bakx et.al.|[2407.04660](http://arxiv.org/abs/2407.04660)|null|
@@ -1610,6 +1620,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-08**|**4D Contrastive Superflows are Dense 3D Representation Learners**|Xiang Xu et.al.|[2407.06190](http://arxiv.org/abs/2407.06190)|**[link](https://github.com/xiangxu-0103/superflow)**|
+|**2024-07-08**|**Object-Oriented Material Classification and 3D Clustering for Improved Semantic Perception and Mapping in Mobile Robots**|Siva Krishna Ravipati et.al.|[2407.06077](http://arxiv.org/abs/2407.06077)|null|
+|**2024-07-08**|**Test-time adaptation for geospatial point cloud semantic segmentation with distinct domain shifts**|Puzuo Wang et.al.|[2407.06043](http://arxiv.org/abs/2407.06043)|null|
+|**2024-07-08**|**Bringing Masked Autoencoders Explicit Contrastive Properties for Point Cloud Self-Supervised Learning**|Bin Ren et.al.|[2407.05862](http://arxiv.org/abs/2407.05862)|null|
+|**2024-07-08**|**Boosting 3D Object Detection with Semantic-Aware Multi-Branch Framework**|Hao Jing et.al.|[2407.05769](http://arxiv.org/abs/2407.05769)|null|
+|**2024-07-08**|**PCAC-GAN:ASparse-Tensor-Based Generative Adversarial Network for 3D Point Cloud Attribute Compression**|Xiaolong Mao et.al.|[2407.05677](http://arxiv.org/abs/2407.05677)|null|
+|**2024-07-08**|**GeoNLF: Geometry guided Pose-Free Neural LiDAR Fields**|Weiyi Xue et.al.|[2407.05597](http://arxiv.org/abs/2407.05597)|null|
+|**2024-07-08**|**FALIP: Visual Prompt as Foveal Attention Boosts CLIP Zero-Shot Performance**|Jiedong Zhuang et.al.|[2407.05578](http://arxiv.org/abs/2407.05578)|null|
+|**2024-07-07**|**Solving forward and inverse PDE problems on unknown manifolds via physics-informed neural operators**|Anran Jiao et.al.|[2407.05477](http://arxiv.org/abs/2407.05477)|null|
+|**2024-07-07**|**DIVESPOT: Depth Integrated Volume Estimation of Pile of Things Based on Point Cloud**|Yiran Ling et.al.|[2407.05415](http://arxiv.org/abs/2407.05415)|null|
 |**2024-07-05**|**Rethinking Data Input for Point Cloud Upsampling**|Tongxu Zhang et.al.|[2407.04476](http://arxiv.org/abs/2407.04476)|null|
 |**2024-07-05**|**TSC-PCAC: Voxel Transformer and Sparse Convolution Based Point Cloud Attribute Compression for 3D Broadcasting**|Zixi Guo et.al.|[2407.04284](http://arxiv.org/abs/2407.04284)|null|
 |**2024-07-04**|**Reduced-Order Neural Operators: Learning Lagrangian Dynamics on Highly Sparse Graphs**|Hrishikesh Viswanath et.al.|[2407.03925](http://arxiv.org/abs/2407.03925)|null|
