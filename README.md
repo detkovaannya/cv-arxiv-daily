@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-10**|**The Cosmological Preference for Negative Neutrino Mass**|Daniel Green et.al.|[2407.07878](http://arxiv.org/abs/2407.07878)|null|
+|**2024-07-10**|**OpenDiLoCo: An Open-Source Framework for Globally Distributed Low-Communication Training**|Sami Jaghouar et.al.|[2407.07852](http://arxiv.org/abs/2407.07852)|null|
+|**2024-07-10**|**Harnessing Integrated CPU-GPU System Memory for HPC: a first look into Grace Hopper**|Gabin Schieffer et.al.|[2407.07850](http://arxiv.org/abs/2407.07850)|null|
+|**2024-07-10**|**Overview Results of JWST Observations of Star-Forming Clusters in the Extreme Outer Galaxy**|Natsuko Izumi et.al.|[2407.07822](http://arxiv.org/abs/2407.07822)|null|
+|**2024-07-10**|**When to Accept Automated Predictions and When to Defer to Human Judgment?**|Daniel Sikar et.al.|[2407.07821](http://arxiv.org/abs/2407.07821)|null|
+|**2024-07-10**|**The Misclassification Likelihood Matrix: Some Classes Are More Likely To Be Misclassified Than Others**|Daniel Sikar et.al.|[2407.07818](http://arxiv.org/abs/2407.07818)|null|
+|**2024-07-10**|**Fine-Tuning Large Language Models with User-Level Differential Privacy**|Zachary Charles et.al.|[2407.07737](http://arxiv.org/abs/2407.07737)|null|
+|**2024-07-10**|**High-Performance Sorting-Based k-mer Counting in Distributed Memory with Flexible Hybrid Parallelism**|Yifan Li et.al.|[2407.07718](http://arxiv.org/abs/2407.07718)|null|
+|**2024-07-10**|**Single Crystal Diffuse Neutron Scattering Study of the Dipole-Octupole Quantum Spin Ice Candidate Ce $_2$Zr$_2$O$_7$: No Apparent Octupolar Correlations Above $T = 0.05$ K**|E. M. Smith et.al.|[2407.07640](http://arxiv.org/abs/2407.07640)|null|
+|**2024-07-10**|**Quantitative Criteria for Defining Planets**|Jean-Luc Margot et.al.|[2407.07590](http://arxiv.org/abs/2407.07590)|null|
 |**2024-07-09**|**Pathways to Interstellar Amides via Carbamoyl (NH2CO) Isomers by Radical-Neutral Reactions on Ice Grain Mantles**|Gabriela Silva-Vera et.al.|[2407.07081](http://arxiv.org/abs/2407.07081)|null|
 |**2024-07-09**|**Metron: Holistic Performance Evaluation Framework for LLM Inference Systems**|Amey Agrawal et.al.|[2407.07000](http://arxiv.org/abs/2407.07000)|**[link](https://github.com/project-metron/metron)**|
 |**2024-07-09**|**SP-Chain: Boosting Intra-Shard and Cross-Shard Security and Performance in Blockchain Sharding**|Mingzhe Li et.al.|[2407.06953](http://arxiv.org/abs/2407.06953)|null|
@@ -1636,11 +1646,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-10**|**Incremental Multiview Point Cloud Registration with Two-stage Candidate Retrieval**|Shiqi Li et.al.|[2407.07525](http://arxiv.org/abs/2407.07525)|null|
+|**2024-07-10**|**DuInNet: Dual-Modality Feature Interaction for Point Cloud Completion**|Xinpu Liu et.al.|[2407.07374](http://arxiv.org/abs/2407.07374)|null|
 |**2024-07-09**|**Improved Block Merging for 3D Point Cloud Instance Segmentation**|Leon Denis et.al.|[2407.06991](http://arxiv.org/abs/2407.06991)|null|
 |**2024-07-09**|**LuSNAR:A Lunar Segmentation, Navigation and Reconstruction Dataset based on Muti-sensor for Autonomous Exploration**|Jiayi Liu et.al.|[2407.06512](http://arxiv.org/abs/2407.06512)|**[link](https://github.com/autumn999999/lusnar-dataset)**|
 |**2024-07-09**|**A Constrained Least-Squares Ghost Sample Points (CLS-GSP) Method for Differential Operators on Point Clouds**|Ningchen Ying et.al.|[2407.06467](http://arxiv.org/abs/2407.06467)|null|
 |**2024-07-08**|**SGOR: Outlier Removal by Leveraging Semantic and Geometric Information for Robust Point Cloud Registration**|Guiyu Zhao et.al.|[2407.06297](http://arxiv.org/abs/2407.06297)|null|
-|**2024-07-08**|**FairDiff: Fair Segmentation with Point-Image Diffusion**|Wenyi Li et.al.|[2407.06250](http://arxiv.org/abs/2407.06250)|null|
+|**2024-07-08**|**FairDiff: Fair Segmentation with Point-Image Diffusion**|Wenyi Li et.al.|[2407.06250](http://arxiv.org/abs/2407.06250)|**[link](https://github.com/wenyi-li/fairdiff)**|
 |**2024-07-10**|**4D Contrastive Superflows are Dense 3D Representation Learners**|Xiang Xu et.al.|[2407.06190](http://arxiv.org/abs/2407.06190)|**[link](https://github.com/xiangxu-0103/superflow)**|
 |**2024-07-08**|**Object-Oriented Material Classification and 3D Clustering for Improved Semantic Perception and Mapping in Mobile Robots**|Siva Krishna Ravipati et.al.|[2407.06077](http://arxiv.org/abs/2407.06077)|null|
 |**2024-07-08**|**Test-time adaptation for geospatial point cloud semantic segmentation with distinct domain shifts**|Puzuo Wang et.al.|[2407.06043](http://arxiv.org/abs/2407.06043)|null|
