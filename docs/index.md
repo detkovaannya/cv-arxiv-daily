@@ -7,13 +7,23 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.12
+## Updated on 2024.07.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## clustering
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-11**|**Flex-TPU: A Flexible TPU with Runtime Reconfigurable Dataflow Architecture**|Mohammed Elbtity et.al.|[2407.08700](http://arxiv.org/abs/2407.08700)|null|
+|**2024-07-11**|**Cloud Atlas: Efficient Fault Localization for Cloud Systems using Language Models and Causal Insight**|Zhiqiang Xie et.al.|[2407.08694](http://arxiv.org/abs/2407.08694)|null|
+|**2024-07-11**|**An "ultimate" coupled cluster method based entirely on $T_2$**|Zachary W. Windom et.al.|[2407.08685](http://arxiv.org/abs/2407.08685)|null|
+|**2024-07-11**|**DART: A Solution for Decentralized Federated Learning Model Robustness Analysis**|Chao Feng et.al.|[2407.08652](http://arxiv.org/abs/2407.08652)|null|
+|**2024-07-11**|**Membrane protein clustering from tension and multibody interactions**|Jean-Baptiste Fournier et.al.|[2407.08631](http://arxiv.org/abs/2407.08631)|null|
+|**2024-07-11**|**Surpassing Cosine Similarity for Multidimensional Comparisons: Dimension Insensitive Euclidean Metric (DIEM)**|Federico Tessari et.al.|[2407.08623](http://arxiv.org/abs/2407.08623)|null|
+|**2024-07-11**|**Agglomerative Clustering in Uniform and Proportional Feature Spaces**|Alexandre Benatti et.al.|[2407.08604](http://arxiv.org/abs/2407.08604)|null|
+|**2024-07-11**|**Data-Locality-Aware Task Assignment and Scheduling for Distributed Job Executions**|Hailiang Zhao et.al.|[2407.08584](http://arxiv.org/abs/2407.08584)|null|
+|**2024-07-11**|**Discovery of a Hypervelocity L Subdwarf at the Star/Brown Dwarf Mass Limit**|Adam J. Burgasser et.al.|[2407.08578](http://arxiv.org/abs/2407.08578)|null|
+|**2024-07-11**|**Selected Configuration Interaction for Resonances**|Yann Damour et.al.|[2407.08576](http://arxiv.org/abs/2407.08576)|null|
 |**2024-07-10**|**The Cosmological Preference for Negative Neutrino Mass**|Daniel Green et.al.|[2407.07878](http://arxiv.org/abs/2407.07878)|null|
 |**2024-07-10**|**OpenDiLoCo: An Open-Source Framework for Globally Distributed Low-Communication Training**|Sami Jaghouar et.al.|[2407.07852](http://arxiv.org/abs/2407.07852)|null|
 |**2024-07-10**|**Harnessing Integrated CPU-GPU System Memory for HPC: a first look into Grace Hopper**|Gabin Schieffer et.al.|[2407.07850](http://arxiv.org/abs/2407.07850)|null|
@@ -1640,6 +1650,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-11**|**BiEquiFormer: Bi-Equivariant Representations for Global Point Cloud Registration**|Stefanos Pertigkiozoglou et.al.|[2407.08729](http://arxiv.org/abs/2407.08729)|null|
+|**2024-07-11**|**Vision and Tactile Robotic System to Grasp Litter in Outdoor Environments**|Ignacio de Loyola Páez-Ubieta et.al.|[2407.08575](http://arxiv.org/abs/2407.08575)|null|
+|**2024-07-11**|**Approaching Outside: Scaling Unsupervised 3D Object Detection from 2D Scene**|Ruiyang Zhang et.al.|[2407.08569](http://arxiv.org/abs/2407.08569)|**[link](https://github.com/ruiyang-061x/lise)**|
+|**2024-07-11**|**Enhancing octree-based context models for point cloud geometry compression with attention-based child node number prediction**|Chang Sun et.al.|[2407.08528](http://arxiv.org/abs/2407.08528)|null|
+|**2024-07-11**|**Enhancing context models for point cloud geometry compression with context feature residuals and multi-loss**|Chang Sun et.al.|[2407.08520](http://arxiv.org/abs/2407.08520)|null|
+|**2024-07-11**|**Learning Localization of Body and Finger Animation Skeleton Joints on Three-Dimensional Models of Human Bodies**|Stefan Novaković et.al.|[2407.08484](http://arxiv.org/abs/2407.08484)|**[link](https://github.com/sznov/joint-localization)**|
+|**2024-07-11**|**Gap Completion in Point Cloud Scene occluded by Vehicles using SGC-Net**|Yu Feng et.al.|[2407.08290](http://arxiv.org/abs/2407.08290)|null|
+|**2024-07-11**|**SALSA: Swift Adaptive Lightweight Self-Attention for Enhanced LiDAR Place Recognition**|Raktim Gautam Goswami et.al.|[2407.08260](http://arxiv.org/abs/2407.08260)|null|
+|**2024-07-11**|**Highway Networks for Improved Surface Reconstruction: The Role of Residuals and Weight Updates**|A. Noorizadegan et.al.|[2407.08134](http://arxiv.org/abs/2407.08134)|null|
+|**2024-07-11**|**SGLC: Semantic Graph-Guided Coarse-Fine-Refine Full Loop Closing for LiDAR SLAM**|Neng Wang et.al.|[2407.08106](http://arxiv.org/abs/2407.08106)|null|
 |**2024-07-10**|**Incremental Multiview Point Cloud Registration with Two-stage Candidate Retrieval**|Shiqi Li et.al.|[2407.07525](http://arxiv.org/abs/2407.07525)|null|
 |**2024-07-10**|**DuInNet: Dual-Modality Feature Interaction for Point Cloud Completion**|Xinpu Liu et.al.|[2407.07374](http://arxiv.org/abs/2407.07374)|null|
 |**2024-07-09**|**Improved Block Merging for 3D Point Cloud Instance Segmentation**|Leon Denis et.al.|[2407.06991](http://arxiv.org/abs/2407.06991)|null|
