@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.13
+## Updated on 2024.07.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## clustering
@@ -25,7 +25,7 @@ layout: default
 |**2024-07-11**|**Discovery of a Hypervelocity L Subdwarf at the Star/Brown Dwarf Mass Limit**|Adam J. Burgasser et.al.|[2407.08578](http://arxiv.org/abs/2407.08578)|null|
 |**2024-07-11**|**Selected Configuration Interaction for Resonances**|Yann Damour et.al.|[2407.08576](http://arxiv.org/abs/2407.08576)|null|
 |**2024-07-10**|**The Cosmological Preference for Negative Neutrino Mass**|Daniel Green et.al.|[2407.07878](http://arxiv.org/abs/2407.07878)|null|
-|**2024-07-10**|**OpenDiLoCo: An Open-Source Framework for Globally Distributed Low-Communication Training**|Sami Jaghouar et.al.|[2407.07852](http://arxiv.org/abs/2407.07852)|null|
+|**2024-07-10**|**OpenDiLoCo: An Open-Source Framework for Globally Distributed Low-Communication Training**|Sami Jaghouar et.al.|[2407.07852](http://arxiv.org/abs/2407.07852)|**[link](https://github.com/PrimeIntellect-ai/OpenDiLoCo)**|
 |**2024-07-10**|**Harnessing Integrated CPU-GPU System Memory for HPC: a first look into Grace Hopper**|Gabin Schieffer et.al.|[2407.07850](http://arxiv.org/abs/2407.07850)|null|
 |**2024-07-10**|**Overview Results of JWST Observations of Star-Forming Clusters in the Extreme Outer Galaxy**|Natsuko Izumi et.al.|[2407.07822](http://arxiv.org/abs/2407.07822)|null|
 |**2024-07-10**|**When to Accept Automated Predictions and When to Defer to Human Judgment?**|Daniel Sikar et.al.|[2407.07821](http://arxiv.org/abs/2407.07821)|null|
@@ -1668,7 +1668,7 @@ layout: default
 |**2024-07-08**|**SGOR: Outlier Removal by Leveraging Semantic and Geometric Information for Robust Point Cloud Registration**|Guiyu Zhao et.al.|[2407.06297](http://arxiv.org/abs/2407.06297)|null|
 |**2024-07-08**|**FairDiff: Fair Segmentation with Point-Image Diffusion**|Wenyi Li et.al.|[2407.06250](http://arxiv.org/abs/2407.06250)|**[link](https://github.com/wenyi-li/fairdiff)**|
 |**2024-07-10**|**4D Contrastive Superflows are Dense 3D Representation Learners**|Xiang Xu et.al.|[2407.06190](http://arxiv.org/abs/2407.06190)|**[link](https://github.com/xiangxu-0103/superflow)**|
-|**2024-07-08**|**Object-Oriented Material Classification and 3D Clustering for Improved Semantic Perception and Mapping in Mobile Robots**|Siva Krishna Ravipati et.al.|[2407.06077](http://arxiv.org/abs/2407.06077)|null|
+|**2024-07-08**|**Object-Oriented Material Classification and 3D Clustering for Improved Semantic Perception and Mapping in Mobile Robots**|Siva Krishna Ravipati et.al.|[2407.06077](http://arxiv.org/abs/2407.06077)|**[link](https://github.com/herolab-uga/matsee)**|
 |**2024-07-08**|**Test-time adaptation for geospatial point cloud semantic segmentation with distinct domain shifts**|Puzuo Wang et.al.|[2407.06043](http://arxiv.org/abs/2407.06043)|null|
 |**2024-07-08**|**Bringing Masked Autoencoders Explicit Contrastive Properties for Point Cloud Self-Supervised Learning**|Bin Ren et.al.|[2407.05862](http://arxiv.org/abs/2407.05862)|null|
 |**2024-07-08**|**Boosting 3D Object Detection with Semantic-Aware Multi-Branch Framework**|Hao Jing et.al.|[2407.05769](http://arxiv.org/abs/2407.05769)|null|
