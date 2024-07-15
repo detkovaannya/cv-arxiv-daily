@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.14
+## Updated on 2024.07.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## clustering
@@ -21,7 +21,7 @@ layout: default
 |**2024-07-11**|**Membrane protein clustering from tension and multibody interactions**|Jean-Baptiste Fournier et.al.|[2407.08631](http://arxiv.org/abs/2407.08631)|null|
 |**2024-07-11**|**Surpassing Cosine Similarity for Multidimensional Comparisons: Dimension Insensitive Euclidean Metric (DIEM)**|Federico Tessari et.al.|[2407.08623](http://arxiv.org/abs/2407.08623)|null|
 |**2024-07-11**|**Agglomerative Clustering in Uniform and Proportional Feature Spaces**|Alexandre Benatti et.al.|[2407.08604](http://arxiv.org/abs/2407.08604)|null|
-|**2024-07-11**|**Data-Locality-Aware Task Assignment and Scheduling for Distributed Job Executions**|Hailiang Zhao et.al.|[2407.08584](http://arxiv.org/abs/2407.08584)|null|
+|**2024-07-12**|**Data-Locality-Aware Task Assignment and Scheduling for Distributed Job Executions**|Hailiang Zhao et.al.|[2407.08584](http://arxiv.org/abs/2407.08584)|null|
 |**2024-07-11**|**Discovery of a Hypervelocity L Subdwarf at the Star/Brown Dwarf Mass Limit**|Adam J. Burgasser et.al.|[2407.08578](http://arxiv.org/abs/2407.08578)|null|
 |**2024-07-11**|**Selected Configuration Interaction for Resonances**|Yann Damour et.al.|[2407.08576](http://arxiv.org/abs/2407.08576)|null|
 |**2024-07-10**|**The Cosmological Preference for Negative Neutrino Mass**|Daniel Green et.al.|[2407.07878](http://arxiv.org/abs/2407.07878)|null|
@@ -1651,7 +1651,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-11**|**BiEquiFormer: Bi-Equivariant Representations for Global Point Cloud Registration**|Stefanos Pertigkiozoglou et.al.|[2407.08729](http://arxiv.org/abs/2407.08729)|null|
-|**2024-07-11**|**Vision and Tactile Robotic System to Grasp Litter in Outdoor Environments**|Ignacio de Loyola Páez-Ubieta et.al.|[2407.08575](http://arxiv.org/abs/2407.08575)|null|
+|**2024-07-12**|**Vision and Tactile Robotic System to Grasp Litter in Outdoor Environments**|Ignacio de Loyola Páez-Ubieta et.al.|[2407.08575](http://arxiv.org/abs/2407.08575)|null|
 |**2024-07-11**|**Approaching Outside: Scaling Unsupervised 3D Object Detection from 2D Scene**|Ruiyang Zhang et.al.|[2407.08569](http://arxiv.org/abs/2407.08569)|**[link](https://github.com/ruiyang-061x/lise)**|
 |**2024-07-11**|**Enhancing octree-based context models for point cloud geometry compression with attention-based child node number prediction**|Chang Sun et.al.|[2407.08528](http://arxiv.org/abs/2407.08528)|null|
 |**2024-07-11**|**Enhancing context models for point cloud geometry compression with context feature residuals and multi-loss**|Chang Sun et.al.|[2407.08520](http://arxiv.org/abs/2407.08520)|null|
