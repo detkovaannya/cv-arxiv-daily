@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-12**|**Flow-Based Generative Emulation of Grids of Stellar Evolutionary Models**|Marc Hon et.al.|[2407.09427](http://arxiv.org/abs/2407.09427)|**[link](https://github.com/mtyhon/modelflows)**|
+|**2024-07-12**|**Exploring Galactic open clusters with Gaia I. An examination in the first kiloparsec**|Jeison Alfonso et.al.|[2407.09407](http://arxiv.org/abs/2407.09407)|null|
+|**2024-07-12**|**Towards Personalised Patient Risk Prediction Using Temporal Hospital Data Trajectories**|Thea Barnes et.al.|[2407.09373](http://arxiv.org/abs/2407.09373)|null|
+|**2024-07-12**|**Novel clustered federated learning based on local loss**|Endong Gu et.al.|[2407.09360](http://arxiv.org/abs/2407.09360)|null|
+|**2024-07-12**|**Rates of Stellar Tidal Disruption Events Around Intermediate-Mass Black Holes**|Janet N. Y. Chang et.al.|[2407.09339](http://arxiv.org/abs/2407.09339)|null|
+|**2024-07-12**|**Learning Distances from Data with Normalizing Flows and Score Matching**|Peter Sorrenson et.al.|[2407.09297](http://arxiv.org/abs/2407.09297)|null|
+|**2024-07-12**|**Secondary bias through cosmic time II: Reconstructing halo properties using clustering information**|Andres Balaguera-Antolinez et.al.|[2407.09282](http://arxiv.org/abs/2407.09282)|null|
+|**2024-07-12**|**Understanding the approach to thermalization from the eigenspectrum of non-Abelian gauge theories**|Harshit Pandey et.al.|[2407.09253](http://arxiv.org/abs/2407.09253)|null|
+|**2024-07-12**|**Stability and decay of subradiant patterns in a quantum gas with photon-mediated interactions**|Alexander Baumgärtner et.al.|[2407.09227](http://arxiv.org/abs/2407.09227)|null|
+|**2024-07-12**|**An improved formulation for the wake-added turbulence for intra-farm and farm-to-farm wake modeling**|Navid Zehtabiyan-Rezaie et.al.|[2407.09220](http://arxiv.org/abs/2407.09220)|null|
 |**2024-07-11**|**Flex-TPU: A Flexible TPU with Runtime Reconfigurable Dataflow Architecture**|Mohammed Elbtity et.al.|[2407.08700](http://arxiv.org/abs/2407.08700)|null|
 |**2024-07-11**|**Cloud Atlas: Efficient Fault Localization for Cloud Systems using Language Models and Causal Insight**|Zhiqiang Xie et.al.|[2407.08694](http://arxiv.org/abs/2407.08694)|null|
 |**2024-07-11**|**An "ultimate" coupled cluster method based entirely on $T_2$**|Zachary W. Windom et.al.|[2407.08685](http://arxiv.org/abs/2407.08685)|null|
@@ -1656,6 +1666,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-12**|**Pre-training Point Cloud Compact Model with Partial-aware Reconstruction**|Yaohua Zha et.al.|[2407.09344](http://arxiv.org/abs/2407.09344)|null|
+|**2024-07-12**|**SE(3)-bi-equivariant Transformers for Point Cloud Assembly**|Ziming Wang et.al.|[2407.09167](http://arxiv.org/abs/2407.09167)|null|
+|**2024-07-12**|**Global Attention-Guided Dual-Domain Point Cloud Feature Learning for Classification and Segmentation**|Zihao Li et.al.|[2407.08994](http://arxiv.org/abs/2407.08994)|null|
+|**2024-07-12**|**Global-Local Collaborative Inference with LLM for Lidar-Based Open-Vocabulary Detection**|Xingyu Peng et.al.|[2407.08931](http://arxiv.org/abs/2407.08931)|**[link](https://github.com/gradiustwinbee/glis)**|
+|**2024-07-12**|**KGpose: Keypoint-Graph Driven End-to-End Multi-Object 6D Pose Estimation via Point-Wise Pose Voting**|Andrew Jeong et.al.|[2407.08909](http://arxiv.org/abs/2407.08909)|null|
+|**2024-07-12**|**Tightly-Coupled LiDAR-IMU-Wheel Odometry with an Online Neural Kinematic Model Learning via Factor Graph Optimization**|Taku Okawara et.al.|[2407.08907](http://arxiv.org/abs/2407.08907)|null|
+|**2024-07-11**|**DG-PIC: Domain Generalized Point-In-Context Learning for Point Cloud Understanding**|Jincen Jiang et.al.|[2407.08801](http://arxiv.org/abs/2407.08801)|null|
 |**2024-07-11**|**BiEquiFormer: Bi-Equivariant Representations for Global Point Cloud Registration**|Stefanos Pertigkiozoglou et.al.|[2407.08729](http://arxiv.org/abs/2407.08729)|null|
 |**2024-07-12**|**Vision and Tactile Robotic System to Grasp Litter in Outdoor Environments**|Ignacio de Loyola Páez-Ubieta et.al.|[2407.08575](http://arxiv.org/abs/2407.08575)|null|
 |**2024-07-11**|**Approaching Outside: Scaling Unsupervised 3D Object Detection from 2D Scene**|Ruiyang Zhang et.al.|[2407.08569](http://arxiv.org/abs/2407.08569)|**[link](https://github.com/ruiyang-061x/lise)**|
