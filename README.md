@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-15**|**An ALMA CO(1-0) survey of the 2Jy sample: large and massive molecular disks in radio AGN host galaxies**|C. Tadhunter et.al.|[2407.10970](http://arxiv.org/abs/2407.10970)|null|
+|**2024-07-15**|**Galaxy cluster matter profiles: I. Self-similarity and mass calibration**|A. Singh et.al.|[2407.10961](http://arxiv.org/abs/2407.10961)|null|
+|**2024-07-15**|**STARS: Self-supervised Tuning for 3D Action Recognition in Skeleton Sequences**|Soroush Mehraban et.al.|[2407.10935](http://arxiv.org/abs/2407.10935)|null|
+|**2024-07-15**|**Counting the Unseen I: Nuclear Density Scaling Relations for Nucleated Galaxies**|Christian H. Hannah et.al.|[2407.10911](http://arxiv.org/abs/2407.10911)|null|
+|**2024-07-15**|**Enhancing Cyber Security through Predictive Analytics: Real-Time Threat Detection and Response**|Muhammad Danish et.al.|[2407.10864](http://arxiv.org/abs/2407.10864)|null|
+|**2024-07-15**|**Electronic State Chromatography of Lutetium Cations**|Biswajit Jana et.al.|[2407.10851](http://arxiv.org/abs/2407.10851)|null|
+|**2024-07-15**|**LeMMINGs. Multi-wavelength constraints on the co-existence of nuclear star clusters and AGN in nucleated galaxies**|B. T. Dullo et.al.|[2407.10850](http://arxiv.org/abs/2407.10850)|null|
+|**2024-07-15**|**Rotationally Invariant Latent Distances for Uncertainty Estimation of Relaxed Energy Predictions by Graph Neural Network Potentials**|Joseph Musielewicz et.al.|[2407.10844](http://arxiv.org/abs/2407.10844)|null|
+|**2024-07-15**|**From Data Completion to Problems on Hypercubes: A Parameterized Analysis of the Independent Set Problem**|Eduard Eiben et.al.|[2407.10699](http://arxiv.org/abs/2407.10699)|null|
+|**2024-07-15**|**Error Bounds for the Network Scale-Up Method**|Sergio Díaz-Aranda et.al.|[2407.10640](http://arxiv.org/abs/2407.10640)|null|
 |**2024-07-12**|**Flow-Based Generative Emulation of Grids of Stellar Evolutionary Models**|Marc Hon et.al.|[2407.09427](http://arxiv.org/abs/2407.09427)|**[link](https://github.com/mtyhon/modelflows)**|
 |**2024-07-12**|**Exploring Galactic open clusters with Gaia I. An examination in the first kiloparsec**|Jeison Alfonso et.al.|[2407.09407](http://arxiv.org/abs/2407.09407)|null|
 |**2024-07-12**|**Towards Personalised Patient Risk Prediction Using Temporal Hospital Data Trajectories**|Thea Barnes et.al.|[2407.09373](http://arxiv.org/abs/2407.09373)|null|
@@ -1666,6 +1676,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-15**|**R3D-AD: Reconstruction via Diffusion for 3D Anomaly Detection**|Zheyuan Zhou et.al.|[2407.10862](http://arxiv.org/abs/2407.10862)|null|
+|**2024-07-15**|**Enhancing Robustness to Noise Corruption for Point Cloud Model via Spatial Sorting and Set-Mixing Aggregation Module**|Dingxin Zhang et.al.|[2407.10806](http://arxiv.org/abs/2407.10806)|null|
+|**2024-07-15**|**LVCP: LiDAR-Vision Tightly Coupled Collaborative Real-time Relative Positioning**|Zhuozhu Jian et.al.|[2407.10782](http://arxiv.org/abs/2407.10782)|null|
+|**2024-07-15**|**SEED: A Simple and Effective 3D DETR in Point Clouds**|Zhe Liu et.al.|[2407.10749](http://arxiv.org/abs/2407.10749)|**[link](https://github.com/happinesslz/seed)**|
+|**2024-07-15**|**FRI-Net: Floorplan Reconstruction via Room-wise Implicit Representation**|Honghao Xu et.al.|[2407.10687](http://arxiv.org/abs/2407.10687)|null|
+|**2024-07-15**|**3D Geometric Shape Assembly via Efficient Point Cloud Matching**|Nahyuk Lee et.al.|[2407.10542](http://arxiv.org/abs/2407.10542)|null|
+|**2024-07-15**|**PolyRoom: Room-aware Transformer for Floorplan Reconstruction**|Yuzhou Liu et.al.|[2407.10439](http://arxiv.org/abs/2407.10439)|**[link](https://github.com/3dv-casia/polyroom)**|
+|**2024-07-15**|**Room temperature operation of germanium-silicon single-photon avalanche diode**|Neil Na et.al.|[2407.10379](http://arxiv.org/abs/2407.10379)|null|
+|**2024-07-14**|**GLIM: 3D Range-Inertial Localization and Mapping with GPU-Accelerated Scan Matching Factors**|Kenji Koide et.al.|[2407.10344](http://arxiv.org/abs/2407.10344)|null|
+|**2024-07-14**|**Shape2Scene: 3D Scene Representation Learning Through Pre-training on Shape Data**|Tuo Feng et.al.|[2407.10200](http://arxiv.org/abs/2407.10200)|**[link](https://github.com/fengzicai/s2s)**|
 |**2024-07-12**|**Pre-training Point Cloud Compact Model with Partial-aware Reconstruction**|Yaohua Zha et.al.|[2407.09344](http://arxiv.org/abs/2407.09344)|null|
 |**2024-07-12**|**SE(3)-bi-equivariant Transformers for Point Cloud Assembly**|Ziming Wang et.al.|[2407.09167](http://arxiv.org/abs/2407.09167)|null|
 |**2024-07-12**|**Global Attention-Guided Dual-Domain Point Cloud Feature Learning for Classification and Segmentation**|Zihao Li et.al.|[2407.08994](http://arxiv.org/abs/2407.08994)|null|
