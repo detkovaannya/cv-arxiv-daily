@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-17**|**Jigsaw Game: Federated Clustering**|Jinxuan Xu et.al.|[2407.12764](http://arxiv.org/abs/2407.12764)|null|
+|**2024-07-17**|**Inderdigitation, double twist, and topological defects in a system of hard lollipops**|Piotr Kubala et.al.|[2407.12747](http://arxiv.org/abs/2407.12747)|null|
+|**2024-07-17**|**TalTech-IRIT-LIS Speaker and Language Diarization Systems for DISPLACE 2024**|Joonas Kalda et.al.|[2407.12743](http://arxiv.org/abs/2407.12743)|null|
+|**2024-07-17**|**FlexFL: Heterogeneous Federated Learning via APoZ-Guided Flexible Pruning in Uncertain Scenarios**|Zekai Chen et.al.|[2407.12729](http://arxiv.org/abs/2407.12729)|null|
+|**2024-07-17**|**Neutrino Halo profiles: HR-DEMNUni simulation analysis**|Beatriz Hernández-Molinero et.al.|[2407.12694](http://arxiv.org/abs/2407.12694)|null|
+|**2024-07-17**|**Propagation of Interplanetary Shocks in the Heliosphere**|Munkhjargal Lkhagvadorj et.al.|[2407.12689](http://arxiv.org/abs/2407.12689)|null|
+|**2024-07-17**|**Profiling quantum circuits for their efficient execution on single- and multi-core architectures**|Medina Bandic et.al.|[2407.12640](http://arxiv.org/abs/2407.12640)|null|
+|**2024-07-17**|**Bayesian spatial functional data clustering: applications in disease surveillance**|Ruiman Zhong et.al.|[2407.12633](http://arxiv.org/abs/2407.12633)|null|
+|**2024-07-17**|**Particle transport and deposition in wall-sheared thermal turbulence**|Ao Xu et.al.|[2407.12631](http://arxiv.org/abs/2407.12631)|null|
+|**2024-07-17**|**LSKV: A Confidential Distributed Datastore to Protect Critical Data in the Cloud**|Andrew Jeffery et.al.|[2407.12623](http://arxiv.org/abs/2407.12623)|null|
 |**2024-07-16**|**Hydra: Brokering Cloud and HPC Resources to Support the Execution of Heterogeneous Workloads at Scale**|Aymen Alsaadi et.al.|[2407.11967](http://arxiv.org/abs/2407.11967)|null|
 |**2024-07-16**|**An Overview and Solution for Democratizing AI Workflows at the Network Edge**|Andrej Čop et.al.|[2407.11905](http://arxiv.org/abs/2407.11905)|null|
 |**2024-07-16**|**Asymmetric Kinematics in Young Clusters: The λ Ori Cluster**|Joseph J. Armstrong et.al.|[2407.11845](http://arxiv.org/abs/2407.11845)|null|
@@ -1680,6 +1690,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-17**|**TransCAD: A Hierarchical Transformer for CAD Sequence Inference from Point Clouds**|Elona Dupont et.al.|[2407.12702](http://arxiv.org/abs/2407.12702)|null|
+|**2024-07-17**|**Dual-level Adaptive Self-Labeling for Novel Class Discovery in Point Cloud Segmentation**|Ruijie Xu et.al.|[2407.12489](http://arxiv.org/abs/2407.12489)|null|
+|**2024-07-17**|**HGL: Hierarchical Geometry Learning for Test-time Adaptation in 3D Point Cloud Segmentation**|Tianpei Zou et.al.|[2407.12387](http://arxiv.org/abs/2407.12387)|**[link](https://github.com/tpzou/hgl)**|
+|**2024-07-17**|**Serialized Point Mamba: A Serialized Point Cloud Mamba Segmentation Model**|Tao Wang et.al.|[2407.12319](http://arxiv.org/abs/2407.12319)|null|
 |**2024-07-16**|**MVG-Splatting: Multi-View Guided Gaussian Splatting with Adaptive Quantile-Based Geometric Consistency Densification**|Zhuoxiao Li et.al.|[2407.11840](http://arxiv.org/abs/2407.11840)|null|
 |**2024-07-16**|**SlingBAG: Sliding ball adaptive growth algorithm with differentiable radiation enables super-efficient iterative 3D photoacoustic image reconstruction**|Shuang Li et.al.|[2407.11781](http://arxiv.org/abs/2407.11781)|null|
 |**2024-07-16**|**Snail-Radar: A large-scale diverse dataset for the evaluation of 4D-radar-based SLAM systems**|Jianzhu Huai et.al.|[2407.11705](http://arxiv.org/abs/2407.11705)|null|
