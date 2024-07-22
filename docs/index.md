@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-19**|**Low [O/Fe] Ratio in a Luminous Galaxy at the Early Cosmic Epoch ( $z>10$ ): Signature of Short Delay Time or Bright Hypernovae/Pair-Instability Supernovae?**|Minami Nakane et.al.|[2407.14470](http://arxiv.org/abs/2407.14470)|null|
+|**2024-07-19**|**Examining composition-dependent radiation response in AlGaN**|Miaomiao Jin et.al.|[2407.14456](http://arxiv.org/abs/2407.14456)|null|
+|**2024-07-19**|**The $K_s$ -band luminosity function of the rich cluster VC04 in the Vela supercluster**|N. Hatamkhani et.al.|[2407.14425](http://arxiv.org/abs/2407.14425)|null|
+|**2024-07-19**|**Mixture of Experts with Mixture of Precisions for Tuning Quality of Service**|HamidReza Imani et.al.|[2407.14417](http://arxiv.org/abs/2407.14417)|null|
+|**2024-07-19**|**The Vision of Autonomic Computing: Can LLMs Make It a Reality?**|Zhiyang Zhang et.al.|[2407.14402](http://arxiv.org/abs/2407.14402)|null|
+|**2024-07-19**|**On the Impact of PRB Load Uncertainty Forecasting for Sustainable Open RAN**|Vaishnavi Kasuluru et.al.|[2407.14400](http://arxiv.org/abs/2407.14400)|null|
+|**2024-07-19**|**Enhancing Cloud-Native Resource Allocation with Probabilistic Forecasting Techniques in O-RAN**|Vaishnavi Kasuluru et.al.|[2407.14377](http://arxiv.org/abs/2407.14377)|null|
+|**2024-07-19**|**On the use of Probabilistic Forecasting for Network Analysis in Open RAN**|Vaishnavi Kasuluru et.al.|[2407.14375](http://arxiv.org/abs/2407.14375)|null|
+|**2024-07-19**|**FaaS Is Not Enough: Serverless Handling of Burst-Parallel Jobs**|Daniel Barcelona-Pons et.al.|[2407.14331](http://arxiv.org/abs/2407.14331)|null|
+|**2024-07-19**|**Straightforward Layer-wise Pruning for More Efficient Visual Adaptation**|Ruizi Han et.al.|[2407.14330](http://arxiv.org/abs/2407.14330)|**[link](https://github.com/RuiZiHan/SLS)**|
 |**2024-07-18**|**Exploring Facial Biomarkers for Depression through Temporal Analysis of Action Units**|Aditya Parikh et.al.|[2407.13753](http://arxiv.org/abs/2407.13753)|null|
 |**2024-07-18**|**Non-Fermi liquid and antiferromagnetic correlations with hole doping in the bilayer two-orbital Hubbard model of La $_3$Ni$_2$O$_7$ at zero temperature**|Yin Chen et.al.|[2407.13737](http://arxiv.org/abs/2407.13737)|null|
 |**2024-07-18**|**HPix: Generating Vector Maps from Satellite Images**|Aditya Taparia et.al.|[2407.13680](http://arxiv.org/abs/2407.13680)|**[link](https://github.com/aditya-taparia/Satellite-Image-to-Vector-Map)**|
@@ -1700,6 +1710,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-19**|**PD-TPE: Parallel Decoder with Text-guided Position Encoding for 3D Visual Grounding**|Chenshu Hou et.al.|[2407.14491](http://arxiv.org/abs/2407.14491)|null|
+|**2024-07-19**|**Complementary Learning for Real-World Model Failure Detection**|Daniel Bogdoll et.al.|[2407.14306](http://arxiv.org/abs/2407.14306)|**[link](https://github.com/daniel-bogdoll/model_contradictions)**|
+|**2024-07-19**|**PointRegGPT: Boosting 3D Point Cloud Registration using Generative Point-Cloud Pairs for Training**|Suyi Chen et.al.|[2407.14054](http://arxiv.org/abs/2407.14054)|**[link](https://github.com/chen-suyi/pointreggpt)**|
+|**2024-07-19**|**Scale Disparity of Instances in Interactive Point Cloud Segmentation**|Chenrui Han et.al.|[2407.14009](http://arxiv.org/abs/2407.14009)|null|
+|**2024-07-19**|**Multi-modal Relation Distillation for Unified 3D Representation Learning**|Huiqun Wang et.al.|[2407.14007](http://arxiv.org/abs/2407.14007)|null|
+|**2024-07-18**|**RT-Pose: A 4D Radar Tensor-based 3D Human Pose Estimation and Localization Benchmark**|Yuan-Hao Ho et.al.|[2407.13930](http://arxiv.org/abs/2407.13930)|null|
+|**2024-07-18**|**EggNet: An Evolving Graph-based Graph Attention Network for Particle Track Reconstruction**|Paolo Calafiura et.al.|[2407.13925](http://arxiv.org/abs/2407.13925)|null|
+|**2024-07-18**|**Language-Driven 6-DoF Grasp Detection Using Negative Prompt Guidance**|Toan Nguyen et.al.|[2407.13842](http://arxiv.org/abs/2407.13842)|null|
 |**2024-07-18**|**SegPoint: Segment Any Point Cloud via Large Language Model**|Shuting He et.al.|[2407.13761](http://arxiv.org/abs/2407.13761)|null|
 |**2024-07-18**|**Predicting dark matter halo masses from simulated galaxy images and environments**|Austin J. Larson et.al.|[2407.13735](http://arxiv.org/abs/2407.13735)|null|
 |**2024-07-19**|**GlobalPointer: Large-Scale Plane Adjustment with Bi-Convex Relaxation**|Bangyan Liao et.al.|[2407.13537](http://arxiv.org/abs/2407.13537)|null|
