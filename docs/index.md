@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.23
+## Updated on 2024.07.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## clustering
@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-22**|**Reconstructing Training Data From Real World Models Trained with Transfer Learning**|Yakir Oz et.al.|[2407.15845](http://arxiv.org/abs/2407.15845)|null|
-|**2024-07-22**|**A simple and fast C++ thread pool implementation capable of running task graphs**|Dmytro Puyda et.al.|[2407.15805](http://arxiv.org/abs/2407.15805)|null|
+|**2024-07-23**|**A simple and fast C++ thread pool implementation capable of running task graphs**|Dmytro Puyda et.al.|[2407.15805](http://arxiv.org/abs/2407.15805)|null|
 |**2024-07-22**|**The Evaporating Massive Embedded Stellar Cluster IRS 13 Close to Sgr A*. II. Kinematic structure**|Florian Peißker et.al.|[2407.15800](http://arxiv.org/abs/2407.15800)|null|
 |**2024-07-22**|**MILAN: Milli-Annotations for Lidar Semantic Segmentation**|Nermin Samet et.al.|[2407.15797](http://arxiv.org/abs/2407.15797)|null|
 |**2024-07-22**|**Robust Mixture Learning when Outliers Overwhelm Small Groups**|Daniil Dmitriev et.al.|[2407.15792](http://arxiv.org/abs/2407.15792)|null|
