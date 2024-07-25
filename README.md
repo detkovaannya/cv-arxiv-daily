@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.24
+## Updated on 2024.07.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -26,7 +26,7 @@
 |**2024-07-23**|**DRAM Errors and Cosmic Rays: Space Invaders or Science Fiction?**|Isaac Boixaderas et.al.|[2407.16487](http://arxiv.org/abs/2407.16487)|null|
 |**2024-07-23**|**Constrained coding upper bounds via Goulden-Jackson cluster theorem**|Yuanting Shen et.al.|[2407.16449](http://arxiv.org/abs/2407.16449)|null|
 |**2024-07-23**|**ESOD: Efficient Small Object Detection on High-Resolution Images**|Kai Liu et.al.|[2407.16424](http://arxiv.org/abs/2407.16424)|null|
-|**2024-07-23**|**Equation of state of nuclear matter from collective flows and stopping in intermediate energy heavy-ion collisions**|Dan Cozma et.al.|[2407.16411](http://arxiv.org/abs/2407.16411)|null|
+|**2024-07-24**|**Equation of state of nuclear matter from collective flows and stopping in intermediate energy heavy-ion collisions**|Dan Cozma et.al.|[2407.16411](http://arxiv.org/abs/2407.16411)|null|
 |**2024-07-23**|**Prisec II -- A Comprehensive Model for IoT Security: Cryptographic Algorithms and Cloud Integration**|Pedro Costa et.al.|[2407.16395](http://arxiv.org/abs/2407.16395)|null|
 |**2024-07-22**|**Reconstructing Training Data From Real World Models Trained with Transfer Learning**|Yakir Oz et.al.|[2407.15845](http://arxiv.org/abs/2407.15845)|null|
 |**2024-07-23**|**A simple and fast C++ thread pool implementation capable of running task graphs**|Dmytro Puyda et.al.|[2407.15805](http://arxiv.org/abs/2407.15805)|null|
@@ -1730,13 +1730,13 @@
 |**2023-11-10**|**The First Verification Test of Space-Ground Collaborative Intelligence via Cloud-Native Satellites**|Shangguang Wang et.al.|[2311.06078](http://arxiv.org/abs/2311.06078)|null|
 |**2023-11-10**|**Collaborative Inference in DNN-based Satellite Systems with Dynamic Task Streams**|Jinglong Guan et.al.|[2311.06073](http://arxiv.org/abs/2311.06073)|null|
 
-<p align=right>(<a href=#updated-on-20240724>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240725>back to top</a>)</p>
 
 ## point cloud
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-07-23**|**Velocity Driven Vision: Asynchronous Sensor Fusion Birds Eye View Models for Autonomous Vehicles**|Seamie Hayes et.al.|[2407.16636](http://arxiv.org/abs/2407.16636)|null|
+|**2024-07-24**|**Velocity Driven Vision: Asynchronous Sensor Fusion Birds Eye View Models for Autonomous Vehicles**|Seamie Hayes et.al.|[2407.16636](http://arxiv.org/abs/2407.16636)|null|
 |**2024-07-23**|**HDRSplat: Gaussian Splatting for High Dynamic Range 3D Scene Reconstruction from Raw Images**|Shreyas Singh et.al.|[2407.16503](http://arxiv.org/abs/2407.16503)|null|
 |**2024-07-23**|**LiCROcc: Teach Radar for Accurate Semantic Occupancy Prediction using LiDAR and Camera**|Yukai Ma et.al.|[2407.16197](http://arxiv.org/abs/2407.16197)|null|
 |**2024-07-23**|**CloudFixer: Test-Time Adaptation for 3D Point Clouds via Diffusion-Guided Geometric Transformation**|Hajin Shim et.al.|[2407.16193](http://arxiv.org/abs/2407.16193)|null|
@@ -2768,7 +2768,7 @@
 |**2023-11-08**|**VET: Visual Error Tomography for Point Cloud Completion and High-Quality Neural Rendering**|Linus Franke et.al.|[2311.04634](http://arxiv.org/abs/2311.04634)|**[link](https://github.com/lfranke/vet)**|
 |**2023-11-09**|**Rethinking Human Pose Estimation for Autonomous Driving with 3D Event Representations**|Xiaoting Yin et.al.|[2311.04591](http://arxiv.org/abs/2311.04591)|**[link](https://github.com/masterhow/eventpointpose)**|
 
-<p align=right>(<a href=#updated-on-20240724>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240725>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
