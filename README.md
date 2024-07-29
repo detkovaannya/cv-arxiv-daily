@@ -41,7 +41,7 @@
 |**2024-07-23**|**ExaWorks Software Development Kit: A Robust and Scalable Collection of Interoperable Workflow Technologies**|Matteo Turilli et.al.|[2407.16646](http://arxiv.org/abs/2407.16646)|null|
 |**2024-07-23**|**GenRec: A Flexible Data Generator for Recommendations**|Erica Coppolillo et.al.|[2407.16594](http://arxiv.org/abs/2407.16594)|null|
 |**2024-07-23**|**Rank-reduced equation-of-motion coupled cluster triples: an accurate and affordable way of calculating electronic excitation energies**|Piotr Michalak et.al.|[2407.16572](http://arxiv.org/abs/2407.16572)|null|
-|**2024-07-23**|**COALA: A Practical and Vision-Centric Federated Learning Platform**|Weiming Zhuang et.al.|[2407.16560](http://arxiv.org/abs/2407.16560)|null|
+|**2024-07-23**|**COALA: A Practical and Vision-Centric Federated Learning Platform**|Weiming Zhuang et.al.|[2407.16560](http://arxiv.org/abs/2407.16560)|**[link](https://github.com/sonyresearch/coala)**|
 |**2024-07-23**|**Cosmic Web Dynamics: Forces and Strains**|Roi Kugel et.al.|[2407.16489](http://arxiv.org/abs/2407.16489)|null|
 |**2024-07-23**|**DRAM Errors and Cosmic Rays: Space Invaders or Science Fiction?**|Isaac Boixaderas et.al.|[2407.16487](http://arxiv.org/abs/2407.16487)|null|
 |**2024-07-23**|**Constrained coding upper bounds via Goulden-Jackson cluster theorem**|Yuanting Shen et.al.|[2407.16449](http://arxiv.org/abs/2407.16449)|null|
@@ -49,15 +49,15 @@
 |**2024-07-24**|**Equation of state of nuclear matter from collective flows and stopping in intermediate energy heavy-ion collisions**|Dan Cozma et.al.|[2407.16411](http://arxiv.org/abs/2407.16411)|null|
 |**2024-07-23**|**Prisec II -- A Comprehensive Model for IoT Security: Cryptographic Algorithms and Cloud Integration**|Pedro Costa et.al.|[2407.16395](http://arxiv.org/abs/2407.16395)|null|
 |**2024-07-22**|**Reconstructing Training Data From Real World Models Trained with Transfer Learning**|Yakir Oz et.al.|[2407.15845](http://arxiv.org/abs/2407.15845)|null|
-|**2024-07-23**|**A simple and fast C++ thread pool implementation capable of running task graphs**|Dmytro Puyda et.al.|[2407.15805](http://arxiv.org/abs/2407.15805)|null|
+|**2024-07-23**|**A simple and fast C++ thread pool implementation capable of running task graphs**|Dmytro Puyda et.al.|[2407.15805](http://arxiv.org/abs/2407.15805)|**[link](https://github.com/dpuyda/scheduling)**|
 |**2024-07-22**|**The Evaporating Massive Embedded Stellar Cluster IRS 13 Close to Sgr A*. II. Kinematic structure**|Florian Peißker et.al.|[2407.15800](http://arxiv.org/abs/2407.15800)|null|
 |**2024-07-22**|**MILAN: Milli-Annotations for Lidar Semantic Segmentation**|Nermin Samet et.al.|[2407.15797](http://arxiv.org/abs/2407.15797)|null|
 |**2024-07-22**|**Robust Mixture Learning when Outliers Overwhelm Small Groups**|Daniil Dmitriev et.al.|[2407.15792](http://arxiv.org/abs/2407.15792)|null|
 |**2024-07-22**|**High-redshift JWST massive galaxies and the initial clustering of supermassive primordial black holes**|Hai-Long Huang et.al.|[2407.15781](http://arxiv.org/abs/2407.15781)|null|
 |**2024-07-22**|**Parallel Split Learning with Global Sampling**|Mohammad Kohankhaki et.al.|[2407.15738](http://arxiv.org/abs/2407.15738)|null|
 |**2024-07-22**|**CrashEventLLM: Predicting System Crashes with Large Language Models**|Priyanka Mudgal et.al.|[2407.15716](http://arxiv.org/abs/2407.15716)|null|
-|**2024-07-22**|**Best of both worlds: Fusing hyperspectral data from two generations of spectro-imagers for X-ray astrophysics**|Julia Lascar et.al.|[2407.15639](http://arxiv.org/abs/2407.15639)|null|
-|**2024-07-22**|**vTensor: Flexible Virtual Tensor Management for Efficient LLM Serving**|Jiale Xu et.al.|[2407.15309](http://arxiv.org/abs/2407.15309)|null|
+|**2024-07-22**|**Best of both worlds: Fusing hyperspectral data from two generations of spectro-imagers for X-ray astrophysics**|Julia Lascar et.al.|[2407.15639](http://arxiv.org/abs/2407.15639)|**[link](https://github.com/jmlascar/hifred_fusion)**|
+|**2024-07-22**|**vTensor: Flexible Virtual Tensor Management for Efficient LLM Serving**|Jiale Xu et.al.|[2407.15309](http://arxiv.org/abs/2407.15309)|**[link](https://github.com/intelligent-machine-learning/glake)**|
 |**2024-07-19**|**Low [O/Fe] Ratio in a Luminous Galaxy at the Early Cosmic Epoch ( $z>10$ ): Signature of Short Delay Time or Bright Hypernovae/Pair-Instability Supernovae?**|Minami Nakane et.al.|[2407.14470](http://arxiv.org/abs/2407.14470)|null|
 |**2024-07-19**|**Examining composition-dependent radiation response in AlGaN**|Miaomiao Jin et.al.|[2407.14456](http://arxiv.org/abs/2407.14456)|null|
 |**2024-07-19**|**The $K_s$ -band luminosity function of the rich cluster VC04 in the Vela supercluster**|N. Hatamkhani et.al.|[2407.14425](http://arxiv.org/abs/2407.14425)|null|
@@ -79,7 +79,7 @@
 |**2024-07-18**|**Nonconvex landscapes for $\mathbf{Z}_2$ synchronization and graph clustering are benign near exact recovery thresholds**|Andrew D. McRae et.al.|[2407.13407](http://arxiv.org/abs/2407.13407)|null|
 |**2024-07-18**|**NIRVAR: Network Informed Restricted Vector Autoregression**|Brendan Martin et.al.|[2407.13314](http://arxiv.org/abs/2407.13314)|null|
 |**2024-07-17**|**Jigsaw Game: Federated Clustering**|Jinxuan Xu et.al.|[2407.12764](http://arxiv.org/abs/2407.12764)|null|
-|**2024-07-17**|**Inderdigitation, double twist, and topological defects in a system of hard lollipops**|Piotr Kubala et.al.|[2407.12747](http://arxiv.org/abs/2407.12747)|null|
+|**2024-07-17**|**Inderdigitation, double twist, and topological defects in a system of hard lollipops**|Piotr Kubala et.al.|[2407.12747](http://arxiv.org/abs/2407.12747)|**[link](https://github.com/pkua007/rampack)**|
 |**2024-07-17**|**TalTech-IRIT-LIS Speaker and Language Diarization Systems for DISPLACE 2024**|Joonas Kalda et.al.|[2407.12743](http://arxiv.org/abs/2407.12743)|null|
 |**2024-07-17**|**FlexFL: Heterogeneous Federated Learning via APoZ-Guided Flexible Pruning in Uncertain Scenarios**|Zekai Chen et.al.|[2407.12729](http://arxiv.org/abs/2407.12729)|null|
 |**2024-07-17**|**Neutrino Halo profiles: HR-DEMNUni simulation analysis**|Beatriz Hernández-Molinero et.al.|[2407.12694](http://arxiv.org/abs/2407.12694)|null|
@@ -87,7 +87,7 @@
 |**2024-07-17**|**Profiling quantum circuits for their efficient execution on single- and multi-core architectures**|Medina Bandic et.al.|[2407.12640](http://arxiv.org/abs/2407.12640)|null|
 |**2024-07-17**|**Bayesian spatial functional data clustering: applications in disease surveillance**|Ruiman Zhong et.al.|[2407.12633](http://arxiv.org/abs/2407.12633)|null|
 |**2024-07-17**|**Particle transport and deposition in wall-sheared thermal turbulence**|Ao Xu et.al.|[2407.12631](http://arxiv.org/abs/2407.12631)|null|
-|**2024-07-17**|**LSKV: A Confidential Distributed Datastore to Protect Critical Data in the Cloud**|Andrew Jeffery et.al.|[2407.12623](http://arxiv.org/abs/2407.12623)|null|
+|**2024-07-17**|**LSKV: A Confidential Distributed Datastore to Protect Critical Data in the Cloud**|Andrew Jeffery et.al.|[2407.12623](http://arxiv.org/abs/2407.12623)|**[link](https://github.com/microsoft/lskv)**|
 |**2024-07-16**|**Hydra: Brokering Cloud and HPC Resources to Support the Execution of Heterogeneous Workloads at Scale**|Aymen Alsaadi et.al.|[2407.11967](http://arxiv.org/abs/2407.11967)|null|
 |**2024-07-16**|**An Overview and Solution for Democratizing AI Workflows at the Network Edge**|Andrej Čop et.al.|[2407.11905](http://arxiv.org/abs/2407.11905)|null|
 |**2024-07-16**|**Asymmetric Kinematics in Young Clusters: The λ Ori Cluster**|Joseph J. Armstrong et.al.|[2407.11845](http://arxiv.org/abs/2407.11845)|null|
@@ -325,7 +325,7 @@
 |**2024-06-10**|**Early Acceptance Matching Game for User-Centric Clustering in Scalable Cell-free MIMO Networks**|Ala Eddine Nouali et.al.|[2406.06402](http://arxiv.org/abs/2406.06402)|null|
 |**2024-06-10**|**Tackling Delayed CSI in a Distributed Multi-Satellite MIMO Communication System**|Yasaman Omid et.al.|[2406.06392](http://arxiv.org/abs/2406.06392)|null|
 |**2024-06-10**|**mHuBERT-147: A Compact Multilingual HuBERT Model**|Marcely Zanon Boito et.al.|[2406.06371](http://arxiv.org/abs/2406.06371)|**[link](https://github.com/utter-project/fairseq)**|
-|**2024-06-10**|**Causal Discovery over High-Dimensional Structured Hypothesis Spaces with Causal Graph Partitioning**|Ashka Shah et.al.|[2406.06348](http://arxiv.org/abs/2406.06348)|null|
+|**2024-06-10**|**Causal Discovery over High-Dimensional Structured Hypothesis Spaces with Causal Graph Partitioning**|Ashka Shah et.al.|[2406.06348](http://arxiv.org/abs/2406.06348)|**[link](https://github.com/shahashka/causal_discovery_via_partitioning)**|
 |**2024-06-10**|**Should my Blockchain Learn to Drive? A Study of Hyperledger Fabric**|Jeeta Ann Chacko et.al.|[2406.06318](http://arxiv.org/abs/2406.06318)|null|
 |**2024-06-10**|**PowerInfer-2: Fast Large Language Model Inference on a Smartphone**|Zhenliang Xue et.al.|[2406.06282](http://arxiv.org/abs/2406.06282)|null|
 |**2024-06-07**|**Towards Semantic Equivalence of Tokenization in Multimodal LLM**|Shengqiong Wu et.al.|[2406.05127](http://arxiv.org/abs/2406.05127)|null|
@@ -858,7 +858,7 @@
 |**2024-03-22**|**LLaVA-PruMerge: Adaptive Token Reduction for Efficient Large Multimodal Models**|Yuzhang Shang et.al.|[2403.15388](http://arxiv.org/abs/2403.15388)|null|
 |**2024-03-22**|**Fourier Transform-based Estimators for Data Sketches**|Seth Pettie et.al.|[2403.15366](http://arxiv.org/abs/2403.15366)|null|
 |**2024-03-22**|**Benchmarking of machine learning interatomic potentials for reactive hydrogen dynamics at metal surfaces**|Wojciech G. Stark et.al.|[2403.15334](http://arxiv.org/abs/2403.15334)|null|
-|**2024-03-22**|**ProvDeploy: Provenance-oriented Containerization of High Performance Computing Scientific Workflows**|Liliane Kunstmann et.al.|[2403.15324](http://arxiv.org/abs/2403.15324)|null|
+|**2024-03-22**|**ProvDeploy: Provenance-oriented Containerization of High Performance Computing Scientific Workflows**|Liliane Kunstmann et.al.|[2403.15324](http://arxiv.org/abs/2403.15324)|**[link](https://bitbucket.org/lilianekunstmann/provdeploy)**|
 |**2024-03-22**|**Comprehensive Reassessment of Large-Scale Evaluation Outcomes in LLMs: A Multifaceted Statistical Approach**|Kun Sun et.al.|[2403.15250](http://arxiv.org/abs/2403.15250)|null|
 |**2024-03-22**|**The Dissolution of Planetesimals in Electrostatic Fields**|F. Chioma Onyeagusi et.al.|[2403.15225](http://arxiv.org/abs/2403.15225)|null|
 |**2024-03-22**|**FSD-Inference: Fully Serverless Distributed Inference with Scalable Cloud Communication**|Joe Oakley et.al.|[2403.15195](http://arxiv.org/abs/2403.15195)|null|
@@ -1767,7 +1767,7 @@
 |**2024-07-24**|**DiffCD: A Symmetric Differentiable Chamfer Distance for Neural Implicit Surface Fitting**|Linus Härenstam-Nielsen et.al.|[2407.17058](http://arxiv.org/abs/2407.17058)|**[link](https://github.com/linusnie/diffcd)**|
 |**2024-07-23**|**SE3ET: SE(3)-Equivariant Transformer for Low-Overlap Point Cloud Registration**|Chien Erh Lin et.al.|[2407.16823](http://arxiv.org/abs/2407.16823)|null|
 |**2024-07-24**|**Velocity Driven Vision: Asynchronous Sensor Fusion Birds Eye View Models for Autonomous Vehicles**|Seamie Hayes et.al.|[2407.16636](http://arxiv.org/abs/2407.16636)|null|
-|**2024-07-23**|**HDRSplat: Gaussian Splatting for High Dynamic Range 3D Scene Reconstruction from Raw Images**|Shreyas Singh et.al.|[2407.16503](http://arxiv.org/abs/2407.16503)|null|
+|**2024-07-23**|**HDRSplat: Gaussian Splatting for High Dynamic Range 3D Scene Reconstruction from Raw Images**|Shreyas Singh et.al.|[2407.16503](http://arxiv.org/abs/2407.16503)|**[link](https://github.com/shreyesss/hdrsplat)**|
 |**2024-07-23**|**LiCROcc: Teach Radar for Accurate Semantic Occupancy Prediction using LiDAR and Camera**|Yukai Ma et.al.|[2407.16197](http://arxiv.org/abs/2407.16197)|null|
 |**2024-07-23**|**CloudFixer: Test-Time Adaptation for 3D Point Clouds via Diffusion-Guided Geometric Transformation**|Hajin Shim et.al.|[2407.16193](http://arxiv.org/abs/2407.16193)|null|
 |**2024-07-23**|**Augmented Efficiency: Reducing Memory Footprint and Accelerating Inference for 3D Semantic Segmentation through Hybrid Vision**|Aditya Krishnan et.al.|[2407.16102](http://arxiv.org/abs/2407.16102)|null|
@@ -2238,7 +2238,7 @@
 |**2024-03-29**|**A Unified Framework for Human-centric Point Cloud Video Understanding**|Yiteng Xu et.al.|[2403.20031](http://arxiv.org/abs/2403.20031)|null|
 |**2024-03-28**|**Localization and Offline Mapping of High-Voltage Substations in Rough Terrain Using a Ground Vehicle**|Ioannis Alamanos et.al.|[2403.19875](http://arxiv.org/abs/2403.19875)|**[link](https://github.com/iral-ntua/fast_lio_localization)**|
 |**2024-03-28**|**TOD3Cap: Towards 3D Dense Captioning in Outdoor Scenes**|Bu Jin et.al.|[2403.19589](http://arxiv.org/abs/2403.19589)|**[link](https://github.com/jxbbb/tod3cap)**|
-|**2024-03-28**|**OV-Uni3DETR: Towards Unified Open-Vocabulary 3D Object Detection via Cycle-Modality Propagation**|Zhenyu Wang et.al.|[2403.19580](http://arxiv.org/abs/2403.19580)|null|
+|**2024-03-28**|**OV-Uni3DETR: Towards Unified Open-Vocabulary 3D Object Detection via Cycle-Modality Propagation**|Zhenyu Wang et.al.|[2403.19580](http://arxiv.org/abs/2403.19580)|**[link](https://github.com/zhenyuw16/uni3detr)**|
 |**2024-03-30**|**GlORIE-SLAM: Globally Optimized RGB-only Implicit Encoding Point Cloud SLAM**|Ganlin Zhang et.al.|[2403.19549](http://arxiv.org/abs/2403.19549)|**[link](https://github.com/zhangganlin/GlOIRE-SLAM)**|
 |**2024-03-28**|**RELI11D: A Comprehensive Multimodal Human Motion Dataset and Method**|Ming Yan et.al.|[2403.19501](http://arxiv.org/abs/2403.19501)|null|
 |**2024-03-28**|**CoherentGS: Sparse Novel View Synthesis with Coherent 3D Gaussians**|Avinash Paliwal et.al.|[2403.19495](http://arxiv.org/abs/2403.19495)|null|
@@ -2546,7 +2546,7 @@
 |**2024-01-17**|**Enhancing Lidar-based Object Detection in Adverse Weather using Offset Sequences in Time**|Raphael van Kempen et.al.|[2401.09049](http://arxiv.org/abs/2401.09049)|null|
 |**2024-01-17**|**Uncertainty-aware No-Reference Point Cloud Quality Assessment**|Songlin Fan et.al.|[2401.08926](http://arxiv.org/abs/2401.08926)|null|
 |**2024-01-16**|**Benchmarking Particle Filter Algorithms for Efficient Velodyne-Based Vehicle Localization**|Jose Luis Blanco-Claraco et.al.|[2401.08870](http://arxiv.org/abs/2401.08870)|null|
-|**2024-01-16**|**Fast Dynamic 3D Object Generation from a Single-view Video**|Zijie Pan et.al.|[2401.08742](http://arxiv.org/abs/2401.08742)|null|
+|**2024-01-16**|**Fast Dynamic 3D Object Generation from a Single-view Video**|Zijie Pan et.al.|[2401.08742](http://arxiv.org/abs/2401.08742)|**[link](https://github.com/fudan-zvg/efficient4d)**|
 |**2024-01-16**|**Registration of algebraic varieties using Riemannian optimization**|Florentin Goyens et.al.|[2401.08562](http://arxiv.org/abs/2401.08562)|**[link](https://github.com/flgoyens/variety-registration)**|
 |**2024-01-16**|**PPSURF: Combining Patches and Point Convolutions for Detailed Surface Reconstruction**|Philipp Erler et.al.|[2401.08518](http://arxiv.org/abs/2401.08518)|**[link](https://github.com/cg-tuwien/ppsurf)**|
 |**2024-01-16**|**Optimizing $k$ in $k$ NN Graphs with Graph Learning Perspective**|Asuka Tamaru et.al.|[2401.08245](http://arxiv.org/abs/2401.08245)|null|
