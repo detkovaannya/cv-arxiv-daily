@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-29**|**SANGRIA: Surgical Video Scene Graph Optimization for Surgical Workflow Prediction**|Çağhan Köksal et.al.|[2407.20214](http://arxiv.org/abs/2407.20214)|null|
+|**2024-07-29**|**Distributed Quantum Approximate Optimization Algorithm on Integrated High-Performance Computing and Quantum Computing Systems for Large-Scale Optimization**|Seongmin Kim et.al.|[2407.20212](http://arxiv.org/abs/2407.20212)|null|
+|**2024-07-29**|**An Adaptive Image-denoising Method Based on Jump Regression and Local Clustering**|Subhasish Basak et.al.|[2407.20210](http://arxiv.org/abs/2407.20210)|null|
+|**2024-07-29**|**Self-similar cluster structures in massive star-forming regions: Isolated evolution from clumps to embedded clusters**|J. W. Zhou et.al.|[2407.20150](http://arxiv.org/abs/2407.20150)|null|
+|**2024-07-29**|**Multiplicity of stars with planets in the solar neighbourhood**|J. González-Payo et.al.|[2407.20138](http://arxiv.org/abs/2407.20138)|null|
+|**2024-07-29**|**Adaptive Self-supervised Robust Clustering for Unstructured Data with Unknown Cluster Number**|Chen-Lu Ding et.al.|[2407.20119](http://arxiv.org/abs/2407.20119)|null|
+|**2024-07-29**|**Local Level Dynamic Random Partition Models for Changepoint Detection**|Alice Giampino et.al.|[2407.20085](http://arxiv.org/abs/2407.20085)|null|
+|**2024-07-29**|**Background Semantics Matter: Cross-Task Feature Exchange Network for Clustered Infrared Small Target Detection With Sky-Annotated Dataset**|Yimian Dai et.al.|[2407.20078](http://arxiv.org/abs/2407.20078)|**[link](https://github.com/grokcv/bafe-net)**|
+|**2024-07-29**|**$Δ$ -Machine Learning to Elevate DFT-based Potentials and a Force Field to the CCSD(T) Level Illustrated for Ethanol**|Apurba Nandi et.al.|[2407.20050](http://arxiv.org/abs/2407.20050)|null|
+|**2024-07-29**|**Aircraft Trajectory Segmentation-based Contrastive Coding: A Framework for Self-supervised Trajectory Representation**|Thaweerath Phisannupawong et.al.|[2407.20028](http://arxiv.org/abs/2407.20028)|null|
 |**2024-07-26**|**Validating the clustering predictions of empirical models with the FLAMINGO simulations**|Sergio Contreras et.al.|[2407.18912](http://arxiv.org/abs/2407.18912)|null|
 |**2024-07-26**|**Embedding And Clustering Your Data Can Improve Contrastive Pretraining**|Luke Merrick et.al.|[2407.18887](http://arxiv.org/abs/2407.18887)|null|
 |**2024-07-26**|**The Chemical Diversity of the Metal-Poor Milky Way**|Nicole Buckley et.al.|[2407.18823](http://arxiv.org/abs/2407.18823)|null|
@@ -1760,6 +1770,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-29**|**Correspondence-Free SE(3) Point Cloud Registration in RKHS via Unsupervised Equivariant Learning**|Ray Zhang et.al.|[2407.20223](http://arxiv.org/abs/2407.20223)|null|
+|**2024-07-29**|**A simple linear time algorithm for smallest enclosing circles on the (hemi)sphere**|Jens Flemming et.al.|[2407.19840](http://arxiv.org/abs/2407.19840)|null|
+|**2024-07-29**|**Text2LiDAR: Text-guided LiDAR Point Cloud Generation via Equirectangular Transformer**|Yang Wu et.al.|[2407.19628](http://arxiv.org/abs/2407.19628)|null|
+|**2024-07-28**|**ClickDiff: Click to Induce Semantic Contact Map for Controllable Grasp Generation with Diffusion Models**|Peiming Li et.al.|[2407.19370](http://arxiv.org/abs/2407.19370)|**[link](https://github.com/adventurer-w/clickdiff)**|
+|**2024-07-27**|**Rethinking Attention Module Design for Point Cloud Analysis**|Chengzhi Wu et.al.|[2407.19294](http://arxiv.org/abs/2407.19294)|null|
+|**2024-07-27**|**WindPoly: Polygonal Mesh Reconstruction via Winding Numbers**|Xin He et.al.|[2407.19208](http://arxiv.org/abs/2407.19208)|null|
+|**2024-07-26**|**NARVis: Neural Accelerated Rendering for Real-Time Scientific Point Cloud Visualization**|Srinidhi Hegde et.al.|[2407.19097](http://arxiv.org/abs/2407.19097)|null|
+|**2024-07-26**|**ScalingGaussian: Enhancing 3D Content Creation with Generative Gaussian Splatting**|Shen Chen et.al.|[2407.19035](http://arxiv.org/abs/2407.19035)|null|
 |**2024-07-26**|**Divide and Conquer: A Systematic Approach for Industrial Scale High-Definition OpenDRIVE Generation from Sparse Point Clouds**|Leon Eisemann et.al.|[2407.18703](http://arxiv.org/abs/2407.18703)|null|
 |**2024-07-26**|**Boosting Cross-Domain Point Classification via Distilling Relational Priors from 2D Transformers**|Longkun Zou et.al.|[2407.18534](http://arxiv.org/abs/2407.18534)|**[link](https://github.com/zou-longkun/rpd)**|
 |**2024-07-25**|**RefMask3D: Language-Guided Transformer for 3D Referring Segmentation**|Shuting He et.al.|[2407.18244](http://arxiv.org/abs/2407.18244)|**[link](https://github.com/heshuting555/refmask3d)**|
