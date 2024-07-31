@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-30**|**Spin response of neutron matter in ab initio approach**|J. E. Sobczyk et.al.|[2407.20986](http://arxiv.org/abs/2407.20986)|null|
+|**2024-07-30**|**Securing Proof of Stake Blockchains: Leveraging Multi-Agent Reinforcement Learning for Detecting and Mitigating Malicious Nodes**|Faisal Haque Bappy et.al.|[2407.20983](http://arxiv.org/abs/2407.20983)|null|
+|**2024-07-30**|**Impact of Conflicting Transactions in Blockchain: Detecting and Mitigating Potential Attacks**|Faisal Haque Bappy et.al.|[2407.20980](http://arxiv.org/abs/2407.20980)|null|
+|**2024-07-30**|**Automatic Die Studies for Ancient Numismatics**|Clément Cornet et.al.|[2407.20876](http://arxiv.org/abs/2407.20876)|null|
+|**2024-07-30**|**The PARSEC view of star formation in galaxy centres: from protoclusters to star clusters in an early-type spiral**|Almudena Prieto et.al.|[2407.20860](http://arxiv.org/abs/2407.20860)|null|
+|**2024-07-30**|**Robust Load Prediction of Power Network Clusters Based on Cloud-Model-Improved Transformer**|Cheng Jiang et.al.|[2407.20817](http://arxiv.org/abs/2407.20817)|null|
+|**2024-07-30**|**Barbá 2: A new supergiant-rich Galactic stellar cluster**|J. Maíz Apellániz et.al.|[2407.20812](http://arxiv.org/abs/2407.20812)|null|
+|**2024-07-30**|**Interpretable Pre-Trained Transformers for Heart Time-Series Data**|Harry J. Davies et.al.|[2407.20775](http://arxiv.org/abs/2407.20775)|null|
+|**2024-07-30**|**Re-localization acceleration with Medoid Silhouette Clustering**|Hongyi Zhang et.al.|[2407.20749](http://arxiv.org/abs/2407.20749)|null|
+|**2024-07-30**|**Practices and Strategies in Responsive Thematic Map Design: A Report from Design Workshops with Experts**|Sarah Schöttler et.al.|[2407.20735](http://arxiv.org/abs/2407.20735)|null|
 |**2024-07-29**|**SANGRIA: Surgical Video Scene Graph Optimization for Surgical Workflow Prediction**|Çağhan Köksal et.al.|[2407.20214](http://arxiv.org/abs/2407.20214)|null|
 |**2024-07-29**|**Distributed Quantum Approximate Optimization Algorithm on Integrated High-Performance Computing and Quantum Computing Systems for Large-Scale Optimization**|Seongmin Kim et.al.|[2407.20212](http://arxiv.org/abs/2407.20212)|null|
 |**2024-07-29**|**An Adaptive Image-denoising Method Based on Jump Regression and Local Clustering**|Subhasish Basak et.al.|[2407.20210](http://arxiv.org/abs/2407.20210)|null|
@@ -1770,6 +1780,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-30**|**On-the-fly Communication-and-Computing to Enable Representation Learning for Distributed Point Clouds**|Xu Chen et.al.|[2407.20710](http://arxiv.org/abs/2407.20710)|null|
+|**2024-07-30**|**3D-GRES: Generalized 3D Referring Expression Segmentation**|Changli Wu et.al.|[2407.20664](http://arxiv.org/abs/2407.20664)|null|
+|**2024-07-29**|**BaseBoostDepth: Exploiting Larger Baselines For Self-supervised Monocular Depth Estimation**|Kieran Saunders et.al.|[2407.20437](http://arxiv.org/abs/2407.20437)|null|
 |**2024-07-29**|**Correspondence-Free SE(3) Point Cloud Registration in RKHS via Unsupervised Equivariant Learning**|Ray Zhang et.al.|[2407.20223](http://arxiv.org/abs/2407.20223)|null|
 |**2024-07-29**|**A simple linear time algorithm for smallest enclosing circles on the (hemi)sphere**|Jens Flemming et.al.|[2407.19840](http://arxiv.org/abs/2407.19840)|null|
 |**2024-07-29**|**Text2LiDAR: Text-guided LiDAR Point Cloud Generation via Equirectangular Transformer**|Yang Wu et.al.|[2407.19628](http://arxiv.org/abs/2407.19628)|null|
