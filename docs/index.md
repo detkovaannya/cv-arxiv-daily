@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.30
+## Updated on 2024.07.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## clustering
@@ -19,7 +19,7 @@ layout: default
 |**2024-07-29**|**An Adaptive Image-denoising Method Based on Jump Regression and Local Clustering**|Subhasish Basak et.al.|[2407.20210](http://arxiv.org/abs/2407.20210)|null|
 |**2024-07-29**|**Self-similar cluster structures in massive star-forming regions: Isolated evolution from clumps to embedded clusters**|J. W. Zhou et.al.|[2407.20150](http://arxiv.org/abs/2407.20150)|null|
 |**2024-07-29**|**Multiplicity of stars with planets in the solar neighbourhood**|J. González-Payo et.al.|[2407.20138](http://arxiv.org/abs/2407.20138)|null|
-|**2024-07-29**|**Adaptive Self-supervised Robust Clustering for Unstructured Data with Unknown Cluster Number**|Chen-Lu Ding et.al.|[2407.20119](http://arxiv.org/abs/2407.20119)|null|
+|**2024-07-30**|**Adaptive Self-supervised Robust Clustering for Unstructured Data with Unknown Cluster Number**|Chen-Lu Ding et.al.|[2407.20119](http://arxiv.org/abs/2407.20119)|null|
 |**2024-07-29**|**Local Level Dynamic Random Partition Models for Changepoint Detection**|Alice Giampino et.al.|[2407.20085](http://arxiv.org/abs/2407.20085)|null|
 |**2024-07-29**|**Background Semantics Matter: Cross-Task Feature Exchange Network for Clustered Infrared Small Target Detection With Sky-Annotated Dataset**|Yimian Dai et.al.|[2407.20078](http://arxiv.org/abs/2407.20078)|**[link](https://github.com/grokcv/bafe-net)**|
 |**2024-07-29**|**$Δ$ -Machine Learning to Elevate DFT-based Potentials and a Force Field to the CCSD(T) Level Illustrated for Ethanol**|Apurba Nandi et.al.|[2407.20050](http://arxiv.org/abs/2407.20050)|null|
