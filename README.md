@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.01
+## Updated on 2024.08.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,7 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-07-31**|**Microscopic model for aging of biocondensates**|Hugo Le Roy et.al.|[2407.21710](http://arxiv.org/abs/2407.21710)|null|
+|**2024-08-01**|**Microscopic model for aging of biocondensates**|Hugo Le Roy et.al.|[2407.21710](http://arxiv.org/abs/2407.21710)|null|
 |**2024-07-31**|**Stable Sparse Operator Inference for Nonlinear Structural Dynamics**|Pascal den Boef et.al.|[2407.21672](http://arxiv.org/abs/2407.21672)|null|
 |**2024-07-31**|**Ram-pressure stripped radio tails detected in the dynamically active environment of the Shapley Supercluster**|P. Merluzzi et.al.|[2407.21628](http://arxiv.org/abs/2407.21628)|null|
 |**2024-07-31**|**VEGAS-SSS: Tracing Globular Cluster Populations in the Interacting NGC3640 Galaxy Group**|Marco Mirabile et.al.|[2407.21620](http://arxiv.org/abs/2407.21620)|null|
@@ -1790,7 +1790,7 @@
 |**2023-11-10**|**The First Verification Test of Space-Ground Collaborative Intelligence via Cloud-Native Satellites**|Shangguang Wang et.al.|[2311.06078](http://arxiv.org/abs/2311.06078)|null|
 |**2023-11-10**|**Collaborative Inference in DNN-based Satellite Systems with Dynamic Task Streams**|Jinglong Guan et.al.|[2311.06073](http://arxiv.org/abs/2311.06073)|null|
 
-<p align=right>(<a href=#updated-on-20240801>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240802>back to top</a>)</p>
 
 ## point cloud
 
@@ -2860,7 +2860,7 @@
 |**2023-11-08**|**VET: Visual Error Tomography for Point Cloud Completion and High-Quality Neural Rendering**|Linus Franke et.al.|[2311.04634](http://arxiv.org/abs/2311.04634)|**[link](https://github.com/lfranke/vet)**|
 |**2023-11-09**|**Rethinking Human Pose Estimation for Autonomous Driving with 3D Event Representations**|Xiaoting Yin et.al.|[2311.04591](http://arxiv.org/abs/2311.04591)|**[link](https://github.com/masterhow/eventpointpose)**|
 
-<p align=right>(<a href=#updated-on-20240801>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240802>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
