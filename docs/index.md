@@ -1811,7 +1811,7 @@ layout: default
 |**2024-07-31**|**Enriching thermal point clouds of buildings using semantic 3D building modelsenriching thermal point clouds of buildings using semantic 3D building models**|Jingwei Zhu et.al.|[2407.21436](http://arxiv.org/abs/2407.21436)|null|
 |**2024-07-31**|**Deformable 3D Shape Diffusion Model**|Dengsheng Chen et.al.|[2407.21428](http://arxiv.org/abs/2407.21428)|null|
 |**2024-07-31**|**A network based approach for unbalanced optimal transport on surfaces**|Jiangong Pan et.al.|[2407.21346](http://arxiv.org/abs/2407.21346)|null|
-|**2024-07-31**|**High-throughput 3D shape completion of potato tubers on a harvester**|Pieter M. Blok et.al.|[2407.21341](http://arxiv.org/abs/2407.21341)|null|
+|**2024-07-31**|**High-throughput 3D shape completion of potato tubers on a harvester**|Pieter M. Blok et.al.|[2407.21341](http://arxiv.org/abs/2407.21341)|**[link](https://github.com/UTokyo-FieldPhenomics-Lab/corepp)**|
 |**2024-07-31**|**On-the-fly Point Feature Representation for Point Clouds Analysis**|Jiangyi Wang et.al.|[2407.21335](http://arxiv.org/abs/2407.21335)|null|
 |**2024-07-31**|**TrackSorter: A Transformer-based sorting algorithm for track finding in High Energy Physics**|Yash Melkani et.al.|[2407.21290](http://arxiv.org/abs/2407.21290)|null|
 |**2024-07-31**|**Fine-grained Metrics for Point Cloud Semantic Segmentation**|Zhuheng Lu et.al.|[2407.21289](http://arxiv.org/abs/2407.21289)|null|
@@ -1907,7 +1907,7 @@ layout: default
 |**2024-07-11**|**Enhancing context models for point cloud geometry compression with context feature residuals and multi-loss**|Chang Sun et.al.|[2407.08520](http://arxiv.org/abs/2407.08520)|null|
 |**2024-07-11**|**Learning Localization of Body and Finger Animation Skeleton Joints on Three-Dimensional Models of Human Bodies**|Stefan Novaković et.al.|[2407.08484](http://arxiv.org/abs/2407.08484)|**[link](https://github.com/sznov/joint-localization)**|
 |**2024-07-11**|**Gap Completion in Point Cloud Scene occluded by Vehicles using SGC-Net**|Yu Feng et.al.|[2407.08290](http://arxiv.org/abs/2407.08290)|null|
-|**2024-07-11**|**SALSA: Swift Adaptive Lightweight Self-Attention for Enhanced LiDAR Place Recognition**|Raktim Gautam Goswami et.al.|[2407.08260](http://arxiv.org/abs/2407.08260)|null|
+|**2024-07-11**|**SALSA: Swift Adaptive Lightweight Self-Attention for Enhanced LiDAR Place Recognition**|Raktim Gautam Goswami et.al.|[2407.08260](http://arxiv.org/abs/2407.08260)|**[link](https://github.com/raktimgg/salsa)**|
 |**2024-07-11**|**Highway Networks for Improved Surface Reconstruction: The Role of Residuals and Weight Updates**|A. Noorizadegan et.al.|[2407.08134](http://arxiv.org/abs/2407.08134)|**[link](https://github.com/cmmai/resnet_for_pinn)**|
 |**2024-07-11**|**SGLC: Semantic Graph-Guided Coarse-Fine-Refine Full Loop Closing for LiDAR SLAM**|Neng Wang et.al.|[2407.08106](http://arxiv.org/abs/2407.08106)|**[link](https://github.com/nubot-nudt/sglc)**|
 |**2024-07-10**|**Incremental Multiview Point Cloud Registration with Two-stage Candidate Retrieval**|Shiqi Li et.al.|[2407.07525](http://arxiv.org/abs/2407.07525)|null|
@@ -2659,7 +2659,7 @@ layout: default
 |**2024-01-02**|**Point Cloud Classification via Deep Set Linearized Optimal Transport**|Scott Mahan et.al.|[2401.01460](http://arxiv.org/abs/2401.01460)|null|
 |**2024-01-02**|**Off-Road LiDAR Intensity Based Semantic Segmentation**|Kasi Viswanath et.al.|[2401.01439](http://arxiv.org/abs/2401.01439)|**[link](https://github.com/moonlabiiserb/lidar-intensity-predictor)**|
 |**2024-01-02**|**Street Gaussians for Modeling Dynamic Urban Scenes**|Yunzhi Yan et.al.|[2401.01339](http://arxiv.org/abs/2401.01339)|null|
-|**2024-01-02**|**Deep-ELA: Deep Exploratory Landscape Analysis with Self-Supervised Pretrained Transformers for Single- and Multi-Objective Continuous Optimization Problems**|Moritz Vinzent Seiler et.al.|[2401.01192](http://arxiv.org/abs/2401.01192)|null|
+|**2024-01-02**|**Deep-ELA: Deep Exploratory Landscape Analysis with Self-Supervised Pretrained Transformers for Single- and Multi-Objective Continuous Optimization Problems**|Moritz Vinzent Seiler et.al.|[2401.01192](http://arxiv.org/abs/2401.01192)|**[link](https://github.com/mvseiler/deep_ela)**|
 |**2024-01-01**|**ScatterFormer: Efficient Voxel Transformer with Scattered Linear Attention**|Chenhang He et.al.|[2401.00912](http://arxiv.org/abs/2401.00912)|**[link](https://github.com/skyhehe123/scatterformer)**|
 |**2024-01-01**|**Revisiting Nonlocal Self-Similarity from Continuous Representation**|Yisi Luo et.al.|[2401.00708](http://arxiv.org/abs/2401.00708)|null|
 |**2024-01-01**|**Point Cloud in the Air**|Yulin Shao et.al.|[2401.00658](http://arxiv.org/abs/2401.00658)|null|
