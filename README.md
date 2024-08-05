@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-02**|**Cluster production and the chemical freeze-out in expanding hot dense matter**|D. Blaschke et.al.|[2408.01399](http://arxiv.org/abs/2408.01399)|null|
+|**2024-08-02**|**FT K-Means: A High-Performance K-Means on GPU with Fault Tolerance**|Shixun Wu et.al.|[2408.01391](http://arxiv.org/abs/2408.01391)|null|
+|**2024-08-02**|**Resampling and averaging coordinates on data**|Andrew J. Blumberg et.al.|[2408.01379](http://arxiv.org/abs/2408.01379)|null|
+|**2024-08-02**|**A study of the dynamical structures in a Dark Matter Halo using UMAP**|Soorya Narayan R. et.al.|[2408.01220](http://arxiv.org/abs/2408.01220)|null|
+|**2024-08-02**|**Searching for Pulsars, Magnetars, and Fast Radio Bursts in the Sculptor Galaxy using MeerKAT**|H. Hurter et.al.|[2408.01217](http://arxiv.org/abs/2408.01217)|null|
+|**2024-08-02**|**Kinetics of vapor-liquid transition of active matter system under quasi one-dimensional confinement**|Parameshwaran A et.al.|[2408.01195](http://arxiv.org/abs/2408.01195)|null|
+|**2024-08-02**|**Power Aware Container Placement in Cloud Computing with Affinity and Cubic Power Model**|Suvarthi Sarkar et.al.|[2408.01176](http://arxiv.org/abs/2408.01176)|null|
+|**2024-08-02**|**Dispersive Effective Model in the Time-Domain for Acoustic Waves Propagating in Bubbly Media**|Arpan Mukherjee et.al.|[2408.01158](http://arxiv.org/abs/2408.01158)|null|
+|**2024-08-02**|**Machine learning topological energy braiding of non-Bloch bands**|Shuwei Shi et.al.|[2408.01141](http://arxiv.org/abs/2408.01141)|null|
+|**2024-08-02**|**Molecular influence on nuclear-quadrupole-coupling effects in laser induced alignment**|Linda V. Thesing et.al.|[2408.01125](http://arxiv.org/abs/2408.01125)|null|
 |**2024-08-01**|**DynamoLLM: Designing LLM Inference Clusters for Performance and Energy Efficiency**|Jovan Stojkovic et.al.|[2408.00741](http://arxiv.org/abs/2408.00741)|null|
 |**2024-08-01**|**Litmus: Fair Pricing for Serverless Computing**|Qi Pei et.al.|[2408.00731](http://arxiv.org/abs/2408.00731)|null|
 |**2024-08-01**|**Examining the local Universe isotropy with galaxy cluster velocity dispersion scaling relations**|A. Pandya et.al.|[2408.00726](http://arxiv.org/abs/2408.00726)|null|
@@ -1806,6 +1816,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-02**|**Resampling and averaging coordinates on data**|Andrew J. Blumberg et.al.|[2408.01379](http://arxiv.org/abs/2408.01379)|null|
+|**2024-08-02**|**Balanced Residual Distillation Learning for 3D Point Cloud Class-Incremental Semantic Segmentation**|Yuanzhi Su et.al.|[2408.01356](http://arxiv.org/abs/2408.01356)|null|
+|**2024-08-02**|**Effect of Fog Particle Size Distribution on 3D Object Detection Under Adverse Weather Conditions**|Ajinkya Shinde et.al.|[2408.01085](http://arxiv.org/abs/2408.01085)|null|
+|**2024-08-02**|**Extracting Object Heights From LiDAR & Aerial Imagery**|Jesus Guerrero et.al.|[2408.00967](http://arxiv.org/abs/2408.00967)|null|
 |**2024-08-01**|**Learned Compression of Point Cloud Geometry and Attributes in a Single Model through Multimodal Rate-Control**|Michael Rudolph et.al.|[2408.00599](http://arxiv.org/abs/2408.00599)|null|
 |**2024-08-01**|**MUFASA: Multi-View Fusion and Adaptation Network with Spatial Awareness for Radar Object Detection**|Xiangyuan Peng et.al.|[2408.00565](http://arxiv.org/abs/2408.00565)|null|
 |**2024-08-01**|**Task-oriented and Semantics-aware Communications for Augmented Reality**|Zhe Wang et.al.|[2408.00407](http://arxiv.org/abs/2408.00407)|null|
