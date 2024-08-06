@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-05**|**The Kraft Break Sharply Divides Low Mass and Intermediate Mass Stars**|Alexa C. Beyer et.al.|[2408.02638](http://arxiv.org/abs/2408.02638)|null|
+|**2024-08-05**|**Clustering and Mining Accented Speech for Inclusive and Fair Speech Recognition**|Jaeyoung Kim et.al.|[2408.02582](http://arxiv.org/abs/2408.02582)|null|
+|**2024-08-05**|**COSMOS Brightest Group Galaxies -- III: Evolution of stellar ages**|G. Gozaliasl et.al.|[2408.02577](http://arxiv.org/abs/2408.02577)|null|
+|**2024-08-05**|**Cross-Modality Clustering-based Self-Labeling for Multimodal Data Classification**|Paweł Zyblewski et.al.|[2408.02568](http://arxiv.org/abs/2408.02568)|null|
+|**2024-08-05**|**Asynchronous Latency and Fast Atomic Snapshot**|João Paulo Bezerra et.al.|[2408.02562](http://arxiv.org/abs/2408.02562)|null|
+|**2024-08-05**|**The effect of dynamical states on galaxy clusters populations. I. Classification of dynamical states**|S. Véliz Astudillo et.al.|[2408.02519](http://arxiv.org/abs/2408.02519)|null|
+|**2024-08-05**|**Toward Attention-based TinyML: A Heterogeneous Accelerated Architecture and Automated Deployment Flow**|Philip Wiese et.al.|[2408.02473](http://arxiv.org/abs/2408.02473)|null|
+|**2024-08-05**|**A stochastic and analytical model of hierarchical fragmentation: The fragmentation of gas structures into young stellar objects in the interstellar medium**|Benjamin Thomasson et.al.|[2408.02472](http://arxiv.org/abs/2408.02472)|null|
+|**2024-08-05**|**The Redner-ben-Avraham-Kahng cluster system without growth condition on the kinetic coefficients**|Philippe Laurençot et.al.|[2408.02465](http://arxiv.org/abs/2408.02465)|null|
+|**2024-08-05**|**On Probabilistic Embeddings in Optimal Dimension Reduction**|Ryan Murray et.al.|[2408.02433](http://arxiv.org/abs/2408.02433)|null|
 |**2024-08-02**|**Cluster production and the chemical freeze-out in expanding hot dense matter**|D. Blaschke et.al.|[2408.01399](http://arxiv.org/abs/2408.01399)|null|
 |**2024-08-02**|**FT K-Means: A High-Performance K-Means on GPU with Fault Tolerance**|Shixun Wu et.al.|[2408.01391](http://arxiv.org/abs/2408.01391)|null|
 |**2024-08-02**|**Resampling and averaging coordinates on data**|Andrew J. Blumberg et.al.|[2408.01379](http://arxiv.org/abs/2408.01379)|null|
@@ -1816,6 +1826,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-05**|**CMR-Agent: Learning a Cross-Modal Agent for Iterative Image-to-Point Cloud Registration**|Gongxin Yao et.al.|[2408.02394](http://arxiv.org/abs/2408.02394)|null|
+|**2024-08-05**|**MaFreeI2P: A Matching-Free Image-to-Point Cloud Registration Paradigm with Active Camera Pose Retrieval**|Gongxin Yao et.al.|[2408.02392](http://arxiv.org/abs/2408.02392)|null|
+|**2024-08-05**|**SelfGeo: Self-supervised and Geodesic-consistent Estimation of Keypoints on Deformable Shapes**|Mohammad Zohaib et.al.|[2408.02291](http://arxiv.org/abs/2408.02291)|null|
+|**2024-08-05**|**VoxelTrack: Exploring Voxel Representation for 3D Point Cloud Object Tracking**|Yuxuan Lu et.al.|[2408.02263](http://arxiv.org/abs/2408.02263)|null|
+|**2024-08-04**|**PanicleNeRF: low-cost, high-precision in-field phenotypingof rice panicles with smartphone**|Xin Yang et.al.|[2408.02053](http://arxiv.org/abs/2408.02053)|null|
+|**2024-08-04**|**3D Single-object Tracking in Point Clouds with High Temporal Variation**|Qiao Wu et.al.|[2408.02049](http://arxiv.org/abs/2408.02049)|null|
+|**2024-08-03**|**SiamMo: Siamese Motion-Centric 3D Object Tracking**|Yuxiang Yang et.al.|[2408.01688](http://arxiv.org/abs/2408.01688)|null|
+|**2024-08-03**|**Three-dimensional Morphological Reconstruction of Millimeter-Scale Soft Continuum Robots based on Dual Stereo Vision**|Tian-Ao Ren et.al.|[2408.01615](http://arxiv.org/abs/2408.01615)|null|
+|**2024-08-02**|**THOR2: Leveraging Topological Soft Clustering of Color Space for Human-Inspired Object Recognition in Unseen Environments**|Ekta U. Samani et.al.|[2408.01579](http://arxiv.org/abs/2408.01579)|null|
+|**2024-08-02**|**Trainable Pointwise Decoder Module for Point Cloud Segmentation**|Bike Chen et.al.|[2408.01548](http://arxiv.org/abs/2408.01548)|null|
 |**2024-08-02**|**Resampling and averaging coordinates on data**|Andrew J. Blumberg et.al.|[2408.01379](http://arxiv.org/abs/2408.01379)|null|
 |**2024-08-02**|**Balanced Residual Distillation Learning for 3D Point Cloud Class-Incremental Semantic Segmentation**|Yuanzhi Su et.al.|[2408.01356](http://arxiv.org/abs/2408.01356)|null|
 |**2024-08-02**|**Effect of Fog Particle Size Distribution on 3D Object Detection Under Adverse Weather Conditions**|Ajinkya Shinde et.al.|[2408.01085](http://arxiv.org/abs/2408.01085)|null|
