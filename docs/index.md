@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-06**|**Dwarf Galaxies in the MATLAS Survey: Hubble Space Telescope Observations of the Globular Cluster Systems of 74 Ultra Diffuse Galaxies**|Francine R. Marleau et.al.|[2408.03311](http://arxiv.org/abs/2408.03311)|null|
+|**2024-08-06**|**Accurate QM/MM Molecular Dynamics for Periodic Systems in \textsc{GPU4PySCF} with Applications to Enzyme Catalysis**|Chenghan Li et.al.|[2408.03273](http://arxiv.org/abs/2408.03273)|null|
+|**2024-08-06**|**Masked Random Noise for Communication Efficient Federaetd Learning**|Shiwei Li et.al.|[2408.03220](http://arxiv.org/abs/2408.03220)|null|
+|**2024-08-06**|**FedBAT: Communication-Efficient Federated Learning via Learnable Binarization**|Shiwei Li et.al.|[2408.03215](http://arxiv.org/abs/2408.03215)|null|
+|**2024-08-06**|**DaVE -- A Curated Database of Visualization Examples**|Jens Koenen et.al.|[2408.03188](http://arxiv.org/abs/2408.03188)|null|
+|**2024-08-06**|**Evolution of Star Cluster Within Galaxy using Self-consistent Hybrid Hydro/N-body Simulation**|Yongseok Jo et.al.|[2408.03128](http://arxiv.org/abs/2408.03128)|null|
+|**2024-08-06**|**Analysis of Argument Structure Constructions in a Deep Recurrent Language Model**|Pegah Ramezani et.al.|[2408.03062](http://arxiv.org/abs/2408.03062)|null|
+|**2024-08-06**|**A dual-cutoff machine-learned potential for condensed organic systems obtained via uncertainty-guided active learning**|Leonid Kahle et.al.|[2408.03058](http://arxiv.org/abs/2408.03058)|null|
+|**2024-08-06**|**Modeling and measuring the anisotropic halo 3-point correlation function: a coordinated study**|Antonio Farina et.al.|[2408.03036](http://arxiv.org/abs/2408.03036)|null|
+|**2024-08-06**|**The State of FaaS: An analysis of public Functions-as-a-Service providers**|Nnamdi Ekwe-Ekwe et.al.|[2408.03021](http://arxiv.org/abs/2408.03021)|null|
 |**2024-08-05**|**The Kraft Break Sharply Divides Low Mass and Intermediate Mass Stars**|Alexa C. Beyer et.al.|[2408.02638](http://arxiv.org/abs/2408.02638)|null|
 |**2024-08-05**|**Clustering and Mining Accented Speech for Inclusive and Fair Speech Recognition**|Jaeyoung Kim et.al.|[2408.02582](http://arxiv.org/abs/2408.02582)|null|
 |**2024-08-05**|**COSMOS Brightest Group Galaxies -- III: Evolution of stellar ages**|G. Gozaliasl et.al.|[2408.02577](http://arxiv.org/abs/2408.02577)|null|
@@ -1820,6 +1830,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-06**|**An Object is Worth 64x64 Pixels: Generating 3D Object via Image Diffusion**|Xingguang Yan et.al.|[2408.03178](http://arxiv.org/abs/2408.03178)|null|
+|**2024-08-06**|**MGFs: Masked Gaussian Fields for Meshing Building based on Multi-View Images**|Tengfei Wang et.al.|[2408.03060](http://arxiv.org/abs/2408.03060)|null|
+|**2024-08-06**|**Fast Point Cloud Geometry Compression with Context-based Residual Coding and INR-based Refinement**|Hao Xu et.al.|[2408.02966](http://arxiv.org/abs/2408.02966)|null|
 |**2024-08-05**|**CMR-Agent: Learning a Cross-Modal Agent for Iterative Image-to-Point Cloud Registration**|Gongxin Yao et.al.|[2408.02394](http://arxiv.org/abs/2408.02394)|null|
 |**2024-08-05**|**MaFreeI2P: A Matching-Free Image-to-Point Cloud Registration Paradigm with Active Camera Pose Retrieval**|Gongxin Yao et.al.|[2408.02392](http://arxiv.org/abs/2408.02392)|null|
 |**2024-08-05**|**SelfGeo: Self-supervised and Geodesic-consistent Estimation of Keypoints on Deformable Shapes**|Mohammad Zohaib et.al.|[2408.02291](http://arxiv.org/abs/2408.02291)|null|
