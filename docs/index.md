@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.07
+## Updated on 2024.08.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## clustering
@@ -23,7 +23,7 @@ layout: default
 |**2024-08-06**|**Analysis of Argument Structure Constructions in a Deep Recurrent Language Model**|Pegah Ramezani et.al.|[2408.03062](http://arxiv.org/abs/2408.03062)|null|
 |**2024-08-06**|**A dual-cutoff machine-learned potential for condensed organic systems obtained via uncertainty-guided active learning**|Leonid Kahle et.al.|[2408.03058](http://arxiv.org/abs/2408.03058)|null|
 |**2024-08-06**|**Modeling and measuring the anisotropic halo 3-point correlation function: a coordinated study**|Antonio Farina et.al.|[2408.03036](http://arxiv.org/abs/2408.03036)|null|
-|**2024-08-06**|**The State of FaaS: An analysis of public Functions-as-a-Service providers**|Nnamdi Ekwe-Ekwe et.al.|[2408.03021](http://arxiv.org/abs/2408.03021)|null|
+|**2024-08-07**|**The State of FaaS: An analysis of public Functions-as-a-Service providers**|Nnamdi Ekwe-Ekwe et.al.|[2408.03021](http://arxiv.org/abs/2408.03021)|null|
 |**2024-08-05**|**The Kraft Break Sharply Divides Low Mass and Intermediate Mass Stars**|Alexa C. Beyer et.al.|[2408.02638](http://arxiv.org/abs/2408.02638)|null|
 |**2024-08-05**|**Clustering and Mining Accented Speech for Inclusive and Fair Speech Recognition**|Jaeyoung Kim et.al.|[2408.02582](http://arxiv.org/abs/2408.02582)|null|
 |**2024-08-05**|**COSMOS Brightest Group Galaxies -- III: Evolution of stellar ages**|G. Gozaliasl et.al.|[2408.02577](http://arxiv.org/abs/2408.02577)|null|

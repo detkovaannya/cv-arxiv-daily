@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.07
+## Updated on 2024.08.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -27,7 +27,7 @@
 |**2024-08-06**|**Analysis of Argument Structure Constructions in a Deep Recurrent Language Model**|Pegah Ramezani et.al.|[2408.03062](http://arxiv.org/abs/2408.03062)|null|
 |**2024-08-06**|**A dual-cutoff machine-learned potential for condensed organic systems obtained via uncertainty-guided active learning**|Leonid Kahle et.al.|[2408.03058](http://arxiv.org/abs/2408.03058)|null|
 |**2024-08-06**|**Modeling and measuring the anisotropic halo 3-point correlation function: a coordinated study**|Antonio Farina et.al.|[2408.03036](http://arxiv.org/abs/2408.03036)|null|
-|**2024-08-06**|**The State of FaaS: An analysis of public Functions-as-a-Service providers**|Nnamdi Ekwe-Ekwe et.al.|[2408.03021](http://arxiv.org/abs/2408.03021)|null|
+|**2024-08-07**|**The State of FaaS: An analysis of public Functions-as-a-Service providers**|Nnamdi Ekwe-Ekwe et.al.|[2408.03021](http://arxiv.org/abs/2408.03021)|null|
 |**2024-08-05**|**The Kraft Break Sharply Divides Low Mass and Intermediate Mass Stars**|Alexa C. Beyer et.al.|[2408.02638](http://arxiv.org/abs/2408.02638)|null|
 |**2024-08-05**|**Clustering and Mining Accented Speech for Inclusive and Fair Speech Recognition**|Jaeyoung Kim et.al.|[2408.02582](http://arxiv.org/abs/2408.02582)|null|
 |**2024-08-05**|**COSMOS Brightest Group Galaxies -- III: Evolution of stellar ages**|G. Gozaliasl et.al.|[2408.02577](http://arxiv.org/abs/2408.02577)|null|
@@ -1830,7 +1830,7 @@
 |**2023-11-10**|**The First Verification Test of Space-Ground Collaborative Intelligence via Cloud-Native Satellites**|Shangguang Wang et.al.|[2311.06078](http://arxiv.org/abs/2311.06078)|null|
 |**2023-11-10**|**Collaborative Inference in DNN-based Satellite Systems with Dynamic Task Streams**|Jinglong Guan et.al.|[2311.06073](http://arxiv.org/abs/2311.06073)|null|
 
-<p align=right>(<a href=#updated-on-20240807>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240808>back to top</a>)</p>
 
 ## point cloud
 
@@ -2924,7 +2924,7 @@
 |**2023-11-08**|**VET: Visual Error Tomography for Point Cloud Completion and High-Quality Neural Rendering**|Linus Franke et.al.|[2311.04634](http://arxiv.org/abs/2311.04634)|**[link](https://github.com/lfranke/vet)**|
 |**2023-11-09**|**Rethinking Human Pose Estimation for Autonomous Driving with 3D Event Representations**|Xiaoting Yin et.al.|[2311.04591](http://arxiv.org/abs/2311.04591)|**[link](https://github.com/masterhow/eventpointpose)**|
 
-<p align=right>(<a href=#updated-on-20240807>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240808>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
