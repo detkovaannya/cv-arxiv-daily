@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-12**|**Generation of hypercubic cluster states in 1-4 dimensions in a simple optical system**|Zhifan Zhou et.al.|[2408.06317](http://arxiv.org/abs/2408.06317)|null|
+|**2024-08-12**|**Finding Patterns in Ambiguity: Interpretable Stress Testing in the Decision~Boundary**|Inês Gomes et.al.|[2408.06302](http://arxiv.org/abs/2408.06302)|**[link](https://github.com/inesgomes/db-patterns)**|
+|**2024-08-12**|**PDRs4All. X. ALMA and JWST detection of neutral carbon in the externally irradiated disk d203-506: Undepleted gas-phase carbon**|Javier R. Goicoechea et.al.|[2408.06279](http://arxiv.org/abs/2408.06279)|null|
+|**2024-08-12**|**Decentralized Intelligence Health Network (DIHN)**|Abraham Nash et.al.|[2408.06240](http://arxiv.org/abs/2408.06240)|null|
+|**2024-08-12**|**Euclid: The Early Release Observations Lens Search Experiment**|J. A. Acevedo Barroso et.al.|[2408.06217](http://arxiv.org/abs/2408.06217)|null|
+|**2024-08-12**|**Lancelot: Towards Efficient and Privacy-Preserving Byzantine-Robust Federated Learning within Fully Homomorphic Encryption**|Siyang Jiang et.al.|[2408.06197](http://arxiv.org/abs/2408.06197)|null|
+|**2024-08-12**|**FruitNeRF: A Unified Neural Radiance Field based Fruit Counting Framework**|Lukas Meyer et.al.|[2408.06190](http://arxiv.org/abs/2408.06190)|**[link](https://github.com/meyerls/fruitnerf)**|
+|**2024-08-12**|**The Planck SZiFi catalogues: a new set of Planck catalogues of Sunyaev-Zeldovich-detected galaxy clusters**|Íñigo Zubeldia et.al.|[2408.06189](http://arxiv.org/abs/2408.06189)|null|
+|**2024-08-12**|**Graph-based Descriptors for Condensed Matter**|An Wang et.al.|[2408.06156](http://arxiv.org/abs/2408.06156)|null|
+|**2024-08-12**|**Self-Supervised Learning on MeerKAT Wide-Field Continuum Images**|Erica Lastufka et.al.|[2408.06147](http://arxiv.org/abs/2408.06147)|null|
 |**2024-08-09**|**Deep-change at AXOLOTL-24: Orchestrating WSD and WSI Models for Semantic Change Modeling**|Denis Kokosinskii et.al.|[2408.05184](http://arxiv.org/abs/2408.05184)|null|
 |**2024-08-09**|**Weak-Annotation of HAR Datasets using Vision Foundation Models**|Marius Bock et.al.|[2408.05169](http://arxiv.org/abs/2408.05169)|**[link](https://github.com/mariusbock/weak_har)**|
 |**2024-08-09**|**Sparsity-Preserving Encodings for Straggler-Optimal Distributed Matrix Computations at the Edge**|Anindya Bijoy Das et.al.|[2408.05152](http://arxiv.org/abs/2408.05152)|null|
@@ -1860,6 +1870,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-12**|**HeLiMOS: A Dataset for Moving Object Segmentation in 3D Point Clouds From Heterogeneous LiDAR Sensors**|Hyungtae Lim et.al.|[2408.06328](http://arxiv.org/abs/2408.06328)|null|
+|**2024-08-12**|**FruitNeRF: A Unified Neural Radiance Field based Fruit Counting Framework**|Lukas Meyer et.al.|[2408.06190](http://arxiv.org/abs/2408.06190)|**[link](https://github.com/meyerls/fruitnerf)**|
+|**2024-08-12**|**Efficient and Scalable Point Cloud Generation with Sparse Point-Voxel Diffusion Models**|Ioannis Romanelis et.al.|[2408.06145](http://arxiv.org/abs/2408.06145)|null|
+|**2024-08-12**|**RISurConv: Rotation Invariant Surface Attention-Augmented Convolutions for 3D Point Cloud Classification and Segmentation**|Zhiyuan Zhang et.al.|[2408.06110](http://arxiv.org/abs/2408.06110)|**[link](https://github.com/cszyzhang/RISurConv)**|
+|**2024-08-12**|**CAD-Mesher: A Convenient, Accurate, Dense Mesh-based Mapping Module in SLAM for Dynamic Environments**|Yanpeng Jia et.al.|[2408.05981](http://arxiv.org/abs/2408.05981)|null|
+|**2024-08-12**|**MV2DFusion: Leveraging Modality-Specific Object Semantics for Multi-Modal 3D Detection**|Zitian Wang et.al.|[2408.05945](http://arxiv.org/abs/2408.05945)|null|
+|**2024-08-11**|**Sampling Foundational Transformer: A Theoretical Perspective**|Viet Anh Nguyen et.al.|[2408.05822](http://arxiv.org/abs/2408.05822)|null|
+|**2024-08-11**|**Contrastive masked auto-encoders based self-supervised hashing for 2D image and 3D point cloud cross-modal retrieval**|Rukai Wei et.al.|[2408.05711](http://arxiv.org/abs/2408.05711)|null|
+|**2024-08-10**|**PRTGaussian: Efficient Relighting Using 3D Gaussians with Precomputed Radiance Transfer**|Libo Zhang et.al.|[2408.05631](http://arxiv.org/abs/2408.05631)|**[link](https://github.com/zhanglbthu/prtgaussian)**|
+|**2024-08-10**|**TOPGN: Real-time Transparent Obstacle Detection using Lidar Point Cloud Intensity for Autonomous Robot Navigation**|Kasun Weerakoon et.al.|[2408.05608](http://arxiv.org/abs/2408.05608)|null|
 |**2024-08-09**|**RadarPillars: Efficient Object Detection from 4D Radar Point Clouds**|Alexander Musiat et.al.|[2408.05020](http://arxiv.org/abs/2408.05020)|null|
 |**2024-08-09**|**Pay Attention To Mean Fields For Point Cloud Generation**|Benno Käch et.al.|[2408.04997](http://arxiv.org/abs/2408.04997)|null|
 |**2024-08-09**|**CTE-MLO: Continuous-time and Efficient Multi-LiDAR Odometry with Localizability-aware Point Cloud Sampling**|Hongming Shen et.al.|[2408.04901](http://arxiv.org/abs/2408.04901)|null|
