@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-13**|**On Networks and their Applications: Stability of Gene Regulatory Networks and Gene Function Prediction using Autoencoders**|Hamza Coban et.al.|[2408.07064](http://arxiv.org/abs/2408.07064)|null|
+|**2024-08-13**|**DarkMatters: A powerful tool for WIMPy analysis**|Michael Sarkis et.al.|[2408.07053](http://arxiv.org/abs/2408.07053)|null|
+|**2024-08-13**|**A new non-parametric method to infer galaxy cluster masses from weak lensing**|Tobias Mistele et.al.|[2408.07026](http://arxiv.org/abs/2408.07026)|null|
+|**2024-08-13**|**Faster Private Minimum Spanning Trees**|Rasmus Pagh et.al.|[2408.06997](http://arxiv.org/abs/2408.06997)|null|
+|**2024-08-13**|**Identification and distance measurement of dust clouds at high latitude by a clustering hierarchical algorithm**|Mingxu Sun et.al.|[2408.06986](http://arxiv.org/abs/2408.06986)|null|
+|**2024-08-13**|**AuToMATo: A Parameter-Free Persistence-Based Clustering Algorithm**|Marius Huber et.al.|[2408.06958](http://arxiv.org/abs/2408.06958)|null|
+|**2024-08-13**|**PayOff: A Regulated Central Bank Digital Currency with Private Offline Payments**|Carolin Beer et.al.|[2408.06956](http://arxiv.org/abs/2408.06956)|null|
+|**2024-08-13**|**Heterogeneity: An Open Challenge for Federated On-board Machine Learning**|Maria Hartmann et.al.|[2408.06903](http://arxiv.org/abs/2408.06903)|null|
+|**2024-08-13**|**Voltran: Unlocking Trust and Confidentiality in Decentralized Federated Learning Aggregation**|Hao Wang et.al.|[2408.06885](http://arxiv.org/abs/2408.06885)|null|
+|**2024-08-13**|**Architecture Specific Generation of Large Scale Lattice Boltzmann Methods for Sparse Complex Geometries**|Philipp Suffa et.al.|[2408.06880](http://arxiv.org/abs/2408.06880)|null|
 |**2024-08-12**|**Generation of hypercubic cluster states in 1-4 dimensions in a simple optical system**|Zhifan Zhou et.al.|[2408.06317](http://arxiv.org/abs/2408.06317)|null|
 |**2024-08-12**|**Finding Patterns in Ambiguity: Interpretable Stress Testing in the Decision~Boundary**|Inês Gomes et.al.|[2408.06302](http://arxiv.org/abs/2408.06302)|**[link](https://github.com/inesgomes/db-patterns)**|
 |**2024-08-12**|**PDRs4All. X. ALMA and JWST detection of neutral carbon in the externally irradiated disk d203-506: Undepleted gas-phase carbon**|Javier R. Goicoechea et.al.|[2408.06279](http://arxiv.org/abs/2408.06279)|null|
@@ -1876,6 +1886,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-13**|**FlatFusion: Delving into Details of Sparse Transformer-based Camera-LiDAR Fusion for Autonomous Driving**|Yutao Zhu et.al.|[2408.06832](http://arxiv.org/abs/2408.06832)|null|
+|**2024-08-13**|**Structure-preserving Planar Simplification for Indoor Environments**|Bishwash Khanal et.al.|[2408.06814](http://arxiv.org/abs/2408.06814)|null|
+|**2024-08-13**|**Exploring Domain Shift on Radar-Based 3D Object Detection Amidst Diverse Environmental Conditions**|Miao Zhang et.al.|[2408.06772](http://arxiv.org/abs/2408.06772)|null|
+|**2024-08-13**|**DC3DO: Diffusion Classifier for 3D Objects**|Nursena Koprucu et.al.|[2408.06693](http://arxiv.org/abs/2408.06693)|null|
+|**2024-08-13**|**A Miniature Vision-Based Localization System for Indoor Blimps**|Shicong Ma et.al.|[2408.06648](http://arxiv.org/abs/2408.06648)|null|
+|**2024-08-13**|**GeoFormer: Learning Point Cloud Completion with Tri-Plane Integrated Transformer**|Jinpeng Yu et.al.|[2408.06596](http://arxiv.org/abs/2408.06596)|**[link](https://github.com/jinpeng-yu/geoformer)**|
+|**2024-08-12**|**Benchmarking tree species classification from proximally-sensed laser scanning data: introducing the FOR-species20K dataset**|Stefano Puliti et.al.|[2408.06507](http://arxiv.org/abs/2408.06507)|null|
 |**2024-08-12**|**HeLiMOS: A Dataset for Moving Object Segmentation in 3D Point Clouds From Heterogeneous LiDAR Sensors**|Hyungtae Lim et.al.|[2408.06328](http://arxiv.org/abs/2408.06328)|null|
 |**2024-08-12**|**FruitNeRF: A Unified Neural Radiance Field based Fruit Counting Framework**|Lukas Meyer et.al.|[2408.06190](http://arxiv.org/abs/2408.06190)|**[link](https://github.com/meyerls/fruitnerf)**|
 |**2024-08-12**|**Efficient and Scalable Point Cloud Generation with Sparse Point-Voxel Diffusion Models**|Ioannis Romanelis et.al.|[2408.06145](http://arxiv.org/abs/2408.06145)|null|
