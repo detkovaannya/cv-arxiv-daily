@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-14**|**Stylized facts in Web3**|A. Christian Silva et.al.|[2408.07653](http://arxiv.org/abs/2408.07653)|null|
+|**2024-08-14**|**Influence of disordered and anisotropic interactions on relaxation dynamics and propagation of correlations in tweezer arrays of Rydberg dipoles**|Kaustav Mukherjee et.al.|[2408.07643](http://arxiv.org/abs/2408.07643)|null|
+|**2024-08-14**|**Unveiling Stripe-shaped Charge Modulations in Doped Mott Insulators**|Ning Xia et.al.|[2408.07635](http://arxiv.org/abs/2408.07635)|null|
+|**2024-08-14**|**Clique structure and other network properties of the tensor product of Erdős-Rényi graphs**|Umit Islak et.al.|[2408.07627](http://arxiv.org/abs/2408.07627)|null|
+|**2024-08-14**|**Rotational velocities of Blue Straggler Stars in the Globular Cluster M55**|Alex Billi et.al.|[2408.07620](http://arxiv.org/abs/2408.07620)|null|
+|**2024-08-14**|**Modernizing an Operational Real-time Tsunami Simulator to Support Diverse Hardware Platforms**|Keichi Takahashi et.al.|[2408.07609](http://arxiv.org/abs/2408.07609)|null|
+|**2024-08-14**|**FedQUIT: On-Device Federated Unlearning via a Quasi-Competent Virtual Teacher**|Alessio Mora et.al.|[2408.07587](http://arxiv.org/abs/2408.07587)|null|
+|**2024-08-14**|**Designing Laplacian flows for opinion clustering in structurally balanced and unbalanced networks**|Vishnudatta Thota et.al.|[2408.07559](http://arxiv.org/abs/2408.07559)|null|
+|**2024-08-14**|**Sonic: Fast and Transferable Data Poisoning on Clustering Algorithms**|Francesco Villani et.al.|[2408.07558](http://arxiv.org/abs/2408.07558)|null|
+|**2024-08-14**|**Training Overhead Ratio: A Practical Reliability Metric for Large Language Model Training Systems**|Ning Lu et.al.|[2408.07482](http://arxiv.org/abs/2408.07482)|null|
 |**2024-08-13**|**On Networks and their Applications: Stability of Gene Regulatory Networks and Gene Function Prediction using Autoencoders**|Hamza Coban et.al.|[2408.07064](http://arxiv.org/abs/2408.07064)|null|
 |**2024-08-13**|**DarkMatters: A powerful tool for WIMPy analysis**|Michael Sarkis et.al.|[2408.07053](http://arxiv.org/abs/2408.07053)|null|
 |**2024-08-13**|**A new non-parametric method to infer galaxy cluster masses from weak lensing**|Tobias Mistele et.al.|[2408.07026](http://arxiv.org/abs/2408.07026)|null|
@@ -1886,6 +1896,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-13**|**Flexible 3D Lane Detection by Hierarchical Shape MatchingFlexible 3D Lane Detection by Hierarchical Shape Matching**|Zhihao Guan et.al.|[2408.07163](http://arxiv.org/abs/2408.07163)|**[link](https://github.com/doo-do/fhld)**|
 |**2024-08-13**|**FlatFusion: Delving into Details of Sparse Transformer-based Camera-LiDAR Fusion for Autonomous Driving**|Yutao Zhu et.al.|[2408.06832](http://arxiv.org/abs/2408.06832)|null|
 |**2024-08-13**|**Structure-preserving Planar Simplification for Indoor Environments**|Bishwash Khanal et.al.|[2408.06814](http://arxiv.org/abs/2408.06814)|null|
 |**2024-08-13**|**Exploring Domain Shift on Radar-Based 3D Object Detection Amidst Diverse Environmental Conditions**|Miao Zhang et.al.|[2408.06772](http://arxiv.org/abs/2408.06772)|null|
