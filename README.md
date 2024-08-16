@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-15**|**HELP: Hierarchical Embeddings-based Log Parsing**|Andy Xu et.al.|[2408.08300](http://arxiv.org/abs/2408.08300)|null|
+|**2024-08-15**|**Dynamical Accretion Flows -- ALMAGAL: Flows along filamentary structures in high-mass star-forming clusters**|M. R. A. Wells et.al.|[2408.08299](http://arxiv.org/abs/2408.08299)|null|
+|**2024-08-15**|**Aliasing and Label-Independent Decomposition of Risk: Beyond the bias-variance trade-off**|Mark K. Transtrum et.al.|[2408.08294](http://arxiv.org/abs/2408.08294)|null|
+|**2024-08-15**|**Discovery and Application of the Two-Electron Quantum Theory of Glass States**|Jia-Lin Wu et.al.|[2408.08235](http://arxiv.org/abs/2408.08235)|null|
+|**2024-08-15**|**Federated Fairness Analytics: Quantifying Fairness in Federated Learning**|Oscar Dilley et.al.|[2408.08214](http://arxiv.org/abs/2408.08214)|**[link](https://github.com/oscardilley/federated-fairness)**|
+|**2024-08-15**|**P/D-Serve: Serving Disaggregated Large Language Model at Scale**|Yibo Jin et.al.|[2408.08147](http://arxiv.org/abs/2408.08147)|null|
+|**2024-08-15**|**Decoding Memes: A Comparative Study of Machine Learning Models for Template Identification**|Levente Murgás et.al.|[2408.08126](http://arxiv.org/abs/2408.08126)|null|
+|**2024-08-15**|**Cluster Formations of Free and Congested Flows in Urban Road Networks**|Yongsung Kwon et.al.|[2408.08122](http://arxiv.org/abs/2408.08122)|null|
+|**2024-08-15**|**The spectroscopic binary fraction of the young stellar cluster M17**|M. C. Ramírez-Tannus et.al.|[2408.08116](http://arxiv.org/abs/2408.08116)|null|
+|**2024-08-15**|**Hydrostatic equilibrium of X-ray gas in HMG: four representative cases**|Robert Monjo et.al.|[2408.08102](http://arxiv.org/abs/2408.08102)|null|
 |**2024-08-15**|**Stylized facts in Web3**|Wei-Ru Chen et.al.|[2408.07653](http://arxiv.org/abs/2408.07653)|null|
 |**2024-08-14**|**Influence of disordered and anisotropic interactions on relaxation dynamics and propagation of correlations in tweezer arrays of Rydberg dipoles**|Kaustav Mukherjee et.al.|[2408.07643](http://arxiv.org/abs/2408.07643)|null|
 |**2024-08-14**|**Unveiling Stripe-shaped Charge Modulations in Doped Mott Insulators**|Ning Xia et.al.|[2408.07635](http://arxiv.org/abs/2408.07635)|null|
@@ -1896,6 +1906,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-15**|**Towards Practical Human Motion Prediction with LiDAR Point Clouds**|Xiao Han et.al.|[2408.08202](http://arxiv.org/abs/2408.08202)|null|
+|**2024-08-15**|**OC3D: Weakly Supervised Outdoor 3D Object Detection with Only Coarse Click Annotation**|Qiming Xia et.al.|[2408.08092](http://arxiv.org/abs/2408.08092)|null|
+|**2024-08-15**|**Persistence Image from 3D Medical Image: Superpixel and Optimized Gaussian Coefficient**|Yanfan Zhu et.al.|[2408.07905](http://arxiv.org/abs/2408.07905)|**[link](https://github.com/hrlblab/topologicaldataanalysis3d)**|
 |**2024-08-13**|**Flexible 3D Lane Detection by Hierarchical Shape MatchingFlexible 3D Lane Detection by Hierarchical Shape Matching**|Zhihao Guan et.al.|[2408.07163](http://arxiv.org/abs/2408.07163)|**[link](https://github.com/doo-do/fhld)**|
 |**2024-08-13**|**FlatFusion: Delving into Details of Sparse Transformer-based Camera-LiDAR Fusion for Autonomous Driving**|Yutao Zhu et.al.|[2408.06832](http://arxiv.org/abs/2408.06832)|null|
 |**2024-08-13**|**Structure-preserving Planar Simplification for Indoor Environments**|Bishwash Khanal et.al.|[2408.06814](http://arxiv.org/abs/2408.06814)|null|
