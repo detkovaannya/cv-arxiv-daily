@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.15
+## Updated on 2024.08.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## clustering
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-08-14**|**Stylized facts in Web3**|A. Christian Silva et.al.|[2408.07653](http://arxiv.org/abs/2408.07653)|null|
+|**2024-08-15**|**Stylized facts in Web3**|Wei-Ru Chen et.al.|[2408.07653](http://arxiv.org/abs/2408.07653)|null|
 |**2024-08-14**|**Influence of disordered and anisotropic interactions on relaxation dynamics and propagation of correlations in tweezer arrays of Rydberg dipoles**|Kaustav Mukherjee et.al.|[2408.07643](http://arxiv.org/abs/2408.07643)|null|
 |**2024-08-14**|**Unveiling Stripe-shaped Charge Modulations in Doped Mott Insulators**|Ning Xia et.al.|[2408.07635](http://arxiv.org/abs/2408.07635)|null|
 |**2024-08-14**|**Clique structure and other network properties of the tensor product of Erdős-Rényi graphs**|Umit Islak et.al.|[2408.07627](http://arxiv.org/abs/2408.07627)|null|
