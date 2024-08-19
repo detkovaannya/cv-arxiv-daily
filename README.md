@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-16**|**Personalized graph feature-based multi-omics data integration for cancer subtype identification**|Saiful Islam et.al.|[2408.08832](http://arxiv.org/abs/2408.08832)|null|
+|**2024-08-16**|**Constructing Domain-Specific Evaluation Sets for LLM-as-a-judge**|Ravi Raju et.al.|[2408.08808](http://arxiv.org/abs/2408.08808)|null|
+|**2024-08-16**|**Deterministic Self-Stabilising Leader Election for Programmable Matter with Constant Memory**|Jérémie Chalopin et.al.|[2408.08775](http://arxiv.org/abs/2408.08775)|null|
+|**2024-08-16**|**Vertical Atomic Broadcast and Passive Replication (Extended Version)**|Manuel Bravo et.al.|[2408.08702](http://arxiv.org/abs/2408.08702)|null|
+|**2024-08-16**|**RBLA: Rank-Based-LoRA-Aggregation for Fine-tuning Heterogeneous Models in FLaaS**|Shuaijun Chen et.al.|[2408.08699](http://arxiv.org/abs/2408.08699)|null|
+|**2024-08-16**|**LLM-PCGC: Large Language Model-based Point Cloud Geometry Compression**|Yuqi Ye et.al.|[2408.08682](http://arxiv.org/abs/2408.08682)|null|
+|**2024-08-16**|**Historical Printed Ornaments: Dataset and Tasks**|Sayan Kumar Chaki et.al.|[2408.08633](http://arxiv.org/abs/2408.08633)|null|
+|**2024-08-16**|**Magnetic fields in the outskirts of PSZ2 G096.88+24.18 from depolarization analysis of radio relics**|E. De Rubeis et.al.|[2408.08603](http://arxiv.org/abs/2408.08603)|null|
+|**2024-08-16**|**Cosmological Prediction of the Void and Galaxy Clustering Measurements in the CSST Spectroscopic Survey**|Yingxiao Song et.al.|[2408.08589](http://arxiv.org/abs/2408.08589)|null|
+|**2024-08-16**|**Rubick: Exploiting Job Reconfigurability for Deep Learning Cluster Scheduling**|Xinyi Zhang et.al.|[2408.08586](http://arxiv.org/abs/2408.08586)|null|
 |**2024-08-15**|**HELP: Hierarchical Embeddings-based Log Parsing**|Andy Xu et.al.|[2408.08300](http://arxiv.org/abs/2408.08300)|null|
 |**2024-08-16**|**Dynamical Accretion Flows -- ALMAGAL: Flows along filamentary structures in high-mass star-forming clusters**|M. R. A. Wells et.al.|[2408.08299](http://arxiv.org/abs/2408.08299)|null|
 |**2024-08-15**|**Aliasing and Label-Independent Decomposition of Risk: Beyond the bias-variance trade-off**|Mark K. Transtrum et.al.|[2408.08294](http://arxiv.org/abs/2408.08294)|null|
@@ -1906,6 +1916,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-16**|**PCP-MAE: Learning to Predict Centers for Point Masked Autoencoders**|Xiangdong Zhang et.al.|[2408.08753](http://arxiv.org/abs/2408.08753)|null|
+|**2024-08-16**|**LLM-PCGC: Large Language Model-based Point Cloud Geometry Compression**|Yuqi Ye et.al.|[2408.08682](http://arxiv.org/abs/2408.08682)|null|
+|**2024-08-16**|**Zero-Shot Dual-Path Integration Framework for Open-Vocabulary 3D Instance Segmentation**|Tri Ton et.al.|[2408.08591](http://arxiv.org/abs/2408.08591)|null|
+|**2024-08-16**|**Unsupervised Non-Rigid Point Cloud Matching through Large Vision Models**|Zhangquan Chen et.al.|[2408.08568](http://arxiv.org/abs/2408.08568)|null|
+|**2024-08-16**|**CoSEC: A Coaxial Stereo Event Camera Dataset for Autonomous Driving**|Shihan Peng et.al.|[2408.08500](http://arxiv.org/abs/2408.08500)|null|
 |**2024-08-15**|**Towards Practical Human Motion Prediction with LiDAR Point Clouds**|Xiao Han et.al.|[2408.08202](http://arxiv.org/abs/2408.08202)|null|
 |**2024-08-16**|**OC3D: Weakly Supervised Outdoor 3D Object Detection with Only Coarse Click Annotation**|Qiming Xia et.al.|[2408.08092](http://arxiv.org/abs/2408.08092)|null|
 |**2024-08-15**|**Persistence Image from 3D Medical Image: Superpixel and Optimized Gaussian Coefficient**|Yanfan Zhu et.al.|[2408.07905](http://arxiv.org/abs/2408.07905)|**[link](https://github.com/hrlblab/topologicaldataanalysis3d)**|
