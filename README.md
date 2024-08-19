@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.18
+## Updated on 2024.08.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,7 +19,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-08-15**|**HELP: Hierarchical Embeddings-based Log Parsing**|Andy Xu et.al.|[2408.08300](http://arxiv.org/abs/2408.08300)|null|
-|**2024-08-15**|**Dynamical Accretion Flows -- ALMAGAL: Flows along filamentary structures in high-mass star-forming clusters**|M. R. A. Wells et.al.|[2408.08299](http://arxiv.org/abs/2408.08299)|null|
+|**2024-08-16**|**Dynamical Accretion Flows -- ALMAGAL: Flows along filamentary structures in high-mass star-forming clusters**|M. R. A. Wells et.al.|[2408.08299](http://arxiv.org/abs/2408.08299)|null|
 |**2024-08-15**|**Aliasing and Label-Independent Decomposition of Risk: Beyond the bias-variance trade-off**|Mark K. Transtrum et.al.|[2408.08294](http://arxiv.org/abs/2408.08294)|null|
 |**2024-08-15**|**Discovery and Application of the Two-Electron Quantum Theory of Glass States**|Jia-Lin Wu et.al.|[2408.08235](http://arxiv.org/abs/2408.08235)|null|
 |**2024-08-15**|**Federated Fairness Analytics: Quantifying Fairness in Federated Learning**|Oscar Dilley et.al.|[2408.08214](http://arxiv.org/abs/2408.08214)|**[link](https://github.com/oscardilley/federated-fairness)**|
@@ -1900,14 +1900,14 @@
 |**2023-11-10**|**The First Verification Test of Space-Ground Collaborative Intelligence via Cloud-Native Satellites**|Shangguang Wang et.al.|[2311.06078](http://arxiv.org/abs/2311.06078)|null|
 |**2023-11-10**|**Collaborative Inference in DNN-based Satellite Systems with Dynamic Task Streams**|Jinglong Guan et.al.|[2311.06073](http://arxiv.org/abs/2311.06073)|null|
 
-<p align=right>(<a href=#updated-on-20240818>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240819>back to top</a>)</p>
 
 ## point cloud
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-08-15**|**Towards Practical Human Motion Prediction with LiDAR Point Clouds**|Xiao Han et.al.|[2408.08202](http://arxiv.org/abs/2408.08202)|null|
-|**2024-08-15**|**OC3D: Weakly Supervised Outdoor 3D Object Detection with Only Coarse Click Annotation**|Qiming Xia et.al.|[2408.08092](http://arxiv.org/abs/2408.08092)|null|
+|**2024-08-16**|**OC3D: Weakly Supervised Outdoor 3D Object Detection with Only Coarse Click Annotation**|Qiming Xia et.al.|[2408.08092](http://arxiv.org/abs/2408.08092)|null|
 |**2024-08-15**|**Persistence Image from 3D Medical Image: Superpixel and Optimized Gaussian Coefficient**|Yanfan Zhu et.al.|[2408.07905](http://arxiv.org/abs/2408.07905)|**[link](https://github.com/hrlblab/topologicaldataanalysis3d)**|
 |**2024-08-13**|**Flexible 3D Lane Detection by Hierarchical Shape MatchingFlexible 3D Lane Detection by Hierarchical Shape Matching**|Zhihao Guan et.al.|[2408.07163](http://arxiv.org/abs/2408.07163)|**[link](https://github.com/doo-do/fhld)**|
 |**2024-08-13**|**FlatFusion: Delving into Details of Sparse Transformer-based Camera-LiDAR Fusion for Autonomous Driving**|Yutao Zhu et.al.|[2408.06832](http://arxiv.org/abs/2408.06832)|null|
@@ -3026,7 +3026,7 @@
 |**2023-11-08**|**VET: Visual Error Tomography for Point Cloud Completion and High-Quality Neural Rendering**|Linus Franke et.al.|[2311.04634](http://arxiv.org/abs/2311.04634)|**[link](https://github.com/lfranke/vet)**|
 |**2023-11-09**|**Rethinking Human Pose Estimation for Autonomous Driving with 3D Event Representations**|Xiaoting Yin et.al.|[2311.04591](http://arxiv.org/abs/2311.04591)|**[link](https://github.com/masterhow/eventpointpose)**|
 
-<p align=right>(<a href=#updated-on-20240818>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240819>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
