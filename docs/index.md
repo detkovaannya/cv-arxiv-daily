@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-21**|**Bayesian Nonparametric Risk Assessment in Developmental Toxicity Studies with Ordinal Responses**|Jizhou Kang et.al.|[2408.11803](http://arxiv.org/abs/2408.11803)|null|
+|**2024-08-21**|**Consensus over Clustered Networks using Intermittent and Asynchronous Output Feedback**|Federico M. Zegers et.al.|[2408.11752](http://arxiv.org/abs/2408.11752)|null|
+|**2024-08-21**|**Mixed Sparsity Training: Achieving 4 $\times$ FLOP Reduction for Transformer Pretraining**|Pihe Hu et.al.|[2408.11746](http://arxiv.org/abs/2408.11746)|null|
+|**2024-08-21**|**CluMo: Cluster-based Modality Fusion Prompt for Continual Learning in Visual Question Answering**|Yuliang Cai et.al.|[2408.11742](http://arxiv.org/abs/2408.11742)|null|
+|**2024-08-21**|**Network-based diversification of stock and cryptocurrency portfolios**|Dimitar Kitanovski et.al.|[2408.11739](http://arxiv.org/abs/2408.11739)|null|
+|**2024-08-21**|**Examinees' Rapid-Guessing Patterns in Computerized Adaptive Testing for Interim Assessment: From Hierarchical Clustering**|Dandan Chen Kaptur et.al.|[2408.11716](http://arxiv.org/abs/2408.11716)|null|
+|**2024-08-21**|**Properties of intermediate- to high-mass stars in the young cluster M17 -- Characterizing the (pre-)zero-age main sequence**|Frank Backs et.al.|[2408.11713](http://arxiv.org/abs/2408.11713)|null|
+|**2024-08-21**|**Supervised Representation Learning towards Generalizable Assembly State Recognition**|Tim J. Schoonbeek et.al.|[2408.11700](http://arxiv.org/abs/2408.11700)|null|
+|**2024-08-21**|**Improved Visual Saliency of Graph Clusters with Orderable Node-Link Layouts**|Nora Al-Naami et.al.|[2408.11673](http://arxiv.org/abs/2408.11673)|null|
+|**2024-08-21**|**Cost-Effective Big Data Orchestration Using Dagster: A Multi-Platform Approach**|Hernan Picatto et.al.|[2408.11635](http://arxiv.org/abs/2408.11635)|null|
 |**2024-08-20**|**Detection of the large-scale tidal field with galaxy multiplet alignment in the DESI Y1 spectroscopic survey**|Claire Lamman et.al.|[2408.11056](http://arxiv.org/abs/2408.11056)|null|
 |**2024-08-20**|**Decentralized Distributed Graph Coloring II: degree+1-Coloring Virtual Graphs**|Maxime Flin et.al.|[2408.11041](http://arxiv.org/abs/2408.11041)|null|
 |**2024-08-20**|**Search for magnetic monopole pair production in ultraperipheral Pb+Pb collisions at $\sqrt{s_{_\textrm{NN}}}=5.36$ TeV with the ATLAS detector at the LHC**|ATLAS Collaboration et.al.|[2408.11035](http://arxiv.org/abs/2408.11035)|null|
@@ -1930,6 +1940,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-21**|**EmbodiedSAM: Online Segment Any 3D Thing in Real Time**|Xiuwei Xu et.al.|[2408.11811](http://arxiv.org/abs/2408.11811)|null|
+|**2024-08-21**|**Informed, Constrained, Aligned: A Field Analysis on Degeneracy-aware Point Cloud Registration in the Wild**|Turcan Tuna et.al.|[2408.11809](http://arxiv.org/abs/2408.11809)|null|
+|**2024-08-21**|**Open-Ended 3D Point Cloud Instance Segmentation**|Phuc D. A. Nguyen et.al.|[2408.11747](http://arxiv.org/abs/2408.11747)|null|
+|**2024-08-21**|**Positional Prompt Tuning for Efficient 3D Representation Learning**|Shaochen Zhang et.al.|[2408.11567](http://arxiv.org/abs/2408.11567)|**[link](https://github.com/zsc000722/ppt)**|
+|**2024-08-21**|**GSTran: Joint Geometric and Semantic Coherence for Point Cloud Segmentation**|Abiao Li et.al.|[2408.11558](http://arxiv.org/abs/2408.11558)|**[link](https://github.com/lab123-tech/gstran)**|
+|**2024-08-21**|**Persistent Homology via Ellipsoids**|Sara Kališnik et.al.|[2408.11450](http://arxiv.org/abs/2408.11450)|**[link](https://github.com/a-zeg/ellipsoids)**|
+|**2024-08-21**|**Exploring Scene Coherence for Semi-Supervised 3D Semantic Segmentation**|Chuandong Liu et.al.|[2408.11280](http://arxiv.org/abs/2408.11280)|null|
+|**2024-08-20**|**CooPre: Cooperative Pretraining for V2X Cooperative Perception**|Seth Z. Zhao et.al.|[2408.11241](http://arxiv.org/abs/2408.11241)|null|
+|**2024-08-20**|**Quantum Inverse Contextual Vision Transformers (Q-ICVT): A New Frontier in 3D Object Detection for AVs**|Sanjay Bhargav Dharavath et.al.|[2408.11207](http://arxiv.org/abs/2408.11207)|**[link](https://github.com/sanjay-810/qicvt)**|
 |**2024-08-20**|**Large Point-to-Gaussian Model for Image-to-3D Generation**|Longfei Lu et.al.|[2408.10935](http://arxiv.org/abs/2408.10935)|null|
 |**2024-08-20**|**ShapeSplat: A Large-scale Dataset of Gaussian Splats and Their Self-Supervised Pretraining**|Qi Ma et.al.|[2408.10906](http://arxiv.org/abs/2408.10906)|null|
 |**2024-08-20**|**Open 3D World in Autonomous Driving**|Xinlong Cheng et.al.|[2408.10880](http://arxiv.org/abs/2408.10880)|null|
