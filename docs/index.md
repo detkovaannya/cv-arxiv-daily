@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-22**|**Poplar: Efficient Scaling of Distributed DNN Training on Heterogeneous GPU Clusters**|WenZheng Zhang et.al.|[2408.12596](http://arxiv.org/abs/2408.12596)|null|
+|**2024-08-22**|**Real-Time Video Generation with Pyramid Attention Broadcast**|Xuanlei Zhao et.al.|[2408.12588](http://arxiv.org/abs/2408.12588)|**[link](https://github.com/nus-hpc-ai-lab/opendit)**|
+|**2024-08-22**|**Factor Adjusted Spectral Clustering for Mixture Models**|Shange Tang et.al.|[2408.12564](http://arxiv.org/abs/2408.12564)|null|
+|**2024-08-22**|**Finite-order method to calculate approximate density matrices in the Fock-space multireference coupled cluster theory**|Alexander V. Oleynichenko et.al.|[2408.12546](http://arxiv.org/abs/2408.12546)|null|
+|**2024-08-22**|**Center of stated SL( $n$ )-skein algebras**|Hiroaki Karuo et.al.|[2408.12520](http://arxiv.org/abs/2408.12520)|null|
+|**2024-08-22**|**Size distribution of clusters in site-percolation on random recursive tree**|Chenlin Gu et.al.|[2408.12515](http://arxiv.org/abs/2408.12515)|null|
+|**2024-08-22**|**Verifiable Homomorphic Linear Combinations in Multi-Instance Time-Lock Puzzles**|Aydin Abadi et.al.|[2408.12444](http://arxiv.org/abs/2408.12444)|null|
+|**2024-08-22**|**Site- and Energy-Selective Low-Energy Electron Emission by X-Rays in Aqueous Phase**|Dana Bloß et.al.|[2408.12435](http://arxiv.org/abs/2408.12435)|null|
+|**2024-08-22**|**Quantifying $S_8$ tension and evidence for interacting dark energy from redshift-space distortion measurements**|Miguel A. Sabogal et.al.|[2408.12403](http://arxiv.org/abs/2408.12403)|null|
+|**2024-08-22**|**Stream parallel skeleton optimization**|Marco Aldinucci et.al.|[2408.12394](http://arxiv.org/abs/2408.12394)|null|
 |**2024-08-21**|**Bayesian Nonparametric Risk Assessment in Developmental Toxicity Studies with Ordinal Responses**|Jizhou Kang et.al.|[2408.11803](http://arxiv.org/abs/2408.11803)|null|
 |**2024-08-21**|**Consensus over Clustered Networks using Intermittent and Asynchronous Output Feedback**|Federico M. Zegers et.al.|[2408.11752](http://arxiv.org/abs/2408.11752)|null|
 |**2024-08-21**|**Mixed Sparsity Training: Achieving 4 $\times$ FLOP Reduction for Transformer Pretraining**|Pihe Hu et.al.|[2408.11746](http://arxiv.org/abs/2408.11746)|null|
@@ -1940,6 +1950,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-22**|**UMERegRobust -- Universal Manifold Embedding Compatible Features for Robust Point Cloud Registration**|Yuval Haitman et.al.|[2408.12380](http://arxiv.org/abs/2408.12380)|**[link](https://github.com/yuvalh9/umeregrobust)**|
+|**2024-08-22**|**Transientangelo: Few-Viewpoint Surface Reconstruction Using Single-Photon Lidar**|Weihan Luo et.al.|[2408.12191](http://arxiv.org/abs/2408.12191)|null|
+|**2024-08-22**|**Enhancing Sampling Protocol for Robust Point Cloud Classification**|Chongshou Li et.al.|[2408.12062](http://arxiv.org/abs/2408.12062)|null|
+|**2024-08-21**|**Visual Localization in 3D Maps: Comparing Point Cloud, Mesh, and NeRF Representations**|Lintong Zhang et.al.|[2408.11966](http://arxiv.org/abs/2408.11966)|null|
 |**2024-08-21**|**EmbodiedSAM: Online Segment Any 3D Thing in Real Time**|Xiuwei Xu et.al.|[2408.11811](http://arxiv.org/abs/2408.11811)|null|
 |**2024-08-21**|**Informed, Constrained, Aligned: A Field Analysis on Degeneracy-aware Point Cloud Registration in the Wild**|Turcan Tuna et.al.|[2408.11809](http://arxiv.org/abs/2408.11809)|null|
 |**2024-08-21**|**Open-Ended 3D Point Cloud Instance Segmentation**|Phuc D. A. Nguyen et.al.|[2408.11747](http://arxiv.org/abs/2408.11747)|null|
