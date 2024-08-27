@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-26**|**Employing Artificial Intelligence to Steer Exascale Workflows with Colmena**|Logan Ward et.al.|[2408.14434](http://arxiv.org/abs/2408.14434)|null|
+|**2024-08-26**|**Hyperdimensional Computing Empowered Federated Foundation Model over Wireless Networks for Metaverse**|Yahao Ding et.al.|[2408.14416](http://arxiv.org/abs/2408.14416)|null|
+|**2024-08-26**|**Generalized Bayesian nonparametric clustering framework for high-dimensional spatial omics data**|Bencong Zhu et.al.|[2408.14410](http://arxiv.org/abs/2408.14410)|null|
+|**2024-08-26**|**SelEx: Self-Expertise in Fine-Grained Generalized Category Discovery**|Sarah Rastegar et.al.|[2408.14371](http://arxiv.org/abs/2408.14371)|**[link](https://github.com/sarahrastegar/selex)**|
+|**2024-08-26**|**Star clusters in independence complexes of hypergraphs**|Jinha Kim et.al.|[2408.14321](http://arxiv.org/abs/2408.14321)|null|
+|**2024-08-26**|**Delta-Learning approach combined with the cluster Gutzwiller approximation for strongly correlated bosonic systems**|Zhi Lin et.al.|[2408.14306](http://arxiv.org/abs/2408.14306)|null|
+|**2024-08-26**|**Resource Efficient Asynchronous Federated Learning for Digital Twin Empowered IoT Network**|Shunfeng Chu et.al.|[2408.14298](http://arxiv.org/abs/2408.14298)|null|
+|**2024-08-26**|**Non-Iterative Disentangled Unitary Coupled-Cluster based on Lie-algebraic structure**|Mohammad Haidar et.al.|[2408.14289](http://arxiv.org/abs/2408.14289)|null|
+|**2024-08-26**|**Hydrostatic mass of galaxy clusters within some theories of gravity**|Feri Apryandi et.al.|[2408.14280](http://arxiv.org/abs/2408.14280)|null|
+|**2024-08-26**|**Exploiting ray tracing technology through OptiX to compute particle interactions with cutoff in a 3D environment on GPU**|Bérenger Bramas et.al.|[2408.14247](http://arxiv.org/abs/2408.14247)|null|
 |**2024-08-23**|**Large-scale Collective Dynamics in the Three Iterations of the Reddit r/place Experiment**|Yutong Wu et.al.|[2408.13236](http://arxiv.org/abs/2408.13236)|null|
 |**2024-08-23**|**Bending the web: exploring the impact of modified gravity on the density field and halo properties within the cosmic web**|Suhani Gupta et.al.|[2408.13219](http://arxiv.org/abs/2408.13219)|null|
 |**2024-08-23**|**HBIC: A Biclustering Algorithm for Heterogeneous Datasets**|Adán José-García et.al.|[2408.13217](http://arxiv.org/abs/2408.13217)|null|
@@ -1960,6 +1970,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-26**|**Evaluating saliency scores in point clouds of natural environments by learning surface anomalies**|Reuma Arav et.al.|[2408.14421](http://arxiv.org/abs/2408.14421)|null|
+|**2024-08-26**|**Learning Local Pattern Modularization for Point Cloud Reconstruction from Unseen Classes**|Chao Chen et.al.|[2408.14279](http://arxiv.org/abs/2408.14279)|null|
+|**2024-08-26**|**DynaSurfGS: Dynamic Surface Reconstruction with Planar-based Gaussian Splatting**|Weiwei Cai et.al.|[2408.13972](http://arxiv.org/abs/2408.13972)|**[link](https://github.com/open3dvlab/dynasurfgs)**|
+|**2024-08-25**|**OpenNav: Efficient Open Vocabulary 3D Object Detection for Smart Wheelchair Navigation**|Muhammad Rameez ur Rahman et.al.|[2408.13936](http://arxiv.org/abs/2408.13936)|**[link](https://github.com/easywalk-prin/opennav)**|
+|**2024-08-25**|**Splatt3R: Zero-shot Gaussian Splatting from Uncalibarated Image Pairs**|Brandon Smart et.al.|[2408.13912](http://arxiv.org/abs/2408.13912)|null|
+|**2024-08-25**|**TraIL-Det: Transformation-Invariant Local Feature Networks for 3D LiDAR Object Detection with Unsupervised Pre-Training**|Li Li et.al.|[2408.13902](http://arxiv.org/abs/2408.13902)|null|
+|**2024-08-25**|**TripleMixer: A 3D Point Cloud Denoising Model for Adverse Weather**|Xiongwei Zhao et.al.|[2408.13802](http://arxiv.org/abs/2408.13802)|**[link](https://github.com/grandzxw/triplemixer)**|
+|**2024-08-25**|**Selectively Dilated Convolution for Accuracy-Preserving Sparse Pillar-based Embedded 3D Object Detection**|Seongmin Park et.al.|[2408.13798](http://arxiv.org/abs/2408.13798)|null|
+|**2024-08-25**|**Localization and Expansion: A Decoupled Framework for Point Cloud Few-shot Semantic Segmentation**|Zhaoyang Li et.al.|[2408.13752](http://arxiv.org/abs/2408.13752)|null|
+|**2024-08-25**|**Riemann-based Multi-scale Attention Reasoning Network for Text-3D Retrieval**|Wenrui Li et.al.|[2408.13712](http://arxiv.org/abs/2408.13712)|**[link](https://github.com/liwrui/rmarn)**|
 |**2024-08-23**|**ShapeICP: Iterative Category-level Object Pose and Shape Estimation from Depth**|Yihao Zhang et.al.|[2408.13147](http://arxiv.org/abs/2408.13147)|null|
 |**2024-08-23**|**Learning 2D Invariant Affordance Knowledge for 3D Affordance Grounding**|Xianqiang Gao et.al.|[2408.13024](http://arxiv.org/abs/2408.13024)|null|
 |**2024-08-23**|**HGNAS: Hardware-Aware Graph Neural Architecture Search for Edge Devices**|Ao Zhou et.al.|[2408.12840](http://arxiv.org/abs/2408.12840)|null|
