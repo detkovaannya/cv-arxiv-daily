@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-27**|**Logarithmic Finite-Size Scaling of the Four-Dimensional Ising Model**|Zhiyi Li et.al.|[2408.15230](http://arxiv.org/abs/2408.15230)|null|
+|**2024-08-27**|**Investigating Coverage Criteria in Large Language Models: An In-Depth Study Through Jailbreak Attacks**|Shide Zhou et.al.|[2408.15207](http://arxiv.org/abs/2408.15207)|null|
+|**2024-08-27**|**On the Encoding Process in Decentralized Systems**|Canran Wang et.al.|[2408.15203](http://arxiv.org/abs/2408.15203)|null|
+|**2024-08-27**|**The networks of ingredient combination in cuisines around the world**|Claudio Caprioli et.al.|[2408.15162](http://arxiv.org/abs/2408.15162)|null|
+|**2024-08-27**|**Faster Cycle Detection in the Congested Clique**|Keren Censor-Hillel et.al.|[2408.15132](http://arxiv.org/abs/2408.15132)|null|
+|**2024-08-27**|**Allosteric communication mediated by protein contact clusters: A dynamical model**|Ahmed A. A. I. Ali et.al.|[2408.15110](http://arxiv.org/abs/2408.15110)|null|
+|**2024-08-27**|**On the settling and clustering behavior of polydisperse gas-solid flows with application to pyroclastic density currents**|E. Foster et.al.|[2408.15078](http://arxiv.org/abs/2408.15078)|null|
+|**2024-08-27**|**Interactive dense pixel visualizations for time series and model attribution explanations**|Udo Schlegel et.al.|[2408.15073](http://arxiv.org/abs/2408.15073)|null|
+|**2024-08-27**|**The Benefits of Balance: From Information Projections to Variance Reduction**|Lang Liu et.al.|[2408.15065](http://arxiv.org/abs/2408.15065)|null|
+|**2024-08-27**|**Self-supervised Topic Taxonomy Discovery in the Box Embedding Space**|Yuyin Lu et.al.|[2408.15050](http://arxiv.org/abs/2408.15050)|null|
 |**2024-08-26**|**Employing Artificial Intelligence to Steer Exascale Workflows with Colmena**|Logan Ward et.al.|[2408.14434](http://arxiv.org/abs/2408.14434)|null|
 |**2024-08-26**|**Hyperdimensional Computing Empowered Federated Foundation Model over Wireless Networks for Metaverse**|Yahao Ding et.al.|[2408.14416](http://arxiv.org/abs/2408.14416)|null|
 |**2024-08-26**|**Generalized Bayesian nonparametric clustering framework for high-dimensional spatial omics data**|Bencong Zhu et.al.|[2408.14410](http://arxiv.org/abs/2408.14410)|null|
@@ -1970,6 +1980,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-27**|**Evaluation of Local Planner-Based Stanley Control in Autonomous RC Car Racing Series**|Máté Fazekas et.al.|[2408.15152](http://arxiv.org/abs/2408.15152)|null|
+|**2024-08-27**|**Few-Shot Unsupervised Implicit Neural Shape Representation Learning with Spatial Adversaries**|Amine Ouasfi et.al.|[2408.15114](http://arxiv.org/abs/2408.15114)|null|
+|**2024-08-27**|**Diffusion-Occ: 3D Point Cloud Completion via Occupancy Diffusion**|Guoqing Zhang et.al.|[2408.14846](http://arxiv.org/abs/2408.14846)|null|
+|**2024-08-27**|**Points2Plans: From Point Clouds to Long-Horizon Plans with Composable Relational Dynamics**|Yixuan Huang et.al.|[2408.14769](http://arxiv.org/abs/2408.14769)|null|
+|**2024-08-26**|**3D Point Cloud Network Pruning: When Some Weights Do not Matter**|Amrijit Biswas et.al.|[2408.14601](http://arxiv.org/abs/2408.14601)|null|
+|**2024-08-26**|**PVAFN: Point-Voxel Attention Fusion Network with Multi-Pooling Enhancing for 3D Object Detection**|Yidi Li et.al.|[2408.14600](http://arxiv.org/abs/2408.14600)|null|
 |**2024-08-26**|**Evaluating saliency scores in point clouds of natural environments by learning surface anomalies**|Reuma Arav et.al.|[2408.14421](http://arxiv.org/abs/2408.14421)|null|
 |**2024-08-26**|**Learning Local Pattern Modularization for Point Cloud Reconstruction from Unseen Classes**|Chao Chen et.al.|[2408.14279](http://arxiv.org/abs/2408.14279)|null|
 |**2024-08-26**|**DynaSurfGS: Dynamic Surface Reconstruction with Planar-based Gaussian Splatting**|Weiwei Cai et.al.|[2408.13972](http://arxiv.org/abs/2408.13972)|**[link](https://github.com/open3dvlab/dynasurfgs)**|
