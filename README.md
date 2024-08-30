@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-29**|**Impact of cosmic web on galaxy properties and their correlations: Insights from Principal Component Analysis**|Anindita Nandi et.al.|[2408.16731](http://arxiv.org/abs/2408.16731)|null|
+|**2024-08-29**|**Gibbs free energies of Fe clusters can be approximated by Tolman correction to accurately model cluster nucleation and growth**|Alexander Khrabry et.al.|[2408.16693](http://arxiv.org/abs/2408.16693)|null|
+|**2024-08-29**|**Tensor Decomposed Distinguishable Cluster. I. Triples Decomposition**|Charlotte Rickert et.al.|[2408.16681](http://arxiv.org/abs/2408.16681)|null|
+|**2024-08-29**|**Eigen-Cluster VIS: Improving Weakly-supervised Video Instance Segmentation by Leveraging Spatio-temporal Consistency**|Farnoosh Arefi et.al.|[2408.16661](http://arxiv.org/abs/2408.16661)|**[link](https://github.com/farnooshar/eigenclustervis)**|
+|**2024-08-29**|**Vibrational and electronic properties of Al $_{12}$ M (M=Cu, Zn) clusters: DFT calculations**|Peter Ludwig Rodríguez-Kessler et.al.|[2408.16651](http://arxiv.org/abs/2408.16651)|null|
+|**2024-08-29**|**Sharp asymptotics for finite point-to-plane connections in supercritical bond percolation in dimension at least three**|Alexander Fribergh et.al.|[2408.16636](http://arxiv.org/abs/2408.16636)|null|
+|**2024-08-29**|**LLMs generate structurally realistic social networks but overestimate political homophily**|Serina Chang et.al.|[2408.16629](http://arxiv.org/abs/2408.16629)|**[link](https://github.com/snap-stanford/llm-social-network)**|
+|**2024-08-29**|**High-Dimensional Sparse Data Low-rank Representation via Accelerated Asynchronous Parallel Stochastic Gradient Descent**|Qicong Hu et.al.|[2408.16592](http://arxiv.org/abs/2408.16592)|null|
+|**2024-08-29**|**Multi-Reference UCCSD Variational Quantum Algorithm for Molecular Ground State Energies**|Di Wu et.al.|[2408.16523](http://arxiv.org/abs/2408.16523)|null|
+|**2024-08-29**|**Locally Grouped and Scale-Guided Attention for Dense Pest Counting**|Chang-Hwan Son et.al.|[2408.16503](http://arxiv.org/abs/2408.16503)|null|
 |**2024-08-28**|**Origin and full characterization of the secondary (assembly) halo bias**|Eduard Salvador-Solé et.al.|[2408.15935](http://arxiv.org/abs/2408.15935)|null|
 |**2024-08-28**|**Flow of non-classical correlations in cluster states due to projective measurements**|Chandan Mahto et.al.|[2408.15930](http://arxiv.org/abs/2408.15930)|null|
 |**2024-08-28**|**Local Descriptors Weighted Adaptive Threshold Filtering For Few-Shot Learning**|Bingchen Yan et.al.|[2408.15924](http://arxiv.org/abs/2408.15924)|null|
@@ -1996,6 +2006,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-29**|**ReconX: Reconstruct Any Scene from Sparse Views with Video Diffusion Model**|Fangfu Liu et.al.|[2408.16767](http://arxiv.org/abs/2408.16767)|null|
+|**2024-08-29**|**UV-free Texture Generation with Denoising and Geodesic Heat Diffusions**|Simone Foti et.al.|[2408.16762](http://arxiv.org/abs/2408.16762)|**[link](https://github.com/simofoti/uv3-ted)**|
+|**2024-08-29**|**Space3D-Bench: Spatial 3D Question Answering Benchmark**|Emilia Szymanska et.al.|[2408.16662](http://arxiv.org/abs/2408.16662)|null|
+|**2024-08-29**|**OP-Align: Object-level and Part-level Alignment for Self-supervised Category-level Articulated Object Pose Estimation**|Yuchen Che et.al.|[2408.16547](http://arxiv.org/abs/2408.16547)|null|
+|**2024-08-29**|**Towards Modality-agnostic Label-efficient Segmentation with Entropy-Regularized Distribution Alignment**|Liyao Tang et.al.|[2408.16520](http://arxiv.org/abs/2408.16520)|**[link](https://github.com/LiyaoTang/ERDA)**|
+|**2024-08-29**|**Denoising of Photogrammetric Dummy Head Ear Point Clouds for Individual Head-Related Transfer Functions Computation**|Fabio Di Giusto et.al.|[2408.16410](http://arxiv.org/abs/2408.16410)|null|
+|**2024-08-29**|**P2P-Bridge: Diffusion Bridges for 3D Point Cloud Denoising**|Mathias Vogel et.al.|[2408.16325](http://arxiv.org/abs/2408.16325)|null|
+|**2024-08-29**|**Uni-3DAD: GAN-Inversion Aided Universal 3D Anomaly Detection on Model-free Products**|Jiayu Liu et.al.|[2408.16201](http://arxiv.org/abs/2408.16201)|null|
+|**2024-08-28**|**Image Triangulation Using the Sobel Operator for Vertex Selection**|Olivia Laske et.al.|[2408.16112](http://arxiv.org/abs/2408.16112)|null|
 |**2024-08-28**|**More Text, Less Point: Towards 3D Data-Efficient Point-Language Understanding**|Yuan Tang et.al.|[2408.15966](http://arxiv.org/abs/2408.15966)|null|
 |**2024-08-28**|**SLAM2REF: Advancing Long-Term Mapping with 3D LiDAR and Reference Map Integration for Precise 6-DoF Trajectory Estimation and Map Extension**|Miguel Arturo Vega Torres et.al.|[2408.15948](http://arxiv.org/abs/2408.15948)|**[link](https://github.com/MigVega/SLAM2REF)**|
 |**2024-08-28**|**Gen-Swarms: Adapting Deep Generative Models to Swarms of Drones**|Carlos Plou et.al.|[2408.15899](http://arxiv.org/abs/2408.15899)|null|
