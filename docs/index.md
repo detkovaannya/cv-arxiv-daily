@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.01
+## Updated on 2024.09.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## clustering
@@ -22,7 +22,7 @@ layout: default
 |**2024-08-29**|**Sharp asymptotics for finite point-to-plane connections in supercritical bond percolation in dimension at least three**|Alexander Fribergh et.al.|[2408.16636](http://arxiv.org/abs/2408.16636)|null|
 |**2024-08-29**|**LLMs generate structurally realistic social networks but overestimate political homophily**|Serina Chang et.al.|[2408.16629](http://arxiv.org/abs/2408.16629)|**[link](https://github.com/snap-stanford/llm-social-network)**|
 |**2024-08-29**|**High-Dimensional Sparse Data Low-rank Representation via Accelerated Asynchronous Parallel Stochastic Gradient Descent**|Qicong Hu et.al.|[2408.16592](http://arxiv.org/abs/2408.16592)|null|
-|**2024-08-29**|**Multi-Reference UCCSD Variational Quantum Algorithm for Molecular Ground State Energies**|Di Wu et.al.|[2408.16523](http://arxiv.org/abs/2408.16523)|null|
+|**2024-08-30**|**Multi-Reference UCCSD Variational Quantum Algorithm for Molecular Ground State Energies**|Di Wu et.al.|[2408.16523](http://arxiv.org/abs/2408.16523)|null|
 |**2024-08-29**|**Locally Grouped and Scale-Guided Attention for Dense Pest Counting**|Chang-Hwan Son et.al.|[2408.16503](http://arxiv.org/abs/2408.16503)|null|
 |**2024-08-28**|**Origin and full characterization of the secondary (assembly) halo bias**|Eduard Salvador-Solé et.al.|[2408.15935](http://arxiv.org/abs/2408.15935)|null|
 |**2024-08-28**|**Flow of non-classical correlations in cluster states due to projective measurements**|Chandan Mahto et.al.|[2408.15930](http://arxiv.org/abs/2408.15930)|null|
