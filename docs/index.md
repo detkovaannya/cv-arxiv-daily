@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-30**|**Signatures of polarized chiral spin disproportionation in rare earth nickelates**|Jiarui Li et.al.|[2408.17450](http://arxiv.org/abs/2408.17450)|null|
+|**2024-08-30**|**Detecting cluster patterns in tensor data**|Peter A. Brooksbank et.al.|[2408.17425](http://arxiv.org/abs/2408.17425)|null|
+|**2024-08-30**|**Mapping radial abundance gradients with Gaia-ESO open clusters: Evidence of recent gas accretion in the Milky Way disk**|Marco Palla et.al.|[2408.17395](http://arxiv.org/abs/2408.17395)|null|
+|**2024-08-30**|**Virgo Filaments. III. The gas content of galaxies in filaments as predicted by the GAEA semi-analytic model**|D. Zakharova et.al.|[2408.17367](http://arxiv.org/abs/2408.17367)|null|
+|**2024-08-30**|**Modularity in Transformers: Investigating Neuron Separability & Specialization**|Nicholas Pochinkov et.al.|[2408.17324](http://arxiv.org/abs/2408.17324)|null|
+|**2024-08-30**|**Abstracted Gaussian Prototypes for One-Shot Concept Learning**|Chelsea Zou et.al.|[2408.17251](http://arxiv.org/abs/2408.17251)|**[link](https://github.com/bosonphoton/abstractedgaussianprototypes)**|
+|**2024-08-30**|**Categorical data clustering: 25 years beyond K-modes**|Tai Dinh et.al.|[2408.17244](http://arxiv.org/abs/2408.17244)|**[link](https://github.com/ClarkDinh/Categorical-data-clustering-25-years-beyond-K-modes)**|
+|**2024-08-30**|**The FLAMINGO Project: An assessment of the systematic errors in the predictions of models for galaxy cluster counts used to infer cosmological parameters**|Roi Kugel et.al.|[2408.17217](http://arxiv.org/abs/2408.17217)|null|
+|**2024-08-30**|**Precision determination of the track-position resolution of beam telescopes**|M. Antonello et.al.|[2408.17215](http://arxiv.org/abs/2408.17215)|null|
+|**2024-08-30**|**Application-Driven Exascale: The JUPITER Benchmark Suite**|Andreas Herten et.al.|[2408.17211](http://arxiv.org/abs/2408.17211)|null|
 |**2024-08-29**|**Impact of cosmic web on galaxy properties and their correlations: Insights from Principal Component Analysis**|Anindita Nandi et.al.|[2408.16731](http://arxiv.org/abs/2408.16731)|null|
 |**2024-08-29**|**Gibbs free energies of Fe clusters can be approximated by Tolman correction to accurately model cluster nucleation and growth**|Alexander Khrabry et.al.|[2408.16693](http://arxiv.org/abs/2408.16693)|null|
 |**2024-08-29**|**Tensor Decomposed Distinguishable Cluster. I. Triples Decomposition**|Charlotte Rickert et.al.|[2408.16681](http://arxiv.org/abs/2408.16681)|null|
@@ -2000,6 +2010,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-30**|**CP-VoteNet: Contrastive Prototypical VoteNet for Few-Shot Point Cloud Object Detection**|Xuejing Li et.al.|[2408.17036](http://arxiv.org/abs/2408.17036)|null|
 |**2024-08-29**|**ReconX: Reconstruct Any Scene from Sparse Views with Video Diffusion Model**|Fangfu Liu et.al.|[2408.16767](http://arxiv.org/abs/2408.16767)|null|
 |**2024-08-29**|**UV-free Texture Generation with Denoising and Geodesic Heat Diffusions**|Simone Foti et.al.|[2408.16762](http://arxiv.org/abs/2408.16762)|**[link](https://github.com/simofoti/uv3-ted)**|
 |**2024-08-29**|**Space3D-Bench: Spatial 3D Question Answering Benchmark**|Emilia Szymanska et.al.|[2408.16662](http://arxiv.org/abs/2408.16662)|null|
