@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-05**|**Finite-size Effects in periodic EOM-CCSD for Ionization Energies and Electron Affinities: Convergence Rate and Extrapolation to the Thermodynamic Limit**|Evgeny Moerman et.al.|[2409.03721](http://arxiv.org/abs/2409.03721)|null|
+|**2024-09-05**|**LAST: Language Model Aware Speech Tokenization**|Arnon Turetzky et.al.|[2409.03701](http://arxiv.org/abs/2409.03701)|null|
+|**2024-09-05**|**CHIRPs: Change-Induced Regret Proxy metrics for Lifelong Reinforcement Learning**|John Birkbeck et.al.|[2409.03577](http://arxiv.org/abs/2409.03577)|null|
+|**2024-09-05**|**Toricity in families of Fano varieties**|Lena Ji et.al.|[2409.03564](http://arxiv.org/abs/2409.03564)|null|
+|**2024-09-05**|**Magnetic Field Alignment Relative to Multiple Tracers in the High-mass Star-forming Region RCW 36**|Akanksha Bij et.al.|[2409.03558](http://arxiv.org/abs/2409.03558)|null|
+|**2024-09-05**|**Euclid preparation. Simulations and nonlinearities beyond $Λ$CDM. 4. Constraints on $f(R)$ models from the photometric primary probes**|Euclid Collaboration et.al.|[2409.03524](http://arxiv.org/abs/2409.03524)|null|
+|**2024-09-05**|**Euclid preparation. Simulations and nonlinearities beyond $Λ$ CDM. 2. Results from non-standard simulations**|Euclid Collaboration et.al.|[2409.03523](http://arxiv.org/abs/2409.03523)|null|
+|**2024-09-05**|**Survey of Data-driven Newsvendor: Unified Analysis and Spectrum of Achievable Regrets**|Zhuoxin Chen et.al.|[2409.03505](http://arxiv.org/abs/2409.03505)|null|
+|**2024-09-05**|**Emergence of regularity for limit points of McKean-Vlasov particle systems**|Robert Alexander Crowell et.al.|[2409.03459](http://arxiv.org/abs/2409.03459)|null|
+|**2024-09-05**|**Ageing and dynamics of the tailed radio galaxies in Abell 2142**|L. Bruno et.al.|[2409.03453](http://arxiv.org/abs/2409.03453)|null|
 |**2024-09-04**|**Bulk Spectra of Truncated Sample Covariance Matrices**|Subhroshekhar Ghosh et.al.|[2409.02911](http://arxiv.org/abs/2409.02911)|null|
 |**2024-09-04**|**Topological Methods in Machine Learning: A Tutorial for Practitioners**|Baris Coskunuzer et.al.|[2409.02901](http://arxiv.org/abs/2409.02901)|**[link](https://github.com/cakcora/topologyforml)**|
 |**2024-09-04**|**Prospects for Revealing Intermediate-Mass Black Holes in NGC 1399 using SKA**|B. Karimi et.al.|[2409.02893](http://arxiv.org/abs/2409.02893)|null|
@@ -2020,6 +2030,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-05**|**LM-Gaussian: Boost Sparse-view 3D Gaussian Splatting with Large Model Priors**|Hanyang Yu et.al.|[2409.03456](http://arxiv.org/abs/2409.03456)|null|
+|**2024-09-05**|**Semantic Communication for Efficient Point Cloud Transmission**|Shangzhuo Xie et.al.|[2409.03319](http://arxiv.org/abs/2409.03319)|null|
+|**2024-09-04**|**How DREAMS are made: Emulating Satellite Galaxy and Subhalo Populations with Diffusion Models and Point Clouds**|Tri Nguyen et.al.|[2409.02980](http://arxiv.org/abs/2409.02980)|null|
 |**2024-09-04**|**Multi-modal Situated Reasoning in 3D Scenes**|Xiongkun Linghu et.al.|[2409.02389](http://arxiv.org/abs/2409.02389)|null|
 |**2024-09-03**|**Geometry-aware Feature Matching for Large-Scale Structure from Motion**|Gonglin Chen et.al.|[2409.02310](http://arxiv.org/abs/2409.02310)|null|
 |**2024-09-03**|**Inferring Cosmological Parameters on SDSS via Domain-Generalized Neural Networks and Lightcone Simulations**|Jun-Young Lee et.al.|[2409.02256](http://arxiv.org/abs/2409.02256)|null|
