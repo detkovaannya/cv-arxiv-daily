@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.05
+## Updated on 2024.09.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## clustering
@@ -23,7 +23,7 @@ layout: default
 |**2024-09-04**|**Segregation in binary mixture with differential contraction among active rings**|Emanuel F. Teixeira et.al.|[2409.02814](http://arxiv.org/abs/2409.02814)|null|
 |**2024-09-04**|**Euclid preparation: Determining the weak lensing mass accuracy and precision for galaxy clusters**|Euclid Collaboration et.al.|[2409.02783](http://arxiv.org/abs/2409.02783)|null|
 |**2024-09-04**|**Understanding the origin of early-type dwarfs: The spectrophotometric study of CGCG014-074**|N. Guevara et.al.|[2409.02768](http://arxiv.org/abs/2409.02768)|null|
-|**2024-09-04**|**Pooling And Attention: What Are Effective Designs For LLm-Based Embedding Models?**|Yixuan Tang et.al.|[2409.02727](http://arxiv.org/abs/2409.02727)|**[link](https://github.com/yixuantt/poolingandattn)**|
+|**2024-09-05**|**Pooling And Attention: What Are Effective Designs For LLM-Based Embedding Models?**|Yixuan Tang et.al.|[2409.02727](http://arxiv.org/abs/2409.02727)|**[link](https://github.com/yixuantt/poolingandattn)**|
 |**2024-08-30**|**Signatures of polarized chiral spin disproportionation in rare earth nickelates**|Jiarui Li et.al.|[2408.17450](http://arxiv.org/abs/2408.17450)|null|
 |**2024-08-30**|**Detecting cluster patterns in tensor data**|Peter A. Brooksbank et.al.|[2408.17425](http://arxiv.org/abs/2408.17425)|null|
 |**2024-08-30**|**Mapping radial abundance gradients with Gaia-ESO open clusters: Evidence of recent gas accretion in the Milky Way disk**|Marco Palla et.al.|[2408.17395](http://arxiv.org/abs/2408.17395)|null|
