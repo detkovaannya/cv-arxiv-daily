@@ -62,7 +62,7 @@ layout: default
 |**2024-08-28**|**EdgeLinker: Practical Blockchain-based Framework for Healthcare Fog Applications to Enhance Security in Edge-IoT Data Communications**|Mahdi Akbari Zarkesh et.al.|[2408.15838](http://arxiv.org/abs/2408.15838)|null|
 |**2024-08-28**|**Knowledge Navigator: LLM-guided Browsing Framework for Exploratory Search in Scientific Literature**|Uri Katz et.al.|[2408.15836](http://arxiv.org/abs/2408.15836)|null|
 |**2024-08-28**|**Possibilities for enhanced electron-phonon interactions and high- $T_c$ superconductivity in engineered bimetallic nano-structured superlattices**|Shinjan Mandal et.al.|[2408.15820](http://arxiv.org/abs/2408.15820)|null|
-|**2024-08-28**|**Bayesian analysis of product feature allocation models**|Lorenzo Ghilotti et.al.|[2408.15806](http://arxiv.org/abs/2408.15806)|null|
+|**2024-08-28**|**Bayesian analysis of product feature allocation models**|Lorenzo Ghilotti et.al.|[2408.15806](http://arxiv.org/abs/2408.15806)|**[link](https://github.com/LGhilotti/ProductFormFA)**|
 |**2024-08-28**|**Self-assembled clusters of magnetically tilted dipoles**|P. D. S. de Lima et.al.|[2408.15790](http://arxiv.org/abs/2408.15790)|null|
 |**2024-08-27**|**Logarithmic Finite-Size Scaling of the Four-Dimensional Ising Model**|Zhiyi Li et.al.|[2408.15230](http://arxiv.org/abs/2408.15230)|null|
 |**2024-08-27**|**Investigating Coverage Criteria in Large Language Models: An In-Depth Study Through Jailbreak Attacks**|Shide Zhou et.al.|[2408.15207](http://arxiv.org/abs/2408.15207)|null|
@@ -2632,7 +2632,7 @@ layout: default
 |**2024-04-07**|**GauU-Scene V2: Expanse Lidar Image Dataset Shows Unreliable Geometric Reconstruction Using Gaussian Splatting and NeRF**|Butian Xiong et.al.|[2404.04880](http://arxiv.org/abs/2404.04880)|null|
 |**2024-04-07**|**Multi-Type Map Construction via Semantics-Aware Autonomous Exploration in Unknown Indoor Environments**|Jianfang Mao et.al.|[2404.04879](http://arxiv.org/abs/2404.04879)|null|
 |**2024-04-07**|**NeRF2Points: Large-Scale Point Cloud Generation From Street Views' Radiance Field Optimization**|Peng Tu et.al.|[2404.04875](http://arxiv.org/abs/2404.04875)|null|
-|**2024-04-06**|**On Exploring PDE Modeling for Point Cloud Video Representation Learning**|Zhuoxu Huang et.al.|[2404.04720](http://arxiv.org/abs/2404.04720)|null|
+|**2024-04-06**|**On Exploring PDE Modeling for Point Cloud Video Representation Learning**|Zhuoxu Huang et.al.|[2404.04720](http://arxiv.org/abs/2404.04720)|**[link](https://github.com/zhh6425/MotionPointNet)**|
 |**2024-04-06**|**OmniColor: A Global Camera Pose Optimization Approach of LiDAR-360Camera Fusion for Colorizing Point Clouds**|Bonan Liu et.al.|[2404.04693](http://arxiv.org/abs/2404.04693)|**[link](https://github.com/liubonan123/omnicolor)**|
 |**2024-04-06**|**PointSAGE: Mesh-independent superresolution approach to fluid flow predictions**|Rajat Sarkar et.al.|[2404.04615](http://arxiv.org/abs/2404.04615)|null|
 |**2024-04-06**|**Learning Instance-Aware Correspondences for Robust Multi-Instance Point Cloud Registration in Cluttered Scenes**|Zhiyuan Yu et.al.|[2404.04557](http://arxiv.org/abs/2404.04557)|**[link](https://github.com/zhiyuanyu134/miretr)**|
