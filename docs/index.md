@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-06**|**Selective Passive Tuning of Cavity Resonance by Mode Index Engineering of the Partial Length of a Cavity**|Mohit Khurana et.al.|[2409.04422](http://arxiv.org/abs/2409.04422)|null|
+|**2024-09-06**|**Approximating Metric Magnitude of Point Sets**|Rayna Andreeva et.al.|[2409.04411](http://arxiv.org/abs/2409.04411)|null|
+|**2024-09-06**|**Platform-Mediated Consolidation and Offline Store Expansion: Evidence from Real Estate Brokerages in Major Chinese Cities**|Guoying Deng et.al.|[2409.04326](http://arxiv.org/abs/2409.04326)|null|
+|**2024-09-06**|**An "alien" called Oosterhoff dichotomy?**|E. Luongo et.al.|[2409.04259](http://arxiv.org/abs/2409.04259)|null|
+|**2024-09-06**|**Hermes: Memory-Efficient Pipeline Inference for Large Models on Edge Devices**|Xueyuan Han et.al.|[2409.04249](http://arxiv.org/abs/2409.04249)|null|
+|**2024-09-06**|**Revisiting the Time Cost Model of AllReduce**|Dian Xiong et.al.|[2409.04202](http://arxiv.org/abs/2409.04202)|null|
+|**2024-09-06**|**An Efficient Classical Algorithm for Simulating Short Time 2D Quantum Dynamics**|Yusen Wu et.al.|[2409.04161](http://arxiv.org/abs/2409.04161)|null|
+|**2024-09-06**|**Re-entrant percolation in active Brownian hard disks**|David Evans et.al.|[2409.04141](http://arxiv.org/abs/2409.04141)|null|
+|**2024-09-06**|**Evidence for spin droplets (ferrons) formation in the heavy fermion metal CeB $_6$ with dynamic charge stripes**|A. N. Azarevich et.al.|[2409.04139](http://arxiv.org/abs/2409.04139)|null|
+|**2024-09-06**|**Capturing Opportunity Costs of Batteries with a Staircase Supply-Demand Function**|Ye Guo et.al.|[2409.04128](http://arxiv.org/abs/2409.04128)|null|
 |**2024-09-05**|**Finite-size Effects in periodic EOM-CCSD for Ionization Energies and Electron Affinities: Convergence Rate and Extrapolation to the Thermodynamic Limit**|Evgeny Moerman et.al.|[2409.03721](http://arxiv.org/abs/2409.03721)|null|
 |**2024-09-05**|**LAST: Language Model Aware Speech Tokenization**|Arnon Turetzky et.al.|[2409.03701](http://arxiv.org/abs/2409.03701)|null|
 |**2024-09-05**|**CHIRPs: Change-Induced Regret Proxy metrics for Lifelong Reinforcement Learning**|John Birkbeck et.al.|[2409.03577](http://arxiv.org/abs/2409.03577)|null|
@@ -2030,6 +2040,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-06**|**Approximating Metric Magnitude of Point Sets**|Rayna Andreeva et.al.|[2409.04411](http://arxiv.org/abs/2409.04411)|null|
+|**2024-09-06**|**HiSC4D: Human-centered interaction and 4D Scene Capture in Large-scale Space Using Wearable IMUs and LiDAR**|Yudi Dai et.al.|[2409.04398](http://arxiv.org/abs/2409.04398)|null|
+|**2024-09-06**|**Future Does Matter: Boosting 3D Object Detection with Temporal Motion Estimation in Point Cloud Sequences**|Rui Yu et.al.|[2409.04390](http://arxiv.org/abs/2409.04390)|null|
+|**2024-09-06**|**UniDet3D: Multi-dataset Indoor 3D Object Detection**|Maksim Kolodiazhnyi et.al.|[2409.04234](http://arxiv.org/abs/2409.04234)|**[link](https://github.com/filapro/unidet3d)**|
 |**2024-09-05**|**LM-Gaussian: Boost Sparse-view 3D Gaussian Splatting with Large Model Priors**|Hanyang Yu et.al.|[2409.03456](http://arxiv.org/abs/2409.03456)|null|
 |**2024-09-05**|**Semantic Communication for Efficient Point Cloud Transmission**|Shangzhuo Xie et.al.|[2409.03319](http://arxiv.org/abs/2409.03319)|null|
 |**2024-09-04**|**How DREAMS are made: Emulating Satellite Galaxy and Subhalo Populations with Diffusion Models and Point Clouds**|Tri Nguyen et.al.|[2409.02980](http://arxiv.org/abs/2409.02980)|null|
