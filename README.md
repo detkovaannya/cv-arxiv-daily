@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-09**|**The impact of feedback on the evolution of gas density profiles from galaxies to clusters: a universal fitting formula from the Simba suite of simulations**|Daniele Sorini et.al.|[2409.05815](http://arxiv.org/abs/2409.05815)|null|
+|**2024-09-09**|**Minimal Matchings for dP3 Cluster Variables**|Judy Hsin-Hui Chiang et.al.|[2409.05803](http://arxiv.org/abs/2409.05803)|null|
+|**2024-09-09**|**Environmental dependence on galaxy-halo connections for satellites using HSC weak lensing**|Amit Kumar et.al.|[2409.05795](http://arxiv.org/abs/2409.05795)|null|
+|**2024-09-09**|**NeurLZ: On Systematically Enhancing Lossy Compression Performance for Scientific Data based on Neural Learning with Error Control**|Wenqi Jia et.al.|[2409.05785](http://arxiv.org/abs/2409.05785)|null|
+|**2024-09-09**|**Consensus-based Distributed Quantum Kernel Learning for Speech Recognition**|Kuan-Cheng Chen et.al.|[2409.05770](http://arxiv.org/abs/2409.05770)|null|
+|**2024-09-09**|**Model Input Verification of Large Scale Simulations**|Rumyana Neykova et.al.|[2409.05768](http://arxiv.org/abs/2409.05768)|null|
+|**2024-09-09**|**jaxspec : a fast and robust Python library for X-ray spectral fitting**|Simon Dupourqué et.al.|[2409.05757](http://arxiv.org/abs/2409.05757)|null|
+|**2024-09-09**|**Implications of feedback solutions to the $S_8$ tension for the baryon fractions of galaxy groups and clusters**|Jaime Salcido et.al.|[2409.05716](http://arxiv.org/abs/2409.05716)|null|
+|**2024-09-09**|**Segmentation by Factorization: Unsupervised Semantic Segmentation for Pathology by Factorizing Foundation Model Features**|Jacob Gildenblat et.al.|[2409.05697](http://arxiv.org/abs/2409.05697)|null|
+|**2024-09-09**|**ForestFlow: cosmological emulation of Lyman- $α$ forest clustering from linear to nonlinear scales**|J. Chaves-Montero et.al.|[2409.05682](http://arxiv.org/abs/2409.05682)|null|
 |**2024-09-06**|**Selective Passive Tuning of Cavity Resonance by Mode Index Engineering of the Partial Length of a Cavity**|Mohit Khurana et.al.|[2409.04422](http://arxiv.org/abs/2409.04422)|null|
 |**2024-09-06**|**Approximating Metric Magnitude of Point Sets**|Rayna Andreeva et.al.|[2409.04411](http://arxiv.org/abs/2409.04411)|null|
 |**2024-09-06**|**Platform-Mediated Consolidation and Offline Store Expansion: Evidence from Real Estate Brokerages in Major Chinese Cities**|Guoying Deng et.al.|[2409.04326](http://arxiv.org/abs/2409.04326)|null|
@@ -2046,6 +2056,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-09**|**LEROjD: Lidar Extended Radar-Only Object Detection**|Patrick Palmer et.al.|[2409.05564](http://arxiv.org/abs/2409.05564)|**[link](https://github.com/rst-tu-dortmund/lerojd)**|
+|**2024-09-09**|**DWA-3D: A Reactive Planner for Robust and Efficient Autonomous UAV Navigation**|Jorge Bes et.al.|[2409.05421](http://arxiv.org/abs/2409.05421)|null|
+|**2024-09-09**|**From Words to Poses: Enhancing Novel Object Pose Estimation with Vision Language Models**|Tessa Pulli et.al.|[2409.05413](http://arxiv.org/abs/2409.05413)|null|
+|**2024-09-09**|**Memoryless Multimodal Anomaly Detection via Student-Teacher Network and Signed Distance Learning**|Zhongbin Sun et.al.|[2409.05378](http://arxiv.org/abs/2409.05378)|null|
+|**2024-09-09**|**Neural Surface Reconstruction and Rendering for LiDAR-Visual Systems**|Jianheng Liu et.al.|[2409.05310](http://arxiv.org/abs/2409.05310)|null|
+|**2024-09-08**|**ICML Topological Deep Learning Challenge 2024: Beyond the Graph Domain**|Guillermo Bernárdez et.al.|[2409.05211](http://arxiv.org/abs/2409.05211)|null|
+|**2024-09-08**|**Imputation of Time-varying Edge Flows in Graphs by Multilinear Kernel Regression and Manifold Learning**|Duc Thien Nguyen et.al.|[2409.05135](http://arxiv.org/abs/2409.05135)|null|
+|**2024-09-08**|**Sight View Constraint for Robust Point Cloud Registration**|Yaojie Zhang et.al.|[2409.05065](http://arxiv.org/abs/2409.05065)|null|
+|**2024-09-08**|**GS-PT: Exploiting 3D Gaussian Splatting for Comprehensive Point Cloud Understanding via Self-supervised Learning**|Keyi Liu et.al.|[2409.04963](http://arxiv.org/abs/2409.04963)|null|
+|**2024-09-07**|**Training-Free Point Cloud Recognition Based on Geometric and Semantic Information Fusion**|Yan Chen et.al.|[2409.04760](http://arxiv.org/abs/2409.04760)|null|
 |**2024-09-06**|**Approximating Metric Magnitude of Point Sets**|Rayna Andreeva et.al.|[2409.04411](http://arxiv.org/abs/2409.04411)|null|
 |**2024-09-06**|**HiSC4D: Human-centered interaction and 4D Scene Capture in Large-scale Space Using Wearable IMUs and LiDAR**|Yudi Dai et.al.|[2409.04398](http://arxiv.org/abs/2409.04398)|null|
 |**2024-09-06**|**Future Does Matter: Boosting 3D Object Detection with Temporal Motion Estimation in Point Cloud Sequences**|Rui Yu et.al.|[2409.04390](http://arxiv.org/abs/2409.04390)|null|
