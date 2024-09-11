@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.10
+## Updated on 2024.09.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## clustering
@@ -17,7 +17,7 @@ layout: default
 |**2024-09-09**|**The impact of feedback on the evolution of gas density profiles from galaxies to clusters: a universal fitting formula from the Simba suite of simulations**|Daniele Sorini et.al.|[2409.05815](http://arxiv.org/abs/2409.05815)|null|
 |**2024-09-09**|**Minimal Matchings for dP3 Cluster Variables**|Judy Hsin-Hui Chiang et.al.|[2409.05803](http://arxiv.org/abs/2409.05803)|null|
 |**2024-09-09**|**Environmental dependence on galaxy-halo connections for satellites using HSC weak lensing**|Amit Kumar et.al.|[2409.05795](http://arxiv.org/abs/2409.05795)|null|
-|**2024-09-09**|**NeurLZ: On Systematically Enhancing Lossy Compression Performance for Scientific Data based on Neural Learning with Error Control**|Wenqi Jia et.al.|[2409.05785](http://arxiv.org/abs/2409.05785)|null|
+|**2024-09-10**|**NeurLZ: On Enhancing Lossy Compression Performance based on Error-Controlled Neural Learning for Scientific Data**|Wenqi Jia et.al.|[2409.05785](http://arxiv.org/abs/2409.05785)|null|
 |**2024-09-09**|**Consensus-based Distributed Quantum Kernel Learning for Speech Recognition**|Kuan-Cheng Chen et.al.|[2409.05770](http://arxiv.org/abs/2409.05770)|null|
 |**2024-09-09**|**Model Input Verification of Large Scale Simulations**|Rumyana Neykova et.al.|[2409.05768](http://arxiv.org/abs/2409.05768)|null|
 |**2024-09-09**|**jaxspec : a fast and robust Python library for X-ray spectral fitting**|Simon Dupourqué et.al.|[2409.05757](http://arxiv.org/abs/2409.05757)|null|
@@ -2059,7 +2059,7 @@ layout: default
 |**2024-09-08**|**Imputation of Time-varying Edge Flows in Graphs by Multilinear Kernel Regression and Manifold Learning**|Duc Thien Nguyen et.al.|[2409.05135](http://arxiv.org/abs/2409.05135)|null|
 |**2024-09-08**|**Sight View Constraint for Robust Point Cloud Registration**|Yaojie Zhang et.al.|[2409.05065](http://arxiv.org/abs/2409.05065)|null|
 |**2024-09-08**|**GS-PT: Exploiting 3D Gaussian Splatting for Comprehensive Point Cloud Understanding via Self-supervised Learning**|Keyi Liu et.al.|[2409.04963](http://arxiv.org/abs/2409.04963)|null|
-|**2024-09-07**|**Training-Free Point Cloud Recognition Based on Geometric and Semantic Information Fusion**|Yan Chen et.al.|[2409.04760](http://arxiv.org/abs/2409.04760)|null|
+|**2024-09-10**|**Training-Free Point Cloud Recognition Based on Geometric and Semantic Information Fusion**|Yan Chen et.al.|[2409.04760](http://arxiv.org/abs/2409.04760)|null|
 |**2024-09-06**|**Approximating Metric Magnitude of Point Sets**|Rayna Andreeva et.al.|[2409.04411](http://arxiv.org/abs/2409.04411)|null|
 |**2024-09-06**|**HiSC4D: Human-centered interaction and 4D Scene Capture in Large-scale Space Using Wearable IMUs and LiDAR**|Yudi Dai et.al.|[2409.04398](http://arxiv.org/abs/2409.04398)|null|
 |**2024-09-06**|**Future Does Matter: Boosting 3D Object Detection with Temporal Motion Estimation in Point Cloud Sequences**|Rui Yu et.al.|[2409.04390](http://arxiv.org/abs/2409.04390)|null|
