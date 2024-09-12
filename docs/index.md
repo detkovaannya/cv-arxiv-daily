@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-11**|**Positive microlocal holonomies are globally regular**|Roger Casals et.al.|[2409.07435](http://arxiv.org/abs/2409.07435)|null|
+|**2024-09-11**|**Ab initio Green's functions approach for homogeneous nuclear matter**|Francesco Marino et.al.|[2409.07432](http://arxiv.org/abs/2409.07432)|null|
+|**2024-09-11**|**One Stream or Two -- Exploring Andromeda's North West Stream**|Janet Preston et.al.|[2409.07419](http://arxiv.org/abs/2409.07419)|null|
+|**2024-09-11**|**An effective and reliable approach to the phase problem in single-shot single-particle Coherent Diffraction Imaging**|Alessandro Colombo et.al.|[2409.07413](http://arxiv.org/abs/2409.07413)|null|
+|**2024-09-11**|**Properties of the Lower Segment of M31's North West Stream**|Janet Preston et.al.|[2409.07410](http://arxiv.org/abs/2409.07410)|null|
+|**2024-09-11**|**Trust Dynamics in Human-Autonomy Interaction: Uncover Associations between Trust Dynamics and Personal Characteristics**|Hyesun Chung et.al.|[2409.07406](http://arxiv.org/abs/2409.07406)|null|
+|**2024-09-11**|**Energy-filtered excited states and real-time dynamics served in a contour integral**|Ke Liao et.al.|[2409.07354](http://arxiv.org/abs/2409.07354)|null|
+|**2024-09-11**|**Federated Impression for Learning with Distributed Heterogeneous Data**|Sana Ayromlou et.al.|[2409.07351](http://arxiv.org/abs/2409.07351)|null|
+|**2024-09-11**|**Visual Compositional Data Analytics for Spatial Transcriptomics**|David Hägele et.al.|[2409.07306](http://arxiv.org/abs/2409.07306)|null|
+|**2024-09-11**|**Simulating stellar coronal rain and slingshot prominences**|Simon Daley-Yates et.al.|[2409.07297](http://arxiv.org/abs/2409.07297)|null|
 |**2024-09-10**|**Estimation and Inference for Causal Functions with Multiway Clustered Data**|Nan Liu et.al.|[2409.06654](http://arxiv.org/abs/2409.06654)|null|
 |**2024-09-10**|**Optimal Workload Placement on Multi-Instance GPUs**|Bekir Turkkan et.al.|[2409.06646](http://arxiv.org/abs/2409.06646)|null|
 |**2024-09-10**|**Multiplicative Inequalities In Cluster Algebras Of Finite Type**|Michael Gekhtman et.al.|[2409.06642](http://arxiv.org/abs/2409.06642)|null|
@@ -2060,6 +2070,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-11**|**Learning Robotic Manipulation Policies from Point Clouds with Conditional Flow Matching**|Eugenio Chisari et.al.|[2409.07343](http://arxiv.org/abs/2409.07343)|null|
+|**2024-09-11**|**Bridging Domain Gap of Point Cloud Representations via Self-Supervised Geometric Augmentation**|Li Yu et.al.|[2409.06956](http://arxiv.org/abs/2409.06956)|null|
+|**2024-09-10**|**Cross-Modal Self-Supervised Learning with Effective Contrastive Units for LiDAR Point Clouds**|Mu Cai et.al.|[2409.06827](http://arxiv.org/abs/2409.06827)|**[link](https://github.com/qcraftai/cross-modal-ssl)**|
 |**2024-09-10**|**Critical Features Tracking on Triangulated Irregular Networks by a Scale-Space Method**|Haoan Feng et.al.|[2409.06638](http://arxiv.org/abs/2409.06638)|null|
 |**2024-09-10**|**Towards Localizing Structural Elements: Merging Geometrical Detection with Semantic Verification in RGB-D Data**|Ali Tourani et.al.|[2409.06625](http://arxiv.org/abs/2409.06625)|null|
 |**2024-09-10**|**Semi-Supervised 3D Object Detection with Chanel Augmentation using Transformation Equivariance**|Minju Kang et.al.|[2409.06583](http://arxiv.org/abs/2409.06583)|null|
