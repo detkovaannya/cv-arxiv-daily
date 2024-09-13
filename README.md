@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-12**|**Crown-Like Structures in Breast Adipose Tissue: Finding a 'Needle-in-a-Haystack' using Artificial Intelligence and Collaborative Active Learning on the Web**|Praphulla MS Bhawsar et.al.|[2409.08275](http://arxiv.org/abs/2409.08275)|null|
+|**2024-09-12**|**Style Based Clustering of Visual Artworks**|Abhishek Dangeti et.al.|[2409.08245](http://arxiv.org/abs/2409.08245)|null|
+|**2024-09-12**|**A Study on Asynchronous Vote-based Blockchains**|Yibin Xu et.al.|[2409.08161](http://arxiv.org/abs/2409.08161)|null|
+|**2024-09-12**|**Microarchitectural comparison and in-core modeling of state-of-the-art CPUs: Grace, Sapphire Rapids, and Genoa**|Jan Laukemann et.al.|[2409.08108](http://arxiv.org/abs/2409.08108)|null|
+|**2024-09-12**|**Zero-Shot Sing Voice Conversion: built upon clustering-based phoneme representations**|Wangjin Zhou et.al.|[2409.08039](http://arxiv.org/abs/2409.08039)|null|
+|**2024-09-12**|**Learning Communities from Equilibria of Nonlinear Opinion Dynamics**|Yu Xing et.al.|[2409.08004](http://arxiv.org/abs/2409.08004)|null|
+|**2024-09-12**|**Direct Numerical Simulation of Particle Clustering and Turbulence Modulation: An Eulerian Approach**|Ajay Dhankarghare et.al.|[2409.07988](http://arxiv.org/abs/2409.07988)|null|
+|**2024-09-12**|**Community detection in multi-layer networks by regularized debiased spectral clustering**|Huan Qing et.al.|[2409.07956](http://arxiv.org/abs/2409.07956)|null|
+|**2024-09-12**|**Data-efficient multi-fidelity training for high-fidelity machine learning interatomic potentials**|Jaesun Kim et.al.|[2409.07947](http://arxiv.org/abs/2409.07947)|null|
+|**2024-09-12**|**Dynamic Simultaneous Multithreaded Arch**|Daniel Ortiz-Arroyo et.al.|[2409.07903](http://arxiv.org/abs/2409.07903)|null|
 |**2024-09-11**|**Positive microlocal holonomies are globally regular**|Roger Casals et.al.|[2409.07435](http://arxiv.org/abs/2409.07435)|null|
 |**2024-09-11**|**Ab initio Green's functions approach for homogeneous nuclear matter**|Francesco Marino et.al.|[2409.07432](http://arxiv.org/abs/2409.07432)|null|
 |**2024-09-11**|**One Stream or Two -- Exploring Andromeda's North West Stream**|Janet Preston et.al.|[2409.07419](http://arxiv.org/abs/2409.07419)|null|
@@ -2076,6 +2086,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-12**|**VI3DRM:Towards meticulous 3D Reconstruction from Sparse Views via Photo-Realistic Novel View Synthesis**|Hao Chen et.al.|[2409.08207](http://arxiv.org/abs/2409.08207)|null|
+|**2024-09-12**|**The JPEG Pleno Learning-based Point Cloud Coding Standard: Serving Man and Machine**|André F. R. Guarda et.al.|[2409.08130](http://arxiv.org/abs/2409.08130)|null|
+|**2024-09-12**|**Bayesian Self-Training for Semi-Supervised 3D Segmentation**|Ozan Unal et.al.|[2409.08102](http://arxiv.org/abs/2409.08102)|null|
+|**2024-09-12**|**UNIT: Unsupervised Online Instance Segmentation through Time**|Corentin Sautier et.al.|[2409.07887](http://arxiv.org/abs/2409.07887)|null|
+|**2024-09-11**|**Unsupervised Point Cloud Registration with Self-Distillation**|Christian Löwens et.al.|[2409.07558](http://arxiv.org/abs/2409.07558)|**[link](https://github.com/boschresearch/direg)**|
 |**2024-09-11**|**Learning Robotic Manipulation Policies from Point Clouds with Conditional Flow Matching**|Eugenio Chisari et.al.|[2409.07343](http://arxiv.org/abs/2409.07343)|null|
 |**2024-09-11**|**Bridging Domain Gap of Point Cloud Representations via Self-Supervised Geometric Augmentation**|Li Yu et.al.|[2409.06956](http://arxiv.org/abs/2409.06956)|null|
 |**2024-09-10**|**Cross-Modal Self-Supervised Learning with Effective Contrastive Units for LiDAR Point Clouds**|Mu Cai et.al.|[2409.06827](http://arxiv.org/abs/2409.06827)|**[link](https://github.com/qcraftai/cross-modal-ssl)**|
