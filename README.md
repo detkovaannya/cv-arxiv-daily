@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-18**|**Bayesian estimation of the number of significant principal components for cultural data**|Joshua C. Macdonald et.al.|[2409.12129](http://arxiv.org/abs/2409.12129)|null|
+|**2024-09-18**|**Weak Lensing analysis of Abell 2390 using short exposures**|A. Dutta et.al.|[2409.12119](http://arxiv.org/abs/2409.12119)|null|
+|**2024-09-18**|**An Efficient Projection-Based Next-best-view Planning Framework for Reconstruction of Unknown Objects**|Zhizhou Jia et.al.|[2409.12096](http://arxiv.org/abs/2409.12096)|null|
+|**2024-09-18**|**Fully charmed tetraquark production at the LHC experiments**|Ilia Belov et.al.|[2409.12070](http://arxiv.org/abs/2409.12070)|null|
+|**2024-09-18**|**Characterization of blue and yellow straggler stars of Berkeley 39 using Swift/UVOT**|Komal Chand et.al.|[2409.12062](http://arxiv.org/abs/2409.12062)|null|
+|**2024-09-18**|**All-in-one foundational models learning across quantum chemical levels**|Yuxinxin Chen et.al.|[2409.12015](http://arxiv.org/abs/2409.12015)|**[link](https://github.com/dralgroup/aio-ani)**|
+|**2024-09-18**|**Optimizing Redshift Distribution Inference through Joint Self-Calibration and Clustering-Redshift Synergy**|Weilun Zheng et.al.|[2409.12009](http://arxiv.org/abs/2409.12009)|null|
+|**2024-09-18**|**First confirmation of anisotropic bias from statistically anisotropic matter distributions**|Shogo Masaki et.al.|[2409.12004](http://arxiv.org/abs/2409.12004)|null|
+|**2024-09-18**|**Spectral clustering of time-evolving networks using the inflated dynamic Laplacian for graphs**|Gary Froyland et.al.|[2409.11984](http://arxiv.org/abs/2409.11984)|null|
+|**2024-09-18**|**Metric-Semantic Factor Graph Generation based on Graph Neural Networks**|Jose Andres Millan-Romera et.al.|[2409.11972](http://arxiv.org/abs/2409.11972)|null|
 |**2024-09-17**|**Temporal Load Imbalance on Ondes3D Seismic Simulator for Different Multicore Architectures**|Ana Luisa Veroneze Solórzano et.al.|[2409.11392](http://arxiv.org/abs/2409.11392)|null|
 |**2024-09-17**|**Diversify and Conquer: Diversity-Centric Data Selection with Iterative Refinement**|Simon Yu et.al.|[2409.11378](http://arxiv.org/abs/2409.11378)|null|
 |**2024-09-17**|**Gravitational waves from primordial black hole isocurvature: the effect of non-Gaussianities**|Xin-Chen He et.al.|[2409.11333](http://arxiv.org/abs/2409.11333)|null|
@@ -2116,6 +2126,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-18**|**Panoptic-Depth Forecasting**|Juana Valeria Hurtado et.al.|[2409.12008](http://arxiv.org/abs/2409.12008)|null|
+|**2024-09-18**|**Differentiable Collision-Supervised Tooth Arrangement Network with a Decoupling Perspective**|Zhihui He et.al.|[2409.11937](http://arxiv.org/abs/2409.11937)|null|
+|**2024-09-18**|**SpheriGait: Enriching Spatial Representation via Spherical Projection for LiDAR-based Gait Recognition**|Yanxi Wang et.al.|[2409.11869](http://arxiv.org/abs/2409.11869)|null|
+|**2024-09-18**|**Physically-Based Photometric Bundle Adjustment in Non-Lambertian Environments**|Lei Cheng et.al.|[2409.11854](http://arxiv.org/abs/2409.11854)|null|
+|**2024-09-18**|**SRIF: Semantic Shape Registration Empowered by Diffusion-based Image Morphing and Flow Estimation**|Mingze Sun et.al.|[2409.11682](http://arxiv.org/abs/2409.11682)|null|
+|**2024-09-17**|**Enhancing the Reliability of LiDAR Point Cloud Sampling: A Colorization and Super-Resolution Approach Based on LiDAR-Generated Images**|Sier Ha et.al.|[2409.11532](http://arxiv.org/abs/2409.11532)|null|
 |**2024-09-17**|**GS-Net: Generalizable Plug-and-Play 3D Gaussian Splatting Module**|Yichen Zhang et.al.|[2409.11307](http://arxiv.org/abs/2409.11307)|null|
 |**2024-09-17**|**Unleashing the Potential of Mamba: Boosting a LiDAR 3D Sparse Detector by Using Cross-Model Knowledge Distillation**|Rui Yu et.al.|[2409.11018](http://arxiv.org/abs/2409.11018)|null|
 |**2024-09-17**|**LVBA: LiDAR-Visual Bundle Adjustment for RGB Point Cloud Mapping**|Rundong Li et.al.|[2409.10868](http://arxiv.org/abs/2409.10868)|null|
