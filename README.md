@@ -29,20 +29,20 @@
 |**2024-09-18**|**Spectral clustering of time-evolving networks using the inflated dynamic Laplacian for graphs**|Gary Froyland et.al.|[2409.11984](http://arxiv.org/abs/2409.11984)|null|
 |**2024-09-18**|**Metric-Semantic Factor Graph Generation based on Graph Neural Networks**|Jose Andres Millan-Romera et.al.|[2409.11972](http://arxiv.org/abs/2409.11972)|null|
 |**2024-09-17**|**Temporal Load Imbalance on Ondes3D Seismic Simulator for Different Multicore Architectures**|Ana Luisa Veroneze Solórzano et.al.|[2409.11392](http://arxiv.org/abs/2409.11392)|null|
-|**2024-09-17**|**Diversify and Conquer: Diversity-Centric Data Selection with Iterative Refinement**|Simon Yu et.al.|[2409.11378](http://arxiv.org/abs/2409.11378)|null|
+|**2024-09-17**|**Diversify and Conquer: Diversity-Centric Data Selection with Iterative Refinement**|Simon Yu et.al.|[2409.11378](http://arxiv.org/abs/2409.11378)|**[link](https://github.com/for-ai/iterative-data-selection)**|
 |**2024-09-17**|**Gravitational waves from primordial black hole isocurvature: the effect of non-Gaussianities**|Xin-Chen He et.al.|[2409.11333](http://arxiv.org/abs/2409.11333)|null|
 |**2024-09-17**|**Communication Lower Bounds and Optimal Algorithms for Symmetric Matrix Computations**|Hussam Al Daas et.al.|[2409.11304](http://arxiv.org/abs/2409.11304)|null|
 |**2024-09-17**|**Knot theory and cluster algebra III: Posets**|Véronique Bazier-Matte et.al.|[2409.11287](http://arxiv.org/abs/2409.11287)|null|
-|**2024-09-17**|**Norm of Mean Contextualized Embeddings Determines their Variance**|Hiroaki Yamagiwa et.al.|[2409.11253](http://arxiv.org/abs/2409.11253)|null|
+|**2024-09-17**|**Norm of Mean Contextualized Embeddings Determines their Variance**|Hiroaki Yamagiwa et.al.|[2409.11253](http://arxiv.org/abs/2409.11253)|**[link](https://github.com/ymgw55/Norm-and-Variance)**|
 |**2024-09-17**|**Federated Learning with Integrated Sensing, Communication, and Computation: Frameworks and Performance Analysis**|Yipeng Liang et.al.|[2409.11240](http://arxiv.org/abs/2409.11240)|null|
 |**2024-09-17**|**Energy Efficiency Support for Software Defined Networks: a Serverless Computing Approach**|Fatemeh Banaie et.al.|[2409.11208](http://arxiv.org/abs/2409.11208)|null|
 |**2024-09-17**|**Capability of Cosmic Gravitational Focusing on Identifying the Neutrino Mass Ordering**|Shao-Feng Ge et.al.|[2409.11115](http://arxiv.org/abs/2409.11115)|null|
 |**2024-09-17**|**A Nonlinear Generalization of the Bauer-Fike Theorem and Novel Iterative Methods for Solving Nonlinear Eigenvalue Problems**|Ronald Katende et.al.|[2409.11098](http://arxiv.org/abs/2409.11098)|null|
 |**2024-09-16**|**The VIRUS-dE Survey I: Stars in dwarf elliptical galaxies - 3D dynamics and radially resolved stellar initial mass functions**|Mathias Lipka et.al.|[2409.10518](http://arxiv.org/abs/2409.10518)|null|
 |**2024-09-16**|**Geometric Clustering for Hardware-Efficient Implementation of Chromatic Dispersion Compensation**|Geraldo Gomes et.al.|[2409.10416](http://arxiv.org/abs/2409.10416)|null|
-|**2024-09-16**|**TPFL: Tsetlin-Personalized Federated Learning with Confidence-Based Clustering**|Rasoul Jafari Gohari et.al.|[2409.10392](http://arxiv.org/abs/2409.10392)|null|
+|**2024-09-16**|**TPFL: Tsetlin-Personalized Federated Learning with Confidence-Based Clustering**|Rasoul Jafari Gohari et.al.|[2409.10392](http://arxiv.org/abs/2409.10392)|**[link](https://github.com/russelljeffrey/TPFL_Tsetlin-Personalized-Federated-Learning-with-Confidence-Based-Clustering)**|
 |**2024-09-16**|**Nonlinear Causality in Brain Networks: With Application to Motor Imagery vs Execution**|Sipan Aslan et.al.|[2409.10374](http://arxiv.org/abs/2409.10374)|null|
-|**2024-09-16**|**Uncovering the Mechanism of Hepatotoxiciy of PFAS Targeting L-FABP Using GCN and Computational Modeling**|Lucas Jividen et.al.|[2409.10370](http://arxiv.org/abs/2409.10370)|null|
+|**2024-09-16**|**Uncovering the Mechanism of Hepatotoxiciy of PFAS Targeting L-FABP Using GCN and Computational Modeling**|Lucas Jividen et.al.|[2409.10370](http://arxiv.org/abs/2409.10370)|**[link](https://github.com/LabJunBMI/GCN-PFAS-Docking-Score-Prediction)**|
 |**2024-09-16**|**The Three Hundred: The existence of massive dark matter-deficient satellite galaxies in cosmological simulations**|Ana Contreras-Santos et.al.|[2409.10356](http://arxiv.org/abs/2409.10356)|null|
 |**2024-09-16**|**Hyperedge Modeling in Hypergraph Neural Networks by using Densest Overlapping Subgraphs**|Mehrad Soltani et.al.|[2409.10340](http://arxiv.org/abs/2409.10340)|null|
 |**2024-09-16**|**PASS: An Asynchronous Probabilistic Processor for Next Generation Intelligence**|Saavan Patel et.al.|[2409.10325](http://arxiv.org/abs/2409.10325)|null|
@@ -51,7 +51,7 @@
 |**2024-09-13**|**The effect of cosmic web filaments on galaxy evolution**|Callum J. O'Kane et.al.|[2409.09028](http://arxiv.org/abs/2409.09028)|null|
 |**2024-09-13**|**The Clearing Timescale for Infrared-selected Star Clusters in M83 with HST**|Suyash Deshmukh et.al.|[2409.08994](http://arxiv.org/abs/2409.08994)|null|
 |**2024-09-13**|**A Bayesian Approach to Clustering via the Proper Bayesian Bootstrap: the Bayesian Bagged Clustering (BBC) algorithm**|Federico Maria Quetti et.al.|[2409.08954](http://arxiv.org/abs/2409.08954)|null|
-|**2024-09-13**|**Generic and ML Workloads in an HPC Datacenter: Node Energy, Job Failures, and Node-Job Analysis**|Xiaoyu Chu et.al.|[2409.08949](http://arxiv.org/abs/2409.08949)|null|
+|**2024-09-13**|**Generic and ML Workloads in an HPC Datacenter: Node Energy, Job Failures, and Node-Job Analysis**|Xiaoyu Chu et.al.|[2409.08949](http://arxiv.org/abs/2409.08949)|**[link](https://github.com/atlarge-research/2024-icpads-hpc-workload-characterization)**|
 |**2024-09-13**|**$SU(\infty)$ Quantum Gravity and Cosmology**|Houri Ziaeepour et.al.|[2409.08932](http://arxiv.org/abs/2409.08932)|null|
 |**2024-09-13**|**Classification of electronic structures and state preparation for quantum computation of reaction chemistry**|Maximilian Mörchen et.al.|[2409.08910](http://arxiv.org/abs/2409.08910)|null|
 |**2024-09-13**|**Exploring System-Heterogeneous Federated Learning with Dynamic Model Selection**|Dixi Yao et.al.|[2409.08858](http://arxiv.org/abs/2409.08858)|null|
@@ -97,7 +97,7 @@
 |**2024-09-09**|**jaxspec : a fast and robust Python library for X-ray spectral fitting**|Simon Dupourqué et.al.|[2409.05757](http://arxiv.org/abs/2409.05757)|null|
 |**2024-09-09**|**Implications of feedback solutions to the $S_8$ tension for the baryon fractions of galaxy groups and clusters**|Jaime Salcido et.al.|[2409.05716](http://arxiv.org/abs/2409.05716)|null|
 |**2024-09-09**|**Segmentation by Factorization: Unsupervised Semantic Segmentation for Pathology by Factorizing Foundation Model Features**|Jacob Gildenblat et.al.|[2409.05697](http://arxiv.org/abs/2409.05697)|null|
-|**2024-09-09**|**ForestFlow: cosmological emulation of Lyman- $α$ forest clustering from linear to nonlinear scales**|J. Chaves-Montero et.al.|[2409.05682](http://arxiv.org/abs/2409.05682)|null|
+|**2024-09-09**|**ForestFlow: cosmological emulation of Lyman- $α$ forest clustering from linear to nonlinear scales**|J. Chaves-Montero et.al.|[2409.05682](http://arxiv.org/abs/2409.05682)|**[link](https://github.com/igmhub/ForestFlow)**|
 |**2024-09-06**|**Selective Passive Tuning of Cavity Resonance by Mode Index Engineering of the Partial Length of a Cavity**|Mohit Khurana et.al.|[2409.04422](http://arxiv.org/abs/2409.04422)|null|
 |**2024-09-06**|**Approximating Metric Magnitude of Point Sets**|Rayna Andreeva et.al.|[2409.04411](http://arxiv.org/abs/2409.04411)|null|
 |**2024-09-06**|**Platform-Mediated Consolidation and Offline Store Expansion: Evidence from Real Estate Brokerages in Major Chinese Cities**|Guoying Deng et.al.|[2409.04326](http://arxiv.org/abs/2409.04326)|null|
@@ -113,7 +113,7 @@
 |**2024-09-05**|**CHIRPs: Change-Induced Regret Proxy metrics for Lifelong Reinforcement Learning**|John Birkbeck et.al.|[2409.03577](http://arxiv.org/abs/2409.03577)|null|
 |**2024-09-05**|**Toricity in families of Fano varieties**|Lena Ji et.al.|[2409.03564](http://arxiv.org/abs/2409.03564)|null|
 |**2024-09-05**|**Magnetic Field Alignment Relative to Multiple Tracers in the High-mass Star-forming Region RCW 36**|Akanksha Bij et.al.|[2409.03558](http://arxiv.org/abs/2409.03558)|null|
-|**2024-09-05**|**Euclid preparation. Simulations and nonlinearities beyond $Λ$CDM. 4. Constraints on $f(R)$ models from the photometric primary probes**|Euclid Collaboration et.al.|[2409.03524](http://arxiv.org/abs/2409.03524)|null|
+|**2024-09-05**|**Euclid preparation. Simulations and nonlinearities beyond $Λ$CDM. 4. Constraints on $f(R)$ models from the photometric primary probes**|Euclid Collaboration et.al.|[2409.03524](http://arxiv.org/abs/2409.03524)|**[link](https://github.com/HAWinther/FofrFittingFunction)**|
 |**2024-09-05**|**Euclid preparation. Simulations and nonlinearities beyond $Λ$ CDM. 2. Results from non-standard simulations**|Euclid Collaboration et.al.|[2409.03523](http://arxiv.org/abs/2409.03523)|null|
 |**2024-09-05**|**Survey of Data-driven Newsvendor: Unified Analysis and Spectrum of Achievable Regrets**|Zhuoxin Chen et.al.|[2409.03505](http://arxiv.org/abs/2409.03505)|null|
 |**2024-09-05**|**Emergence of regularity for limit points of McKean-Vlasov particle systems**|Robert Alexander Crowell et.al.|[2409.03459](http://arxiv.org/abs/2409.03459)|null|
@@ -736,7 +736,7 @@
 |**2024-06-04**|**Cluster-Aware Similarity Diffusion for Instance Retrieval**|Jifei Luo et.al.|[2406.02343](http://arxiv.org/abs/2406.02343)|null|
 |**2024-06-04**|**PeFAD: A Parameter-Efficient Federated Framework for Time Series Anomaly Detection**|Ronghui Xu et.al.|[2406.02318](http://arxiv.org/abs/2406.02318)|**[link](https://github.com/xu737/PeFAD)**|
 |**2024-06-04**|**Fast and Secure Decentralized Optimistic Rollups Using Setchain**|Margarita Capretto et.al.|[2406.02316](http://arxiv.org/abs/2406.02316)|null|
-|**2024-06-04**|**Towards Supervised Performance on Speaker Verification with Self-Supervised Learning by Leveraging Large-Scale ASR Models**|Victor Miara et.al.|[2406.02285](http://arxiv.org/abs/2406.02285)|null|
+|**2024-06-04**|**Towards Supervised Performance on Speaker Verification with Self-Supervised Learning by Leveraging Large-Scale ASR Models**|Victor Miara et.al.|[2406.02285](http://arxiv.org/abs/2406.02285)|**[link](https://github.com/theolepage/wavlm_ssl_sv)**|
 |**2024-06-04**|**Analyzing the Benefits of Prototypes for Semi-Supervised Category Learning**|Liyi Zhang et.al.|[2406.02268](http://arxiv.org/abs/2406.02268)|**[link](https://github.com/zhang-liyi/vampprior-prototype)**|
 |**2024-05-31**|**The Velocity Dispersion Function for Quiescent Galaxies in Massive Clusters from IllustrisTNG**|Jubee Sohn et.al.|[2405.21076](http://arxiv.org/abs/2405.21076)|null|
 |**2024-05-31**|**Comparing information content of representation spaces for disentanglement with VAE ensembles**|Kieran A. Murphy et.al.|[2405.21042](http://arxiv.org/abs/2405.21042)|**[link](https://github.com/murphyka/representation-space-info-comparison)**|
@@ -2139,8 +2139,8 @@
 |**2024-09-16**|**Point2Graph: An End-to-end Point Cloud-based 3D Open-Vocabulary Scene Graph for Robot Navigation**|Yifan Xu et.al.|[2409.10350](http://arxiv.org/abs/2409.10350)|null|
 |**2024-09-16**|**SPAC: Sampling-based Progressive Attribute Compression for Dense Point Clouds**|Xiaolong Mao et.al.|[2409.10293](http://arxiv.org/abs/2409.10293)|null|
 |**2024-09-16**|**RealDiff: Real-world 3D Shape Completion using Self-Supervised Diffusion Models**|Başak Melis Öcal et.al.|[2409.10180](http://arxiv.org/abs/2409.10180)|null|
-|**2024-09-16**|**DENSER: 3D Gaussians Splatting for Scene Reconstruction of Dynamic Urban Environments**|Mahmud A. Mohamad et.al.|[2409.10041](http://arxiv.org/abs/2409.10041)|null|
-|**2024-09-15**|**A Robust Probability-based Joint Registration Method of Multiple Point Clouds Considering Local Consistency**|Lingjie Su et.al.|[2409.09682](http://arxiv.org/abs/2409.09682)|null|
+|**2024-09-16**|**DENSER: 3D Gaussians Splatting for Scene Reconstruction of Dynamic Urban Environments**|Mahmud A. Mohamad et.al.|[2409.10041](http://arxiv.org/abs/2409.10041)|**[link](https://github.com/sntubix/denser)**|
+|**2024-09-15**|**A Robust Probability-based Joint Registration Method of Multiple Point Clouds Considering Local Consistency**|Lingjie Su et.al.|[2409.09682](http://arxiv.org/abs/2409.09682)|**[link](https://github.com/sulingjie/jprlc_registration)**|
 |**2024-09-15**|**A Comprehensive Methodological Survey of Human Activity Recognition Across Divers Data Modalities**|Jungpil Shin et.al.|[2409.09678](http://arxiv.org/abs/2409.09678)|null|
 |**2024-09-14**|**KAN-HyperpointNet for Point Cloud Sequence-Based 3D Human Action Recognition**|Zhaoyu Chen et.al.|[2409.09444](http://arxiv.org/abs/2409.09444)|null|
 |**2024-09-14**|**Registration between Point Cloud Streams and Sequential Bounding Boxes via Gradient Descent**|Xuesong Li et.al.|[2409.09312](http://arxiv.org/abs/2409.09312)|null|
@@ -2444,7 +2444,7 @@
 |**2024-07-05**|**Rethinking Data Input for Point Cloud Upsampling**|Tongxu Zhang et.al.|[2407.04476](http://arxiv.org/abs/2407.04476)|null|
 |**2024-07-05**|**TSC-PCAC: Voxel Transformer and Sparse Convolution Based Point Cloud Attribute Compression for 3D Broadcasting**|Zixi Guo et.al.|[2407.04284](http://arxiv.org/abs/2407.04284)|**[link](https://github.com/igizuxo/tsc-pcac)**|
 |**2024-07-04**|**Reduced-Order Neural Operators: Learning Lagrangian Dynamics on Highly Sparse Graphs**|Hrishikesh Viswanath et.al.|[2407.03925](http://arxiv.org/abs/2407.03925)|**[link](https://github.com/hrishikeshvish/giorom)**|
-|**2024-07-04**|**Perception-Guided Quality Metric of 3D Point Clouds Using Hybrid Strategy**|Yujie Zhang et.al.|[2407.03885](http://arxiv.org/abs/2407.03885)|null|
+|**2024-07-04**|**Perception-Guided Quality Metric of 3D Point Clouds Using Hybrid Strategy**|Yujie Zhang et.al.|[2407.03885](http://arxiv.org/abs/2407.03885)|**[link](https://github.com/zhangyujie-1998/phm)**|
 |**2024-07-04**|**PFGS: High Fidelity Point Cloud Rendering via Feature Splatting**|Jiaxu Wang et.al.|[2407.03857](http://arxiv.org/abs/2407.03857)|**[link](https://github.com/Mercerai/PFGS)**|
 |**2024-07-04**|**ConPR: Ongoing Construction Site Dataset for Place Recognition**|Dongjae Lee et.al.|[2407.03684](http://arxiv.org/abs/2407.03684)|**[link](https://github.com/dongjae0107/conpr)**|
 |**2024-07-03**|**OrbitGrasp: $SE(3)$ -Equivariant Grasp Learning**|Boce Hu et.al.|[2407.03531](http://arxiv.org/abs/2407.03531)|null|
