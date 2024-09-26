@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-25**|**Characterizing stable regions in the residual stream of LLMs**|Jett Janiak et.al.|[2409.17113](http://arxiv.org/abs/2409.17113)|null|
+|**2024-09-25**|**Unveiling Ontological Commitment in Multi-Modal Foundation Models**|Mert Keser et.al.|[2409.17109](http://arxiv.org/abs/2409.17109)|null|
+|**2024-09-25**|**Locally Regularized Sparse Graph by Fast Proximal Gradient Descent**|Dongfang Sun et.al.|[2409.17090](http://arxiv.org/abs/2409.17090)|null|
+|**2024-09-25**|**Syndeo: Portable Ray Clusters with Secure Containerization**|William Li et.al.|[2409.17070](http://arxiv.org/abs/2409.17070)|**[link](https://github.com/mit-ll/Syndeo)**|
+|**2024-09-25**|**Harnessing Diversity for Important Data Selection in Pretraining Large Language Models**|Chi Zhang et.al.|[2409.16986](http://arxiv.org/abs/2409.16986)|null|
+|**2024-09-25**|**Unveiling the shape: a multi-wavelength analysis of the galaxy clusters Abell 76 and Abell 1307**|R. Barrena et.al.|[2409.16981](http://arxiv.org/abs/2409.16981)|null|
+|**2024-09-25**|**A gas rich cosmic web revealed by partitioning the missing baryons**|Liam Connor et.al.|[2409.16952](http://arxiv.org/abs/2409.16952)|null|
+|**2024-09-25**|**Running Cloud-native Workloads on HPC with High-Performance Kubernetes**|Antony Chazapis et.al.|[2409.16919](http://arxiv.org/abs/2409.16919)|null|
+|**2024-09-25**|**Discriminative Anchor Learning for Efficient Multi-view Clustering**|Yalan Qin et.al.|[2409.16904](http://arxiv.org/abs/2409.16904)|null|
+|**2024-09-25**|**Spatiotemporal Hawkes processes with a graphon-induced connectivity structure**|Justin Baars et.al.|[2409.16903](http://arxiv.org/abs/2409.16903)|null|
 |**2024-09-18**|**Bayesian estimation of the number of significant principal components for cultural data**|Joshua C. Macdonald et.al.|[2409.12129](http://arxiv.org/abs/2409.12129)|null|
 |**2024-09-18**|**Weak Lensing analysis of Abell 2390 using short exposures**|A. Dutta et.al.|[2409.12119](http://arxiv.org/abs/2409.12119)|null|
 |**2024-09-18**|**An Efficient Projection-Based Next-best-view Planning Framework for Reconstruction of Unknown Objects**|Zhizhou Jia et.al.|[2409.12096](http://arxiv.org/abs/2409.12096)|null|
@@ -2120,6 +2130,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-25**|**CREVE: An Acceleration-based Constraint Approach for Robust Radar Ego-Velocity Estimation**|Hoang Viet Do et.al.|[2409.16847](http://arxiv.org/abs/2409.16847)|null|
+|**2024-09-25**|**DeformStream: Deformation-based Adaptive Volumetric Video Streaming**|Boyan Li et.al.|[2409.16615](http://arxiv.org/abs/2409.16615)|null|
+|**2024-09-24**|**Low Latency Point Cloud Rendering with Learned Splatting**|Yueyu Hu et.al.|[2409.16504](http://arxiv.org/abs/2409.16504)|**[link](https://github.com/huzi96/gaussian-pcloud-render)**|
+|**2024-09-24**|**Underground Mapping and Localization Based on Ground-Penetrating Radar**|Jinchang Zhang et.al.|[2409.16446](http://arxiv.org/abs/2409.16446)|null|
+|**2024-09-24**|**Instance Segmentation of Reinforced Concrete Bridges with Synthetic Point Clouds**|Asad Ur Rahman et.al.|[2409.16381](http://arxiv.org/abs/2409.16381)|null|
+|**2024-09-24**|**Articulated Object Manipulation using Online Axis Estimation with SAM2-Based Tracking**|Xi Wang et.al.|[2409.16287](http://arxiv.org/abs/2409.16287)|null|
+|**2024-09-24**|**PseudoNeg-MAE: Self-Supervised Point Cloud Learning using Conditional Pseudo-Negative Embeddings**|Sutharsan Mahendren et.al.|[2409.15832](http://arxiv.org/abs/2409.15832)|null|
+|**2024-09-24**|**Hyperbolic Image-and-Pointcloud Contrastive Learning for 3D Classification**|Naiwen Hu et.al.|[2409.15810](http://arxiv.org/abs/2409.15810)|null|
+|**2024-09-23**|**KISS-Matcher: Fast and Robust Point Cloud Registration Revisited**|Hyungtae Lim et.al.|[2409.15615](http://arxiv.org/abs/2409.15615)|**[link](https://github.com/mit-spark/kiss-matcher)**|
+|**2024-09-23**|**MATCH POLICY: A Simple Pipeline from Point Cloud Registration to Manipulation Policies**|Haojie Huang et.al.|[2409.15517](http://arxiv.org/abs/2409.15517)|null|
 |**2024-09-18**|**Panoptic-Depth Forecasting**|Juana Valeria Hurtado et.al.|[2409.12008](http://arxiv.org/abs/2409.12008)|null|
 |**2024-09-18**|**Differentiable Collision-Supervised Tooth Arrangement Network with a Decoupling Perspective**|Zhihui He et.al.|[2409.11937](http://arxiv.org/abs/2409.11937)|null|
 |**2024-09-18**|**SpheriGait: Enriching Spatial Representation via Spherical Projection for LiDAR-based Gait Recognition**|Yanxi Wang et.al.|[2409.11869](http://arxiv.org/abs/2409.11869)|null|
