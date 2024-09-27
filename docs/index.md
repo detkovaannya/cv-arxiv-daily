@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.26
+## Updated on 2024.09.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## clustering
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-09-25**|**Characterizing stable regions in the residual stream of LLMs**|Jett Janiak et.al.|[2409.17113](http://arxiv.org/abs/2409.17113)|null|
+|**2024-09-26**|**Characterizing stable regions in the residual stream of LLMs**|Jett Janiak et.al.|[2409.17113](http://arxiv.org/abs/2409.17113)|null|
 |**2024-09-25**|**Unveiling Ontological Commitment in Multi-Modal Foundation Models**|Mert Keser et.al.|[2409.17109](http://arxiv.org/abs/2409.17109)|null|
 |**2024-09-25**|**Locally Regularized Sparse Graph by Fast Proximal Gradient Descent**|Dongfang Sun et.al.|[2409.17090](http://arxiv.org/abs/2409.17090)|null|
 |**2024-09-25**|**Syndeo: Portable Ray Clusters with Secure Containerization**|William Li et.al.|[2409.17070](http://arxiv.org/abs/2409.17070)|**[link](https://github.com/mit-ll/Syndeo)**|
