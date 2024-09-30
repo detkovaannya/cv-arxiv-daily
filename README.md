@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-27**|**Cluster-BPI: Efficient Fine-Grain Blind Power Identification for Defending against Hardware Thermal Trojans in Multicore SoCs**|Mohamed R. Elshamy et.al.|[2409.18921](http://arxiv.org/abs/2409.18921)|null|
+|**2024-09-27**|**Euclid preparation: 6x2 pt analysis of Euclid's spectroscopic and photometric data sets**|Euclid Collaboration et.al.|[2409.18882](http://arxiv.org/abs/2409.18882)|null|
+|**2024-09-27**|**Accelerating stencils on the Tenstorrent Grayskull RISC-V accelerator**|Nick Brown et.al.|[2409.18835](http://arxiv.org/abs/2409.18835)|null|
+|**2024-09-27**|**Fully integrating the Flang Fortran compiler with standard MLIR**|Nick Brown et.al.|[2409.18824](http://arxiv.org/abs/2409.18824)|null|
+|**2024-09-27**|**Hierarchical Federated ADMM**|Seyed Mohammad Azimi-Abarghouyi et.al.|[2409.18796](http://arxiv.org/abs/2409.18796)|null|
+|**2024-09-27**|**Hello SME! Generating Fast Matrix Multiplication Kernels Using the Scalable Matrix Extension**|Stefan Remke et.al.|[2409.18779](http://arxiv.org/abs/2409.18779)|null|
+|**2024-09-27**|**TensorSocket: Shared Data Loading for Deep Learning Training**|Ties Robroek et.al.|[2409.18749](http://arxiv.org/abs/2409.18749)|null|
+|**2024-09-27**|**A History-Guided Regional Partitioning Evolutionary Optimization for Solving the Flexible Job Shop Problem with Limited Multi-load Automated Guided Vehicles**|Feige Liu et.al.|[2409.18742](http://arxiv.org/abs/2409.18742)|null|
+|**2024-09-27**|**Exploring DAOS Interfaces and Performance**|Nicolau Manubens et.al.|[2409.18682](http://arxiv.org/abs/2409.18682)|null|
+|**2024-09-27**|**Unsupervised Cognition**|Alfredo Ibias et.al.|[2409.18624](http://arxiv.org/abs/2409.18624)|null|
 |**2024-09-26**|**Find Rhinos without Finding Rhinos: Active Learning with Multimodal Imagery of South African Rhino Habitats**|Lucia Gordon et.al.|[2409.18104](http://arxiv.org/abs/2409.18104)|**[link](https://github.com/lgordon99/rhino-midden-detector)**|
 |**2024-09-26**|**The importance of nuclear star clusters for massive black hole growth and nuclear star formation in simulated low-mass galaxies**|Christian Partmann et.al.|[2409.18096](http://arxiv.org/abs/2409.18096)|null|
 |**2024-09-26**|**The radio halo in PLCKESZ G171.94 $-$ 40.65: Beacon of merging activity**|Ramananda Santra et.al.|[2409.18075](http://arxiv.org/abs/2409.18075)|null|
@@ -2146,6 +2156,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-27**|**Multi-hypotheses Conditioned Point Cloud Diffusion for 3D Human Reconstruction from Occluded Images**|Donghwan Kim et.al.|[2409.18364](http://arxiv.org/abs/2409.18364)|null|
+|**2024-09-26**|**Flat'n'Fold: A Diverse Multi-Modal Dataset for Garment Perception and Manipulation**|Lipeng Zhuang et.al.|[2409.18297](http://arxiv.org/abs/2409.18297)|null|
+|**2024-09-26**|**Spatial Visibility and Temporal Dynamics: Revolutionizing Field of View Prediction in Adaptive Point Cloud Video Streaming**|Chen Li et.al.|[2409.18236](http://arxiv.org/abs/2409.18236)|null|
 |**2024-09-26**|**EdgeRunner: Auto-regressive Auto-encoder for Artistic Mesh Generation**|Jiaxiang Tang et.al.|[2409.18114](http://arxiv.org/abs/2409.18114)|null|
 |**2024-09-26**|**DiffSSC: Semantic LiDAR Scan Completion using Denoising Diffusion Probabilistic Models**|Helin Cao et.al.|[2409.18092](http://arxiv.org/abs/2409.18092)|null|
 |**2024-09-26**|**Triple Point Masking**|Jiaming Liu et.al.|[2409.17547](http://arxiv.org/abs/2409.17547)|null|
