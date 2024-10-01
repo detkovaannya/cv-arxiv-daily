@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-30**|**Predicting the rate of fast radio bursts in globular clusters from binary black hole observations**|Aryamann Rao et.al.|[2409.20564](http://arxiv.org/abs/2409.20564)|null|
+|**2024-09-30**|**Constraining Cosmology with Simulation-based inference and Optical Galaxy Cluster Abundance**|Moonzarin Reza et.al.|[2409.20507](http://arxiv.org/abs/2409.20507)|null|
+|**2024-09-30**|**Doping dependence of linear-in-temperature scattering rate in three-orbital Emery model**|Xun Liu et.al.|[2409.20497](http://arxiv.org/abs/2409.20497)|null|
+|**2024-09-30**|**Persistent homology classifies parameter dependence of patterns in Turing systems**|Reemon Spector et.al.|[2409.20491](http://arxiv.org/abs/2409.20491)|null|
+|**2024-09-30**|**Intel(R) SHMEM: GPU-initiated OpenSHMEM using SYCL**|Alex Brooks et.al.|[2409.20476](http://arxiv.org/abs/2409.20476)|null|
+|**2024-09-30**|**Multiwavelength Galactic Center gamma-ray observations explained by a unified cosmic-ray dynamics model**|Andrés Scherer et.al.|[2409.20436](http://arxiv.org/abs/2409.20436)|null|
+|**2024-09-30**|**Word-wise intonation model for cross-language TTS systems**|Tomilov A. A. et.al.|[2409.20374](http://arxiv.org/abs/2409.20374)|null|
+|**2024-09-30**|**Disentangling Singlish Discourse Particles with Task-Driven Representation**|Linus Tze En Foo et.al.|[2409.20366](http://arxiv.org/abs/2409.20366)|null|
+|**2024-09-30**|**Symbol-based multilevel block $τ$ preconditioners for multilevel block Toeplitz systems: GLT-based analysis and applications**|Sean Y. Hon et.al.|[2409.20363](http://arxiv.org/abs/2409.20363)|null|
+|**2024-09-30**|**KISS: instrument description and performance**|J. F. Macías-Pérez et.al.|[2409.20272](http://arxiv.org/abs/2409.20272)|null|
 |**2024-09-27**|**Cluster-BPI: Efficient Fine-Grain Blind Power Identification for Defending against Hardware Thermal Trojans in Multicore SoCs**|Mohamed R. Elshamy et.al.|[2409.18921](http://arxiv.org/abs/2409.18921)|null|
 |**2024-09-27**|**Euclid preparation: 6x2 pt analysis of Euclid's spectroscopic and photometric data sets**|Euclid Collaboration et.al.|[2409.18882](http://arxiv.org/abs/2409.18882)|null|
 |**2024-09-27**|**Accelerating stencils on the Tenstorrent Grayskull RISC-V accelerator**|Nick Brown et.al.|[2409.18835](http://arxiv.org/abs/2409.18835)|null|
@@ -2150,6 +2160,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-30**|**Annotation-Free Curb Detection Leveraging Altitude Difference Image**|Fulong Ma et.al.|[2409.20171](http://arxiv.org/abs/2409.20171)|null|
+|**2024-09-28**|**EEPNet: Efficient Edge Pixel-based Matching Network for Cross-Modal Dynamic Registration between LiDAR and Camera**|Yuanchao Yue et.al.|[2409.19305](http://arxiv.org/abs/2409.19305)|null|
+|**2024-09-27**|**Voxel-CIM: An Efficient Compute-in-Memory Accelerator for Voxel-based Point Cloud Neural Networks**|Xipeng Lin et.al.|[2409.19077](http://arxiv.org/abs/2409.19077)|null|
 |**2024-09-27**|**Multi-hypotheses Conditioned Point Cloud Diffusion for 3D Human Reconstruction from Occluded Images**|Donghwan Kim et.al.|[2409.18364](http://arxiv.org/abs/2409.18364)|null|
 |**2024-09-26**|**Flat'n'Fold: A Diverse Multi-Modal Dataset for Garment Perception and Manipulation**|Lipeng Zhuang et.al.|[2409.18297](http://arxiv.org/abs/2409.18297)|null|
 |**2024-09-26**|**Spatial Visibility and Temporal Dynamics: Revolutionizing Field of View Prediction in Adaptive Point Cloud Video Streaming**|Chen Li et.al.|[2409.18236](http://arxiv.org/abs/2409.18236)|null|
