@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.02
+## Updated on 2024.10.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -2160,7 +2160,7 @@
 |**2023-11-10**|**The First Verification Test of Space-Ground Collaborative Intelligence via Cloud-Native Satellites**|Shangguang Wang et.al.|[2311.06078](http://arxiv.org/abs/2311.06078)|null|
 |**2023-11-10**|**Collaborative Inference in DNN-based Satellite Systems with Dynamic Task Streams**|Jinglong Guan et.al.|[2311.06073](http://arxiv.org/abs/2311.06073)|null|
 
-<p align=right>(<a href=#updated-on-20241002>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241003>back to top</a>)</p>
 
 ## point cloud
 
@@ -2171,7 +2171,7 @@
 |**2024-09-27**|**Voxel-CIM: An Efficient Compute-in-Memory Accelerator for Voxel-based Point Cloud Neural Networks**|Xipeng Lin et.al.|[2409.19077](http://arxiv.org/abs/2409.19077)|null|
 |**2024-09-27**|**Multi-hypotheses Conditioned Point Cloud Diffusion for 3D Human Reconstruction from Occluded Images**|Donghwan Kim et.al.|[2409.18364](http://arxiv.org/abs/2409.18364)|null|
 |**2024-09-26**|**Flat'n'Fold: A Diverse Multi-Modal Dataset for Garment Perception and Manipulation**|Lipeng Zhuang et.al.|[2409.18297](http://arxiv.org/abs/2409.18297)|null|
-|**2024-09-26**|**Spatial Visibility and Temporal Dynamics: Revolutionizing Field of View Prediction in Adaptive Point Cloud Video Streaming**|Chen Li et.al.|[2409.18236](http://arxiv.org/abs/2409.18236)|null|
+|**2024-10-01**|**Spatial Visibility and Temporal Dynamics: Revolutionizing Field of View Prediction in Adaptive Point Cloud Video Streaming**|Chen Li et.al.|[2409.18236](http://arxiv.org/abs/2409.18236)|null|
 |**2024-09-26**|**EdgeRunner: Auto-regressive Auto-encoder for Artistic Mesh Generation**|Jiaxiang Tang et.al.|[2409.18114](http://arxiv.org/abs/2409.18114)|null|
 |**2024-09-30**|**DiffSSC: Semantic LiDAR Scan Completion using Denoising Diffusion Probabilistic Models**|Helin Cao et.al.|[2409.18092](http://arxiv.org/abs/2409.18092)|null|
 |**2024-09-26**|**Triple Point Masking**|Jiaming Liu et.al.|[2409.17547](http://arxiv.org/abs/2409.17547)|null|
@@ -3445,7 +3445,7 @@
 |**2023-11-08**|**VET: Visual Error Tomography for Point Cloud Completion and High-Quality Neural Rendering**|Linus Franke et.al.|[2311.04634](http://arxiv.org/abs/2311.04634)|**[link](https://github.com/lfranke/vet)**|
 |**2023-11-09**|**Rethinking Human Pose Estimation for Autonomous Driving with 3D Event Representations**|Xiaoting Yin et.al.|[2311.04591](http://arxiv.org/abs/2311.04591)|**[link](https://github.com/masterhow/eventpointpose)**|
 
-<p align=right>(<a href=#updated-on-20241002>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241003>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
