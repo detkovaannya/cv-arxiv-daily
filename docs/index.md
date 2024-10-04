@@ -7,21 +7,21 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.03
+## Updated on 2024.10.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## clustering
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-02**|**TopER: Topological Embeddings in Graph Representation Learning**|Astrit Tola et.al.|[2410.01778](http://arxiv.org/abs/2410.01778)|null|
+|**2024-10-03**|**TopER: Topological Embeddings in Graph Representation Learning**|Astrit Tola et.al.|[2410.01778](http://arxiv.org/abs/2410.01778)|null|
 |**2024-10-02**|**Integrating Protein Sequence and Expression Level to Analysis Molecular Characterization of Breast Cancer Subtypes**|Hossein Sholehrasa et.al.|[2410.01755](http://arxiv.org/abs/2410.01755)|null|
 |**2024-10-02**|**Constant pH Simulation with FMM Electrostatics in GROMACS. (B) GPU Accelerated Hamiltonian Interpolation**|Bartosz Kohnke et.al.|[2410.01754](http://arxiv.org/abs/2410.01754)|null|
 |**2024-10-02**|**Impact of Redshift Space Distortion on Persistent Homology of cosmic matter density field**|Fatemeh Abedi et.al.|[2410.01751](http://arxiv.org/abs/2410.01751)|null|
 |**2024-10-02**|**Mimicking Human Intuition: Cognitive Belief-Driven Q-Learning**|Xingrui Gu et.al.|[2410.01739](http://arxiv.org/abs/2410.01739)|null|
 |**2024-10-02**|**Recursive Abstractive Processing for Retrieval in Dynamic Datasets**|Charbel Chucri et.al.|[2410.01736](http://arxiv.org/abs/2410.01736)|null|
 |**2024-10-02**|**Spin-fermion coupling enhances pairing in the pseudogap regime of the hole-doped Hubbard model**|Yang Yu et.al.|[2410.01705](http://arxiv.org/abs/2410.01705)|null|
-|**2024-10-02**|**MOREL: Enhancing Adversarial Robustness through Multi-Objective Representation Learning**|Sedjro Salomon Hotegni et.al.|[2410.01697](http://arxiv.org/abs/2410.01697)|**[link](https://github.com/salomonhotegni/MOREL)**|
+|**2024-10-03**|**MOREL: Enhancing Adversarial Robustness through Multi-Objective Representation Learning**|Sedjro Salomon Hotegni et.al.|[2410.01697](http://arxiv.org/abs/2410.01697)|**[link](https://github.com/salomonhotegni/MOREL)**|
 |**2024-10-02**|**Scalable and Consistent Graph Neural Networks for Distributed Mesh-based Data-driven Modeling**|Shivam Barwey et.al.|[2410.01657](http://arxiv.org/abs/2410.01657)|null|
 |**2024-10-02**|**Interaction-Induced Symmetry Breaking in Circular Quantum Dots**|Andres Perez Fadon et.al.|[2410.01652](http://arxiv.org/abs/2410.01652)|null|
 |**2024-09-30**|**Predicting the rate of fast radio bursts in globular clusters from binary black hole observations**|Aryamann Rao et.al.|[2409.20564](http://arxiv.org/abs/2409.20564)|null|
@@ -2173,7 +2173,7 @@ layout: default
 |**2024-10-02**|**RADAR: Robust Two-stage Modality-incomplete Industrial Anomaly Detection**|Bingchen Miao et.al.|[2410.01737](http://arxiv.org/abs/2410.01737)|null|
 |**2024-10-02**|**$\mathcal{D(R,O)}$ Grasp: A Unified Representation of Robot and Object Interaction for Cross-Embodiment Dexterous Grasping**|Zhenyu Wei et.al.|[2410.01702](http://arxiv.org/abs/2410.01702)|null|
 |**2024-10-02**|**Task-Oriented Edge-Assisted Cooperative Data Compression, Communications and Computing for UGV-Enhanced Warehouse Logistics**|Jiaming Yang et.al.|[2410.01515](http://arxiv.org/abs/2410.01515)|null|
-|**2024-10-02**|**SurgPointTransformer: Vertebrae Shape Completion with RGB-D Data**|Aidana Massalimova et.al.|[2410.01443](http://arxiv.org/abs/2410.01443)|null|
+|**2024-10-03**|**SurgPointTransformer: Vertebrae Shape Completion with RGB-D Data**|Aidana Massalimova et.al.|[2410.01443](http://arxiv.org/abs/2410.01443)|null|
 |**2024-10-02**|**High and Low Resolution Tradeoffs in Roadside Multimodal Sensing**|Shaozu Ding et.al.|[2410.01250](http://arxiv.org/abs/2410.01250)|null|
 |**2024-10-01**|**Pose Estimation of Buried Deep-Sea Objects using 3D Vision Deep Learning Models**|Jerry Yan et.al.|[2410.01061](http://arxiv.org/abs/2410.01061)|null|
 |**2024-10-01**|**Graph-based Scalable Sampling of 3D Point Cloud Attributes**|Shashank N. Sridhara et.al.|[2410.01027](http://arxiv.org/abs/2410.01027)|null|
