@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-04**|**Sine-transform-based fast solvers for Riesz fractional nonlinear Schrödinger equations with attractive nonlinearities**|Chao Chen et.al.|[2410.03643](http://arxiv.org/abs/2410.03643)|null|
+|**2024-10-04**|**BLAST: Beyond Limber Angular power Spectra Toolkit. A fast and efficient algorithm for 3x2 pt analysis**|Sofia Chiarenza et.al.|[2410.03632](http://arxiv.org/abs/2410.03632)|null|
+|**2024-10-04**|**A Global Medical Data Security and Privacy Preserving Standards Identification Framework for Electronic Healthcare Consumers**|Vinaytosh Mishra et.al.|[2410.03621](http://arxiv.org/abs/2410.03621)|null|
+|**2024-10-04**|**Time-Reversal Symmetry in RDMFT and pCCD with Complex-Valued Orbitals**|Mauricio Rodríguez-Mayorga et.al.|[2410.03620](http://arxiv.org/abs/2410.03620)|null|
+|**2024-10-04**|**Functional Singular Value Decomposition**|Jianbin Tan et.al.|[2410.03619](http://arxiv.org/abs/2410.03619)|null|
+|**2024-10-04**|**Subexponential Algorithms for Clique Cover on Unit Disk and Unit Ball Graphs**|Tomohiro Koana et.al.|[2410.03609](http://arxiv.org/abs/2410.03609)|null|
+|**2024-10-04**|**SiMilarity-Enhanced Homophily for Multi-View Heterophilous Graph Clustering**|Jianpeng Chen et.al.|[2410.03596](http://arxiv.org/abs/2410.03596)|null|
+|**2024-10-04**|**Seizure freedom after surgical resection of diffusion-weighted MRI abnormalities**|Jonathan Horsley et.al.|[2410.03548](http://arxiv.org/abs/2410.03548)|null|
+|**2024-10-04**|**FedStein: Enhancing Multi-Domain Federated Learning Through James-Stein Estimator**|Sunny Gupta et.al.|[2410.03499](http://arxiv.org/abs/2410.03499)|**[link](https://github.com/sunnyinAI/FedStein)**|
+|**2024-10-04**|**Collaborative and Efficient Personalization with Mixtures of Adaptors**|Abdulla Jasem Almansoori et.al.|[2410.03497](http://arxiv.org/abs/2410.03497)|null|
 |**2024-10-03**|**Discovery of three magnetic He-sdOs with SALT**|M. Dorsch et.al.|[2410.02737](http://arxiv.org/abs/2410.02737)|null|
 |**2024-10-03**|**Data Similarity-Based One-Shot Clustering for Multi-Task Hierarchical Federated Learning**|Abdulmoneam Ali et.al.|[2410.02733](http://arxiv.org/abs/2410.02733)|null|
 |**2024-10-03**|**EinDecomp: Decomposition of Declaratively-Specified Machine Learning and Numerical Computations for Parallel Execution**|Daniel Bourgeois et.al.|[2410.02682](http://arxiv.org/abs/2410.02682)|null|
@@ -2180,6 +2190,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-04**|**GenSim2: Scaling Robot Data Generation with Multi-modal and Reasoning LLMs**|Pu Hua et.al.|[2410.03645](http://arxiv.org/abs/2410.03645)|null|
+|**2024-10-04**|**Unlearnable 3D Point Clouds: Class-wise Transformation Is All You Need**|Xianlong Wang et.al.|[2410.03644](http://arxiv.org/abs/2410.03644)|**[link](https://github.com/cgcl-codes/unlearnablepc)**|
+|**2024-10-04**|**Linear Transformer Topological Masking with Graph Random Features**|Isaac Reid et.al.|[2410.03462](http://arxiv.org/abs/2410.03462)|null|
+|**2024-10-03**|**LiDAR Inertial Odometry And Mapping Using Learned Registration-Relevant Features**|Zihao Dong et.al.|[2410.02961](http://arxiv.org/abs/2410.02961)|null|
 |**2024-10-03**|**Curvature Diversity-Driven Deformation and Domain Alignment for Point Cloud**|Mengxi Wu et.al.|[2410.02720](http://arxiv.org/abs/2410.02720)|**[link](https://github.com/IdanAchituve/DefRec_and_PCM)**|
 |**2024-10-03**|**Unsupervised Point Cloud Completion through Unbalanced Optimal Transport**|Taekyung Lee et.al.|[2410.02671](http://arxiv.org/abs/2410.02671)|null|
 |**2024-10-03**|**LoGDesc: Local geometric features aggregation for robust point cloud registration**|Karim Slimani et.al.|[2410.02420](http://arxiv.org/abs/2410.02420)|null|
