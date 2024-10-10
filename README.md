@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.09
+## Updated on 2024.10.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,9 +22,9 @@
 |**2024-10-07**|**A Seesaw Model Attack Algorithm for Distributed Learning**|Kun Yang et.al.|[2410.05161](http://arxiv.org/abs/2410.05161)|null|
 |**2024-10-07**|**VLM2Vec: Training Vision-Language Models for Massive Multimodal Embedding Tasks**|Ziyan Jiang et.al.|[2410.05160](http://arxiv.org/abs/2410.05160)|null|
 |**2024-10-07**|**A Digital Twin Framework for Liquid-cooled Supercomputers as Demonstrated at Exascale**|Wesley Brewer et.al.|[2410.05133](http://arxiv.org/abs/2410.05133)|null|
-|**2024-10-07**|**DIMS: Distributed Index for Similarity Search in Metric Spaces**|Yifan Zhu et.al.|[2410.05091](http://arxiv.org/abs/2410.05091)|null|
+|**2024-10-07**|**DIMS: Distributed Index for Similarity Search in Metric Spaces**|Yifan Zhu et.al.|[2410.05091](http://arxiv.org/abs/2410.05091)|**[link](https://github.com/zju-daily/dims)**|
 |**2024-10-07**|**Canonical Landau-Ginzburg models for cominuscule homogeneous spaces**|Peter Spacek et.al.|[2410.05070](http://arxiv.org/abs/2410.05070)|null|
-|**2024-10-07**|**Control-oriented Clustering of Visual Latent Representation**|Han Qi et.al.|[2410.05063](http://arxiv.org/abs/2410.05063)|null|
+|**2024-10-08**|**Control-oriented Clustering of Visual Latent Representation**|Han Qi et.al.|[2410.05063](http://arxiv.org/abs/2410.05063)|null|
 |**2024-10-07**|**Kondo Impurities at a Finite Concentration of Impurities**|Garry Goldstein et.al.|[2410.05060](http://arxiv.org/abs/2410.05060)|null|
 |**2024-10-07**|**A tower lower bound for the degree relaxation of the Regularity Lemma**|Frederik Garbe et.al.|[2410.05023](http://arxiv.org/abs/2410.05023)|null|
 |**2024-10-07**|**Testing procedures based on maximum likelihood estimation for Marked Hawkes processes**|Anna Bonnet et.al.|[2410.05008](http://arxiv.org/abs/2410.05008)|null|
@@ -2200,7 +2200,7 @@
 |**2023-11-10**|**The First Verification Test of Space-Ground Collaborative Intelligence via Cloud-Native Satellites**|Shangguang Wang et.al.|[2311.06078](http://arxiv.org/abs/2311.06078)|null|
 |**2023-11-10**|**Collaborative Inference in DNN-based Satellite Systems with Dynamic Task Streams**|Jinglong Guan et.al.|[2311.06073](http://arxiv.org/abs/2311.06073)|null|
 
-<p align=right>(<a href=#updated-on-20241009>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241010>back to top</a>)</p>
 
 ## point cloud
 
@@ -3511,7 +3511,7 @@
 |**2023-11-08**|**VET: Visual Error Tomography for Point Cloud Completion and High-Quality Neural Rendering**|Linus Franke et.al.|[2311.04634](http://arxiv.org/abs/2311.04634)|**[link](https://github.com/lfranke/vet)**|
 |**2023-11-09**|**Rethinking Human Pose Estimation for Autonomous Driving with 3D Event Representations**|Xiaoting Yin et.al.|[2311.04591](http://arxiv.org/abs/2311.04591)|**[link](https://github.com/masterhow/eventpointpose)**|
 
-<p align=right>(<a href=#updated-on-20241009>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241010>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
