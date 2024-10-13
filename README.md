@@ -26,7 +26,7 @@
 |**2024-10-10**|**Long-Range Dipole-Dipole Interactions Enabled with Guided Plasmons of Matched Nanoparticle-on-Mirror Antenna Pairs**|Bowen Kang et.al.|[2410.07907](http://arxiv.org/abs/2410.07907)|null|
 |**2024-10-10**|**Searching for the mHz variability in the TESS observations of nova-like cataclysmic variables**|A. Dobrotka et.al.|[2410.07898](http://arxiv.org/abs/2410.07898)|null|
 |**2024-10-10**|**From Logits to Hierarchies: Hierarchical Clustering made Simple**|Emanuele Palumbo et.al.|[2410.07858](http://arxiv.org/abs/2410.07858)|null|
-|**2024-10-10**|**Orthogonal Nonnegative Matrix Factorization with the Kullback-Leibler divergence**|Jean Pacifique Nkurunziza et.al.|[2410.07786](http://arxiv.org/abs/2410.07786)|null|
+|**2024-10-10**|**Orthogonal Nonnegative Matrix Factorization with the Kullback-Leibler divergence**|Jean Pacifique Nkurunziza et.al.|[2410.07786](http://arxiv.org/abs/2410.07786)|**[link](https://gitlab.com/ngillis/kl-onmf)**|
 |**2024-10-10**|**Median filter method for mean curvature flow using a random Jacobi algorithm**|Anton Ullrich et.al.|[2410.07776](http://arxiv.org/abs/2410.07776)|null|
 |**2024-10-09**|**Simulating realistic self-interacting dark matter models including small and large-angle scattering**|Cenanda Arido et.al.|[2410.07175](http://arxiv.org/abs/2410.07175)|null|
 |**2024-10-09**|**Do better language models have crisper vision?**|Jona Ruthardt et.al.|[2410.07173](http://arxiv.org/abs/2410.07173)|null|
