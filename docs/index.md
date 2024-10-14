@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.13
+## Updated on 2024.10.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## clustering
@@ -2228,7 +2228,7 @@ layout: default
 |**2024-10-10**|**Learning Equivariant Non-Local Electron Density Functionals**|Nicholas Gao et.al.|[2410.07972](http://arxiv.org/abs/2410.07972)|null|
 |**2024-10-10**|**PokeFlex: A Real-World Dataset of Deformable Objects for Robotics**|Jan Obrist et.al.|[2410.07688](http://arxiv.org/abs/2410.07688)|null|
 |**2024-10-10**|**Generalizable Indoor Human Activity Recognition Method Based on Micro-Doppler Corner Point Cloud and Dynamic Graph Learning**|Xiaopeng Yang et.al.|[2410.07542](http://arxiv.org/abs/2410.07542)|null|
-|**2024-10-09**|**NeRF-Accelerated Ecological Monitoring in Mixed-Evergreen Redwood Forest**|Adam Korycki et.al.|[2410.07418](http://arxiv.org/abs/2410.07418)|**[link](https://github.com/harelab-ucsc/redwoodnerf)**|
+|**2024-10-11**|**NeRF-Accelerated Ecological Monitoring in Mixed-Evergreen Redwood Forest**|Adam Korycki et.al.|[2410.07418](http://arxiv.org/abs/2410.07418)|**[link](https://github.com/harelab-ucsc/redwoodnerf)**|
 |**2024-10-09**|**Enhancing Performance of Point Cloud Completion Networks with Consistency Loss**|Kevin Tirta Wijaya et.al.|[2410.07298](http://arxiv.org/abs/2410.07298)|null|
 |**2024-10-09**|**ELMO: Enhanced Real-time LiDAR Motion Capture through Upsampling**|Deok-Kyeong Jang et.al.|[2410.06963](http://arxiv.org/abs/2410.06963)|null|
 |**2024-10-09**|**Perceptual Quality Assessment of Octree-RAHT Encoded 3D Point Clouds**|Dongshuai Duan et.al.|[2410.06729](http://arxiv.org/abs/2410.06729)|**[link](https://github.com/qdushl/Waterloo-Point-Cloud-Database-5.0)**|
