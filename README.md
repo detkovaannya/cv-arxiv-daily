@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-11**|**Semi-Supervised Learning of Noisy Mixture of Experts Models**|Oh-Ran Kwon et.al.|[2410.09039](http://arxiv.org/abs/2410.09039)|null|
+|**2024-10-11**|**A JWST/MIRI View of the ISM in M83: I. Resolved Molecular Hydrogen Properties, Star Formation, and Feedback**|Logan H. Jones et.al.|[2410.09020](http://arxiv.org/abs/2410.09020)|null|
+|**2024-10-11**|**Mapping the galaxy-halo connection to the galaxy bias: implication to the HOD-informed prior**|Kazuyuki Akitsu et.al.|[2410.08998](http://arxiv.org/abs/2410.08998)|null|
+|**2024-10-11**|**Rapid Grassmannian Averaging with Chebyshev Polynomials**|Brighton Ancelin et.al.|[2410.08956](http://arxiv.org/abs/2410.08956)|null|
+|**2024-10-11**|**Parallel Watershed Partitioning: GPU-Based Hierarchical Image Segmentation**|Varduhi Yeghiazaryan et.al.|[2410.08946](http://arxiv.org/abs/2410.08946)|null|
+|**2024-10-11**|**The Effect of Personalization in FedProx: A Fine-grained Analysis on Statistical Accuracy and Communication Efficiency**|Xin Yu et.al.|[2410.08934](http://arxiv.org/abs/2410.08934)|null|
+|**2024-10-11**|**Mitigation of nonlinear galaxy bias with a theoretical-error likelihood**|Abdias Aires et.al.|[2410.08930](http://arxiv.org/abs/2410.08930)|null|
+|**2024-10-11**|**HyperPg -- Prototypical Gaussians on the Hypersphere for Interpretable Deep Learning**|Maximilian Xiling Li et.al.|[2410.08925](http://arxiv.org/abs/2410.08925)|null|
+|**2024-10-11**|**MATCH: Model-Aware TVM-based Compilation for Heterogeneous Edge Devices**|Mohamed Amine Hamdi et.al.|[2410.08855](http://arxiv.org/abs/2410.08855)|null|
+|**2024-10-11**|**Noncommutative Polygonal Cluster Algebras**|Zachary Greenberg et.al.|[2410.08813](http://arxiv.org/abs/2410.08813)|null|
 |**2024-10-10**|**Distribution Guidance Network for Weakly Supervised Point Cloud Semantic Segmentation**|Zhiyi Pan et.al.|[2410.08091](http://arxiv.org/abs/2410.08091)|null|
 |**2024-10-10**|**Field theory for monitored Brownian SYK clusters**|Anastasiia Tiutiakina et.al.|[2410.08079](http://arxiv.org/abs/2410.08079)|null|
 |**2024-10-10**|**Agent-based modeling for realistic reproduction of human mobility and contact behavior to evaluate test and isolation strategies in epidemic infectious disease spread**|David Kerkmann et.al.|[2410.08050](http://arxiv.org/abs/2410.08050)|null|
@@ -2226,6 +2236,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-11**|**Gait Sequence Upsampling using Diffusion Models for single LiDAR sensors**|Jeongho Ahn et.al.|[2410.08680](http://arxiv.org/abs/2410.08680)|null|
+|**2024-10-11**|**Enhanced Robot Planning and Perception through Environment Prediction**|Vishnu Dutt Sharma et.al.|[2410.08560](http://arxiv.org/abs/2410.08560)|null|
+|**2024-10-11**|**FMCW Radar Principles and Human Activity Recognition Systems: Foundations, Techniques, and Applications**|Ziqian Bi et.al.|[2410.08483](http://arxiv.org/abs/2410.08483)|null|
+|**2024-10-11**|**HorGait: Advancing Gait Recognition with Efficient High-Order Spatial Interactions in LiDAR Point Clouds**|Jiaxing Hao et.al.|[2410.08454](http://arxiv.org/abs/2410.08454)|null|
+|**2024-10-10**|**Are We Ready for Real-Time LiDAR Semantic Segmentation in Autonomous Driving?**|Samir Abou Haidar et.al.|[2410.08365](http://arxiv.org/abs/2410.08365)|null|
+|**2024-10-10**|**Algebraic and Topological Persistence**|Luciano Melodia et.al.|[2410.08323](http://arxiv.org/abs/2410.08323)|null|
 |**2024-10-10**|**Interactive4D: Interactive 4D LiDAR Segmentation**|Ilya Fradlin et.al.|[2410.08206](http://arxiv.org/abs/2410.08206)|null|
 |**2024-10-10**|**Parameter-Efficient Fine-Tuning in Spectral Domain for Point Cloud Learning**|Dingkang Liang et.al.|[2410.08114](http://arxiv.org/abs/2410.08114)|**[link](https://github.com/jerryfeng2003/pointgst)**|
 |**2024-10-10**|**LiPO: LiDAR Inertial Odometry for ICP Comparison**|Darwin Mick et.al.|[2410.08097](http://arxiv.org/abs/2410.08097)|null|
