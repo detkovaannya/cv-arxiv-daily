@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-14**|**MEV Capture Through Time-Advantaged Arbitrage**|Robin Fritsch et.al.|[2410.10797](http://arxiv.org/abs/2410.10797)|null|
+|**2024-10-14**|**SplitLLM: Collaborative Inference of LLMs for Model Placement and Throughput Optimization**|Akrit Mudvari et.al.|[2410.10759](http://arxiv.org/abs/2410.10759)|null|
+|**2024-10-14**|**Separation of Neural Drives to Muscles from Transferred Polyfunctional Nerves using Implanted Micro-electrode Arrays**|Laura Ferrante et.al.|[2410.10694](http://arxiv.org/abs/2410.10694)|null|
+|**2024-10-14**|**Hidden Cooling Flows IV: More Details on Centaurus and the Efficiency of AGN Feedback in Clusters**|A. C. Fabian et.al.|[2410.10675](http://arxiv.org/abs/2410.10675)|null|
+|**2024-10-14**|**PCF-Lift: Panoptic Lifting by Probabilistic Contrastive Fusion**|Runsong Zhu et.al.|[2410.10659](http://arxiv.org/abs/2410.10659)|**[link](https://github.com/runsong123/pcf-lift)**|
+|**2024-10-14**|**Kub: Enabling Elastic HPC Workloads on Containerized Environments**|Daniel Medeiros et.al.|[2410.10655](http://arxiv.org/abs/2410.10655)|null|
+|**2024-10-14**|**Macroscopic Quantum States and Universal Correlations in a Disorder-Order Interface Propagating over a 1D Ground State**|Vanja Marić et.al.|[2410.10645](http://arxiv.org/abs/2410.10645)|null|
+|**2024-10-14**|**Adapt- $\infty$ : Scalable Lifelong Multimodal Instruction Tuning via Dynamic Data Selection**|Adyasha Maharana et.al.|[2410.10636](http://arxiv.org/abs/2410.10636)|null|
+|**2024-10-14**|**A GPU-accelerated Molecular Docking Workflow with Kubernetes and Apache Airflow**|Daniel Medeiros et.al.|[2410.10634](http://arxiv.org/abs/2410.10634)|null|
+|**2024-10-14**|**Partially exchangeable stochastic block models for multilayer networks**|Daniele Durante et.al.|[2410.10619](http://arxiv.org/abs/2410.10619)|null|
 |**2024-10-11**|**Semi-Supervised Learning of Noisy Mixture of Experts Models**|Oh-Ran Kwon et.al.|[2410.09039](http://arxiv.org/abs/2410.09039)|null|
 |**2024-10-11**|**A JWST/MIRI View of the ISM in M83: I. Resolved Molecular Hydrogen Properties, Star Formation, and Feedback**|Logan H. Jones et.al.|[2410.09020](http://arxiv.org/abs/2410.09020)|null|
 |**2024-10-11**|**Mapping the galaxy-halo connection to the galaxy bias: implication to the HOD-informed prior**|Kazuyuki Akitsu et.al.|[2410.08998](http://arxiv.org/abs/2410.08998)|null|
@@ -2236,6 +2246,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-14**|**Generalizable Humanoid Manipulation with Improved 3D Diffusion Policies**|Yanjie Ze et.al.|[2410.10803](http://arxiv.org/abs/2410.10803)|**[link](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy)**|
+|**2024-10-14**|**Exploiting Local Features and Range Images for Small Data Real-Time Point Cloud Semantic Segmentation**|Daniel Fusaro et.al.|[2410.10510](http://arxiv.org/abs/2410.10510)|**[link](https://github.com/bender97/waffleandrange)**|
+|**2024-10-14**|**Parameterize Structure with Differentiable Template for 3D Shape Generation**|Changfeng Ma et.al.|[2410.10399](http://arxiv.org/abs/2410.10399)|null|
+|**2024-10-14**|**A Consistency-Aware Spot-Guided Transformer for Versatile and Hierarchical Point Cloud Registration**|Renlang Huang et.al.|[2410.10295](http://arxiv.org/abs/2410.10295)|**[link](https://github.com/renlanghuang/cast)**|
+|**2024-10-14**|**Kinematic-ICP: Enhancing LiDAR Odometry with Kinematic Constraints for Wheeled Mobile Robots Moving on Planar Surfaces**|Tiziano Guadagnino et.al.|[2410.10277](http://arxiv.org/abs/2410.10277)|null|
+|**2024-10-14**|**PointNet with KAN versus PointNet with MLP for 3D Classification and Segmentation of Point Sets**|Ali Kashefi et.al.|[2410.10084](http://arxiv.org/abs/2410.10084)|null|
+|**2024-10-13**|**Markerless Aerial-Terrestrial Co-Registration of Forest Point Clouds using a Deformable Pose Graph**|Benoit Casseau et.al.|[2410.09896](http://arxiv.org/abs/2410.09896)|null|
+|**2024-10-13**|**Block-to-Scene Pre-training for Point Cloud Hybrid-Domain Masked Autoencoders**|Yaohua Zha et.al.|[2410.09886](http://arxiv.org/abs/2410.09886)|null|
+|**2024-10-13**|**Towards Reproducible Learning-based Compression**|Jiahao Pang et.al.|[2410.09872](http://arxiv.org/abs/2410.09872)|null|
+|**2024-10-13**|**Point Cloud Novelty Detection Based on Latent Representations of a General Feature Extractor**|Shizuka Akahori et.al.|[2410.09861](http://arxiv.org/abs/2410.09861)|null|
 |**2024-10-11**|**Gait Sequence Upsampling using Diffusion Models for single LiDAR sensors**|Jeongho Ahn et.al.|[2410.08680](http://arxiv.org/abs/2410.08680)|null|
 |**2024-10-11**|**Enhanced Robot Planning and Perception through Environment Prediction**|Vishnu Dutt Sharma et.al.|[2410.08560](http://arxiv.org/abs/2410.08560)|null|
 |**2024-10-11**|**FMCW Radar Principles and Human Activity Recognition Systems: Foundations, Techniques, and Applications**|Ziqian Bi et.al.|[2410.08483](http://arxiv.org/abs/2410.08483)|null|
