@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-16**|**Vaccinating Federated Learning for Robust Modulation Classification in Distributed Wireless Networks**|Hunmin Lee et.al.|[2410.12772](http://arxiv.org/abs/2410.12772)|null|
+|**2024-10-16**|**Toward Optimal-Complexity Hash-Based Asynchronous MVBA with Optimal Resilience**|Jovan Komatovic et.al.|[2410.12755](http://arxiv.org/abs/2410.12755)|null|
+|**2024-10-16**|**The bulk one-arm exponent for the CLE $_{κ'}$ percolations**|Haoyu Liu et.al.|[2410.12724](http://arxiv.org/abs/2410.12724)|null|
+|**2024-10-16**|**HEnRY: A Multi-Agent System Framework for Multi-Domain Contexts**|Emmanuele Lacavalla et.al.|[2410.12720](http://arxiv.org/abs/2410.12720)|**[link](https://github.com/2mmanu/henry)**|
+|**2024-10-16**|**A Gamma-ray Stacking Survey of Fermi-LAT Undetected Globular Clusters**|Owen K. Henry et.al.|[2410.12711](http://arxiv.org/abs/2410.12711)|null|
+|**2024-10-16**|**FusionLLM: A Decentralized LLM Training System on Geo-distributed GPUs with Adaptive Compression**|Zhenheng Tang et.al.|[2410.12707](http://arxiv.org/abs/2410.12707)|null|
+|**2024-10-16**|**Optimization and Application of Cloud-based Deep Learning Architecture for Multi-Source Data Prediction**|Yang Zhang et.al.|[2410.12642](http://arxiv.org/abs/2410.12642)|null|
+|**2024-10-16**|**A New Angle on Benchmarking Noncovalent Interactions**|Vladimir Fishman et.al.|[2410.12603](http://arxiv.org/abs/2410.12603)|null|
+|**2024-10-16**|**FALCON: Pinpointing and Mitigating Stragglers for Large-Scale Hybrid-Parallel Training**|Tianyuan Wu et.al.|[2410.12588](http://arxiv.org/abs/2410.12588)|null|
+|**2024-10-16**|**SEMSO: A Secure and Efficient Multi-Data Source Blockchain Oracle**|Youquan Xian et.al.|[2410.12540](http://arxiv.org/abs/2410.12540)|null|
 |**2024-10-15**|**GaVaMoE: Gaussian-Variational Gated Mixture of Experts for Explainable Recommendation**|Fei Tang et.al.|[2410.11841](http://arxiv.org/abs/2410.11841)|null|
 |**2024-10-15**|**An incremental exact algorithm for the hyper-rectangular clustering problem with axis-parallel clusters**|Diego Delle Donne et.al.|[2410.11803](http://arxiv.org/abs/2410.11803)|null|
 |**2024-10-16**|**Can Search-Based Testing with Pareto Optimization Effectively Cover Failure-Revealing Test Inputs?**|Lev Sorokin et.al.|[2410.11769](http://arxiv.org/abs/2410.11769)|null|
