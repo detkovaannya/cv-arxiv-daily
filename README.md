@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-17**|**Abundances of iron-peak elements in 58 bulge spheroid stars from APOGEE**|B. Barbuy et.al.|[2410.13751](http://arxiv.org/abs/2410.13751)|null|
+|**2024-10-17**|**Multiple collisions in N59 bubble: Sequential cloud-cloud collisions**|En Chen et.al.|[2410.13742](http://arxiv.org/abs/2410.13742)|null|
+|**2024-10-17**|**Microcanonical Monte Carlo simulation of opinion dynamics under the influence of mass media**|Yasmín Navarrete et.al.|[2410.13739](http://arxiv.org/abs/2410.13739)|null|
+|**2024-10-17**|**Tropicalizing binary geometries**|Shelby Cox et.al.|[2410.13652](http://arxiv.org/abs/2410.13652)|null|
+|**2024-10-17**|**Millisecond pulsars phenomenology under the light of graph theory**|C. R. García et.al.|[2410.13650](http://arxiv.org/abs/2410.13650)|null|
+|**2024-10-17**|**An Active Learning Framework for Inclusive Generation by Large Language Models**|Sabit Hassan et.al.|[2410.13641](http://arxiv.org/abs/2410.13641)|null|
+|**2024-10-17**|**Path integral Monte Carlo in a discrete variable representation with Gibbs sampling: dipolar planar rotor chain**|Wenxue Zhang et.al.|[2410.13633](http://arxiv.org/abs/2410.13633)|null|
+|**2024-10-17**|**Towards Satellite Non-IID Imagery: A Spectral Clustering-Assisted Federated Learning Approach**|Luyao Zou et.al.|[2410.13602](http://arxiv.org/abs/2410.13602)|null|
+|**2024-10-17**|**SPF-EMPC Planner: A real-time multi-robot trajectory planner for complex environments with uncertainties**|Peng Liu et.al.|[2410.13573](http://arxiv.org/abs/2410.13573)|null|
+|**2024-10-17**|**Wetting Transition on Trees I: Percolation With Clustering**|Aser Cortines et.al.|[2410.13551](http://arxiv.org/abs/2410.13551)|null|
 |**2024-10-16**|**Vaccinating Federated Learning for Robust Modulation Classification in Distributed Wireless Networks**|Hunmin Lee et.al.|[2410.12772](http://arxiv.org/abs/2410.12772)|null|
 |**2024-10-16**|**Toward Optimal-Complexity Hash-Based Asynchronous MVBA with Optimal Resilience**|Jovan Komatovic et.al.|[2410.12755](http://arxiv.org/abs/2410.12755)|null|
 |**2024-10-16**|**The bulk one-arm exponent for the CLE $_{κ'}$ percolations**|Haoyu Liu et.al.|[2410.12724](http://arxiv.org/abs/2410.12724)|null|
@@ -2266,6 +2276,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-17**|**VLM-Grounder: A VLM Agent for Zero-Shot 3D Visual Grounding**|Runsen Xu et.al.|[2410.13860](http://arxiv.org/abs/2410.13860)|**[link](https://github.com/openrobotlab/vlm-grounder)**|
+|**2024-10-17**|**DualQuat-LOAM: LiDAR Odometry and Mapping parametrized on Dual Quaternions**|Edison P. Velasco-Sánchez et.al.|[2410.13541](http://arxiv.org/abs/2410.13541)|null|
+|**2024-10-17**|**Generative Adversarial Synthesis of Radar Point Cloud Scenes**|Muhammad Saad Nawaz et.al.|[2410.13526](http://arxiv.org/abs/2410.13526)|null|
+|**2024-10-17**|**Railway LiDAR semantic segmentation based on intelligent semi-automated data annotation**|Florian Wulff et.al.|[2410.13383](http://arxiv.org/abs/2410.13383)|null|
+|**2024-10-17**|**Self-Supervised Scene Flow Estimation with Point-Voxel Fusion and Surface Representation**|Xuezhi Xiang et.al.|[2410.13355](http://arxiv.org/abs/2410.13355)|null|
+|**2024-10-17**|**LESS: Label-Efficient and Single-Stage Referring 3D Segmentation**|Xuexun Liu et.al.|[2410.13294](http://arxiv.org/abs/2410.13294)|null|
+|**2024-10-17**|**TRLO: An Efficient LiDAR Odometry with 3D Dynamic Object Tracking and Removal**|Yanpeng Jia et.al.|[2410.13240](http://arxiv.org/abs/2410.13240)|null|
+|**2024-10-16**|**Generalized local polynomial reproductions**|Thomas Hangelbroek et.al.|[2410.12973](http://arxiv.org/abs/2410.12973)|null|
 |**2024-10-15**|**Generative Image Steganography Based on Point Cloud**|Zhong Yangjie et.al.|[2410.11673](http://arxiv.org/abs/2410.11673)|null|
 |**2024-10-15**|**Simultaneous Diffusion Sampling for Conditional LiDAR Generation**|Ryan Faulkner et.al.|[2410.11628](http://arxiv.org/abs/2410.11628)|null|
 |**2024-10-15**|**DeformPAM: Data-Efficient Learning for Long-horizon Deformable Object Manipulation via Preference-based Action Alignment**|Wendi Chen et.al.|[2410.11584](http://arxiv.org/abs/2410.11584)|null|
