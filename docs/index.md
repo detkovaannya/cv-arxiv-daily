@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.20
+## Updated on 2024.10.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## clustering
@@ -21,7 +21,7 @@ layout: default
 |**2024-10-17**|**Millisecond pulsars phenomenology under the light of graph theory**|C. R. García et.al.|[2410.13650](http://arxiv.org/abs/2410.13650)|null|
 |**2024-10-17**|**An Active Learning Framework for Inclusive Generation by Large Language Models**|Sabit Hassan et.al.|[2410.13641](http://arxiv.org/abs/2410.13641)|null|
 |**2024-10-17**|**Path integral Monte Carlo in a discrete variable representation with Gibbs sampling: dipolar planar rotor chain**|Wenxue Zhang et.al.|[2410.13633](http://arxiv.org/abs/2410.13633)|null|
-|**2024-10-17**|**Towards Satellite Non-IID Imagery: A Spectral Clustering-Assisted Federated Learning Approach**|Luyao Zou et.al.|[2410.13602](http://arxiv.org/abs/2410.13602)|null|
+|**2024-10-18**|**Towards Satellite Non-IID Imagery: A Spectral Clustering-Assisted Federated Learning Approach**|Luyao Zou et.al.|[2410.13602](http://arxiv.org/abs/2410.13602)|null|
 |**2024-10-17**|**SPF-EMPC Planner: A real-time multi-robot trajectory planner for complex environments with uncertainties**|Peng Liu et.al.|[2410.13573](http://arxiv.org/abs/2410.13573)|null|
 |**2024-10-17**|**Wetting Transition on Trees I: Percolation With Clustering**|Aser Cortines et.al.|[2410.13551](http://arxiv.org/abs/2410.13551)|null|
 |**2024-10-16**|**Vaccinating Federated Learning for Robust Modulation Classification in Distributed Wireless Networks**|Hunmin Lee et.al.|[2410.12772](http://arxiv.org/abs/2410.12772)|null|
