@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-22**|**Parallel Cluster-BFS and Applications to Shortest Paths**|Letong Wang et.al.|[2410.17226](http://arxiv.org/abs/2410.17226)|null|
+|**2024-10-22**|**Dipolar Attraction of Superparamagnetic Nanoparticles**|Frederik L. Durhuus et.al.|[2410.17201](http://arxiv.org/abs/2410.17201)|null|
+|**2024-10-22**|**Layered LA-MAPF: a decomposition of large agent MAPF instance to accelerate solving without compromising solvability**|Zhuo Yao et.al.|[2410.17160](http://arxiv.org/abs/2410.17160)|**[link](https://github.com/joeyao-bit/layeredmapf)**|
+|**2024-10-22**|**Recovering the cluster picture of a polynomial over a discretely valued field**|Lilybelle Cowland Kellock et.al.|[2410.17148](http://arxiv.org/abs/2410.17148)|null|
+|**2024-10-22**|**Security and RAS in the Computing Continuum**|Martí Alonso et.al.|[2410.17116](http://arxiv.org/abs/2410.17116)|null|
+|**2024-10-22**|**The FLAMINGO project: Baryon effects on the matter power spectrum**|Matthieu Schaller et.al.|[2410.17109](http://arxiv.org/abs/2410.17109)|null|
+|**2024-10-22**|**FlowTracer: A Tool for Uncovering Network Path Usage Imbalance in AI Training Clusters**|Hasibul Jamil et.al.|[2410.17078](http://arxiv.org/abs/2410.17078)|null|
+|**2024-10-22**|**Optimizing Mixture-of-Experts Inference Time Combining Model Deployment and Communication Scheduling**|Jialong Li et.al.|[2410.17043](http://arxiv.org/abs/2410.17043)|null|
+|**2024-10-22**|**Prototype and Instance Contrastive Learning for Unsupervised Domain Adaptation in Speaker Verification**|Wen Huang et.al.|[2410.17033](http://arxiv.org/abs/2410.17033)|null|
+|**2024-10-22**|**From bubbles to clusters: Multiple solutions to the Allen--Cahn system**|João Henrique de Andrade et.al.|[2410.17026](http://arxiv.org/abs/2410.17026)|null|
 |**2024-10-21**|**Origin of the metal-rich vs. metal-poor globular clusters dichotomies in the Milky Way: A sign of low black hole natal kicks**|Ali Rostami-Shirazi et.al.|[2410.16276](http://arxiv.org/abs/2410.16276)|null|
 |**2024-10-21**|**Random Spin Committee Approach For Smooth Interatomic Potentials**|Vlad Cărare et.al.|[2410.16252](http://arxiv.org/abs/2410.16252)|null|
 |**2024-10-21**|**Testing early physics solutions to the Hubble tension with CMB data**|Raphaël Kou et.al.|[2410.16185](http://arxiv.org/abs/2410.16185)|null|
@@ -2290,6 +2300,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-22**|**EPContrast: Effective Point-level Contrastive Learning for Large-scale Point Cloud Understanding**|Zhiyi Pan et.al.|[2410.17207](http://arxiv.org/abs/2410.17207)|null|
+|**2024-10-22**|**Joint Point Cloud Upsampling and Cleaning with Octree-based CNNs**|Jihe Li et.al.|[2410.17001](http://arxiv.org/abs/2410.17001)|**[link](https://github.com/octree-nn/upsample-clean)**|
+|**2024-10-22**|**E-3DGS: Gaussian Splatting with Exposure and Motion Events**|Xiaoting Yin et.al.|[2410.16995](http://arxiv.org/abs/2410.16995)|null|
+|**2024-10-21**|**Implicit Contact Diffuser: Sequential Contact Reasoning with Latent Point Cloud Diffusion**|Zixuan Huang et.al.|[2410.16571](http://arxiv.org/abs/2410.16571)|null|
 |**2024-10-21**|**MBPU: A Plug-and-Play State Space Model for Point Cloud Upsamping with Fast Point Rendering**|Jiayi Song et.al.|[2410.15941](http://arxiv.org/abs/2410.15941)|null|
 |**2024-10-21**|**Triplane Grasping: Efficient 6-DoF Grasping with Single RGB Images**|Yiming Li et.al.|[2410.15879](http://arxiv.org/abs/2410.15879)|null|
 |**2024-10-21**|**LiOn-XA: Unsupervised Domain Adaptation via LiDAR-Only Cross-Modal Adversarial Training**|Thomas Kreutz et.al.|[2410.15833](http://arxiv.org/abs/2410.15833)|**[link](https://github.com/jensle97/lion-xa)**|
