@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-23**|**The physical properties of Cluster Chains**|Laura Posch et.al.|[2410.18080](http://arxiv.org/abs/2410.18080)|null|
+|**2024-10-23**|**Evaluating the performance of machine-learning-based phase pickers when applied to ocean bottom seismic data: Blanco oceanic transform fault as a case study**|Min Liu et.al.|[2410.18041](http://arxiv.org/abs/2410.18041)|null|
+|**2024-10-23**|**POD-Attention: Unlocking Full Prefill-Decode Overlap for Faster LLM Inference**|Aditya K Kamath et.al.|[2410.18038](http://arxiv.org/abs/2410.18038)|null|
+|**2024-10-23**|**Triplets of local minima in a high-dimensional random landscape: correlations, clustering, and memoryless activated jumps**|Alessandro Pacco et.al.|[2410.18010](http://arxiv.org/abs/2410.18010)|null|
+|**2024-10-23**|**metasnf: Meta Clustering with Similarity Network Fusion in R**|Prashanth S Velayudhan et.al.|[2410.17976](http://arxiv.org/abs/2410.17976)|null|
+|**2024-10-23**|**MCUBERT: Memory-Efficient BERT Inference on Commodity Microcontrollers**|Zebin Yang et.al.|[2410.17957](http://arxiv.org/abs/2410.17957)|null|
+|**2024-10-23**|**Radio sensitivity to a new population of millisecond pulsars in the Sagittarius Dwarf Spheroidal Galaxy**|Lucia Gebauer-Werner et.al.|[2410.17956](http://arxiv.org/abs/2410.17956)|null|
+|**2024-10-23**|**Slot: Provenance-Driven APT Detection through Graph Reinforcement Learning**|Wei Qiao et.al.|[2410.17910](http://arxiv.org/abs/2410.17910)|null|
+|**2024-10-23**|**Accuracy of Charge Densities in Electronic Structure Calculations**|Moritz Gubler et.al.|[2410.17866](http://arxiv.org/abs/2410.17866)|null|
+|**2024-10-23**|**The Most Massive Early-type Galaxies Exhibit Tidal Features More Frequently in Lower-density Environments**|Yongmin Yoon et.al.|[2410.17862](http://arxiv.org/abs/2410.17862)|null|
 |**2024-10-22**|**Parallel Cluster-BFS and Applications to Shortest Paths**|Letong Wang et.al.|[2410.17226](http://arxiv.org/abs/2410.17226)|null|
 |**2024-10-22**|**Dipolar Attraction of Superparamagnetic Nanoparticles**|Frederik L. Durhuus et.al.|[2410.17201](http://arxiv.org/abs/2410.17201)|null|
 |**2024-10-22**|**Layered LA-MAPF: a decomposition of large agent MAPF instance to accelerate solving without compromising solvability**|Zhuo Yao et.al.|[2410.17160](http://arxiv.org/abs/2410.17160)|**[link](https://github.com/joeyao-bit/layeredmapf)**|
@@ -2300,6 +2310,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-23**|**A Pipeline for Segmenting and Structuring RGB-D Data for Robotics Applications**|Zhiwu Zheng et.al.|[2410.17988](http://arxiv.org/abs/2410.17988)|null|
+|**2024-10-23**|**Gaussian Process Distance Fields Obstacle and Ground Constraints for Safe Navigation**|Monisha Mushtary Uttsha et.al.|[2410.17831](http://arxiv.org/abs/2410.17831)|null|
+|**2024-10-23**|**Att2CPC: Attention-Guided Lossy Attribute Compression of Point Clouds**|Kai Liu et.al.|[2410.17823](http://arxiv.org/abs/2410.17823)|**[link](https://github.com/i2-multimedia-lab/att2cpc)**|
+|**2024-10-23**|**Pointer: An Energy-Efficient ReRAM-based Point Cloud Recognition Accelerator with Inter-layer and Intra-layer Optimizations**|Qijun Zhang et.al.|[2410.17782](http://arxiv.org/abs/2410.17782)|null|
+|**2024-10-23**|**Quasi-Medial Distance Field (Q-MDF): A Robust Method for Approximating and Discretizing Neural Medial Axis**|Jiayi Kong et.al.|[2410.17774](http://arxiv.org/abs/2410.17774)|null|
+|**2024-10-23**|**Topology meets Machine Learning: An Introduction using the Euler Characteristic Transform**|Bastian Rieck et.al.|[2410.17760](http://arxiv.org/abs/2410.17760)|null|
 |**2024-10-22**|**EPContrast: Effective Point-level Contrastive Learning for Large-scale Point Cloud Understanding**|Zhiyi Pan et.al.|[2410.17207](http://arxiv.org/abs/2410.17207)|null|
 |**2024-10-22**|**Joint Point Cloud Upsampling and Cleaning with Octree-based CNNs**|Jihe Li et.al.|[2410.17001](http://arxiv.org/abs/2410.17001)|**[link](https://github.com/octree-nn/upsample-clean)**|
 |**2024-10-22**|**E-3DGS: Gaussian Splatting with Exposure and Motion Events**|Xiaoting Yin et.al.|[2410.16995](http://arxiv.org/abs/2410.16995)|null|
