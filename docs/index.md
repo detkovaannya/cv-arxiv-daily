@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-24**|**Very massive stars and Nitrogen-emitting galaxies**|Jorick S. Vink et.al.|[2410.18980](http://arxiv.org/abs/2410.18980)|null|
+|**2024-10-24**|**PRODIGE -- envelope to disk with NOEMA. IV. An infalling gas bridge surrounding two Class 0/I systems in L1448N**|C. Gieser et.al.|[2410.18941](http://arxiv.org/abs/2410.18941)|null|
+|**2024-10-24**|**LoRANN: Low-Rank Matrix Factorization for Approximate Nearest Neighbor Search**|Elias Jääsaari et.al.|[2410.18926](http://arxiv.org/abs/2410.18926)|**[link](https://github.com/ejaasaari/lorann)**|
+|**2024-10-24**|**Twins in Diversity: Understanding circumstellar disk evolution in the twin clusters of W5 complex**|Belinda Damian et.al.|[2410.18920](http://arxiv.org/abs/2410.18920)|null|
+|**2024-10-24**|**Optimizing Edge Offloading Decisions for Object Detection**|Jiaming Qiu et.al.|[2410.18919](http://arxiv.org/abs/2410.18919)|null|
+|**2024-10-24**|**Superfluidity of quasi-2D He-4 droplets on graphite**|K. M. Kolevski et.al.|[2410.18911](http://arxiv.org/abs/2410.18911)|null|
+|**2024-10-24**|**A quantum computing approach to fixed-node Monte Carlo using classical shadows**|Nick S. Blunt et.al.|[2410.18901](http://arxiv.org/abs/2410.18901)|null|
+|**2024-10-24**|**Generation of synthetic financial time series by diffusion models**|Tomonori Takahashi et.al.|[2410.18897](http://arxiv.org/abs/2410.18897)|null|
+|**2024-10-24**|**FedSPD: A Soft-clustering Approach for Personalized Decentralized Federated Learning**|I-Cheng Lin et.al.|[2410.18862](http://arxiv.org/abs/2410.18862)|null|
+|**2024-10-24**|**Phaseless auxiliary-field quantum Monte Carlo method for cavity-QED matter systems**|Lukas Weber et.al.|[2410.18838](http://arxiv.org/abs/2410.18838)|null|
 |**2024-10-23**|**The physical properties of Cluster Chains**|Laura Posch et.al.|[2410.18080](http://arxiv.org/abs/2410.18080)|null|
 |**2024-10-23**|**Evaluating the performance of machine-learning-based phase pickers when applied to ocean bottom seismic data: Blanco oceanic transform fault as a case study**|Min Liu et.al.|[2410.18041](http://arxiv.org/abs/2410.18041)|null|
 |**2024-10-23**|**POD-Attention: Unlocking Full Prefill-Decode Overlap for Faster LLM Inference**|Aditya K Kamath et.al.|[2410.18038](http://arxiv.org/abs/2410.18038)|null|
@@ -2310,6 +2320,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-24**|**PointPatchRL -- Masked Reconstruction Improves Reinforcement Learning on Point Clouds**|Balázs Gyenes et.al.|[2410.18800](http://arxiv.org/abs/2410.18800)|null|
+|**2024-10-24**|**Moving Object Segmentation in Point Cloud Data using Hidden Markov Models**|Vedant Bhandari et.al.|[2410.18638](http://arxiv.org/abs/2410.18638)|**[link](https://github.com/vb44/hmm-mos)**|
+|**2024-10-24**|**Unsupervised semantic segmentation of urban high-density multispectral point clouds**|Oona Oinonen et.al.|[2410.18520](http://arxiv.org/abs/2410.18520)|null|
+|**2024-10-24**|**Monge-Ampere Regularization for Learning Arbitrary Shapes from Point Clouds**|Chuanxiang Yang et.al.|[2410.18477](http://arxiv.org/abs/2410.18477)|null|
 |**2024-10-23**|**A Pipeline for Segmenting and Structuring RGB-D Data for Robotics Applications**|Zhiwu Zheng et.al.|[2410.17988](http://arxiv.org/abs/2410.17988)|null|
 |**2024-10-23**|**Gaussian Process Distance Fields Obstacle and Ground Constraints for Safe Navigation**|Monisha Mushtary Uttsha et.al.|[2410.17831](http://arxiv.org/abs/2410.17831)|null|
 |**2024-10-23**|**Att2CPC: Attention-Guided Lossy Attribute Compression of Point Clouds**|Kai Liu et.al.|[2410.17823](http://arxiv.org/abs/2410.17823)|**[link](https://github.com/i2-multimedia-lab/att2cpc)**|
