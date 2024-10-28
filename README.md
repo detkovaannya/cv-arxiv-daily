@@ -36,7 +36,7 @@
 |**2024-10-23**|**MCUBERT: Memory-Efficient BERT Inference on Commodity Microcontrollers**|Zebin Yang et.al.|[2410.17957](http://arxiv.org/abs/2410.17957)|null|
 |**2024-10-23**|**Radio sensitivity to a new population of millisecond pulsars in the Sagittarius Dwarf Spheroidal Galaxy**|Lucia Gebauer-Werner et.al.|[2410.17956](http://arxiv.org/abs/2410.17956)|null|
 |**2024-10-23**|**Slot: Provenance-Driven APT Detection through Graph Reinforcement Learning**|Wei Qiao et.al.|[2410.17910](http://arxiv.org/abs/2410.17910)|null|
-|**2024-10-23**|**Accuracy of Charge Densities in Electronic Structure Calculations**|Moritz Gubler et.al.|[2410.17866](http://arxiv.org/abs/2410.17866)|null|
+|**2024-10-23**|**Accuracy of Charge Densities in Electronic Structure Calculations**|Moritz Gubler et.al.|[2410.17866](http://arxiv.org/abs/2410.17866)|**[link](https://github.com/moritzgubler/mrchem)**|
 |**2024-10-23**|**The Most Massive Early-type Galaxies Exhibit Tidal Features More Frequently in Lower-density Environments**|Yongmin Yoon et.al.|[2410.17862](http://arxiv.org/abs/2410.17862)|null|
 |**2024-10-22**|**Parallel Cluster-BFS and Applications to Shortest Paths**|Letong Wang et.al.|[2410.17226](http://arxiv.org/abs/2410.17226)|null|
 |**2024-10-22**|**Dipolar Attraction of Superparamagnetic Nanoparticles**|Frederik L. Durhuus et.al.|[2410.17201](http://arxiv.org/abs/2410.17201)|null|
@@ -56,8 +56,8 @@
 |**2024-10-21**|**Projective Quantum Eigensolver with Generalized Operators**|Dibyendu Mondal et.al.|[2410.16111](http://arxiv.org/abs/2410.16111)|null|
 |**2024-10-21**|**DUMBO: Making durable read-only transactions fly on hardware transactional memory**|João Barreto et.al.|[2410.16110](http://arxiv.org/abs/2410.16110)|null|
 |**2024-10-21**|**Final Report for CHESS: Cloud, High-Performance Computing, and Edge for Science and Security**|Nathan Tallent et.al.|[2410.16093](http://arxiv.org/abs/2410.16093)|null|
-|**2024-10-21**|**HyperDrive: Scheduling Serverless Functions in the Edge-Cloud-Space 3D Continuum**|Thomas Pusztai et.al.|[2410.16026](http://arxiv.org/abs/2410.16026)|null|
-|**2024-10-21**|**Findings of the Third Shared Task on Multilingual Coreference Resolution**|Michal Novák et.al.|[2410.15949](http://arxiv.org/abs/2410.15949)|null|
+|**2024-10-21**|**HyperDrive: Scheduling Serverless Functions in the Edge-Cloud-Space 3D Continuum**|Thomas Pusztai et.al.|[2410.16026](http://arxiv.org/abs/2410.16026)|**[link](https://github.com/polaris-slo-cloud/hyper-drive)**|
+|**2024-10-21**|**Findings of the Third Shared Task on Multilingual Coreference Resolution**|Michal Novák et.al.|[2410.15949](http://arxiv.org/abs/2410.15949)|**[link](https://github.com/ufal/crac2024_zero_nodes_baseline)**|
 |**2024-10-18**|**A subquadratic certification scheme for P5-free graphs**|Nicolas Bousquet et.al.|[2410.14658](http://arxiv.org/abs/2410.14658)|null|
 |**2024-10-18**|**GenEOL: Harnessing the Generative Power of LLMs for Training-Free Sentence Embeddings**|Raghuveer Thirukovalluru et.al.|[2410.14635](http://arxiv.org/abs/2410.14635)|null|
 |**2024-10-18**|**Super-Jeans fragmentation in massive star-forming regions revealed by triangulation analysis**|Guang-Xing Li et.al.|[2410.14610](http://arxiv.org/abs/2410.14610)|null|
@@ -2338,7 +2338,7 @@
 |**2024-10-23**|**Topology meets Machine Learning: An Introduction using the Euler Characteristic Transform**|Bastian Rieck et.al.|[2410.17760](http://arxiv.org/abs/2410.17760)|null|
 |**2024-10-22**|**EPContrast: Effective Point-level Contrastive Learning for Large-scale Point Cloud Understanding**|Zhiyi Pan et.al.|[2410.17207](http://arxiv.org/abs/2410.17207)|null|
 |**2024-10-22**|**Joint Point Cloud Upsampling and Cleaning with Octree-based CNNs**|Jihe Li et.al.|[2410.17001](http://arxiv.org/abs/2410.17001)|**[link](https://github.com/octree-nn/upsample-clean)**|
-|**2024-10-22**|**E-3DGS: Gaussian Splatting with Exposure and Motion Events**|Xiaoting Yin et.al.|[2410.16995](http://arxiv.org/abs/2410.16995)|null|
+|**2024-10-22**|**E-3DGS: Gaussian Splatting with Exposure and Motion Events**|Xiaoting Yin et.al.|[2410.16995](http://arxiv.org/abs/2410.16995)|**[link](https://github.com/masterhow/e-3dgs)**|
 |**2024-10-21**|**Implicit Contact Diffuser: Sequential Contact Reasoning with Latent Point Cloud Diffusion**|Zixuan Huang et.al.|[2410.16571](http://arxiv.org/abs/2410.16571)|null|
 |**2024-10-21**|**MBPU: A Plug-and-Play State Space Model for Point Cloud Upsamping with Fast Point Rendering**|Jiayi Song et.al.|[2410.15941](http://arxiv.org/abs/2410.15941)|null|
 |**2024-10-21**|**Triplane Grasping: Efficient 6-DoF Grasping with Single RGB Images**|Yiming Li et.al.|[2410.15879](http://arxiv.org/abs/2410.15879)|null|
@@ -2348,7 +2348,7 @@
 |**2024-10-21**|**RANSAC Back to SOTA: A Two-stage Consensus Filtering for Real-time 3D Registration**|Pengcheng Shi et.al.|[2410.15682](http://arxiv.org/abs/2410.15682)|**[link](https://github.com/shipc-ai/tcf)**|
 |**2024-10-22**|**Fully Explicit Dynamic Gaussian Splatting**|Junoh Lee et.al.|[2410.15629](http://arxiv.org/abs/2410.15629)|null|
 |**2024-10-21**|**Joint Top-Down and Bottom-Up Frameworks for 3D Visual Grounding**|Yang Liu et.al.|[2410.15615](http://arxiv.org/abs/2410.15615)|null|
-|**2024-10-20**|**Explainability of Point Cloud Neural Networks Using SMILE: Statistical Model-Agnostic Interpretability with Local Explanations**|Seyed Mohammad Ahmadi et.al.|[2410.15374](http://arxiv.org/abs/2410.15374)|null|
+|**2024-10-20**|**Explainability of Point Cloud Neural Networks Using SMILE: Statistical Model-Agnostic Interpretability with Local Explanations**|Seyed Mohammad Ahmadi et.al.|[2410.15374](http://arxiv.org/abs/2410.15374)|**[link](https://github.com/Dependable-Intelligent-Systems-Lab/xwhy/tree/main/examples/Point%20Cloud%20Examples)**|
 |**2024-10-18**|**Convergence of Manifold Filter-Combine Networks**|David R. Johnson et.al.|[2410.14639](http://arxiv.org/abs/2410.14639)|**[link](https://github.com/dj408/mfcn)**|
 |**2024-10-18**|**JAMUN: Transferable Molecular Conformational Ensemble Generation with Walk-Jump Sampling**|Ameya Daigavane et.al.|[2410.14621](http://arxiv.org/abs/2410.14621)|null|
 |**2024-10-18**|**Graph Optimality-Aware Stochastic LiDAR Bundle Adjustment with Progressive Spatial Smoothing**|Jianping Li et.al.|[2410.14565](http://arxiv.org/abs/2410.14565)|null|
@@ -2874,7 +2874,7 @@
 |**2024-06-06**|**Enhancing Temporal Consistency in Video Editing by Reconstructing Videos with 3D Gaussian Splatting**|Inkyu Shin et.al.|[2406.02541](http://arxiv.org/abs/2406.02541)|null|
 |**2024-06-04**|**Node-Level Topological Representation Learning on Point Clouds**|Vincent P. Grande et.al.|[2406.02300](http://arxiv.org/abs/2406.02300)|**[link](https://github.com/vincent-grande/topf)**|
 |**2024-06-04**|**M3DM-NR: RGB-3D Noisy-Resistant Industrial Anomaly Detection via Multimodal Denoising**|Chengjie Wang et.al.|[2406.02263](http://arxiv.org/abs/2406.02263)|null|
-|**2024-06-05**|**AROMA: Preserving Spatial Structure for Latent PDE Modeling with Local Neural Fields**|Louis Serrano et.al.|[2406.02176](http://arxiv.org/abs/2406.02176)|null|
+|**2024-06-05**|**AROMA: Preserving Spatial Structure for Latent PDE Modeling with Local Neural Fields**|Louis Serrano et.al.|[2406.02176](http://arxiv.org/abs/2406.02176)|**[link](https://github.com/louisserrano/aroma)**|
 |**2024-06-04**|**Radar Spectra-Language Model for Automotive Scene Parsing**|Mariia Pushkareva et.al.|[2406.02158](http://arxiv.org/abs/2406.02158)|null|
 |**2024-06-04**|**MS-Mapping: Multi-session LiDAR Mapping with Wasserstein-based Keyframe Selection**|Xiangcheng Hu et.al.|[2406.02096](http://arxiv.org/abs/2406.02096)|**[link](https://github.com/jokerjohn/ms-mapping)**|
 |**2024-06-04**|**FaceCom: Towards High-fidelity 3D Facial Shape Completion via Optimization and Inpainting Guidance**|Yinglong Li et.al.|[2406.02074](http://arxiv.org/abs/2406.02074)|**[link](https://github.com/dragonylee/facecom)**|
