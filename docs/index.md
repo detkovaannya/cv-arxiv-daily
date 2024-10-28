@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-25**|**Validity in Network-Agnostic Byzantine Agreement**|Andrei Constantinescu et.al.|[2410.19721](http://arxiv.org/abs/2410.19721)|null|
+|**2024-10-25**|**Testing Refracted Gravity with kinematics of galaxy clusters**|Lorenzo Pizzuti et.al.|[2410.19698](http://arxiv.org/abs/2410.19698)|null|
+|**2024-10-25**|**Estimating the Masses of Supercluster-Scale Filaments from Redshift Dispersions**|Mary Crone Odekon et.al.|[2410.19659](http://arxiv.org/abs/2410.19659)|null|
+|**2024-10-25**|**How Critical is Site-Specific RAN Optimization? 5G Open-RAN Uplink Air Interface Performance Test and Optimization from Macro-Cell CIR Data**|Johnathan Corgan et.al.|[2410.19565](http://arxiv.org/abs/2410.19565)|null|
+|**2024-10-25**|**Detection of Emerging Infectious Diseases in Lung CT based on Spatial Anomaly Patterns**|Branko Mitic et.al.|[2410.19535](http://arxiv.org/abs/2410.19535)|null|
+|**2024-10-25**|**Near-Optimal Deterministic Network Decomposition and Ruling Set, and Improved MIS**|Mohsen Ghaffari et.al.|[2410.19516](http://arxiv.org/abs/2410.19516)|null|
+|**2024-10-25**|**Recent advances in coupled cluster computations of open-shell atomic nuclei**|Francesco Marino et.al.|[2410.19511](http://arxiv.org/abs/2410.19511)|null|
+|**2024-10-25**|**Efficient D-2-D with a Strong Group: Arbitrary Initial Configuration and No Global Knowledge**|Tanvir Kaur et.al.|[2410.19468](http://arxiv.org/abs/2410.19468)|null|
+|**2024-10-25**|**Cosmological forecast for the weak gravitational lensing and galaxy clustering joint analysis in the CSST photometric survey**|Qi Xiong et.al.|[2410.19388](http://arxiv.org/abs/2410.19388)|null|
+|**2024-10-25**|**COMSPLIT: A Communication-Aware Split Learning Design for Heterogeneous IoT Platforms**|Vukan Ninkovic et.al.|[2410.19375](http://arxiv.org/abs/2410.19375)|null|
 |**2024-10-24**|**Very massive stars and Nitrogen-emitting galaxies**|Jorick S. Vink et.al.|[2410.18980](http://arxiv.org/abs/2410.18980)|null|
 |**2024-10-24**|**PRODIGE -- envelope to disk with NOEMA. IV. An infalling gas bridge surrounding two Class 0/I systems in L1448N**|C. Gieser et.al.|[2410.18941](http://arxiv.org/abs/2410.18941)|null|
 |**2024-10-24**|**LoRANN: Low-Rank Matrix Factorization for Approximate Nearest Neighbor Search**|Elias Jääsaari et.al.|[2410.18926](http://arxiv.org/abs/2410.18926)|**[link](https://github.com/ejaasaari/lorann)**|
@@ -2320,6 +2330,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-25**|**Inferring Neural Signed Distance Functions by Overfitting on Single Noisy Point Clouds through Finetuning Data-Driven based Priors**|Chao Chen et.al.|[2410.19680](http://arxiv.org/abs/2410.19680)|null|
+|**2024-10-25**|**FastPCI: Motion-Structure Guided Fast Point Cloud Frame Interpolation**|Tianyu Zhang et.al.|[2410.19573](http://arxiv.org/abs/2410.19573)|**[link](https://github.com/genuszty/fastpci)**|
+|**2024-10-25**|**Fusion-then-Distillation: Toward Cross-modal Positive Distillation for Domain Adaptive 3D Semantic Segmentation**|Yao Wu et.al.|[2410.19446](http://arxiv.org/abs/2410.19446)|**[link](https://github.com/barcaaaa/ftd-plusplus)**|
+|**2024-10-24**|**MoGe: Unlocking Accurate Monocular Geometry Estimation for Open-Domain Images with Optimal Training Supervision**|Ruicheng Wang et.al.|[2410.19115](http://arxiv.org/abs/2410.19115)|null|
 |**2024-10-24**|**PointPatchRL -- Masked Reconstruction Improves Reinforcement Learning on Point Clouds**|Balázs Gyenes et.al.|[2410.18800](http://arxiv.org/abs/2410.18800)|null|
 |**2024-10-24**|**Moving Object Segmentation in Point Cloud Data using Hidden Markov Models**|Vedant Bhandari et.al.|[2410.18638](http://arxiv.org/abs/2410.18638)|**[link](https://github.com/vb44/hmm-mos)**|
 |**2024-10-24**|**Unsupervised semantic segmentation of urban high-density multispectral point clouds**|Oona Oinonen et.al.|[2410.18520](http://arxiv.org/abs/2410.18520)|null|
