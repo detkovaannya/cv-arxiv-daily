@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.30
+## Updated on 2024.10.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## clustering
@@ -22,7 +22,7 @@ layout: default
 |**2024-10-29**|**DISCERN: Decoding Systematic Errors in Natural Language for Text Classifiers**|Rakesh R. Menon et.al.|[2410.22239](http://arxiv.org/abs/2410.22239)|null|
 |**2024-10-29**|**$r$Age-$k$ : Communication-Efficient Federated Learning Using Age Factor**|Matin Mortaheb et.al.|[2410.22192](http://arxiv.org/abs/2410.22192)|null|
 |**2024-10-29**|**ADF22-WEB: A giant barred spiral starburst galaxy in the z = 3.1 SSA22 protocluster core**|H. Umehata et.al.|[2410.22155](http://arxiv.org/abs/2410.22155)|null|
-|**2024-10-29**|**On the Ubiquity of Extreme Baryon Concentrations in the Early Universe**|Alvio Renzini et.al.|[2410.22138](http://arxiv.org/abs/2410.22138)|null|
+|**2024-10-30**|**On the Ubiquity of Extreme Baryon Concentrations in the Early Universe**|Alvio Renzini et.al.|[2410.22138](http://arxiv.org/abs/2410.22138)|null|
 |**2024-10-29**|**ProMoE: Fast MoE-based LLM Serving using Proactive Caching**|Xiaoniu Song et.al.|[2410.22134](http://arxiv.org/abs/2410.22134)|null|
 |**2024-10-28**|**Adaptive Transfer Clustering: A Unified Framework**|Yuqi Gu et.al.|[2410.21263](http://arxiv.org/abs/2410.21263)|null|
 |**2024-10-28**|**Fine-Grained Clustering-Based Power Identification for Multicores**|Mohamed R. Elshamy et.al.|[2410.21261](http://arxiv.org/abs/2410.21261)|null|
