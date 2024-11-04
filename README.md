@@ -19,7 +19,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-10-31**|**The time-dependent bivariational principle: Theoretical foundation for real-time propagation methods of coupled-cluster type**|Simen Kvaal et.al.|[2410.24192](http://arxiv.org/abs/2410.24192)|null|
-|**2024-10-31**|**Group Crosscoders for Mechanistic Analysis of Symmetry**|Liv Gorton et.al.|[2410.24184](http://arxiv.org/abs/2410.24184)|null|
+|**2024-11-01**|**Group Crosscoders for Mechanistic Analysis of Symmetry**|Liv Gorton et.al.|[2410.24184](http://arxiv.org/abs/2410.24184)|null|
 |**2024-10-31**|**DC-Spin: A Speaker-invariant Speech Tokenizer for Spoken Language Models**|Heng-Jui Chang et.al.|[2410.24177](http://arxiv.org/abs/2410.24177)|null|
 |**2024-10-31**|**Novel Architecture for Distributed Travel Data Integration and Service Provision Using Microservices**|Biman Barua et.al.|[2410.24174](http://arxiv.org/abs/2410.24174)|null|
 |**2024-10-31**|**Measurement of the power spectrum turnover scale from the cross-correlation between CMB lensing and {\sl Quaia}**|David Alonso et.al.|[2410.24134](http://arxiv.org/abs/2410.24134)|null|
