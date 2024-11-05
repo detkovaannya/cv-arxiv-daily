@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-04**|**Addressing Uncertainty in LLMs to Enhance Reliability in Generative AI**|Ramneet Kaur et.al.|[2411.02381](http://arxiv.org/abs/2411.02381)|null|
+|**2024-11-04**|**Stable Thin Clathrate Layers**|Eva Pospíšilová et.al.|[2411.02370](http://arxiv.org/abs/2411.02370)|null|
+|**2024-11-04**|**Virgo Filaments IV: Using WISE to Measure the Modification of Star-Forming Disks in the Extended Regions Around the Virgo Cluster**|Kim Conger et.al.|[2411.02352](http://arxiv.org/abs/2411.02352)|null|
+|**2024-11-04**|**Discrete the solving model of time-variant standard Sylvester-conjugate matrix equations using Euler-forward formula**|Jiakuang He et.al.|[2411.02333](http://arxiv.org/abs/2411.02333)|null|
+|**2024-11-04**|**LayerDAG: A Layerwise Autoregressive Diffusion Model for Directed Acyclic Graph Generation**|Mufei Li et.al.|[2411.02322](http://arxiv.org/abs/2411.02322)|**[link](https://github.com/graph-com/layerdag)**|
+|**2024-11-04**|**Evolution of the disky second generation of stars in globular clusters on cosmological timescale**|Peter Berczik et.al.|[2411.02303](http://arxiv.org/abs/2411.02303)|null|
+|**2024-11-04**|**A Bayesian Model for Co-clustering Ordinal Data with Informative Missing Entries**|Alice Giampino et.al.|[2411.02276](http://arxiv.org/abs/2411.02276)|null|
+|**2024-11-04**|**Breaking the Reclustering Barrier in Centroid-based Deep Clustering**|Lukas Miklautz et.al.|[2411.02275](http://arxiv.org/abs/2411.02275)|**[link](https://github.com/probabilistic-and-interactive-ml/breaking-the-reclustering-barrier)**|
+|**2024-11-04**|**Memory-Efficient Community Detection on Large Graphs Using Weighted Sketches**|Subhajit Sahu et.al.|[2411.02268](http://arxiv.org/abs/2411.02268)|null|
+|**2024-11-04**|**Technical Report: Performance Comparison of Service Mesh Frameworks: the MTLS Test Case**|Anat Bremler Barr et.al.|[2411.02267](http://arxiv.org/abs/2411.02267)|null|
 |**2024-10-31**|**The time-dependent bivariational principle: Theoretical foundation for real-time propagation methods of coupled-cluster type**|Simen Kvaal et.al.|[2410.24192](http://arxiv.org/abs/2410.24192)|null|
 |**2024-11-01**|**Group Crosscoders for Mechanistic Analysis of Symmetry**|Liv Gorton et.al.|[2410.24184](http://arxiv.org/abs/2410.24184)|null|
 |**2024-10-31**|**DC-Spin: A Speaker-invariant Speech Tokenizer for Spoken Language Models**|Heng-Jui Chang et.al.|[2410.24177](http://arxiv.org/abs/2410.24177)|null|
@@ -2376,6 +2386,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-04**|**Diffusion-based Virtual Fixtures**|Cem Bilaloglu et.al.|[2411.02169](http://arxiv.org/abs/2411.02169)|null|
+|**2024-11-04**|**Mining and Transferring Feature-Geometry Coherence for Unsupervised Point Cloud Registration**|Kezheng Xiong et.al.|[2411.01870](http://arxiv.org/abs/2411.01870)|null|
+|**2024-11-04**|**Rotation Perturbation Robustness in Point Cloud Analysis: A Perspective of Manifold Distillation**|Xinyu Xu et.al.|[2411.01748](http://arxiv.org/abs/2411.01748)|null|
+|**2024-11-04**|**Next Best View For Point-Cloud Model Acquisition: Bayesian Approximation and Uncertainty Analysis**|Madalena Caldeira et.al.|[2411.01734](http://arxiv.org/abs/2411.01734)|null|
+|**2024-11-03**|**One for All: Multi-Domain Joint Training for Point Cloud Based 3D Object Detection**|Zhenyu Wang et.al.|[2411.01584](http://arxiv.org/abs/2411.01584)|null|
+|**2024-11-02**|**MultiPull: Detailing Signed Distance Functions by Pulling Multi-Level Queries at Multi-Step**|Takeshi Noda et.al.|[2411.01208](http://arxiv.org/abs/2411.01208)|null|
+|**2024-11-02**|**X-Drive: Cross-modality consistent multi-sensor data synthesis for driving scenarios**|Yichen Xie et.al.|[2411.01123](http://arxiv.org/abs/2411.01123)|**[link](https://github.com/yichen928/x-drive)**|
+|**2024-11-02**|**Test-Time Adaptation in Point Clouds: Leveraging Sampling Variation with Weight Averaging**|Ali Bahri et.al.|[2411.01116](http://arxiv.org/abs/2411.01116)|null|
+|**2024-11-01**|**Wasserstein Flow Matching: Generative modeling over families of distributions**|Doron Haviv et.al.|[2411.00698](http://arxiv.org/abs/2411.00698)|null|
+|**2024-11-01**|**PCoTTA: Continual Test-Time Adaptation for Multi-Task Point Cloud Understanding**|Jincen Jiang et.al.|[2411.00632](http://arxiv.org/abs/2411.00632)|null|
 |**2024-10-31**|**ImOV3D: Learning Open-Vocabulary Point Clouds 3D Object Detection from Only 2D Images**|Timing Yang et.al.|[2410.24001](http://arxiv.org/abs/2410.24001)|**[link](https://github.com/yangtiming/imov3d)**|
 |**2024-10-30**|**NeFF-BioNet: Crop Biomass Prediction from Point Cloud to Drone Imagery**|Xuesong Li et.al.|[2410.23901](http://arxiv.org/abs/2410.23901)|null|
 |**2024-10-31**|**GaussianMarker: Uncertainty-Aware Copyright Protection of 3D Gaussian Splatting**|Xiufeng Huang et.al.|[2410.23718](http://arxiv.org/abs/2410.23718)|null|
