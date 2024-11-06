@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-05**|**ShadowGPT: Learning to Solve Quantum Many-Body Problems from Randomized Measurements**|Jian Yao et.al.|[2411.03285](http://arxiv.org/abs/2411.03285)|null|
+|**2024-11-05**|**Line of Sight Bias in Dark Matter Inferences from Galaxy Cluster Mergers**|David Wittman et.al.|[2411.03276](http://arxiv.org/abs/2411.03276)|null|
+|**2024-11-05**|**Distributed Quantum Advantage for Local Problems**|Alkida Balliu et.al.|[2411.03240](http://arxiv.org/abs/2411.03240)|null|
+|**2024-11-05**|**INTEGRAL search for magnetar giant flares from the Virgo Cluster and in nearby galaxies with high star formation rate**|Dominik P. Pacholski et.al.|[2411.03235](http://arxiv.org/abs/2411.03235)|null|
+|**2024-11-05**|**Formal Logic-guided Robust Federated Learning against Poisoning Attacks**|Dung Thuy Nguyen et.al.|[2411.03231](http://arxiv.org/abs/2411.03231)|null|
+|**2024-11-05**|**Galaxy Formation and Evolution via Phase-temporal Clustering with FuzzyCat $\circ$ AstroLink**|William H. Oliver et.al.|[2411.03229](http://arxiv.org/abs/2411.03229)|null|
+|**2024-11-05**|**bursty_dynamics: A Python Package for Exploring the Temporal Properties of Longitudinal Data**|Alisha Angdembe et.al.|[2411.03210](http://arxiv.org/abs/2411.03210)|null|
+|**2024-11-05**|**Gender Differences in Comparative Advantage Matches: Evidence from Linked Employer-Employee Data**|Hugo Sant'Anna et.al.|[2411.03209](http://arxiv.org/abs/2411.03209)|null|
+|**2024-11-05**|**Insights into Lunar Mineralogy: An Unsupervised Approach for Clustering of the Moon Mineral Mapper (M3) spectral data**|Freja Thoresen et.al.|[2411.03186](http://arxiv.org/abs/2411.03186)|null|
+|**2024-11-05**|**The Soltan argument at $z=6$ : UV-luminous quasars contribute less than 10% to early black hole mass growth**|Knud Jahnke et.al.|[2411.03184](http://arxiv.org/abs/2411.03184)|null|
 |**2024-11-04**|**Addressing Uncertainty in LLMs to Enhance Reliability in Generative AI**|Ramneet Kaur et.al.|[2411.02381](http://arxiv.org/abs/2411.02381)|null|
 |**2024-11-04**|**Stable Thin Clathrate Layers**|Eva Pospíšilová et.al.|[2411.02370](http://arxiv.org/abs/2411.02370)|null|
 |**2024-11-04**|**Virgo Filaments IV: Using WISE to Measure the Modification of Star-Forming Disks in the Extended Regions Around the Virgo Cluster**|Kim Conger et.al.|[2411.02352](http://arxiv.org/abs/2411.02352)|null|
@@ -2386,6 +2396,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-05**|**Galaxy Formation and Evolution via Phase-temporal Clustering with FuzzyCat $\circ$ AstroLink**|William H. Oliver et.al.|[2411.03229](http://arxiv.org/abs/2411.03229)|null|
+|**2024-11-04**|**Tracking Tumors under Deformation from Partial Point Clouds using Occupancy Networks**|Pit Henrich et.al.|[2411.02619](http://arxiv.org/abs/2411.02619)|null|
+|**2024-11-04**|**SPACE: 3D Spatial Co-operation and Exploration Framework for Robust Mapping and Coverage with Multi-Robot Systems**|Sai Krishna Ghanta et.al.|[2411.02524](http://arxiv.org/abs/2411.02524)|null|
+|**2024-11-04**|**Reconstruction of Continuous Cosmological Fields from Discrete Tracers with Graph Neural Networks**|Yurii Kvasiuk et.al.|[2411.02496](http://arxiv.org/abs/2411.02496)|null|
 |**2024-11-04**|**Diffusion-based Virtual Fixtures**|Cem Bilaloglu et.al.|[2411.02169](http://arxiv.org/abs/2411.02169)|null|
 |**2024-11-04**|**Mining and Transferring Feature-Geometry Coherence for Unsupervised Point Cloud Registration**|Kezheng Xiong et.al.|[2411.01870](http://arxiv.org/abs/2411.01870)|null|
 |**2024-11-04**|**Rotation Perturbation Robustness in Point Cloud Analysis: A Perspective of Manifold Distillation**|Xinyu Xu et.al.|[2411.01748](http://arxiv.org/abs/2411.01748)|null|
