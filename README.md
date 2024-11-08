@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-07**|**Clustering in Causal Attention Masking**|Nikita Karagodin et.al.|[2411.04990](http://arxiv.org/abs/2411.04990)|null|
+|**2024-11-07**|**SuffixDecoding: A Model-Free Approach to Speeding Up Large Language Model Inference**|Gabriele Oliaro et.al.|[2411.04975](http://arxiv.org/abs/2411.04975)|null|
+|**2024-11-07**|**Constraints on the equation-of-state from low energy heavy-ion collisions within the PHQMD microscopic approach with momentum-dependent potential**|Viktar Kireyeu et.al.|[2411.04969](http://arxiv.org/abs/2411.04969)|null|
+|**2024-11-07**|**Estimating the Influence of Sequentially Correlated Literary Properties in Textual Classification: A Data-Centric Hypothesis-Testing Approach**|Gideon Yoffe et.al.|[2411.04950](http://arxiv.org/abs/2411.04950)|**[link](https://github.com/YoffeG/Thematic-nonThematic_Hypothesis_Testing)**|
+|**2024-11-07**|**Dark energy reconstructions combining BAO data with galaxy clusters and intermediate redshift catalogs**|Orlando Luongo et.al.|[2411.04901](http://arxiv.org/abs/2411.04901)|null|
+|**2024-11-07**|**On the Complexity of 2-club Cluster Editing with Vertex Splitting**|Faisal N. Abu-Khzam et.al.|[2411.04846](http://arxiv.org/abs/2411.04846)|null|
+|**2024-11-07**|**Navigating Trade-offs: Policy Summarization for Multi-Objective Reinforcement Learning**|Zuzanna Osika et.al.|[2411.04784](http://arxiv.org/abs/2411.04784)|**[link](https://github.com/osikazuzanna/bi-objective-clustering)**|
+|**2024-11-07**|**Coupling between Brownian motion and random walks on the infinite percolation cluster**|Chenlin Gu et.al.|[2411.04778](http://arxiv.org/abs/2411.04778)|null|
+|**2024-11-07**|**Self-similar gap dynamics in percolation and rigidity percolation**|Mingzhong Lu et.al.|[2411.04748](http://arxiv.org/abs/2411.04748)|null|
+|**2024-11-07**|**Precision-Aware Iterative Algorithms Based on Group-Shared Exponents of Floating-Point Numbers**|Jianhua Gao et.al.|[2411.04686](http://arxiv.org/abs/2411.04686)|null|
 |**2024-11-06**|**TeV-scale particles and LHC events with dijet pairs**|Bogdan A. Dobrescu et.al.|[2411.04121](http://arxiv.org/abs/2411.04121)|null|
 |**2024-11-06**|**Fed-EC: Bandwidth-Efficient Clustering-Based Federated Learning For Autonomous Visual Robot Navigation**|Shreya Gummadi et.al.|[2411.04112](http://arxiv.org/abs/2411.04112)|null|
 |**2024-11-06**|**RaVL: Discovering and Mitigating Spurious Correlations in Fine-Tuned Vision-Language Models**|Maya Varma et.al.|[2411.04097](http://arxiv.org/abs/2411.04097)|**[link](https://github.com/stanford-aimi/ravl)**|
@@ -2406,6 +2416,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-07**|**ReCapture: Generative Video Camera Controls for User-Provided Videos using Masked Video Fine-Tuning**|David Junhao Zhang et.al.|[2411.05003](http://arxiv.org/abs/2411.05003)|null|
+|**2024-11-07**|**DynaMem: Online Dynamic Spatio-Semantic Memory for Open World Mobile Manipulation**|Peiqi Liu et.al.|[2411.04999](http://arxiv.org/abs/2411.04999)|null|
+|**2024-11-07**|**VAIR: Visuo-Acoustic Implicit Representations for Low-Cost, Multi-Modal Transparent Surface Reconstruction in Indoor Scenes**|Advaith V. Sethuraman et.al.|[2411.04963](http://arxiv.org/abs/2411.04963)|null|
+|**2024-11-07**|**CAD-MLLM: Unifying Multimodality-Conditioned CAD Generation With MLLM**|Jingwei Xu et.al.|[2411.04954](http://arxiv.org/abs/2411.04954)|null|
+|**2024-11-07**|**ZAHA: Introducing the Level of Facade Generalization and the Large-Scale Point Cloud Facade Semantic Segmentation Benchmark Dataset**|Olaf Wysocki et.al.|[2411.04865](http://arxiv.org/abs/2411.04865)|**[link](https://github.com/oloocki/zaha)**|
+|**2024-11-07**|**Normalized Space Alignment: A Versatile Metric for Representation Analysis**|Danish Ebadulla et.al.|[2411.04512](http://arxiv.org/abs/2411.04512)|null|
+|**2024-11-07**|**LidaRefer: Outdoor 3D Visual Grounding for Autonomous Driving with Transformers**|Yeong-Seung Baek et.al.|[2411.04351](http://arxiv.org/abs/2411.04351)|null|
+|**2024-11-06**|**PocoLoco: A Point Cloud Diffusion Model of Human Shape in Loose Clothing**|Siddharth Seth et.al.|[2411.04249](http://arxiv.org/abs/2411.04249)|**[link](https://github.com/sidsunny/pocoloco)**|
 |**2024-11-06**|**PX2Tooth: Reconstructing the 3D Point Cloud Teeth from a Single Panoramic X-ray**|Wen Ma et.al.|[2411.03725](http://arxiv.org/abs/2411.03725)|null|
 |**2024-11-05**|**VLA-3D: A Dataset for 3D Semantic Scene Understanding and Navigation**|Haochen Zhang et.al.|[2411.03540](http://arxiv.org/abs/2411.03540)|null|
 |**2024-11-05**|**A robust first order meshfree method for time-dependent nonlinear conservation laws**|Samuel Kwan et.al.|[2411.03411](http://arxiv.org/abs/2411.03411)|null|
