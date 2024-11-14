@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-13**|**Unsupervised Parameter-free Outlier Detection using HDBSCAN* Outlier Profiles**|Kushankur Ghosh et.al.|[2411.08867](http://arxiv.org/abs/2411.08867)|null|
+|**2024-11-13**|**Bilateral Signal Warping for Left Ventricular Hypertrophy Diagnosis**|Wei Tang et.al.|[2411.08819](http://arxiv.org/abs/2411.08819)|null|
+|**2024-11-13**|**Identifying Spicules in Mg II: Statistics and Comparisons with Hα**|Vicki L. Herde et.al.|[2411.08801](http://arxiv.org/abs/2411.08801)|null|
+|**2024-11-13**|**Zero-shot Cross-lingual Transfer Learning with Multiple Source and Target Languages for Information Extraction: Language Selection and Adversarial Training**|Nghia Trung Ngo et.al.|[2411.08785](http://arxiv.org/abs/2411.08785)|null|
+|**2024-11-13**|**Clutter-Aware Target Detection for ISAC in a Millimeter-Wave Cell-Free Massive MIMO System**|Steven Rivetti et.al.|[2411.08759](http://arxiv.org/abs/2411.08759)|null|
+|**2024-11-13**|**Generalized coupled cluster theory for ground and excited state intersections**|Federico Rossi et.al.|[2411.08751](http://arxiv.org/abs/2411.08751)|null|
+|**2024-11-13**|**The impact of large-scale galaxy clustering on the variance of the Hellings-Downs correlation: numerical results**|Nastassia Grimm et.al.|[2411.08744](http://arxiv.org/abs/2411.08744)|null|
+|**2024-11-13**|**FedSub: Introducing class-aware Subnetworks Fusion to Enhance Personalized Federated Learning in Ubiquitous Systems**|Mattia Giovanni Campana et.al.|[2411.08699](http://arxiv.org/abs/2411.08699)|null|
+|**2024-11-13**|**Black hole jets on the scale of the Cosmic Web**|Martijn S. S. L. Oei et.al.|[2411.08630](http://arxiv.org/abs/2411.08630)|null|
+|**2024-11-13**|**TDGCN-Based Mobile Multiuser Physical-Layer Authentication for EI-Enabled IIoT**|Rui Meng et.al.|[2411.08628](http://arxiv.org/abs/2411.08628)|null|
 |**2024-11-12**|**Superpositions of tree-tensor networks for single-reference ground states in the strong correlation regime**|Dominic Bergeron et.al.|[2411.08036](http://arxiv.org/abs/2411.08036)|null|
 |**2024-11-12**|**On the Convergence of Continual Federated Learning Using Incrementally Aggregated Gradients**|Satish Kumar Keshri et.al.|[2411.07959](http://arxiv.org/abs/2411.07959)|null|
 |**2024-11-12**|**When Randomness Beats Redundancy: Insights into the Diffusion of Complex Contagions**|Allison Wan et.al.|[2411.07907](http://arxiv.org/abs/2411.07907)|null|
@@ -2446,6 +2456,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-13**|**LUDO: Low-Latency Understanding of Highly Deformable Objects using Point Cloud Occupancy Functions**|Pit Henrich et.al.|[2411.08777](http://arxiv.org/abs/2411.08777)|null|
+|**2024-11-13**|**Biomass phenotyping of oilseed rape through UAV multi-view oblique imaging with 3DGS and SAM model**|Yutao Shen et.al.|[2411.08453](http://arxiv.org/abs/2411.08453)|null|
+|**2024-11-13**|**DiVR: incorporating context from diverse VR scenes for human trajectory prediction**|Franz Franco Gallo et.al.|[2411.08409](http://arxiv.org/abs/2411.08409)|null|
+|**2024-11-13**|**V2X-R: Cooperative LiDAR-4D Radar Fusion for 3D Object Detection with Denoising Diffusion**|Xun Huang et.al.|[2411.08402](http://arxiv.org/abs/2411.08402)|**[link](https://github.com/ylwhxht/v2x-r)**|
+|**2024-11-13**|**Integrative Wrapping System for a Dual-Arm Humanoid Robot**|Yukina Iwata et.al.|[2411.08389](http://arxiv.org/abs/2411.08389)|null|
+|**2024-11-13**|**Multiscale Graph Construction Using Non-local Cluster Features**|Reina Kaneko et.al.|[2411.08371](http://arxiv.org/abs/2411.08371)|null|
+|**2024-11-13**|**Efficient Trajectory Generation in 3D Environments with Multi-Level Map Construction**|Chengkun Tian et.al.|[2411.08323](http://arxiv.org/abs/2411.08323)|null|
+|**2024-11-12**|**Fibers of point cloud persistence**|David Beers et.al.|[2411.08201](http://arxiv.org/abs/2411.08201)|null|
+|**2024-11-12**|**Point Cloud Context Analysis for Rehabilitation Grasping Assistance**|Jackson M. Steinkamp et.al.|[2411.08169](http://arxiv.org/abs/2411.08169)|null|
 |**2024-11-12**|**GaussianAnything: Interactive Point Cloud Latent Diffusion for 3D Generation**|Yushi Lan et.al.|[2411.08033](http://arxiv.org/abs/2411.08033)|null|
 |**2024-11-12**|**Learning Disentangled Representations for Perceptual Point Cloud Quality Assessment via Mutual Information Minimization**|Ziyu Shan et.al.|[2411.07936](http://arxiv.org/abs/2411.07936)|null|
 |**2024-11-12**|**Rendering-Oriented 3D Point Cloud Attribute Compression using Sparse Tensor-based Transformer**|Xiao Huo et.al.|[2411.07899](http://arxiv.org/abs/2411.07899)|null|
