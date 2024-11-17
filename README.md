@@ -20,7 +20,7 @@
 |---|---|---|---|---|
 |**2024-11-14**|**Squeezed Attention: Accelerating Long Context Length LLM Inference**|Coleman Hooper et.al.|[2411.09688](http://arxiv.org/abs/2411.09688)|null|
 |**2024-11-14**|**Layered Multiple Scattering Approach to Hard X-ray Photoelectron Diffraction: Theory and Application**|Trung-Phuc Vo et.al.|[2411.09669](http://arxiv.org/abs/2411.09669)|null|
-|**2024-11-14**|**NEP-MB-pol: A unified machine-learned framework for fast and accurate prediction of water's thermodynamic and transport properties**|Ke Xu et.al.|[2411.09631](http://arxiv.org/abs/2411.09631)|null|
+|**2024-11-14**|**NEP-MB-pol: A unified machine-learned framework for fast and accurate prediction of water's thermodynamic and transport properties**|Ke Xu et.al.|[2411.09631](http://arxiv.org/abs/2411.09631)|**[link](https://github.com/brucefan1983/GPUMD)**|
 |**2024-11-14**|**Equation-informed data-driven identification of flow budgets and dynamics**|Nataliya Sevryugina et.al.|[2411.09545](http://arxiv.org/abs/2411.09545)|null|
 |**2024-11-14**|**Marker-free Human Gait Analysis using a Smart Edge Sensor System**|Eva Katharina Bauer et.al.|[2411.09538](http://arxiv.org/abs/2411.09538)|null|
 |**2024-11-14**|**Image Matching Filtering and Refinement by Planes and Beyond**|Fabio Bellavia et.al.|[2411.09484](http://arxiv.org/abs/2411.09484)|**[link](https://github.com/fb82/miho)**|
