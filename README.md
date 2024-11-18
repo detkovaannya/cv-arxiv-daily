@@ -41,7 +41,7 @@
 |**2024-11-12**|**Superpositions of tree-tensor networks for single-reference ground states in the strong correlation regime**|Dominic Bergeron et.al.|[2411.08036](http://arxiv.org/abs/2411.08036)|null|
 |**2024-11-12**|**On the Convergence of Continual Federated Learning Using Incrementally Aggregated Gradients**|Satish Kumar Keshri et.al.|[2411.07959](http://arxiv.org/abs/2411.07959)|null|
 |**2024-11-12**|**When Randomness Beats Redundancy: Insights into the Diffusion of Complex Contagions**|Allison Wan et.al.|[2411.07907](http://arxiv.org/abs/2411.07907)|null|
-|**2024-11-12**|**Simulating Quantum Many-Body States with Neural-Network Exponential Ansatz**|Weillei Zeng et.al.|[2411.07886](http://arxiv.org/abs/2411.07886)|null|
+|**2024-11-12**|**Simulating Quantum Many-Body States with Neural-Network Exponential Ansatz**|Weillei Zeng et.al.|[2411.07886](http://arxiv.org/abs/2411.07886)|**[link](https://github.com/cabenav/acse-universal-ansatze)**|
 |**2024-11-12**|**Integrating Chaotic Evolutionary and Local Search Techniques in Decision Space for Enhanced Evolutionary Multi-Objective Optimization**|Xiang Meng et.al.|[2411.07860](http://arxiv.org/abs/2411.07860)|null|
 |**2024-11-12**|**Efficient Federated Finetuning of Tiny Transformers with Resource-Constrained Devices**|Kilian Pfeiffer et.al.|[2411.07826](http://arxiv.org/abs/2411.07826)|null|
 |**2024-11-12**|**ALANINE: A Novel Decentralized Personalized Federated Learning For Heterogeneous LEO Satellite Constellation**|Liang Zhao et.al.|[2411.07752](http://arxiv.org/abs/2411.07752)|null|
@@ -49,7 +49,7 @@
 |**2024-11-12**|**GA-NIFS: ISM properties and metal enrichment in a merger-driven starburst during the Epoch of Reionisation probed with JWST and ALMA**|J. Scholtz et.al.|[2411.07695](http://arxiv.org/abs/2411.07695)|null|
 |**2024-11-12**|**OSCAR-P and aMLLibrary: Profiling and Predicting the Performance of FaaS-based Applications in Computing Continua**|Roberto Sala et.al.|[2411.07687](http://arxiv.org/abs/2411.07687)|null|
 |**2024-11-11**|**'Explaining RL Decisions with Trajectories': A Reproducibility Study**|Karim Abdel Sadek et.al.|[2411.07200](http://arxiv.org/abs/2411.07200)|**[link](https://github.com/karim-abdel/fact)**|
-|**2024-11-11**|**Deterministic criticality & cluster dynamics hidden in the Game of Life**|Hakan Akgün et.al.|[2411.07189](http://arxiv.org/abs/2411.07189)|null|
+|**2024-11-11**|**Deterministic criticality & cluster dynamics hidden in the Game of Life**|Hakan Akgün et.al.|[2411.07189](http://arxiv.org/abs/2411.07189)|**[link](https://github.com/HakanAkgn/ClusterAnalyzer)**|
 |**2024-11-11**|**Revisiting Ensembling in One-Shot Federated Learning**|Youssef Allouah et.al.|[2411.07182](http://arxiv.org/abs/2411.07182)|**[link](https://github.com/sacs-epfl/fens)**|
 |**2024-11-11**|**Enhancing Predictive Maintenance in Mining Mobile Machinery through a TinyML-enabled Hierarchical Inference Network**|Raúl de la Fuente et.al.|[2411.07168](http://arxiv.org/abs/2411.07168)|null|
 |**2024-11-11**|**A Primer on Word Embeddings: AI Techniques for Text Analysis in Social Work**|Brian E. Perron et.al.|[2411.07156](http://arxiv.org/abs/2411.07156)|null|
@@ -58,14 +58,14 @@
 |**2024-11-11**|**Topological Characterization of Stabilizing Consensus**|Ulrich Schmid et.al.|[2411.07106](http://arxiv.org/abs/2411.07106)|null|
 |**2024-11-11**|**Towards Characterizing Cyber Networks with Large Language Models**|Alaric Hartsock et.al.|[2411.07089](http://arxiv.org/abs/2411.07089)|null|
 |**2024-11-11**|**Cluster-cyclic condition of skew-symmetrizable matrices of rank 3 via the Markov constant**|Ryota Akagi et.al.|[2411.07083](http://arxiv.org/abs/2411.07083)|null|
-|**2024-11-08**|**Accurate Unsupervised Photon Counting from Transition Edge Sensor Signals**|Nicolas Dalbec-Constant et.al.|[2411.05737](http://arxiv.org/abs/2411.05737)|null|
+|**2024-11-08**|**Accurate Unsupervised Photon Counting from Transition Edge Sensor Signals**|Nicolas Dalbec-Constant et.al.|[2411.05737](http://arxiv.org/abs/2411.05737)|**[link](https://github.com/polyquantique/photon-number-classification)**|
 |**2024-11-08**|**IPMN Risk Assessment under Federated Learning Paradigm**|Hongyi Pan et.al.|[2411.05697](http://arxiv.org/abs/2411.05697)|null|
 |**2024-11-08**|**Studying Binary Systems in Omega Centauri with MUSE. I. Detection of Spectroscopic Binaries**|F. Wragg et.al.|[2411.05680](http://arxiv.org/abs/2411.05680)|null|
 |**2024-11-08**|**Acceleration for Deep Reinforcement Learning using Parallel and Distributed Computing: A Survey**|Zhihong Liu et.al.|[2411.05614](http://arxiv.org/abs/2411.05614)|null|
 |**2024-11-08**|**Emergence of high-mass stars in complex fiber networks (EMERGE) V. From filaments to spheroids: the origin of the hub-filament systems**|A. Hacar et.al.|[2411.05613](http://arxiv.org/abs/2411.05613)|null|
 |**2024-11-08**|**On-chip Moiré Optical Skyrmion Clusters with Nanoscale Dynamics**|Lan Zhang et.al.|[2411.05576](http://arxiv.org/abs/2411.05576)|null|
 |**2024-11-08**|**AcceLLM: Accelerating LLM Inference using Redundancy for Load Balancing and Data Locality**|Ilias Bournias et.al.|[2411.05555](http://arxiv.org/abs/2411.05555)|null|
-|**2024-11-08**|**Analyzing Logs of Large-Scale Software Systems using Time Curves Visualization**|Dmytro Borysenkov et.al.|[2411.05533](http://arxiv.org/abs/2411.05533)|null|
+|**2024-11-08**|**Analyzing Logs of Large-Scale Software Systems using Time Curves Visualization**|Dmytro Borysenkov et.al.|[2411.05533](http://arxiv.org/abs/2411.05533)|**[link](https://github.com/dynatrace-research/timecurves-for-logs-paper)**|
 |**2024-11-08**|**Overhead Measurement Noise in Different Runtime Environments**|David Georg Reichelt et.al.|[2411.05491](http://arxiv.org/abs/2411.05491)|null|
 |**2024-11-08**|**Dave: a decentralized, secure, and lively fraud-proof algorithm**|Diego Nehab et.al.|[2411.05463](http://arxiv.org/abs/2411.05463)|null|
 |**2024-11-07**|**Clustering in Causal Attention Masking**|Nikita Karagodin et.al.|[2411.04990](http://arxiv.org/abs/2411.04990)|null|
@@ -2433,7 +2433,7 @@
 |**2023-11-14**|**Evaporation Ages: a New Dating Method for Young Star Clusters**|V. -M. Pelkonen et.al.|[2311.08363](http://arxiv.org/abs/2311.08363)|null|
 |**2023-11-14**|**The Gaia-ESO Survey: 3D dynamics of young groups and clusters from GES and Gaia EDR3**|Nicholas J. Wright et.al.|[2311.08358](http://arxiv.org/abs/2311.08358)|null|
 |**2023-11-14**|**GT4Py: High Performance Stencils for Weather and Climate Applications using Python**|Enrique G. Paredes et.al.|[2311.08322](http://arxiv.org/abs/2311.08322)|null|
-|**2023-11-14**|**Extrinsically-Focused Evaluation of Omissions in Medical Summarization**|Elliot Schumacher et.al.|[2311.08303](http://arxiv.org/abs/2311.08303)|null|
+|**2023-11-14**|**Extrinsically-Focused Evaluation of Omissions in Medical Summarization**|Elliot Schumacher et.al.|[2311.08303](http://arxiv.org/abs/2311.08303)|**[link](https://github.com/curai/curai-research)**|
 |**2023-11-14**|**Effects of heterogeneous opinion interactions in many-agent systems for epidemic dynamics**|Sabrina Bonandin et.al.|[2311.08262](http://arxiv.org/abs/2311.08262)|null|
 |**2023-11-14**|**Predicting Dynamic Memory Requirements for Scientific Workflow Tasks**|Jonathan Bader et.al.|[2311.08185](http://arxiv.org/abs/2311.08185)|**[link](https://github.com/dos-group/k-segments)**|
 |**2023-11-14**|**Frame to frame interpolation for high-dimensional data visualisation using the woylier package**|Zoljargal Batsaikhan et.al.|[2311.08181](http://arxiv.org/abs/2311.08181)|**[link](https://github.com/uschilaa/woylier-article)**|
@@ -2511,7 +2511,7 @@
 |**2024-11-04**|**SPACE: 3D Spatial Co-operation and Exploration Framework for Robust Mapping and Coverage with Multi-Robot Systems**|Sai Krishna Ghanta et.al.|[2411.02524](http://arxiv.org/abs/2411.02524)|null|
 |**2024-11-04**|**Reconstruction of Continuous Cosmological Fields from Discrete Tracers with Graph Neural Networks**|Yurii Kvasiuk et.al.|[2411.02496](http://arxiv.org/abs/2411.02496)|null|
 |**2024-11-04**|**Diffusion-based Virtual Fixtures**|Cem Bilaloglu et.al.|[2411.02169](http://arxiv.org/abs/2411.02169)|null|
-|**2024-11-04**|**Mining and Transferring Feature-Geometry Coherence for Unsupervised Point Cloud Registration**|Kezheng Xiong et.al.|[2411.01870](http://arxiv.org/abs/2411.01870)|null|
+|**2024-11-04**|**Mining and Transferring Feature-Geometry Coherence for Unsupervised Point Cloud Registration**|Kezheng Xiong et.al.|[2411.01870](http://arxiv.org/abs/2411.01870)|**[link](https://github.com/kezheng1204/integer)**|
 |**2024-11-04**|**Rotation Perturbation Robustness in Point Cloud Analysis: A Perspective of Manifold Distillation**|Xinyu Xu et.al.|[2411.01748](http://arxiv.org/abs/2411.01748)|null|
 |**2024-11-04**|**Next Best View For Point-Cloud Model Acquisition: Bayesian Approximation and Uncertainty Analysis**|Madalena Caldeira et.al.|[2411.01734](http://arxiv.org/abs/2411.01734)|null|
 |**2024-11-03**|**One for All: Multi-Domain Joint Training for Point Cloud Based 3D Object Detection**|Zhenyu Wang et.al.|[2411.01584](http://arxiv.org/abs/2411.01584)|null|
@@ -3133,7 +3133,7 @@
 |**2024-05-28**|**SA-GS: Semantic-Aware Gaussian Splatting for Large Scene Reconstruction with Geometry Constrain**|Butian Xiong et.al.|[2405.16923](http://arxiv.org/abs/2405.16923)|null|
 |**2024-05-27**|**Clustering-based Learning for UAV Tracking and Pose Estimation**|Jiaping Xiao et.al.|[2405.16867](http://arxiv.org/abs/2405.16867)|null|
 |**2024-05-24**|**A Higher Order Local Mesh Method for Approximating Laplacians on Unknown Manifolds**|John Wilson Peoples et.al.|[2405.15735](http://arxiv.org/abs/2405.15735)|null|
-|**2024-05-24**|**Neural Persistence Dynamics**|Sebastian Zeng et.al.|[2405.15732](http://arxiv.org/abs/2405.15732)|null|
+|**2024-05-24**|**Neural Persistence Dynamics**|Sebastian Zeng et.al.|[2405.15732](http://arxiv.org/abs/2405.15732)|**[link](https://github.com/plus-rkwitt/neural_persistence_dynamics)**|
 |**2024-05-24**|**GroundGrid:LiDAR Point Cloud Ground Segmentation and Terrain Estimation**|Nicolai Steinke et.al.|[2405.15664](http://arxiv.org/abs/2405.15664)|**[link](https://github.com/dcmlr/groundgrid)**|
 |**2024-05-24**|**LAM3D: Large Image-Point-Cloud Alignment Model for 3D Reconstruction from Single Image**|Ruikai Cui et.al.|[2405.15622](http://arxiv.org/abs/2405.15622)|null|
 |**2024-05-24**|**Learning to Discretize Denoising Diffusion ODEs**|Vinh Tong et.al.|[2405.15506](http://arxiv.org/abs/2405.15506)|**[link](https://github.com/vinhsuhi/ld3)**|
@@ -3747,7 +3747,7 @@
 |**2023-12-25**|**Mesh-LOAM: Real-time Mesh-Based LiDAR Odometry and Mapping**|Yanjin Zhu et.al.|[2312.15630](http://arxiv.org/abs/2312.15630)|null|
 |**2023-12-24**|**iDet3D: Towards Efficient Interactive Object Detection for LiDAR Point Clouds**|Dongmin Choi et.al.|[2312.15449](http://arxiv.org/abs/2312.15449)|null|
 |**2023-12-24**|**End-to-End 3D Object Detection using LiDAR Point Cloud**|Gaurav Raut et.al.|[2312.15377](http://arxiv.org/abs/2312.15377)|null|
-|**2023-12-23**|**WildScenes: A Benchmark for 2D and 3D Semantic Segmentation in Large-scale Natural Environments**|Kavisha Vidanapathirana et.al.|[2312.15364](http://arxiv.org/abs/2312.15364)|null|
+|**2023-12-23**|**WildScenes: A Benchmark for 2D and 3D Semantic Segmentation in Large-scale Natural Environments**|Kavisha Vidanapathirana et.al.|[2312.15364](http://arxiv.org/abs/2312.15364)|**[link](https://github.com/csiro-robotics/WildScenes)**|
 |**2023-12-23**|**SSFlowNet: Semi-supervised Scene Flow Estimation On Point Clouds With Pseudo Label**|Jingze Chen et.al.|[2312.15271](http://arxiv.org/abs/2312.15271)|null|
 |**2023-12-23**|**Self-Supervised Depth Completion Guided by 3D Perception and Geometry Consistency**|Yu Cai et.al.|[2312.15263](http://arxiv.org/abs/2312.15263)|null|
 |**2023-12-23**|**Automatic Tooth Arrangement with Joint Features of Point and Mesh Representations via Diffusion Probabilistic Models**|Changsong Lei et.al.|[2312.15139](http://arxiv.org/abs/2312.15139)|null|
