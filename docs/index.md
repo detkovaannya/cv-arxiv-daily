@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-19**|**RR Lyrae Stars in Intermediate-age Magellanic Clusters: Membership Probabilities and Delay Time Distribution**|Bolivia Cuevas-Otahola et.al.|[2411.12741](http://arxiv.org/abs/2411.12741)|null|
+|**2024-11-19**|**Optimizing Airline Reservation Systems with Edge-Enabled Microservices: A Framework for Real-Time Data Processing and Enhanced User Responsiveness**|Biman Barua et.al.|[2411.12650](http://arxiv.org/abs/2411.12650)|null|
+|**2024-11-19**|**Correction-to-scaling exponent for percolation and the Fortuin--Kasteleyn Potts model in two dimensions**|Yihao Xu et.al.|[2411.12646](http://arxiv.org/abs/2411.12646)|null|
+|**2024-11-19**|**Estimating Dark Matter Halo Masses in Simulated Galaxy Clusters with Graph Neural Networks**|Nikhil Garuda et.al.|[2411.12629](http://arxiv.org/abs/2411.12629)|null|
+|**2024-11-19**|**Exploring the Manifold of Neural Networks Using Diffusion Geometry**|Elliott Abel et.al.|[2411.12626](http://arxiv.org/abs/2411.12626)|null|
+|**2024-11-19**|**Reward driven workflows for unsupervised explainable analysis of phases and ferroic variants from atomically resolved imaging data**|Kamyar Barakati et.al.|[2411.12612](http://arxiv.org/abs/2411.12612)|null|
+|**2024-11-19**|**A data driven approach to classify descriptors based on their efficiency in translating noisy trajectories into physically-relevant information**|Simone Martino et.al.|[2411.12570](http://arxiv.org/abs/2411.12570)|null|
+|**2024-11-19**|**Emulating a computing grid in a local environment for feature evaluation**|Jananga Kalawana et.al.|[2411.12559](http://arxiv.org/abs/2411.12559)|null|
+|**2024-11-19**|**When Theory Meets Experiment: What Does it Take to Accurately Predict $^1$ H NMR Dipolar Relaxation Rates in Neat Liquid Water from Theory?**|Dietmar Paschek et.al.|[2411.12545](http://arxiv.org/abs/2411.12545)|null|
+|**2024-11-19**|**How to Recognize Clustering of Luminescent Defects in Single-Wall Carbon Nanotubes**|Finn L. Sebastian et.al.|[2411.12534](http://arxiv.org/abs/2411.12534)|null|
 |**2024-11-18**|**Investigating the galaxy-halo connection of DESI Emission-Line Galaxies with SHAMe-SF**|Sara Ortega-Martinez et.al.|[2411.11830](http://arxiv.org/abs/2411.11830)|null|
 |**2024-11-18**|**Disorder-induced spin-cluster ferrimagnetism in a doped kagome spin liquid candidate**|Arnab Seth et.al.|[2411.11827](http://arxiv.org/abs/2411.11827)|null|
 |**2024-11-18**|**Towards Scalable and Practical Batch-Dynamic Connectivity**|Quinten De Man et.al.|[2411.11781](http://arxiv.org/abs/2411.11781)|null|
@@ -2480,6 +2490,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-19**|**STREAM: A Universal State-Space Model for Sparse Geometric Data**|Mark Schöne et.al.|[2411.12603](http://arxiv.org/abs/2411.12603)|null|
+|**2024-11-15**|**SPARS3R: Semantic Prior Alignment and Regularization for Sparse 3D Reconstruction**|Yutao Tang et.al.|[2411.12592](http://arxiv.org/abs/2411.12592)|null|
+|**2024-11-19**|**3D Reconstruction by Looking: Instantaneous Blind Spot Detector for Indoor SLAM through Mixed Reality**|Hanbeom Chang et.al.|[2411.12514](http://arxiv.org/abs/2411.12514)|null|
+|**2024-11-19**|**Neuro-3D: Towards 3D Visual Decoding from EEG Signals**|Zhanqiang Guo et.al.|[2411.12248](http://arxiv.org/abs/2411.12248)|null|
+|**2024-11-19**|**LiV-GS: LiDAR-Vision Integration for 3D Gaussian Splatting SLAM in Outdoor Environments**|Renxiang Xiao et.al.|[2411.12185](http://arxiv.org/abs/2411.12185)|null|
+|**2024-11-19**|**Robust 3D Semantic Occupancy Prediction with Calibration-free Spatial Transformation**|Zhuangwei Zhuang et.al.|[2411.12177](http://arxiv.org/abs/2411.12177)|null|
+|**2024-11-18**|**Mining for Protoclusters at $z\sim4$ from Photometric Datasets with Deep Learning**|Yoshihiro Takeda et.al.|[2411.11956](http://arxiv.org/abs/2411.11956)|null|
+|**2024-11-18**|**Calibrated and Efficient Sampling-Free Confidence Estimation for LiDAR Scene Semantic Segmentation**|Hanieh Shojaei Miandashti et.al.|[2411.11935](http://arxiv.org/abs/2411.11935)|null|
 |**2024-11-16**|**Deep Loss Convexification for Learning Iterative Models**|Ziming Zhang et.al.|[2411.10649](http://arxiv.org/abs/2411.10649)|null|
 |**2024-11-15**|**Voxel-Aggergated Feature Synthesis: Efficient Dense Mapping for Simulated 3D Reasoning**|Owen Burns et.al.|[2411.10616](http://arxiv.org/abs/2411.10616)|null|
 |**2024-11-15**|**TESGNN: Temporal Equivariant Scene Graph Neural Networks for Efficient and Robust Multi-View 3D Scene Understanding**|Quang P. M. Pham et.al.|[2411.10509](http://arxiv.org/abs/2411.10509)|null|
