@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-20**|**A Survey of H I and O VI Absorption Lines in the Outskirts of $z\lesssim0.3$ Galaxy Clusters**|Priscilla Holguin Luna et.al.|[2411.13551](http://arxiv.org/abs/2411.13551)|null|
+|**2024-11-20**|**A Distributed-memory Tridiagonal Solver Based on a Specialised Data Structure Optimised for CPU and GPU Architectures**|Semih Akkurt et.al.|[2411.13532](http://arxiv.org/abs/2411.13532)|null|
+|**2024-11-20**|**On the nature of LOFAR RMs and new constraints on magnetic fields in cosmic filaments and on magnetogenesis scenarios**|E. Carretti et.al.|[2411.13499](http://arxiv.org/abs/2411.13499)|null|
+|**2024-11-20**|**The Impact of Galaxy-halo Size Relations on Galaxy Clustering Signals**|Joshua B. Hill et.al.|[2411.13484](http://arxiv.org/abs/2411.13484)|null|
+|**2024-11-20**|**New insight into quantifying vacancy distribution in self-ion irradiated tungsten: a combined experimental and computational study**|Zhiwei Hu et.al.|[2411.13480](http://arxiv.org/abs/2411.13480)|null|
+|**2024-11-20**|**A Case Study of API Design for Interoperability and Security of the Internet of Things**|Dongha Kim et.al.|[2411.13441](http://arxiv.org/abs/2411.13441)|null|
+|**2024-11-20**|**CB $^2$ O: Consensus-Based Bi-Level Optimization**|Nicolás García Trillos et.al.|[2411.13394](http://arxiv.org/abs/2411.13394)|null|
+|**2024-11-20**|**Distributed weak independent sets in hypergraphs: Upper and lower bounds**|Duncan Adamson et.al.|[2411.13377](http://arxiv.org/abs/2411.13377)|null|
+|**2024-11-20**|**ODTE -- An ensemble of multi-class SVM-based oblique decision trees**|Ricardo Montañana et.al.|[2411.13376](http://arxiv.org/abs/2411.13376)|null|
+|**2024-11-20**|**Clustering with Potential Multidimensionality: Inference and Practice**|Ruonan Xu et.al.|[2411.13372](http://arxiv.org/abs/2411.13372)|null|
 |**2024-11-19**|**RR Lyrae Stars in Intermediate-age Magellanic Clusters: Membership Probabilities and Delay Time Distribution**|Bolivia Cuevas-Otahola et.al.|[2411.12741](http://arxiv.org/abs/2411.12741)|null|
 |**2024-11-19**|**Optimizing Airline Reservation Systems with Edge-Enabled Microservices: A Framework for Real-Time Data Processing and Enhanced User Responsiveness**|Biman Barua et.al.|[2411.12650](http://arxiv.org/abs/2411.12650)|null|
 |**2024-11-19**|**Correction-to-scaling exponent for percolation and the Fortuin--Kasteleyn Potts model in two dimensions**|Yihao Xu et.al.|[2411.12646](http://arxiv.org/abs/2411.12646)|null|
@@ -2490,6 +2500,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-20**|**A Resource Efficient Fusion Network for Object Detection in Bird's-Eye View using Camera and Raw Radar Data**|Kavin Chandrasekaran et.al.|[2411.13311](http://arxiv.org/abs/2411.13311)|**[link](https://github.com/tue-mps/refnet)**|
+|**2024-11-20**|**DATAP-SfM: Dynamic-Aware Tracking Any Point for Robust Structure from Motion in the Wild**|Weicai Ye et.al.|[2411.13291](http://arxiv.org/abs/2411.13291)|null|
+|**2024-11-20**|**BelHouse3D: A Benchmark Dataset for Assessing Occlusion Robustness in 3D Point Cloud Semantic Segmentation**|Umamaheswaran Raman Kumar et.al.|[2411.13251](http://arxiv.org/abs/2411.13251)|null|
+|**2024-11-20**|**Automatic marker-free registration based on similar tetrahedras for single-tree point clouds**|Jing Ren et.al.|[2411.13069](http://arxiv.org/abs/2411.13069)|null|
+|**2024-11-19**|**Tree Species Classification using Machine Learning and 3D Tomographic SAR -- a case study in Northern Europe**|Colverd Grace et.al.|[2411.12897](http://arxiv.org/abs/2411.12897)|null|
+|**2024-11-19**|**Mini-Splatting2: Building 360 Scenes within Minutes via Aggressive Gaussian Densification**|Guangchi Fang et.al.|[2411.12788](http://arxiv.org/abs/2411.12788)|null|
 |**2024-11-19**|**STREAM: A Universal State-Space Model for Sparse Geometric Data**|Mark Schöne et.al.|[2411.12603](http://arxiv.org/abs/2411.12603)|null|
 |**2024-11-15**|**SPARS3R: Semantic Prior Alignment and Regularization for Sparse 3D Reconstruction**|Yutao Tang et.al.|[2411.12592](http://arxiv.org/abs/2411.12592)|**[link](https://github.com/snldmt/SPARS3R)**|
 |**2024-11-19**|**3D Reconstruction by Looking: Instantaneous Blind Spot Detector for Indoor SLAM through Mixed Reality**|Hanbeom Chang et.al.|[2411.12514](http://arxiv.org/abs/2411.12514)|null|
