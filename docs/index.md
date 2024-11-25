@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-22**|**Avoiding lensing bias in cosmic shear analysis**|Christopher A. J. Duncan et.al.|[2411.15063](http://arxiv.org/abs/2411.15063)|null|
+|**2024-11-22**|**Light-Matter Hybridization and Entanglement from the First-Principles**|Ilia Mazin et.al.|[2411.15022](http://arxiv.org/abs/2411.15022)|null|
+|**2024-11-22**|**Every finitely generated abelian group is the class group of a generalized cluster algebra**|Mara Pompili et.al.|[2411.14963](http://arxiv.org/abs/2411.14963)|null|
+|**2024-11-22**|**Window convolution of the galaxy clustering bispectrum**|Mike Shengbo Wang et.al.|[2411.14947](http://arxiv.org/abs/2411.14947)|null|
+|**2024-11-22**|**Bayesian inference of strangeon matter using the measurements of J0437-4751 and GW190814**|Wen-Li Yuan et.al.|[2411.14938](http://arxiv.org/abs/2411.14938)|null|
+|**2024-11-22**|**Ab initio study of the beryllium isotopes $^{7}$Be to $^{12}$ Be**|Shihang Shen et.al.|[2411.14935](http://arxiv.org/abs/2411.14935)|null|
+|**2024-11-22**|**Construction of Toroidal Polyhedra corresponding to perfect Chains of wild Tetrahedra**|Reymond Akpanya et.al.|[2411.14924](http://arxiv.org/abs/2411.14924)|null|
+|**2024-11-22**|**OMP4Py: a pure Python implementation of OpenMP**|César Piñeiro et.al.|[2411.14887](http://arxiv.org/abs/2411.14887)|null|
+|**2024-11-22**|**Uncertain standard quadratic optimization under distributional assumptions: a chance-constrained epigraphic approach**|Immanuel M. Bomze et.al.|[2411.14884](http://arxiv.org/abs/2411.14884)|null|
+|**2024-11-22**|**A Systematic Assessment of Data Volume Reduction for IACTs**|Clara Escañuela Nieves et.al.|[2411.14852](http://arxiv.org/abs/2411.14852)|null|
 |**2024-11-21**|**Revisiting the Integration of Convolution and Attention for Vision Backbone**|Lei Zhu et.al.|[2411.14429](http://arxiv.org/abs/2411.14429)|**[link](https://github.com/rayleizhu/glmix)**|
 |**2024-11-21**|**Aggregating Funnels for Faster Fetch&Add and Queues**|Younghun Roh et.al.|[2411.14420](http://arxiv.org/abs/2411.14420)|null|
 |**2024-11-21**|**Beyond Training: Dynamic Token Merging for Zero-Shot Video Understanding**|Yiming Zhang et.al.|[2411.14401](http://arxiv.org/abs/2411.14401)|null|
@@ -2510,6 +2520,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-22**|**Structure of the chromatic polynomial**|Radmila Sazdanovic et.al.|[2411.15088](http://arxiv.org/abs/2411.15088)|null|
+|**2024-11-22**|**SPAC-Net: Rethinking Point Cloud Completion with Structural Prior**|Zizhao Wu et.al.|[2411.15066](http://arxiv.org/abs/2411.15066)|**[link](https://github.com/sand2sand/SPAC-Net)**|
+|**2024-11-22**|**MSSF: A 4D Radar and Camera Fusion Framework With Multi-Stage Sampling for 3D Object Detection in Autonomous Driving**|Hongsi Liu et.al.|[2411.15016](http://arxiv.org/abs/2411.15016)|null|
+|**2024-11-22**|**BIP3D: Bridging 2D Images and 3D Perception for Embodied Intelligence**|Xuewu Lin et.al.|[2411.14869](http://arxiv.org/abs/2411.14869)|null|
+|**2024-11-22**|**Point Cloud Understanding via Attention-Driven Contrastive Learning**|Yi Wang et.al.|[2411.14744](http://arxiv.org/abs/2411.14744)|null|
+|**2024-11-22**|**TEXGen: a Generative Diffusion Model for Mesh Textures**|Xin Yu et.al.|[2411.14740](http://arxiv.org/abs/2411.14740)|**[link](https://github.com/CVMI-Lab/TEXGen)**|
+|**2024-11-22**|**mmWave Radar for Sit-to-Stand Analysis: A Comparative Study with Wearables and Kinect**|Shuting Hu et.al.|[2411.14656](http://arxiv.org/abs/2411.14656)|null|
+|**2024-11-21**|**Efficient Spatio-Temporal Signal Recognition on Edge Devices Using PointLCA-Net**|Sanaz Mahmoodi Takaghaj et.al.|[2411.14585](http://arxiv.org/abs/2411.14585)|null|
 |**2024-11-21**|**23 DoF Grasping Policies from a Raw Point Cloud**|Martin Matak et.al.|[2411.14400](http://arxiv.org/abs/2411.14400)|null|
 |**2024-11-21**|**Learning Humanoid Locomotion with Perceptive Internal Model**|Junfeng Long et.al.|[2411.14386](http://arxiv.org/abs/2411.14386)|null|
 |**2024-11-21**|**Baking Gaussian Splatting into Diffusion Denoiser for Fast and Scalable Single-stage Image-to-3D Generation**|Yuanhao Cai et.al.|[2411.14384](http://arxiv.org/abs/2411.14384)|null|
