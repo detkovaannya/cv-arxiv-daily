@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-25**|**Modified recombination and the Hubble tension**|Seyed Hamidreza Mirpoorian et.al.|[2411.16678](http://arxiv.org/abs/2411.16678)|null|
+|**2024-11-25**|**OPMOS: Ordered Parallel Multi-Objective Shortest-Path**|Leo Gold et.al.|[2411.16667](http://arxiv.org/abs/2411.16667)|null|
+|**2024-11-25**|**K8s Pro Sentinel: Extend Secret Security in Kubernetes Cluster**|Kavindu Gunathilake et.al.|[2411.16639](http://arxiv.org/abs/2411.16639)|null|
+|**2024-11-25**|**Graph Pooling with Local Cluster Selection**|Yizhu Chen et.al.|[2411.16615](http://arxiv.org/abs/2411.16615)|null|
+|**2024-11-25**|**Barriers on the EDGE: A scalable CBF architecture over EDGE for safe aerial-ground multi-agent coordination**|Viswa Narayanan Sankaranarayanan et.al.|[2411.16608](http://arxiv.org/abs/2411.16608)|null|
+|**2024-11-25**|**Location-Based Service (LBS) Data Quality Metrics and Effects on Mobility Inference**|Xinhua Wu et.al.|[2411.16595](http://arxiv.org/abs/2411.16595)|null|
+|**2024-11-25**|**Anomaly Detection and RFI Classification with Unsupervised Learning in Narrowband Radio Technosignature Searches**|Ben Jacobson-Bell et.al.|[2411.16556](http://arxiv.org/abs/2411.16556)|null|
+|**2024-11-25**|**The hot gas mass fraction in halos. From Milky Way-like groups to massive clusters**|P. Popesso et.al.|[2411.16555](http://arxiv.org/abs/2411.16555)|null|
+|**2024-11-25**|**The perils of stacking optically selected groups in eROSITA data. The Magneticum perspective**|P. Popesso et.al.|[2411.16546](http://arxiv.org/abs/2411.16546)|null|
+|**2024-11-25**|**Square ice Coulomb phase as a percolated vertex lattice**|Johann Coraux et.al.|[2411.16533](http://arxiv.org/abs/2411.16533)|null|
 |**2024-11-22**|**Avoiding lensing bias in cosmic shear analysis**|Christopher A. J. Duncan et.al.|[2411.15063](http://arxiv.org/abs/2411.15063)|null|
 |**2024-11-22**|**Light-Matter Hybridization and Entanglement from the First-Principles**|Ilia Mazin et.al.|[2411.15022](http://arxiv.org/abs/2411.15022)|null|
 |**2024-11-22**|**Every finitely generated abelian group is the class group of a generalized cluster algebra**|Mara Pompili et.al.|[2411.14963](http://arxiv.org/abs/2411.14963)|null|
@@ -2520,6 +2530,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-25**|**CutS3D: Cutting Semantics in 3D for 2D Unsupervised Instance Segmentation**|Leon Sick et.al.|[2411.16319](http://arxiv.org/abs/2411.16319)|null|
+|**2024-11-25**|**Functionality understanding and segmentation in 3D scenes**|Jaime Corsetti et.al.|[2411.16310](http://arxiv.org/abs/2411.16310)|null|
+|**2024-11-25**|**An End-to-End Robust Point Cloud Semantic Segmentation Network with Single-Step Conditional Diffusion Models**|Wentao Qu et.al.|[2411.16308](http://arxiv.org/abs/2411.16308)|null|
+|**2024-11-25**|**Open-Vocabulary Octree-Graph for 3D Scene Understanding**|Zhigang Wang et.al.|[2411.16253](http://arxiv.org/abs/2411.16253)|null|
+|**2024-11-25**|**Any3DIS: Class-Agnostic 3D Instance Segmentation by 2D Mask Tracking**|Phuc Nguyen et.al.|[2411.16183](http://arxiv.org/abs/2411.16183)|null|
+|**2024-11-25**|**Language Driven Occupancy Prediction**|Zhu Yu et.al.|[2411.16072](http://arxiv.org/abs/2411.16072)|**[link](https://github.com/pkqbajng/locc)**|
+|**2024-11-24**|**Autonomous Multi-Robot Exploration Strategies for 3D Environments with Fire Detection Capabilitie**|Ankit Shaw et.al.|[2411.15953](http://arxiv.org/abs/2411.15953)|null|
+|**2024-11-24**|**Highly Efficient and Unsupervised Framework for Moving Object Detection in Satellite Videos**|C. Xiao et.al.|[2411.15895](http://arxiv.org/abs/2411.15895)|**[link](https://github.com/chaoxiao12/moving-object-detection-in-satellite-videos-hieum)**|
+|**2024-11-24**|**PG-SLAM: Photo-realistic and Geometry-aware RGB-D SLAM in Dynamic Environments**|Haoang Li et.al.|[2411.15800](http://arxiv.org/abs/2411.15800)|null|
+|**2024-11-23**|**Training an Open-Vocabulary Monocular 3D Object Detection Model without 3D Data**|Rui Huang et.al.|[2411.15657](http://arxiv.org/abs/2411.15657)|null|
 |**2024-11-22**|**Structure of the chromatic polynomial**|Radmila Sazdanovic et.al.|[2411.15088](http://arxiv.org/abs/2411.15088)|null|
 |**2024-11-22**|**SPAC-Net: Rethinking Point Cloud Completion with Structural Prior**|Zizhao Wu et.al.|[2411.15066](http://arxiv.org/abs/2411.15066)|**[link](https://github.com/sand2sand/SPAC-Net)**|
 |**2024-11-22**|**MSSF: A 4D Radar and Camera Fusion Framework With Multi-Stage Sampling for 3D Object Detection in Autonomous Driving**|Hongsi Liu et.al.|[2411.15016](http://arxiv.org/abs/2411.15016)|null|
