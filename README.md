@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-26**|**Toward High-Performance LLM Serving: A Simulation-Based Approach for Identifying Optimal Parallelism**|Yi-Chien Lin et.al.|[2411.17651](http://arxiv.org/abs/2411.17651)|null|
+|**2024-11-26**|**Cyclic phase transition of substrate-modulated 2D dusty plasma driven by oscillatory forces**|Ao Xu et.al.|[2411.17647](http://arxiv.org/abs/2411.17647)|null|
+|**2024-11-26**|**Constraining primordial non-Gaussianity with DESI 2024 LRG and QSO samples**|E. Chaussidon et.al.|[2411.17623](http://arxiv.org/abs/2411.17623)|null|
+|**2024-11-26**|**Uncertainty quantification for White Matter Hyperintensity segmentation detects silent failures and improves automated Fazekas quantification**|Ben Philps et.al.|[2411.17571](http://arxiv.org/abs/2411.17571)|null|
+|**2024-11-26**|**Chemically Self-Consistent Modeling of the Globular Cluster NGC 2808 and its Effects on the Inferred Helium Abundance of Multiple Stellar Populations**|Emily M. Boudreaux et.al.|[2411.17562](http://arxiv.org/abs/2411.17562)|null|
+|**2024-11-26**|**Kinetic Field Theory Applied to Planetesimal Formation I: Freely Streaming Dust Particles**|Jiahan Shi et.al.|[2411.17514](http://arxiv.org/abs/2411.17514)|null|
+|**2024-11-26**|**Exploring Structural Dynamics in Retracted and Non-Retracted Author's Collaboration Networks: A Quantitative Analysis**|Kiran Sharma et.al.|[2411.17447](http://arxiv.org/abs/2411.17447)|null|
+|**2024-11-26**|**Maximally Separated Active Learning**|Tejaswi Kasarla et.al.|[2411.17444](http://arxiv.org/abs/2411.17444)|**[link](https://github.com/tkasarla/MSAL)**|
+|**2024-11-26**|**The unreasonable effectiveness of the $n Σv$ approximation**|Elisha Modelevsky et.al.|[2411.17436](http://arxiv.org/abs/2411.17436)|null|
+|**2024-11-26**|**Evaluating the Overhead of the Performance Profiler Cloudprofiler With MooBench**|Shinhyung Yang et.al.|[2411.17413](http://arxiv.org/abs/2411.17413)|null|
 |**2024-11-25**|**Modified recombination and the Hubble tension**|Seyed Hamidreza Mirpoorian et.al.|[2411.16678](http://arxiv.org/abs/2411.16678)|null|
 |**2024-11-25**|**OPMOS: Ordered Parallel Multi-Objective Shortest-Path**|Leo Gold et.al.|[2411.16667](http://arxiv.org/abs/2411.16667)|null|
 |**2024-11-25**|**K8s Pro Sentinel: Extend Secret Security in Kubernetes Cluster**|Kavindu Gunathilake et.al.|[2411.16639](http://arxiv.org/abs/2411.16639)|null|
@@ -2536,8 +2546,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-11-25**|**CutS3D: Cutting Semantics in 3D for 2D Unsupervised Instance Segmentation**|Leon Sick et.al.|[2411.16319](http://arxiv.org/abs/2411.16319)|null|
-|**2024-11-25**|**Functionality understanding and segmentation in 3D scenes**|Jaime Corsetti et.al.|[2411.16310](http://arxiv.org/abs/2411.16310)|null|
+|**2024-11-26**|**Revisiting Point Cloud Completion: Are We Ready For The Real-World?**|Stuti Pathak et.al.|[2411.17580](http://arxiv.org/abs/2411.17580)|null|
+|**2024-11-25**|**Learning 3D Representations from Procedural 3D Programs**|Xuweiyi Chen et.al.|[2411.17467](http://arxiv.org/abs/2411.17467)|null|
+|**2024-11-26**|**NumGrad-Pull: Numerical Gradient Guided Tri-plane Representation for Surface Reconstruction from Point Clouds**|Ruikai Cui et.al.|[2411.17392](http://arxiv.org/abs/2411.17392)|**[link](https://github.com/cuiruikai/numgrad-pull)**|
+|**2024-11-26**|**X-MeshGraphNet: Scalable Multi-Scale Graph Neural Networks for Physics Simulation**|Mohammad Amin Nabian et.al.|[2411.17164](http://arxiv.org/abs/2411.17164)|**[link](https://github.com/nvidia/modulus)**|
+|**2024-11-26**|**D $^2$ -World: An Efficient World Model through Decoupled Dynamic Flow**|Haiming Zhang et.al.|[2411.17027](http://arxiv.org/abs/2411.17027)|null|
+|**2024-11-25**|**Curvature Informed Furthest Point Sampling**|Shubham Bhardwaj et.al.|[2411.16995](http://arxiv.org/abs/2411.16995)|null|
+|**2024-11-26**|**CutS3D: Cutting Semantics in 3D for 2D Unsupervised Instance Segmentation**|Leon Sick et.al.|[2411.16319](http://arxiv.org/abs/2411.16319)|null|
+|**2024-11-26**|**Functionality understanding and segmentation in 3D scenes**|Jaime Corsetti et.al.|[2411.16310](http://arxiv.org/abs/2411.16310)|null|
 |**2024-11-25**|**An End-to-End Robust Point Cloud Semantic Segmentation Network with Single-Step Conditional Diffusion Models**|Wentao Qu et.al.|[2411.16308](http://arxiv.org/abs/2411.16308)|null|
 |**2024-11-25**|**Open-Vocabulary Octree-Graph for 3D Scene Understanding**|Zhigang Wang et.al.|[2411.16253](http://arxiv.org/abs/2411.16253)|null|
 |**2024-11-25**|**Any3DIS: Class-Agnostic 3D Instance Segmentation by 2D Mask Tracking**|Phuc Nguyen et.al.|[2411.16183](http://arxiv.org/abs/2411.16183)|null|
