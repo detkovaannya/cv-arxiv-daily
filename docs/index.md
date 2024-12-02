@@ -28,7 +28,7 @@ layout: default
 |**2024-11-26**|**Cyclic phase transition of substrate-modulated 2D dusty plasma driven by oscillatory forces**|Ao Xu et.al.|[2411.17647](http://arxiv.org/abs/2411.17647)|null|
 |**2024-11-26**|**Constraining primordial non-Gaussianity with DESI 2024 LRG and QSO samples**|E. Chaussidon et.al.|[2411.17623](http://arxiv.org/abs/2411.17623)|null|
 |**2024-11-26**|**Uncertainty quantification for White Matter Hyperintensity segmentation detects silent failures and improves automated Fazekas quantification**|Ben Philps et.al.|[2411.17571](http://arxiv.org/abs/2411.17571)|null|
-|**2024-11-26**|**Chemically Self-Consistent Modeling of the Globular Cluster NGC 2808 and its Effects on the Inferred Helium Abundance of Multiple Stellar Populations**|Emily M. Boudreaux et.al.|[2411.17562](http://arxiv.org/abs/2411.17562)|null|
+|**2024-11-26**|**Chemically Self-Consistent Modeling of the Globular Cluster NGC 2808 and its Effects on the Inferred Helium Abundance of Multiple Stellar Populations**|Emily M. Boudreaux et.al.|[2411.17562](http://arxiv.org/abs/2411.17562)|**[link](https://github.com/tboudreaux/fidanka)**|
 |**2024-11-26**|**Kinetic Field Theory Applied to Planetesimal Formation I: Freely Streaming Dust Particles**|Jiahan Shi et.al.|[2411.17514](http://arxiv.org/abs/2411.17514)|null|
 |**2024-11-26**|**Exploring Structural Dynamics in Retracted and Non-Retracted Author's Collaboration Networks: A Quantitative Analysis**|Kiran Sharma et.al.|[2411.17447](http://arxiv.org/abs/2411.17447)|null|
 |**2024-11-26**|**Maximally Separated Active Learning**|Tejaswi Kasarla et.al.|[2411.17444](http://arxiv.org/abs/2411.17444)|**[link](https://github.com/tkasarla/MSAL)**|
@@ -51,7 +51,7 @@ layout: default
 |**2024-11-22**|**Bayesian inference of strangeon matter using the measurements of J0437-4751 and GW190814**|Wen-Li Yuan et.al.|[2411.14938](http://arxiv.org/abs/2411.14938)|null|
 |**2024-11-22**|**Ab initio study of the beryllium isotopes $^{7}$Be to $^{12}$ Be**|Shihang Shen et.al.|[2411.14935](http://arxiv.org/abs/2411.14935)|null|
 |**2024-11-22**|**Construction of Toroidal Polyhedra corresponding to perfect Chains of wild Tetrahedra**|Reymond Akpanya et.al.|[2411.14924](http://arxiv.org/abs/2411.14924)|null|
-|**2024-11-22**|**OMP4Py: a pure Python implementation of OpenMP**|César Piñeiro et.al.|[2411.14887](http://arxiv.org/abs/2411.14887)|null|
+|**2024-11-22**|**OMP4Py: a pure Python implementation of OpenMP**|César Piñeiro et.al.|[2411.14887](http://arxiv.org/abs/2411.14887)|**[link](https://github.com/citiususc/omp4py)**|
 |**2024-11-22**|**Uncertain standard quadratic optimization under distributional assumptions: a chance-constrained epigraphic approach**|Immanuel M. Bomze et.al.|[2411.14884](http://arxiv.org/abs/2411.14884)|null|
 |**2024-11-22**|**A Systematic Assessment of Data Volume Reduction for IACTs**|Clara Escañuela Nieves et.al.|[2411.14852](http://arxiv.org/abs/2411.14852)|null|
 |**2024-11-21**|**Revisiting the Integration of Convolution and Attention for Vision Backbone**|Lei Zhu et.al.|[2411.14429](http://arxiv.org/abs/2411.14429)|**[link](https://github.com/rayleizhu/glmix)**|
@@ -1830,7 +1830,7 @@ layout: default
 |**2024-02-27**|**Navigator: A Decentralized Scheduler for Latency-Sensitive ML Workflows**|Yuting Yang et.al.|[2402.17652](http://arxiv.org/abs/2402.17652)|null|
 |**2024-02-27**|**Recurrent chaotic clustering and slow chaos in adaptive networks**|Matheus Rolim Sales et.al.|[2402.17646](http://arxiv.org/abs/2402.17646)|null|
 |**2024-02-27**|**Extrapolating the projected potential of gravitational lens models: property-preserving degeneracies**|Jori Liesenborgs et.al.|[2402.17591](http://arxiv.org/abs/2402.17591)|null|
-|**2024-02-27**|**PLReMix: Combating Noisy Labels with Pseudo-Label Relaxed Contrastive Representation Learning**|Xiaoyu Liu et.al.|[2402.17589](http://arxiv.org/abs/2402.17589)|null|
+|**2024-02-27**|**PLReMix: Combating Noisy Labels with Pseudo-Label Relaxed Contrastive Representation Learning**|Xiaoyu Liu et.al.|[2402.17589](http://arxiv.org/abs/2402.17589)|**[link](https://github.com/lxysl/plremix)**|
 |**2024-02-27**|**CosmoMIA: Cosmic Web-based redshift space halo distribution**|Daniel Forero-Sánchez et.al.|[2402.17581](http://arxiv.org/abs/2402.17581)|null|
 |**2024-02-26**|**Label Learning Method Based on Tensor Projection**|Jing Li et.al.|[2402.16544](http://arxiv.org/abs/2402.16544)|null|
 |**2024-02-26**|**Cluster Counting Algorithm for Drift Chamber using LSTM and DGCNN**|Zhefei Tian et.al.|[2402.16493](http://arxiv.org/abs/2402.16493)|null|
@@ -2413,7 +2413,7 @@ layout: default
 |**2023-11-30**|**Universality of closed nested paths in two-dimensional percolation**|Yu-Feng Song et.al.|[2311.18700](http://arxiv.org/abs/2311.18700)|null|
 |**2023-11-30**|**The Factory and the Beehive. V. Chromospheric and Coronal Activity and Its Dependence on Rotation in Praesepe and the Hyades**|Alejandro Núñez et.al.|[2311.18690](http://arxiv.org/abs/2311.18690)|null|
 |**2023-11-30**|**A proposal for federated chatbots for distributed information access (extended version)**|Fernando Tricas-García et.al.|[2311.18679](http://arxiv.org/abs/2311.18679)|null|
-|**2023-11-30**|**Splitwise: Efficient generative LLM inference using phase splitting**|Pratyush Patel et.al.|[2311.18677](http://arxiv.org/abs/2311.18677)|null|
+|**2023-11-30**|**Splitwise: Efficient generative LLM inference using phase splitting**|Pratyush Patel et.al.|[2311.18677](http://arxiv.org/abs/2311.18677)|**[link](https://github.com/Azure/AzurePublicDataset)**|
 |**2023-11-30**|**Comparison of Autoscaling Frameworks for Containerised Machine-Learning-Applications in a Local and Cloud Environment**|Christian Schroeder et.al.|[2311.18659](http://arxiv.org/abs/2311.18659)|null|
 |**2023-11-29**|**Autoencoder-based analytic continuation method for strongly correlated quantum systems**|Maksymilian Kliczkowski et.al.|[2311.17920](http://arxiv.org/abs/2311.17920)|null|
 |**2023-11-29**|**Number count of Gravitational Waves and Supernovae in Luminosity Distance space for LCDM and Scalar-Tensor theories**|Anna Balaudo et.al.|[2311.17904](http://arxiv.org/abs/2311.17904)|null|
@@ -2561,11 +2561,11 @@ layout: default
 |**2024-11-25**|**Learning 3D Representations from Procedural 3D Programs**|Xuweiyi Chen et.al.|[2411.17467](http://arxiv.org/abs/2411.17467)|null|
 |**2024-11-26**|**NumGrad-Pull: Numerical Gradient Guided Tri-plane Representation for Surface Reconstruction from Point Clouds**|Ruikai Cui et.al.|[2411.17392](http://arxiv.org/abs/2411.17392)|**[link](https://github.com/cuiruikai/numgrad-pull)**|
 |**2024-11-26**|**X-MeshGraphNet: Scalable Multi-Scale Graph Neural Networks for Physics Simulation**|Mohammad Amin Nabian et.al.|[2411.17164](http://arxiv.org/abs/2411.17164)|**[link](https://github.com/nvidia/modulus)**|
-|**2024-11-26**|**D $^2$ -World: An Efficient World Model through Decoupled Dynamic Flow**|Haiming Zhang et.al.|[2411.17027](http://arxiv.org/abs/2411.17027)|null|
+|**2024-11-26**|**D $^2$ -World: An Efficient World Model through Decoupled Dynamic Flow**|Haiming Zhang et.al.|[2411.17027](http://arxiv.org/abs/2411.17027)|**[link](https://github.com/zhanghm1995/d2-world)**|
 |**2024-11-25**|**Curvature Informed Furthest Point Sampling**|Shubham Bhardwaj et.al.|[2411.16995](http://arxiv.org/abs/2411.16995)|null|
 |**2024-11-26**|**CutS3D: Cutting Semantics in 3D for 2D Unsupervised Instance Segmentation**|Leon Sick et.al.|[2411.16319](http://arxiv.org/abs/2411.16319)|null|
 |**2024-11-26**|**Functionality understanding and segmentation in 3D scenes**|Jaime Corsetti et.al.|[2411.16310](http://arxiv.org/abs/2411.16310)|null|
-|**2024-11-25**|**An End-to-End Robust Point Cloud Semantic Segmentation Network with Single-Step Conditional Diffusion Models**|Wentao Qu et.al.|[2411.16308](http://arxiv.org/abs/2411.16308)|null|
+|**2024-11-25**|**An End-to-End Robust Point Cloud Semantic Segmentation Network with Single-Step Conditional Diffusion Models**|Wentao Qu et.al.|[2411.16308](http://arxiv.org/abs/2411.16308)|**[link](https://github.com/qwtforgithub/cdsegnet)**|
 |**2024-11-25**|**Open-Vocabulary Octree-Graph for 3D Scene Understanding**|Zhigang Wang et.al.|[2411.16253](http://arxiv.org/abs/2411.16253)|null|
 |**2024-11-25**|**Any3DIS: Class-Agnostic 3D Instance Segmentation by 2D Mask Tracking**|Phuc Nguyen et.al.|[2411.16183](http://arxiv.org/abs/2411.16183)|null|
 |**2024-11-25**|**Language Driven Occupancy Prediction**|Zhu Yu et.al.|[2411.16072](http://arxiv.org/abs/2411.16072)|**[link](https://github.com/pkqbajng/locc)**|
@@ -3566,7 +3566,7 @@ layout: default
 |**2024-03-22**|**STAG4D: Spatial-Temporal Anchored Generative 4D Gaussians**|Yifei Zeng et.al.|[2403.14939](http://arxiv.org/abs/2403.14939)|null|
 |**2024-03-21**|**Offline tagging of radon-induced backgrounds in XENON1T and applicability to other liquid xenon detectors**|E. Aprile et.al.|[2403.14878](http://arxiv.org/abs/2403.14878)|null|
 |**2024-03-21**|**Geom-DeepONet: A Point-cloud-based Deep Operator Network for Field Predictions on 3D Parameterized Geometries**|Junyan He et.al.|[2403.14788](http://arxiv.org/abs/2403.14788)|null|
-|**2024-03-21**|**VXP: Voxel-Cross-Pixel Large-scale Image-LiDAR Place Recognition**|Yun-Jin Li et.al.|[2403.14594](http://arxiv.org/abs/2403.14594)|null|
+|**2024-03-21**|**VXP: Voxel-Cross-Pixel Large-scale Image-LiDAR Place Recognition**|Yun-Jin Li et.al.|[2403.14594](http://arxiv.org/abs/2403.14594)|**[link](https://github.com/yunjinli/vxp)**|
 |**2024-03-21**|**HAC: Hash-grid Assisted Context for 3D Gaussian Splatting Compression**|Yihang Chen et.al.|[2403.14530](http://arxiv.org/abs/2403.14530)|**[link](https://github.com/yihangchen-ee/hac)**|
 |**2024-03-21**|**OA-CNNs: Omni-Adaptive Sparse CNNs for 3D Semantic Segmentation**|Bohao Peng et.al.|[2403.14418](http://arxiv.org/abs/2403.14418)|**[link](https://github.com/Pointcept/Pointcept)**|
 |**2024-03-21**|**A LiDAR-Aided Channel Model for Vehicular Intelligent Sensing-Communication Integration**|Ziwei Huang et.al.|[2403.14185](http://arxiv.org/abs/2403.14185)|null|
