@@ -16,11 +16,11 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-29**|**Interacting Dark Sector (ETHOS $n=0$ ): Cosmological Constraints from SPT Cluster Abundance with DES and HST Weak Lensing Data**|Asmaa Mazoun et.al.|[2411.19911](http://arxiv.org/abs/2411.19911)|null|
 |**2024-11-29**|**Noncommutative Model Selection for Data Clustering and Dimension Reduction Using Relative von Neumann Entropy**|Araceli Guzmán-Tristán et.al.|[2411.19902](http://arxiv.org/abs/2411.19902)|null|
-|**2024-11-29**|**Memory Efficient GPU-based Label Propagation Algorithm (LPA) for Community Detection on Large Graphs**|Subhajit Sahu et.al.|[2411.19901](http://arxiv.org/abs/2411.19901)|null|
+|**2024-11-29**|**Memory Efficient GPU-based Label Propagation Algorithm (LPA) for Community Detection on Large Graphs**|Subhajit Sahu et.al.|[2411.19901](http://arxiv.org/abs/2411.19901)|**[link](https://github.com/puzzlef/rak-lowmem-communities-cuda)**|
 |**2024-11-29**|**Stellar streams reveal the mass loss of globular clusters**|Yingtian Chen et.al.|[2411.19899](http://arxiv.org/abs/2411.19899)|null|
 |**2024-11-29**|**Noncommutative Model Selection and the Data-Driven Estimation of Real Cohomology Groups**|Araceli Guzmán-Tristán et.al.|[2411.19894](http://arxiv.org/abs/2411.19894)|null|
 |**2024-11-29**|**Distributed And Parallel Low-Diameter Decompositions for Arbitrary and Restricted Graphs**|Jinfeng Dou et.al.|[2411.19859](http://arxiv.org/abs/2411.19859)|null|
-|**2024-11-29**|**Artificial intelligence contribution to translation industry: looking back and forward**|Mohammed Q. Shormani et.al.|[2411.19855](http://arxiv.org/abs/2411.19855)|null|
+|**2024-12-02**|**Artificial intelligence contribution to translation industry: looking back and forward**|Mohammed Q. Shormani et.al.|[2411.19855](http://arxiv.org/abs/2411.19855)|null|
 |**2024-11-29**|**Proton reconstruction with the TOTEM Roman pot detectors for high- $β^*$ LHC data**|CMS Collaboration et.al.|[2411.19749](http://arxiv.org/abs/2411.19749)|null|
 |**2024-11-29**|**A New Look at Disk Winds and External Photoevaporation in the $σ$ -Orionis Cluster**|K. Maucó et.al.|[2411.19741](http://arxiv.org/abs/2411.19741)|null|
 |**2024-11-29**|**A rounding and clustering-based exact algorithm for the p-center problem**|Zacharie Ales et.al.|[2411.19724](http://arxiv.org/abs/2411.19724)|null|
