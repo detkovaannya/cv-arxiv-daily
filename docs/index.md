@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-06**|**Millisecond Pulsars in Globular Clusters and Implications for the Galactic Center Gamma-Ray Excess**|Aurelio Amerio et.al.|[2412.05220](http://arxiv.org/abs/2412.05220)|null|
+|**2024-12-06**|**An Experimental Framework for Implementing Decentralized Autonomous Database Systems in Rust**|Prakash Aryan et.al.|[2412.05078](http://arxiv.org/abs/2412.05078)|null|
+|**2024-12-06**|**Chimera states in a system of stationary and flying-through deterministic particles with an internal degree of freedom**|Maxim I. Bolotov et.al.|[2412.05044](http://arxiv.org/abs/2412.05044)|null|
+|**2024-12-06**|**Open Cluster Study Using $Gaia$ I:Membership and Cluster Properties**|Anindya Ganguly et.al.|[2412.05033](http://arxiv.org/abs/2412.05033)|null|
+|**2024-12-06**|**Excited cluster states: A new source for proton number fluctuations in the high baryon density regime**|Boris Tomasik et.al.|[2412.04994](http://arxiv.org/abs/2412.04994)|null|
+|**2024-12-06**|**Tripling Fluctuations and Peaked Sound Speed in Fermionic Matter**|Hiroyuki Tajima et.al.|[2412.04971](http://arxiv.org/abs/2412.04971)|null|
+|**2024-12-06**|**From Theory to Practice: Demonstrators of FAIR Data Spaces Across Different Sectors**|Nikolaus Glombiewski et.al.|[2412.04969](http://arxiv.org/abs/2412.04969)|null|
+|**2024-12-06**|**Flash Communication: Reducing Tensor Parallelization Bottleneck for Fast Large Language Model Inference**|Qingyuan Li et.al.|[2412.04964](http://arxiv.org/abs/2412.04964)|null|
+|**2024-12-06**|**A Subquadratic Time Approximation Algorithm for Individually Fair k-Center**|Matthijs Ebbens et.al.|[2412.04943](http://arxiv.org/abs/2412.04943)|null|
+|**2024-12-06**|**Bridging Culture and Finance: A Multimodal Analysis of Memecoins in the Web3 Ecosystem**|Hou-Wan Long et.al.|[2412.04913](http://arxiv.org/abs/2412.04913)|null|
 |**2024-12-05**|**PDMD: Potential-free Data-driven Molecular Dynamics for Variable-sized Water Clusters**|Hongyu Yan et.al.|[2412.04442](http://arxiv.org/abs/2412.04442)|**[link](https://github.com/TACC/PDMD)**|
 |**2024-12-05**|**Overdensity of Lyman-Break Galaxy Candidates Around Hot Dust-Obscured Galaxies**|Dejene Zewdie et.al.|[2412.04436](http://arxiv.org/abs/2412.04436)|null|
 |**2024-12-05**|**FedDUAL: A Dual-Strategy with Adaptive Loss and Dynamic Aggregation for Mitigating Data Heterogeneity in Federated Learning**|Pranab Sahoo et.al.|[2412.04416](http://arxiv.org/abs/2412.04416)|**[link](https://github.com/Pranabiitp/FedDUAL)**|
@@ -2590,6 +2600,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-06**|**Stag-1: Towards Realistic 4D Driving Simulation with Video Generation Model**|Lening Wang et.al.|[2412.05280](http://arxiv.org/abs/2412.05280)|**[link](https://github.com/wzzheng/stag)**|
+|**2024-12-06**|**SimC3D: A Simple Contrastive 3D Pretraining Framework Using RGB Images**|Jiahua Dong et.al.|[2412.05274](http://arxiv.org/abs/2412.05274)|null|
+|**2024-12-06**|**FlowPolicy: Enabling Fast and Robust 3D Flow-based Policy via Consistency Flow Matching for Robot Manipulation**|Qinglun Zhang et.al.|[2412.04987](http://arxiv.org/abs/2412.04987)|null|
+|**2024-12-06**|**GS-Matching: Reconsidering Feature Matching task in Point Cloud Registration**|Yaojie Zhang et.al.|[2412.04855](http://arxiv.org/abs/2412.04855)|null|
+|**2024-12-06**|**PCTreeS: 3D Point Cloud Tree Species Classification Using Airborne LiDAR Images**|Hongjin Lin et.al.|[2412.04714](http://arxiv.org/abs/2412.04714)|null|
+|**2024-12-05**|**Generating Whole-Body Avoidance Motion through Localized Proximity Sensing**|Simone Borelli et.al.|[2412.04649](http://arxiv.org/abs/2412.04649)|null|
 |**2024-12-05**|**Towards Zero-shot 3D Anomaly Localization**|Yizhou Wang et.al.|[2412.04304](http://arxiv.org/abs/2412.04304)|null|
 |**2024-12-05**|**Alpha shapes and optimal transport on the sphere**|Erik Carlsson et.al.|[2412.04286](http://arxiv.org/abs/2412.04286)|**[link](https://github.com/gdepaul/DensiTDA)**|
 |**2024-12-05**|**3D Part Segmentation via Geometric Aggregation of 2D Visual Features**|Marco Garosi et.al.|[2412.04247](http://arxiv.org/abs/2412.04247)|null|
