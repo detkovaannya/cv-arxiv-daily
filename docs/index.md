@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-09**|**Cluster volumes for the Gaussian free field on metric graphs**|Alexander Drewitz et.al.|[2412.06772](http://arxiv.org/abs/2412.06772)|null|
+|**2024-12-09**|**Hydrogen intensity mapping with MeerKAT: Preserving cosmological signal by optimising contaminant separation**|Isabella P. Carucci et.al.|[2412.06750](http://arxiv.org/abs/2412.06750)|null|
+|**2024-12-09**|**A Tensor-Structured Approach to Dynamic Channel Prediction for Massive MIMO Systems with Temporal Non-Stationarity**|Hongwei Hou et.al.|[2412.06713](http://arxiv.org/abs/2412.06713)|null|
+|**2024-12-09**|**Dynamical Phase Transitions in Non-equilibrium Networks**|Jiazhen Liu et.al.|[2412.06704](http://arxiv.org/abs/2412.06704)|null|
+|**2024-12-09**|**Facade: High-Precision Insider Threat Detection Using Deep Contextual Anomaly Detection**|Alex Kantchelian et.al.|[2412.06700](http://arxiv.org/abs/2412.06700)|null|
+|**2024-12-09**|**Class Balance Matters to Active Class-Incremental Learning**|Zitong Huang et.al.|[2412.06642](http://arxiv.org/abs/2412.06642)|**[link](https://github.com/1170300714/cbs)**|
+|**2024-12-09**|**The potential impact of large-scale wind clusters on the local weather patterns**|Rui Li et.al.|[2412.06638](http://arxiv.org/abs/2412.06638)|null|
+|**2024-12-09**|**Enhanced quantum sensitivity and coherence of symmetric magnetic clusters**|Lorenzo Amato et.al.|[2412.06554](http://arxiv.org/abs/2412.06554)|null|
+|**2024-12-09**|**Federated Split Learning with Model Pruning and Gradient Quantization in Wireless Networks**|Junhe Zhang et.al.|[2412.06414](http://arxiv.org/abs/2412.06414)|null|
+|**2024-12-09**|**Low-Rank Matrix Factorizations with Volume-based Constraints and Regularizations**|Olivier Vu Thanh et.al.|[2412.06380](http://arxiv.org/abs/2412.06380)|null|
 |**2024-12-06**|**Millisecond Pulsars in Globular Clusters and Implications for the Galactic Center Gamma-Ray Excess**|Aurelio Amerio et.al.|[2412.05220](http://arxiv.org/abs/2412.05220)|null|
 |**2024-12-06**|**An Experimental Framework for Implementing Decentralized Autonomous Database Systems in Rust**|Prakash Aryan et.al.|[2412.05078](http://arxiv.org/abs/2412.05078)|null|
 |**2024-12-06**|**Chimera states in a system of stationary and flying-through deterministic particles with an internal degree of freedom**|Maxim I. Bolotov et.al.|[2412.05044](http://arxiv.org/abs/2412.05044)|null|
@@ -2600,6 +2610,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-09**|**World-Consistent Data Generation for Vision-and-Language Navigation**|Yu Zhong et.al.|[2412.06413](http://arxiv.org/abs/2412.06413)|null|
+|**2024-12-09**|**Open-Vocabulary High-Resolution 3D (OVHR3D) Data Segmentation and Annotation Framework**|Jiuyi Xu et.al.|[2412.06268](http://arxiv.org/abs/2412.06268)|null|
+|**2024-12-09**|**Identifying weak critical fluctuations of intermittency in heavy-ion collisions with topological machine learning**|Rui Wang et.al.|[2412.06151](http://arxiv.org/abs/2412.06151)|null|
+|**2024-12-08**|**Latent-Reframe: Enabling Camera Control for Video Diffusion Model without Training**|Zhenghong Zhou et.al.|[2412.06029](http://arxiv.org/abs/2412.06029)|null|
+|**2024-12-08**|**Efficient Semantic Splatting for Remote Sensing Multi-view Segmentation**|Zipeng Qi et.al.|[2412.05969](http://arxiv.org/abs/2412.05969)|null|
+|**2024-12-08**|**GBR: Generative Bundle Refinement for High-fidelity Gaussian Splatting and Meshing**|Jianing Zhang et.al.|[2412.05908](http://arxiv.org/abs/2412.05908)|null|
+|**2024-12-07**|**WATER-GS: Toward Copyright Protection for 3D Gaussian Splatting via Universal Watermarking**|Yuqi Tan et.al.|[2412.05695](http://arxiv.org/abs/2412.05695)|null|
+|**2024-12-07**|**TB-HSU: Hierarchical 3D Scene Understanding with Contextual Affordances**|Wenting Xu et.al.|[2412.05596](http://arxiv.org/abs/2412.05596)|null|
+|**2024-12-07**|**Real-Time 3D Object Detection Using InnovizOne LiDAR and Low-Power Hailo-8 AI Accelerator**|Itay Krispin-Avraham et.al.|[2412.05594](http://arxiv.org/abs/2412.05594)|**[link](https://github.com/airotau/pointpillarshailoinnoviz)**|
+|**2024-12-07**|**Rate-Distortion Optimized Skip Coding of Region Adaptive Hierarchical Transform Coefficients for MPEG G-PCC**|Zehan Wang et.al.|[2412.05574](http://arxiv.org/abs/2412.05574)|null|
 |**2024-12-06**|**Stag-1: Towards Realistic 4D Driving Simulation with Video Generation Model**|Lening Wang et.al.|[2412.05280](http://arxiv.org/abs/2412.05280)|**[link](https://github.com/wzzheng/stag)**|
 |**2024-12-06**|**SimC3D: A Simple Contrastive 3D Pretraining Framework Using RGB Images**|Jiahua Dong et.al.|[2412.05274](http://arxiv.org/abs/2412.05274)|null|
 |**2024-12-06**|**FlowPolicy: Enabling Fast and Robust 3D Flow-based Policy via Consistency Flow Matching for Robot Manipulation**|Qinglun Zhang et.al.|[2412.04987](http://arxiv.org/abs/2412.04987)|null|
