@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-11**|**Engineering Majorana Kramers Pairs In Synthetic High Spin Chern Insulators**|Yi-Chun Hung et.al.|[2412.08632](http://arxiv.org/abs/2412.08632)|null|
+|**2024-12-11**|**A 1% accurate method to include baryonic effects in galaxy-galaxy lensing models**|Matteo Zennaro et.al.|[2412.08623](http://arxiv.org/abs/2412.08623)|null|
+|**2024-12-11**|**Protecting Confidentiality, Privacy and Integrity in Collaborative Learning**|Dong Chen et.al.|[2412.08534](http://arxiv.org/abs/2412.08534)|null|
+|**2024-12-11**|**Enhancing Interpretability Through Loss-Defined Classification Objective in Structured Latent Spaces**|Daniel Geissler et.al.|[2412.08515](http://arxiv.org/abs/2412.08515)|null|
+|**2024-12-11**|**A robust, scalable K-statistic for quantifying immune cell clustering in spatial proteomics data**|Julia Wrobel et.al.|[2412.08498](http://arxiv.org/abs/2412.08498)|null|
+|**2024-12-11**|**Federated Learning for Traffic Flow Prediction with Synthetic Data Augmentation**|Fermin Orozco et.al.|[2412.08460](http://arxiv.org/abs/2412.08460)|null|
+|**2024-12-11**|**Outcome-guided spike-and-slab Lasso Biclustering: A Novel Approach for Enhancing Biclustering Techniques for Gene Expression Analysis**|Luis A. Vargas-Mieles et.al.|[2412.08416](http://arxiv.org/abs/2412.08416)|null|
+|**2024-12-11**|**Relativistic Embedded Equation-of-Motion Coupled-Cluster Approach to the Core-Ionized States of Actinides: A Case Study of Uranyl(VI) in Cs $_2$UO$_2$Cl$_4$**|Wilken Aldair Misael et.al.|[2412.08403](http://arxiv.org/abs/2412.08403)|null|
+|**2024-12-11**|**Early Results from GLASS-JWST. XXV. Electron Density in the Interstellar Medium at $0.7\lesssim z\lesssim 9.3$ with NIRSpec High-resolution Spectroscopy**|Sijia Li et.al.|[2412.08382](http://arxiv.org/abs/2412.08382)|null|
+|**2024-12-11**|**Pioplat: A Scalable, Low-Cost Framework for Latency Reduction in Ethereum Blockchain**|Ke Wang et.al.|[2412.08367](http://arxiv.org/abs/2412.08367)|null|
 |**2024-12-10**|**Multiprobe Cosmology from the Abundance of SPT Clusters and DES Galaxy Clustering and Weak Lensing**|S. Bocquet et.al.|[2412.07765](http://arxiv.org/abs/2412.07765)|null|
 |**2024-12-10**|**Runaway O and Be stars found using Gaia DR3, new stellar bow shocks and search for binaries**|M. Carretero-Castrillo et.al.|[2412.07738](http://arxiv.org/abs/2412.07738)|null|
 |**2024-12-10**|**Probabilistic Modelling of Multiple Long-Term Condition Onset Times**|Kieran Richards et.al.|[2412.07657](http://arxiv.org/abs/2412.07657)|null|
@@ -2626,6 +2636,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-11**|**An End-to-End Collaborative Learning Approach for Connected Autonomous Vehicles in Occluded Scenarios**|Leandro Parada et.al.|[2412.08562](http://arxiv.org/abs/2412.08562)|null|
+|**2024-12-11**|**PointTalk: Audio-Driven Dynamic Lip Point Cloud for 3D Gaussian-based Talking Head Synthesis**|Yifan Xie et.al.|[2412.08504](http://arxiv.org/abs/2412.08504)|null|
+|**2024-12-11**|**Drift-free Visual SLAM using Digital Twins**|Roxane Merat et.al.|[2412.08496](http://arxiv.org/abs/2412.08496)|null|
+|**2024-12-11**|**ConvMesh: Reimagining Mesh Quality Through Convex Optimization**|Alexander Valverde et.al.|[2412.08484](http://arxiv.org/abs/2412.08484)|null|
+|**2024-12-11**|**Multi-GraspLLM: A Multimodal LLM for Multi-Hand Semantic Guided Grasp Generation**|Haosheng Li et.al.|[2412.08468](http://arxiv.org/abs/2412.08468)|null|
+|**2024-12-11**|**PointCFormer: a Relation-based Progressive Feature Extraction Network for Point Cloud Completion**|Yi Zhong et.al.|[2412.08421](http://arxiv.org/abs/2412.08421)|null|
+|**2024-12-11**|**Grasp Diffusion Network: Learning Grasp Generators from Partial Point Clouds with Diffusion Models in SO(3)xR3**|Joao Carvalho et.al.|[2412.08398](http://arxiv.org/abs/2412.08398)|null|
+|**2024-12-11**|**Digging into Intrinsic Contextual Information for High-fidelity 3D Point Cloud Completion**|Jisheng Chu et.al.|[2412.08326](http://arxiv.org/abs/2412.08326)|null|
+|**2024-12-11**|**Position-aware Guided Point Cloud Completion with CLIP Model**|Feng Zhou et.al.|[2412.08271](http://arxiv.org/abs/2412.08271)|null|
+|**2024-12-11**|**Semantic Scene Completion Based 3D Traversability Estimation for Off-Road Terrains**|Zitong Chen et.al.|[2412.08195](http://arxiv.org/abs/2412.08195)|null|
 |**2024-12-10**|**Multi-Modal Environmental Sensing Based Path Loss Prediction for V2I Communications**|Kai Wang et.al.|[2412.07681](http://arxiv.org/abs/2412.07681)|null|
 |**2024-12-10**|**A Real-time Degeneracy Sensing and Compensation Method for Enhanced LiDAR SLAM**|Zongbo Liao et.al.|[2412.07513](http://arxiv.org/abs/2412.07513)|null|
 |**2024-12-10**|**Stealthy and Robust Backdoor Attack against 3D Point Clouds through Additional Point Features**|Xiaoyang Ning et.al.|[2412.07511](http://arxiv.org/abs/2412.07511)|null|
