@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.14
+## Updated on 2024.12.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -2640,16 +2640,16 @@
 |**2023-11-10**|**The First Verification Test of Space-Ground Collaborative Intelligence via Cloud-Native Satellites**|Shangguang Wang et.al.|[2311.06078](http://arxiv.org/abs/2311.06078)|null|
 |**2023-11-10**|**Collaborative Inference in DNN-based Satellite Systems with Dynamic Task Streams**|Jinglong Guan et.al.|[2311.06073](http://arxiv.org/abs/2311.06073)|null|
 
-<p align=right>(<a href=#updated-on-20241214>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241215>back to top</a>)</p>
 
 ## point cloud
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-12-12**|**Stereo4D: Learning How Things Move in 3D from Internet Stereo Videos**|Linyi Jin et.al.|[2412.09621](http://arxiv.org/abs/2412.09621)|null|
-|**2024-12-12**|**Representing Long Volumetric Video with Temporal Gaussian Hierarchy**|Zhen Xu et.al.|[2412.09608](http://arxiv.org/abs/2412.09608)|null|
+|**2024-12-12**|**Representing Long Volumetric Video with Temporal Gaussian Hierarchy**|Zhen Xu et.al.|[2412.09608](http://arxiv.org/abs/2412.09608)|**[link](https://github.com/dendenxu/fast-gaussian-rasterization)**|
 |**2024-12-12**|**LiftImage3D: Lifting Any Single Image to 3D Gaussians with Video Generation Priors**|Yabo Chen et.al.|[2412.09597](http://arxiv.org/abs/2412.09597)|null|
-|**2024-12-12**|**GEAL: Generalizable 3D Affordance Learning with Cross-Modal Consistency**|Dongyue Lu et.al.|[2412.09511](http://arxiv.org/abs/2412.09511)|null|
+|**2024-12-12**|**GEAL: Generalizable 3D Affordance Learning with Cross-Modal Consistency**|Dongyue Lu et.al.|[2412.09511](http://arxiv.org/abs/2412.09511)|**[link](https://github.com/DylanOrange/geal)**|
 |**2024-12-12**|**T-SVG: Text-Driven Stereoscopic Video Generation**|Qiao Jin et.al.|[2412.09323](http://arxiv.org/abs/2412.09323)|null|
 |**2024-12-12**|**Weighted Poisson-disk Resampling on Large-Scale Point Clouds**|Xianhe Jiao et.al.|[2412.09177](http://arxiv.org/abs/2412.09177)|null|
 |**2024-12-12**|**Hyperbolic-constraint Point Cloud Reconstruction from Single RGB-D Images**|Wenrui Li et.al.|[2412.09055](http://arxiv.org/abs/2412.09055)|null|
@@ -4255,7 +4255,7 @@
 |**2023-11-08**|**VET: Visual Error Tomography for Point Cloud Completion and High-Quality Neural Rendering**|Linus Franke et.al.|[2311.04634](http://arxiv.org/abs/2311.04634)|**[link](https://github.com/lfranke/vet)**|
 |**2023-11-09**|**Rethinking Human Pose Estimation for Autonomous Driving with 3D Event Representations**|Xiaoting Yin et.al.|[2311.04591](http://arxiv.org/abs/2311.04591)|**[link](https://github.com/masterhow/eventpointpose)**|
 
-<p align=right>(<a href=#updated-on-20241214>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241215>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
