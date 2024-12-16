@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-13**|**Protoplanetary discs around sun-like stars appear to live longer when the metallicity is low**|Guido De Marchi et.al.|[2412.10361](http://arxiv.org/abs/2412.10361)|null|
+|**2024-12-13**|**Envisioning National Resources for Artificial Intelligence Research: NSF Workshop Report**|Shantenu Jha et.al.|[2412.10278](http://arxiv.org/abs/2412.10278)|null|
+|**2024-12-13**|**Adversarial Robustness of Bottleneck Injected Deep Neural Networks for Task-Oriented Communication**|Alireza Furutanpey et.al.|[2412.10265](http://arxiv.org/abs/2412.10265)|null|
+|**2024-12-13**|**MVQ:Towards Efficient DNN Compression and Acceleration with Masked Vector Quantization**|Shuaiting Li et.al.|[2412.10261](http://arxiv.org/abs/2412.10261)|null|
+|**2024-12-13**|**Legal Challenges in Renewable Energy Development: A Comparative Study of China and Selected Countries**|Aliasghar Baziar et.al.|[2412.10203](http://arxiv.org/abs/2412.10203)|null|
+|**2024-12-13**|**Sims: An Interactive Tool for Geospatial Matching and Clustering**|Akram Zaytar et.al.|[2412.10184](http://arxiv.org/abs/2412.10184)|**[link](https://github.com/microsoft/sims)**|
+|**2024-12-13**|**Scalable magnetic resonance fingerprinting: Incremental inference of high dimensional elliptical mixtures from large data volumes**|Geoffroy Oudoumanessah et.al.|[2412.10173](http://arxiv.org/abs/2412.10173)|null|
+|**2024-12-13**|**3D projection analysis: characterizing the morphological stability of nearby open clusters**|Qingshun Hu et.al.|[2412.10158](http://arxiv.org/abs/2412.10158)|null|
+|**2024-12-13**|**Constraint-Aware Zero-Shot Vision-Language Navigation in Continuous Environments**|Kehan Chen et.al.|[2412.10137](http://arxiv.org/abs/2412.10137)|null|
+|**2024-12-13**|**Guidance Not Obstruction: A Conjugate Consistent Enhanced Strategy for Domain Generalization**|Meng Cao et.al.|[2412.10089](http://arxiv.org/abs/2412.10089)|null|
 |**2024-12-12**|**A glitch in gravity: cosmic Lorentz-violation from fiery Big Bang to glacial heat death**|Robin Y. Wen et.al.|[2412.09568](http://arxiv.org/abs/2412.09568)|null|
 |**2024-12-12**|**Percolation on the stationary distributions of the voter model with stirring**|Jhon Astoquillca et.al.|[2412.09532](http://arxiv.org/abs/2412.09532)|null|
 |**2024-12-12**|**FLAMINGO: Galaxy formation and feedback effects on the gas density and velocity fields**|Lurdes Ondaro-Mallea et.al.|[2412.09526](http://arxiv.org/abs/2412.09526)|null|
@@ -2640,6 +2650,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-13**|**Towards a foundation model for heavy-ion collision experiments through point cloud diffusion**|Manjunath Omana Kuttan et.al.|[2412.10352](http://arxiv.org/abs/2412.10352)|null|
+|**2024-12-13**|**TrafficLoc: Localizing Traffic Surveillance Cameras in 3D Scenes**|Yan Xia et.al.|[2412.10308](http://arxiv.org/abs/2412.10308)|null|
+|**2024-12-13**|**Toy-GS: Assembling Local Gaussians for Precisely Rendering Large-Scale Free Camera Trajectories**|Xiaohan Zhang et.al.|[2412.10078](http://arxiv.org/abs/2412.10078)|null|
+|**2024-12-13**|**Timealign: A multi-modal object detection method for time misalignment fusing in autonomous driving**|Zhihang Song et.al.|[2412.10033](http://arxiv.org/abs/2412.10033)|null|
+|**2024-12-13**|**Visual Object Tracking across Diverse Data Modalities: A Review**|Mengmeng Wang et.al.|[2412.09991](http://arxiv.org/abs/2412.09991)|null|
+|**2024-12-13**|**RP-SLAM: Real-time Photorealistic SLAM with Efficient 3D Gaussian Splatting**|Lizhi Bai et.al.|[2412.09868](http://arxiv.org/abs/2412.09868)|null|
 |**2024-12-12**|**Stereo4D: Learning How Things Move in 3D from Internet Stereo Videos**|Linyi Jin et.al.|[2412.09621](http://arxiv.org/abs/2412.09621)|null|
 |**2024-12-12**|**Representing Long Volumetric Video with Temporal Gaussian Hierarchy**|Zhen Xu et.al.|[2412.09608](http://arxiv.org/abs/2412.09608)|**[link](https://github.com/dendenxu/fast-gaussian-rasterization)**|
 |**2024-12-12**|**LiftImage3D: Lifting Any Single Image to 3D Gaussians with Video Generation Priors**|Yabo Chen et.al.|[2412.09597](http://arxiv.org/abs/2412.09597)|null|
