@@ -67,7 +67,7 @@
 |**2024-12-06**|**From Theory to Practice: Demonstrators of FAIR Data Spaces Across Different Sectors**|Nikolaus Glombiewski et.al.|[2412.04969](http://arxiv.org/abs/2412.04969)|null|
 |**2024-12-06**|**Flash Communication: Reducing Tensor Parallelization Bottleneck for Fast Large Language Model Inference**|Qingyuan Li et.al.|[2412.04964](http://arxiv.org/abs/2412.04964)|null|
 |**2024-12-06**|**A Subquadratic Time Approximation Algorithm for Individually Fair k-Center**|Matthijs Ebbens et.al.|[2412.04943](http://arxiv.org/abs/2412.04943)|null|
-|**2024-12-06**|**Bridging Culture and Finance: A Multimodal Analysis of Memecoins in the Web3 Ecosystem**|Hou-Wan Long et.al.|[2412.04913](http://arxiv.org/abs/2412.04913)|null|
+|**2024-12-06**|**Bridging Culture and Finance: A Multimodal Analysis of Memecoins in the Web3 Ecosystem**|Hou-Wan Long et.al.|[2412.04913](http://arxiv.org/abs/2412.04913)|**[link](https://github.com/hwlongcuhk/coin-meme)**|
 |**2024-12-05**|**PDMD: Potential-free Data-driven Molecular Dynamics for Variable-sized Water Clusters**|Hongyu Yan et.al.|[2412.04442](http://arxiv.org/abs/2412.04442)|**[link](https://github.com/TACC/PDMD)**|
 |**2024-12-05**|**Overdensity of Lyman-Break Galaxy Candidates Around Hot Dust-Obscured Galaxies**|Dejene Zewdie et.al.|[2412.04436](http://arxiv.org/abs/2412.04436)|null|
 |**2024-12-05**|**FedDUAL: A Dual-Strategy with Adaptive Loss and Dynamic Aggregation for Mitigating Data Heterogeneity in Federated Learning**|Pranab Sahoo et.al.|[2412.04416](http://arxiv.org/abs/2412.04416)|**[link](https://github.com/Pranabiitp/FedDUAL)**|
@@ -1013,7 +1013,7 @@
 |**2024-07-11**|**An "ultimate" coupled cluster method based entirely on $T_2$**|Zachary W. Windom et.al.|[2407.08685](http://arxiv.org/abs/2407.08685)|null|
 |**2024-07-11**|**DART: A Solution for Decentralized Federated Learning Model Robustness Analysis**|Chao Feng et.al.|[2407.08652](http://arxiv.org/abs/2407.08652)|null|
 |**2024-07-11**|**Membrane protein clustering from tension and multibody interactions**|Jean-Baptiste Fournier et.al.|[2407.08631](http://arxiv.org/abs/2407.08631)|null|
-|**2024-07-11**|**Surpassing Cosine Similarity for Multidimensional Comparisons: Dimension Insensitive Euclidean Metric (DIEM)**|Federico Tessari et.al.|[2407.08623](http://arxiv.org/abs/2407.08623)|null|
+|**2024-07-11**|**Surpassing Cosine Similarity for Multidimensional Comparisons: Dimension Insensitive Euclidean Metric (DIEM)**|Federico Tessari et.al.|[2407.08623](http://arxiv.org/abs/2407.08623)|**[link](https://github.com/ftessari23/diem)**|
 |**2024-07-11**|**Agglomerative Clustering in Uniform and Proportional Feature Spaces**|Alexandre Benatti et.al.|[2407.08604](http://arxiv.org/abs/2407.08604)|null|
 |**2024-07-12**|**Data-Locality-Aware Task Assignment and Scheduling for Distributed Job Executions**|Hailiang Zhao et.al.|[2407.08584](http://arxiv.org/abs/2407.08584)|null|
 |**2024-07-11**|**Discovery of a Hypervelocity L Subdwarf at the Star/Brown Dwarf Mass Limit**|Adam J. Burgasser et.al.|[2407.08578](http://arxiv.org/abs/2407.08578)|null|
@@ -1338,7 +1338,7 @@
 |**2024-05-21**|**No signature of the birth environment of exoplanets from their host stars' Mahalanobis phase space**|George A. Blaylock-Squibbs et.al.|[2405.12741](http://arxiv.org/abs/2405.12741)|null|
 |**2024-05-21**|**Self-assembling clusters of particles on a shrinking liquid surface**|Xin Li et.al.|[2405.12707](http://arxiv.org/abs/2405.12707)|null|
 |**2024-05-21**|**Sorting in One and Two Rounds using $t$ -Comparators**|Ran Gelles et.al.|[2405.12678](http://arxiv.org/abs/2405.12678)|null|
-|**2024-05-20**|**Optimistic Query Routing in Clustering-based Approximate Maximum Inner Product Search**|Sebastian Bruch et.al.|[2405.12207](http://arxiv.org/abs/2405.12207)|null|
+|**2024-05-20**|**Optimistic Query Routing in Clustering-based Approximate Maximum Inner Product Search**|Sebastian Bruch et.al.|[2405.12207](http://arxiv.org/abs/2405.12207)|**[link](https://github.com/artificial-memory-lab/optimist-router)**|
 |**2024-05-20**|**Metacognitive Capabilities of LLMs: An Exploration in Mathematical Problem Solving**|Aniket Didolkar et.al.|[2405.12205](http://arxiv.org/abs/2405.12205)|null|
 |**2024-05-20**|**Multi-View Attentive Contextualization for Multi-View 3D Object Detection**|Xianpeng Liu et.al.|[2405.12200](http://arxiv.org/abs/2405.12200)|null|
 |**2024-05-20**|**Multi-order Graph Clustering with Adaptive Node-level Weight Learning**|Ye Liu et.al.|[2405.12183](http://arxiv.org/abs/2405.12183)|**[link](https://github.com/scutft-ml/mogc)**|
@@ -2661,7 +2661,7 @@
 |**2024-12-11**|**Multi-GraspLLM: A Multimodal LLM for Multi-Hand Semantic Guided Grasp Generation**|Haosheng Li et.al.|[2412.08468](http://arxiv.org/abs/2412.08468)|null|
 |**2024-12-11**|**PointCFormer: a Relation-based Progressive Feature Extraction Network for Point Cloud Completion**|Yi Zhong et.al.|[2412.08421](http://arxiv.org/abs/2412.08421)|null|
 |**2024-12-11**|**Grasp Diffusion Network: Learning Grasp Generators from Partial Point Clouds with Diffusion Models in SO(3)xR3**|Joao Carvalho et.al.|[2412.08398](http://arxiv.org/abs/2412.08398)|null|
-|**2024-12-11**|**Digging into Intrinsic Contextual Information for High-fidelity 3D Point Cloud Completion**|Jisheng Chu et.al.|[2412.08326](http://arxiv.org/abs/2412.08326)|null|
+|**2024-12-11**|**Digging into Intrinsic Contextual Information for High-fidelity 3D Point Cloud Completion**|Jisheng Chu et.al.|[2412.08326](http://arxiv.org/abs/2412.08326)|**[link](https://github.com/js-chu/contextualcompletion)**|
 |**2024-12-11**|**Position-aware Guided Point Cloud Completion with CLIP Model**|Feng Zhou et.al.|[2412.08271](http://arxiv.org/abs/2412.08271)|null|
 |**2024-12-11**|**Semantic Scene Completion Based 3D Traversability Estimation for Off-Road Terrains**|Zitong Chen et.al.|[2412.08195](http://arxiv.org/abs/2412.08195)|null|
 |**2024-12-10**|**Multi-Modal Environmental Sensing Based Path Loss Prediction for V2I Communications**|Kai Wang et.al.|[2412.07681](http://arxiv.org/abs/2412.07681)|null|
@@ -3698,7 +3698,7 @@
 |**2024-03-28**|**OV-Uni3DETR: Towards Unified Open-Vocabulary 3D Object Detection via Cycle-Modality Propagation**|Zhenyu Wang et.al.|[2403.19580](http://arxiv.org/abs/2403.19580)|**[link](https://github.com/zhenyuw16/uni3detr)**|
 |**2024-03-30**|**GlORIE-SLAM: Globally Optimized RGB-only Implicit Encoding Point Cloud SLAM**|Ganlin Zhang et.al.|[2403.19549](http://arxiv.org/abs/2403.19549)|**[link](https://github.com/zhangganlin/GlOIRE-SLAM)**|
 |**2024-03-28**|**RELI11D: A Comprehensive Multimodal Human Motion Dataset and Method**|Ming Yan et.al.|[2403.19501](http://arxiv.org/abs/2403.19501)|null|
-|**2024-03-28**|**CoherentGS: Sparse Novel View Synthesis with Coherent 3D Gaussians**|Avinash Paliwal et.al.|[2403.19495](http://arxiv.org/abs/2403.19495)|null|
+|**2024-03-28**|**CoherentGS: Sparse Novel View Synthesis with Coherent 3D Gaussians**|Avinash Paliwal et.al.|[2403.19495](http://arxiv.org/abs/2403.19495)|**[link](https://github.com/avinashpaliwal/coherentgs)**|
 |**2024-03-28**|**SG-PGM: Partial Graph Matching Network with Semantic Geometric Fusion for 3D Scene Graph Alignment and Its Downstream Tasks**|Yaxu Xie et.al.|[2403.19474](http://arxiv.org/abs/2403.19474)|**[link](https://github.com/dfki-av/sg-pgm)**|
 |**2024-03-28**|**RiEMann: Near Real-Time SE(3)-Equivariant Robot Manipulation without Point Cloud Segmentation**|Chongkai Gao et.al.|[2403.19460](http://arxiv.org/abs/2403.19460)|null|
 |**2024-03-28**|**A Simple and Effective Point-based Network for Event Camera 6-DOFs Pose Relocalization**|Hongwei Ren et.al.|[2403.19412](http://arxiv.org/abs/2403.19412)|null|
