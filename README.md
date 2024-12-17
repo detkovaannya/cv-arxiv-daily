@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-16**|**A LoRA is Worth a Thousand Pictures**|Chenxi Liu et.al.|[2412.12048](http://arxiv.org/abs/2412.12048)|null|
+|**2024-12-16**|**LLMs for Cold-Start Cutting Plane Separator Configuration**|Connor Lawless et.al.|[2412.12038](http://arxiv.org/abs/2412.12038)|null|
+|**2024-12-16**|**Multiplex Dirichlet stochastic block model for clustering multidimensional compositional networks**|Iuliia Promskaia et.al.|[2412.11971](http://arxiv.org/abs/2412.11971)|null|
+|**2024-12-16**|**PICLe: Pseudo-Annotations for In-Context Learning in Low-Resource Named Entity Detection**|Sepideh Mamooler et.al.|[2412.11923](http://arxiv.org/abs/2412.11923)|null|
+|**2024-12-16**|**Ensemble Learning and 3D Pix2Pix for Comprehensive Brain Tumor Analysis in Multimodal MRI**|Ramy A. Zeineldin et.al.|[2412.11849](http://arxiv.org/abs/2412.11849)|null|
+|**2024-12-16**|**Modelling chemical clocks -- Theoretical evidences of the space and time evolution of [s/alpha] in the Galactic disc with Gaia-ESO survey**|Marta Molero et.al.|[2412.11844](http://arxiv.org/abs/2412.11844)|null|
+|**2024-12-16**|**Parallel CPU- and GPU-based connected component algorithms for event building for hybrid pixel detectors**|Tomáš Čelko et.al.|[2412.11809](http://arxiv.org/abs/2412.11809)|null|
+|**2024-12-16**|**The SOFIA Massive (SOMA) Star Formation Survey. V. Clustered Protostars**|Zoie Telkamp et.al.|[2412.11792](http://arxiv.org/abs/2412.11792)|null|
+|**2024-12-16**|**The Black Ninjas and the Sniper: On Robustness of Population Protocols**|Benno Lossin et.al.|[2412.11783](http://arxiv.org/abs/2412.11783)|null|
+|**2024-12-16**|**Personalized LLM for Generating Customized Responses to the Same Query from Different Users**|Hang Zeng et.al.|[2412.11736](http://arxiv.org/abs/2412.11736)|**[link](https://github.com/nidryen-zh/questionerawareresponder)**|
 |**2024-12-13**|**Protoplanetary discs around sun-like stars appear to live longer when the metallicity is low**|Guido De Marchi et.al.|[2412.10361](http://arxiv.org/abs/2412.10361)|null|
 |**2024-12-13**|**Envisioning National Resources for Artificial Intelligence Research: NSF Workshop Report**|Shantenu Jha et.al.|[2412.10278](http://arxiv.org/abs/2412.10278)|null|
 |**2024-12-13**|**Adversarial Robustness of Bottleneck Injected Deep Neural Networks for Task-Oriented Communication**|Alireza Furutanpey et.al.|[2412.10265](http://arxiv.org/abs/2412.10265)|null|
@@ -2656,6 +2666,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-16**|**UniLoc: Towards Universal Place Recognition Using Any Single Modality**|Yan Xia et.al.|[2412.12079](http://arxiv.org/abs/2412.12079)|null|
+|**2024-12-16**|**Event-based Motion Deblurring via Multi-Temporal Granularity Fusion**|Xiaopeng Lin et.al.|[2412.11866](http://arxiv.org/abs/2412.11866)|null|
+|**2024-12-16**|**Point Cloud-Assisted Neural Image Compression**|Ziqun Li et.al.|[2412.11771](http://arxiv.org/abs/2412.11771)|null|
+|**2024-12-16**|**Efficient LiDAR Bundle Adjustment for Multi-Scan Alignment Utilizing Continuous-Time Trajectories**|Louis Wiesmann et.al.|[2412.11760](http://arxiv.org/abs/2412.11760)|null|
+|**2024-12-16**|**EGP3D: Edge-guided Geometric Preserving 3D Point Cloud Super-resolution for RGB-D camera**|Zheng Fang et.al.|[2412.11680](http://arxiv.org/abs/2412.11680)|null|
+|**2024-12-16**|**SP $^2$ T: Sparse Proxy Attention for Dual-stream Point Transformer**|Jiaxu Wan et.al.|[2412.11540](http://arxiv.org/abs/2412.11540)|**[link](https://github.com/terencewallel/sparse-proxy-point-transformer)**|
+|**2024-12-16**|**HGSFusion: Radar-Camera Fusion with Hybrid Generation and Synchronization for 3D Object Detection**|Zijian Gu et.al.|[2412.11489](http://arxiv.org/abs/2412.11489)|**[link](https://github.com/garfield-cpp/hgsfusion)**|
+|**2024-12-16**|**Category Level 6D Object Pose Estimation from a Single RGB Image using Diffusion**|Adam Bethell et.al.|[2412.11420](http://arxiv.org/abs/2412.11420)|null|
+|**2024-12-16**|**V-MIND: Building Versatile Monocular Indoor 3D Detector with Diverse 2D Annotations**|Jin-Cheng Jhang et.al.|[2412.11412](http://arxiv.org/abs/2412.11412)|null|
+|**2024-12-16**|**An Enhanced Classification Method Based on Adaptive Multi-Scale Fusion for Long-tailed Multispectral Point Clouds**|TianZhu Liu et.al.|[2412.11407](http://arxiv.org/abs/2412.11407)|null|
 |**2024-12-13**|**Towards a foundation model for heavy-ion collision experiments through point cloud diffusion**|Manjunath Omana Kuttan et.al.|[2412.10352](http://arxiv.org/abs/2412.10352)|null|
 |**2024-12-13**|**TrafficLoc: Localizing Traffic Surveillance Cameras in 3D Scenes**|Yan Xia et.al.|[2412.10308](http://arxiv.org/abs/2412.10308)|null|
 |**2024-12-13**|**Toy-GS: Assembling Local Gaussians for Precisely Rendering Large-Scale Free Camera Trajectories**|Xiaohan Zhang et.al.|[2412.10078](http://arxiv.org/abs/2412.10078)|null|
