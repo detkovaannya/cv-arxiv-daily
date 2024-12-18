@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-17**|**Binary properties of the globular cluster 47 Tuc (NGC 104). A dearth of short-period binaries**|Johanna Müller-Horn et.al.|[2412.13189](http://arxiv.org/abs/2412.13189)|null|
+|**2024-12-17**|**How the cool-core population transitions from galaxy groups to massive clusters: A comparison of the largest Magneticum simulation with eROSITA, XMM-Newton, Chandra and LOFAR observations**|Justo Antonio Gonzalez Villalba et.al.|[2412.13182](http://arxiv.org/abs/2412.13182)|null|
+|**2024-12-17**|**C-FedRAG: A Confidential Federated Retrieval-Augmented Generation System**|Parker Addison et.al.|[2412.13163](http://arxiv.org/abs/2412.13163)|null|
+|**2024-12-17**|**Semi-Analytic Modeling of Dark Matter Subhalo Encounters with Thin Stellar Streams: Statistical Predictions for GD-1-like Streams in CDM**|Duncan K. Adams et.al.|[2412.13144](http://arxiv.org/abs/2412.13144)|null|
+|**2024-12-17**|**Unravelling the orbits of cluster galaxy populations according to their dominant gas ionization source**|Greique A. Valk et.al.|[2412.13089](http://arxiv.org/abs/2412.13089)|null|
+|**2024-12-17**|**The PeV Frontier: Status of Gamma-ray astronomy after two decades with H.E.S.S., MAGIC, VERITAS and the new window recently opened by HAWC and LHAASO**|J. Devin et.al.|[2412.13062](http://arxiv.org/abs/2412.13062)|null|
+|**2024-12-17**|**Stellar flare morphology with TESS across the main sequence**|Bálint Seli et.al.|[2412.12989](http://arxiv.org/abs/2412.12989)|null|
+|**2024-12-17**|**Stochastic interior-point methods for smooth conic optimization with applications**|Chuan He et.al.|[2412.12987](http://arxiv.org/abs/2412.12987)|**[link](https://github.com/dengzhanwang/SIPM)**|
+|**2024-12-17**|**Cluster-guided Contrastive Class-imbalanced Graph Classification**|Wei Ju et.al.|[2412.12984](http://arxiv.org/abs/2412.12984)|null|
+|**2024-12-17**|**Update on Dusty Sources and Candidate Young Stellar Objects in the S-cluster**|Maria Melamed et.al.|[2412.12917](http://arxiv.org/abs/2412.12917)|null|
 |**2024-12-16**|**A LoRA is Worth a Thousand Pictures**|Chenxi Liu et.al.|[2412.12048](http://arxiv.org/abs/2412.12048)|null|
 |**2024-12-16**|**LLMs for Cold-Start Cutting Plane Separator Configuration**|Connor Lawless et.al.|[2412.12038](http://arxiv.org/abs/2412.12038)|null|
 |**2024-12-16**|**Multiplex Dirichlet stochastic block model for clustering multidimensional compositional networks**|Iuliia Promskaia et.al.|[2412.11971](http://arxiv.org/abs/2412.11971)|null|
@@ -2666,6 +2676,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-17**|**StreetCrafter: Street View Synthesis with Controllable Video Diffusion Models**|Yunzhi Yan et.al.|[2412.13188](http://arxiv.org/abs/2412.13188)|null|
+|**2024-12-17**|**A New Adversarial Perspective for LiDAR-based 3D Object Detection**|Shijun Zheng et.al.|[2412.13017](http://arxiv.org/abs/2412.13017)|null|
+|**2024-12-17**|**RCTrans: Radar-Camera Transformer via Radar Densifier and Sequential Decoder for 3D Object Detection**|Yiheng Li et.al.|[2412.12799](http://arxiv.org/abs/2412.12799)|**[link](https://github.com/liyih/rctrans)**|
+|**2024-12-17**|**Unsupervised UAV 3D Trajectories Estimation with Sparse Point Clouds**|Hanfang Liang et.al.|[2412.12716](http://arxiv.org/abs/2412.12716)|**[link](https://github.com/lianghanfang/UnLiDAR-UAV-Est)**|
+|**2024-12-17**|**Audio Array-Based 3D UAV Trajectory Estimation with LiDAR Pseudo-Labeling**|Allen Lei et.al.|[2412.12698](http://arxiv.org/abs/2412.12698)|**[link](https://github.com/AllenLei666/AAUTE)**|
+|**2024-12-17**|**Improving the Transferability of 3D Point Cloud Attack via Spectral-aware Admix and Optimization Designs**|Shiyu Hu et.al.|[2412.12626](http://arxiv.org/abs/2412.12626)|null|
+|**2024-12-17**|**PO3AD: Predicting Point Offsets toward Better 3D Point Cloud Anomaly Detection**|Jianan Ye et.al.|[2412.12617](http://arxiv.org/abs/2412.12617)|null|
+|**2024-12-17**|**Stiefel Flow Matching for Moment-Constrained Structure Elucidation**|Austin Cheng et.al.|[2412.12540](http://arxiv.org/abs/2412.12540)|null|
 |**2024-12-16**|**UniLoc: Towards Universal Place Recognition Using Any Single Modality**|Yan Xia et.al.|[2412.12079](http://arxiv.org/abs/2412.12079)|null|
 |**2024-12-16**|**Event-based Motion Deblurring via Multi-Temporal Granularity Fusion**|Xiaopeng Lin et.al.|[2412.11866](http://arxiv.org/abs/2412.11866)|null|
 |**2024-12-16**|**Point Cloud-Assisted Neural Image Compression**|Ziqun Li et.al.|[2412.11771](http://arxiv.org/abs/2412.11771)|null|
