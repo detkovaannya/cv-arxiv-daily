@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-20**|**FedGAT: A Privacy-Preserving Federated Approximation Algorithm for Graph Attention Networks**|Siddharth Ambekar et.al.|[2412.16144](http://arxiv.org/abs/2412.16144)|null|
+|**2024-12-20**|**Adaptable TeaStore**|Simon Bliudze et.al.|[2412.16060](http://arxiv.org/abs/2412.16060)|null|
+|**2024-12-20**|**Millikelvin Nb nanoSQUID-embedded tuneable resonator fabricated with a neon focused-ion-beam**|Jamie A. Potter et.al.|[2412.16045](http://arxiv.org/abs/2412.16045)|null|
+|**2024-12-20**|**Probing Primordial Black Hole Mergers in Clusters with Pulsar Timing Data**|S. Clesse et.al.|[2412.15989](http://arxiv.org/abs/2412.15989)|null|
+|**2024-12-20**|**Dimension jump at the uniqueness threshold for percolation in $\infty+d$ dimensions**|Tom Hutchcroft et.al.|[2412.15895](http://arxiv.org/abs/2412.15895)|null|
+|**2024-12-20**|**Statistical Modeling of Univariate Multimodal Data**|Paraskevi Chasani et.al.|[2412.15894](http://arxiv.org/abs/2412.15894)|null|
+|**2024-12-20**|**Dynamical Evolution of Substructured Star Clusters at 3 kpc from the Galactic Center**|So-Myoung Park et.al.|[2412.15875](http://arxiv.org/abs/2412.15875)|null|
+|**2024-12-20**|**Understanding the Structure and Resilience of the Brazilian Federal Road Network Through Network Science**|Julio Taveira et.al.|[2412.15865](http://arxiv.org/abs/2412.15865)|null|
+|**2024-12-20**|**Recovering the properties of the interstellar medium through integrated spectroscopy: application to the z~0 ECO volume-limited star-forming galaxy sample**|V. Lebouteiller et.al.|[2412.15860](http://arxiv.org/abs/2412.15860)|null|
+|**2024-12-20**|**Unveiling the Mechanisms of DAI: A Logic-Based Approach to Stablecoin Analysis**|Francesco De Sclavis et.al.|[2412.15814](http://arxiv.org/abs/2412.15814)|null|
 |**2024-12-19**|**LeviTor: 3D Trajectory Oriented Image-to-Video Synthesis**|Hanlin Wang et.al.|[2412.15214](http://arxiv.org/abs/2412.15214)|null|
 |**2024-12-19**|**HPC-Coder-V2: Studying Code LLMs Across Low-Resource Parallel Languages**|Aman Chaturvedi et.al.|[2412.15178](http://arxiv.org/abs/2412.15178)|null|
 |**2024-12-19**|**Turbulent dissipative coupling in nanoscale multimode superfluid acoustics**|Filip Novotný et.al.|[2412.15110](http://arxiv.org/abs/2412.15110)|null|
@@ -2690,6 +2700,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-20**|**Sparse Point Clouds Assisted Learned Image Compression**|Yiheng Jiang et.al.|[2412.15752](http://arxiv.org/abs/2412.15752)|null|
+|**2024-12-20**|**SaliencyI2PLoc: saliency-guided image-point cloud localization using contrastive learning**|Yuhao Li et.al.|[2412.15577](http://arxiv.org/abs/2412.15577)|null|
 |**2024-12-19**|**Arti-PG: A Toolbox for Procedurally Synthesizing Large-Scale and Diverse Articulated Objects with Rich Annotations**|Jianhua Sun et.al.|[2412.14974](http://arxiv.org/abs/2412.14974)|null|
 |**2024-12-19**|**Diffusion priors for Bayesian 3D reconstruction from incomplete measurements**|Julian L. Möbius et.al.|[2412.14897](http://arxiv.org/abs/2412.14897)|null|
 |**2024-12-19**|**ObjVariantEnsemble: Advancing Point Cloud LLM Evaluation in Challenging Scenes with Subtly Distinguished Objects**|Qihang Cao et.al.|[2412.14837](http://arxiv.org/abs/2412.14837)|null|
