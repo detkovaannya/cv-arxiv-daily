@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-23**|**Electromagnetic Selection Rules for $^{24}\mathrm{Mg}$ in a $6α$ Cluster Model with $\mathcal{D}_{4h}$ Symmetry**|Gianluca Stellin et.al.|[2412.17782](http://arxiv.org/abs/2412.17782)|null|
+|**2024-12-23**|**Thermal Quench Dynamics of Visons in Gapless Kitaev Spin Liquid**|Yang Yang et.al.|[2412.17774](http://arxiv.org/abs/2412.17774)|null|
+|**2024-12-23**|**Critical level set percolation for the GFF in $d>6$ : comparison principles and some consequences**|Shirshendu Ganguly et.al.|[2412.17768](http://arxiv.org/abs/2412.17768)|null|
+|**2024-12-23**|**ShotQC: Reducing Sampling Overhead in Quantum Circuit Cutting**|Po-Hung Chen et.al.|[2412.17704](http://arxiv.org/abs/2412.17704)|null|
+|**2024-12-23**|**An efficient volume-preserving MBO scheme for data clustering and classification**|Fabius Krämer et.al.|[2412.17694](http://arxiv.org/abs/2412.17694)|null|
+|**2024-12-23**|**FedTLU: Federated Learning with Targeted Layer Updates**|Jong-Ik Park et.al.|[2412.17692](http://arxiv.org/abs/2412.17692)|null|
+|**2024-12-23**|**Euclid: Early Release Observations of diffuse stellar structures and globular clusters as probes of the mass assembly of galaxies in the Dorado group**|M. Urbano et.al.|[2412.17672](http://arxiv.org/abs/2412.17672)|null|
+|**2024-12-23**|**An Adaptive Framework for Multi-View Clustering Leveraging Conditional Entropy Optimization**|Lijian Li et.al.|[2412.17647](http://arxiv.org/abs/2412.17647)|null|
+|**2024-12-23**|**Hierarchical Vector Quantization for Unsupervised Action Segmentation**|Federico Spurio et.al.|[2412.17640](http://arxiv.org/abs/2412.17640)|**[link](https://github.com/fedespu/hvq)**|
+|**2024-12-23**|**Probability-density-aware Semi-supervised Learning**|Shuyang Liu et.al.|[2412.17547](http://arxiv.org/abs/2412.17547)|null|
 |**2024-12-20**|**FedGAT: A Privacy-Preserving Federated Approximation Algorithm for Graph Attention Networks**|Siddharth Ambekar et.al.|[2412.16144](http://arxiv.org/abs/2412.16144)|null|
 |**2024-12-20**|**Adaptable TeaStore**|Simon Bliudze et.al.|[2412.16060](http://arxiv.org/abs/2412.16060)|null|
 |**2024-12-20**|**Millikelvin Nb nanoSQUID-embedded tuneable resonator fabricated with a neon focused-ion-beam**|Jamie A. Potter et.al.|[2412.16045](http://arxiv.org/abs/2412.16045)|null|
@@ -2706,6 +2716,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-23**|**Reconstructing People, Places, and Cameras**|Lea Müller et.al.|[2412.17806](http://arxiv.org/abs/2412.17806)|null|
+|**2024-12-23**|**GaussianPainter: Painting Point Cloud into 3D Gaussians with Normal Guidance**|Jingqiu Zhou et.al.|[2412.17715](http://arxiv.org/abs/2412.17715)|null|
+|**2024-12-23**|**Poisson approximation of large-lifetime cycles**|Christian Hirsch et.al.|[2412.17482](http://arxiv.org/abs/2412.17482)|null|
+|**2024-12-23**|**PointVoxelFormer -- Reviving point cloud networks for 3D medical imaging**|Mattias Paul Heinrich et.al.|[2412.17390](http://arxiv.org/abs/2412.17390)|null|
+|**2024-12-23**|**FlowMamba: Learning Point Cloud Scene Flow with Global Motion Propagation**|Min Lin et.al.|[2412.17366](http://arxiv.org/abs/2412.17366)|null|
+|**2024-12-23**|**End-to-end Generative Spatial-Temporal Ultrasonic Odometry and Mapping Framework**|Fuhua Jia et.al.|[2412.17343](http://arxiv.org/abs/2412.17343)|null|
+|**2024-12-23**|**OLiDM: Object-aware LiDAR Diffusion Models for Autonomous Driving**|Tianyi Yan et.al.|[2412.17226](http://arxiv.org/abs/2412.17226)|null|
+|**2024-12-22**|**HyperNet Fields: Efficiently Training Hypernetworks without Ground Truth by Learning Weight Trajectories**|Eric Hedlin et.al.|[2412.17040](http://arxiv.org/abs/2412.17040)|null|
+|**2024-12-22**|**Separating Drone Point Clouds From Complex Backgrounds by Cluster Filter -- Technical Report for CVPR 2024 UG2 Challenge**|Hanfang Liang et.al.|[2412.16947](http://arxiv.org/abs/2412.16947)|null|
+|**2024-12-22**|**Map Imagination Like Blind Humans: Group Diffusion Model for Robotic Map Generation**|Qijin Song et.al.|[2412.16908](http://arxiv.org/abs/2412.16908)|null|
 |**2024-12-20**|**Sparse Point Clouds Assisted Learned Image Compression**|Yiheng Jiang et.al.|[2412.15752](http://arxiv.org/abs/2412.15752)|null|
 |**2024-12-20**|**SaliencyI2PLoc: saliency-guided image-point cloud localization using contrastive learning**|Yuhao Li et.al.|[2412.15577](http://arxiv.org/abs/2412.15577)|null|
 |**2024-12-19**|**Arti-PG: A Toolbox for Procedurally Synthesizing Large-Scale and Diverse Articulated Objects with Rich Annotations**|Jianhua Sun et.al.|[2412.14974](http://arxiv.org/abs/2412.14974)|null|
