@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-24**|**Double Spending Analysis of Nakamoto Consensus for Time-Varying Mining Rates with Ruin Theory**|Mustafa Doger et.al.|[2412.18599](http://arxiv.org/abs/2412.18599)|null|
+|**2024-12-24**|**Exploring Embedding Priors in Prompt-Tuning for Improved Interpretability and Control**|Sergey Sedov et.al.|[2412.18582](http://arxiv.org/abs/2412.18582)|null|
+|**2024-12-24**|**Pilot-Quantum: A Quantum-HPC Middleware for Resource, Workload and Task Management**|Pradeep Mantha et.al.|[2412.18519](http://arxiv.org/abs/2412.18519)|null|
+|**2024-12-24**|**Study of the physical and chemical properties of dense clumps at different evolutionary stages in several regions of massive star and stellar cluster formation**|A. G. Pazukhin et.al.|[2412.18506](http://arxiv.org/abs/2412.18506)|null|
+|**2024-12-24**|**Elastic Constants and Bending Rigidities from Long-Wavelength Perturbation Expansions**|Changpeng Lin et.al.|[2412.18482](http://arxiv.org/abs/2412.18482)|null|
+|**2024-12-24**|**Hardware-aware Circuit Cutting and Distributed Qubit Mapping for Connected Quantum Systems**|Zefan Du et.al.|[2412.18458](http://arxiv.org/abs/2412.18458)|null|
+|**2024-12-24**|**Frozen natural spinors for Cholesky decomposition based two-component relativistic coupled cluster method**|Somesh Chamoli et.al.|[2412.18395](http://arxiv.org/abs/2412.18395)|null|
+|**2024-12-24**|**Towards understanding how attention mechanism works in deep learning**|Tianyu Ruan et.al.|[2412.18288](http://arxiv.org/abs/2412.18288)|null|
+|**2024-12-24**|**Accelerating AIGC Services with Latent Action Diffusion Scheduling in Edge Networks**|Changfu Xu et.al.|[2412.18212](http://arxiv.org/abs/2412.18212)|**[link](https://github.com/changfuxu/dedgeai)**|
+|**2024-12-24**|**Sharper Error Bounds in Late Fusion Multi-view Clustering Using Eigenvalue Proportion**|Liang Du et.al.|[2412.18207](http://arxiv.org/abs/2412.18207)|null|
 |**2024-12-23**|**Electromagnetic Selection Rules for $^{24}\mathrm{Mg}$ in a $6α$ Cluster Model with $\mathcal{D}_{4h}$ Symmetry**|Gianluca Stellin et.al.|[2412.17782](http://arxiv.org/abs/2412.17782)|null|
 |**2024-12-23**|**Thermal Quench Dynamics of Visons in Gapless Kitaev Spin Liquid**|Yang Yang et.al.|[2412.17774](http://arxiv.org/abs/2412.17774)|null|
 |**2024-12-23**|**Critical level set percolation for the GFF in $d>6$ : comparison principles and some consequences**|Shirshendu Ganguly et.al.|[2412.17768](http://arxiv.org/abs/2412.17768)|null|
@@ -2716,6 +2726,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-24**|**MR-COGraphs: Communication-efficient Multi-Robot Open-vocabulary Mapping System via 3D Scene Graphs**|Qiuyi Gu et.al.|[2412.18381](http://arxiv.org/abs/2412.18381)|null|
+|**2024-12-24**|**RSGaussian:3D Gaussian Splatting with LiDAR for Aerial Remote Sensing Novel View Synthesis**|Yiling Yao et.al.|[2412.18380](http://arxiv.org/abs/2412.18380)|null|
+|**2024-12-24**|**Point-DeepONet: A Deep Operator Network Integrating PointNet for Nonlinear Analysis of Non-Parametric 3D Geometries and Load Conditions**|Jangseop Park et.al.|[2412.18362](http://arxiv.org/abs/2412.18362)|**[link](https://github.com/jangseop-park/point-deeponet)**|
+|**2024-12-24**|**Parallel Neural Computing for Scene Understanding from LiDAR Perception in Autonomous Racing**|Suwesh Prasad Sah et.al.|[2412.18165](http://arxiv.org/abs/2412.18165)|**[link](https://github.com/suwesh/parallel-perception-network)**|
+|**2024-12-24**|**UniPLV: Towards Label-Efficient Open-World 3D Scene Understanding by Regional Visual Language Supervision**|Yuru Wang et.al.|[2412.18131](http://arxiv.org/abs/2412.18131)|null|
+|**2024-12-23**|**Hyperbolic Chamfer Distance for Point Cloud Completion and Beyond**|Fangzhou Lin et.al.|[2412.17951](http://arxiv.org/abs/2412.17951)|null|
 |**2024-12-23**|**Reconstructing People, Places, and Cameras**|Lea Müller et.al.|[2412.17806](http://arxiv.org/abs/2412.17806)|null|
 |**2024-12-23**|**GaussianPainter: Painting Point Cloud into 3D Gaussians with Normal Guidance**|Jingqiu Zhou et.al.|[2412.17715](http://arxiv.org/abs/2412.17715)|null|
 |**2024-12-23**|**Poisson approximation of large-lifetime cycles**|Christian Hirsch et.al.|[2412.17482](http://arxiv.org/abs/2412.17482)|null|
