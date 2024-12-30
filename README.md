@@ -48,7 +48,7 @@
 |**2024-12-20**|**Understanding the Structure and Resilience of the Brazilian Federal Road Network Through Network Science**|Julio Taveira et.al.|[2412.15865](http://arxiv.org/abs/2412.15865)|null|
 |**2024-12-20**|**Recovering the properties of the interstellar medium through integrated spectroscopy: application to the z~0 ECO volume-limited star-forming galaxy sample**|V. Lebouteiller et.al.|[2412.15860](http://arxiv.org/abs/2412.15860)|null|
 |**2024-12-20**|**Unveiling the Mechanisms of DAI: A Logic-Based Approach to Stablecoin Analysis**|Francesco De Sclavis et.al.|[2412.15814](http://arxiv.org/abs/2412.15814)|null|
-|**2024-12-19**|**LeviTor: 3D Trajectory Oriented Image-to-Video Synthesis**|Hanlin Wang et.al.|[2412.15214](http://arxiv.org/abs/2412.15214)|null|
+|**2024-12-19**|**LeviTor: 3D Trajectory Oriented Image-to-Video Synthesis**|Hanlin Wang et.al.|[2412.15214](http://arxiv.org/abs/2412.15214)|**[link](https://github.com/qiuyu96/LeviTor)**|
 |**2024-12-19**|**HPC-Coder-V2: Studying Code LLMs Across Low-Resource Parallel Languages**|Aman Chaturvedi et.al.|[2412.15178](http://arxiv.org/abs/2412.15178)|null|
 |**2024-12-19**|**Turbulent dissipative coupling in nanoscale multimode superfluid acoustics**|Filip Novotný et.al.|[2412.15110](http://arxiv.org/abs/2412.15110)|null|
 |**2024-12-19**|**Constraining the potential of the Milky Way using stellar streams and the Inverse Time Integration method**|C. G. Palau et.al.|[2412.15091](http://arxiv.org/abs/2412.15091)|null|
