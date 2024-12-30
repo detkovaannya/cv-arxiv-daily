@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-27**|**Enhancing Adversarial Robustness of Deep Neural Networks Through Supervised Contrastive Learning**|Longwei Wang et.al.|[2412.19747](http://arxiv.org/abs/2412.19747)|null|
+|**2024-12-27**|**Geometric Freeze-Tag Problem**|Sharareh Alipour et.al.|[2412.19706](http://arxiv.org/abs/2412.19706)|null|
+|**2024-12-27**|**Identifying clusters in Czekanowski's diagram**|Krzysztof Bartoszek et.al.|[2412.19679](http://arxiv.org/abs/2412.19679)|null|
+|**2024-12-27**|**Quantum Cluster State Model with Haagerup Fusion Category Symmetry**|Zhian Jia et.al.|[2412.19657](http://arxiv.org/abs/2412.19657)|null|
+|**2024-12-27**|**Asymmetrical Reciprocity-based Federated Learning for Resolving Disparities in Medical Diagnosis**|Jiaqi Wang et.al.|[2412.19654](http://arxiv.org/abs/2412.19654)|null|
+|**2024-12-27**|**Distributed Download from an External Data Source in Faulty Majority Settings**|John Augustine et.al.|[2412.19649](http://arxiv.org/abs/2412.19649)|null|
+|**2024-12-27**|**Net-Baryon Number Probability Distribution As an Indicator of Phase Transition**|R. N. Rogalyov et.al.|[2412.19614](http://arxiv.org/abs/2412.19614)|null|
+|**2024-12-27**|**Readout of strongly coupled NV center-pair spin states with deep neural networks**|Matthew Joliffe et.al.|[2412.19581](http://arxiv.org/abs/2412.19581)|null|
+|**2024-12-27**|**Nonminimally coupled Dark Matter in Clusters of Galaxies: a fully comprehensive analysis**|Saboura Zamani et.al.|[2412.19569](http://arxiv.org/abs/2412.19569)|null|
+|**2024-12-27**|**Adrenaline: Adaptive Rendering Optimization System for Scalable Cloud Gaming**|Jin Heo et.al.|[2412.19446](http://arxiv.org/abs/2412.19446)|null|
 |**2024-12-24**|**Double Spending Analysis of Nakamoto Consensus for Time-Varying Mining Rates with Ruin Theory**|Mustafa Doger et.al.|[2412.18599](http://arxiv.org/abs/2412.18599)|null|
 |**2024-12-24**|**Exploring Embedding Priors in Prompt-Tuning for Improved Interpretability and Control**|Sergey Sedov et.al.|[2412.18582](http://arxiv.org/abs/2412.18582)|null|
 |**2024-12-24**|**Pilot-Quantum: A Quantum-HPC Middleware for Resource, Workload and Task Management**|Pradeep Mantha et.al.|[2412.18519](http://arxiv.org/abs/2412.18519)|null|
@@ -2720,6 +2730,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-27**|**Sharpening Neural Implicit Functions with Frequency Consolidation Priors**|Chao Chen et.al.|[2412.19720](http://arxiv.org/abs/2412.19720)|null|
+|**2024-12-27**|**CAD-GPT: Synthesising CAD Construction Sequence with Spatial Reasoning-Enhanced Multimodal LLMs**|Siyu Wang et.al.|[2412.19663](http://arxiv.org/abs/2412.19663)|null|
+|**2024-12-27**|**DAS3R: Dynamics-Aware Gaussian Splatting for Static Scene Reconstruction**|Kai Xu et.al.|[2412.19584](http://arxiv.org/abs/2412.19584)|null|
+|**2024-12-27**|**RobotDiffuse: Motion Planning for Redundant Manipulator based on Diffusion Model**|Xiaohan Zhang et.al.|[2412.19500](http://arxiv.org/abs/2412.19500)|null|
+|**2024-12-27**|**Learning Radiance Fields from a Single Snapshot Compressive Image**|Yunhao Li et.al.|[2412.19483](http://arxiv.org/abs/2412.19483)|null|
+|**2024-12-27**|**Multi-scale Latent Point Consistency Models for 3D Shape Generation**|Bi'an Du et.al.|[2412.19413](http://arxiv.org/abs/2412.19413)|null|
+|**2024-12-26**|**Resolving the Ambiguity of Complete-to-Partial Point Cloud Registration for Image-Guided Liver Surgery with Patches-to-Partial Matching**|Zixin Yang et.al.|[2412.19328](http://arxiv.org/abs/2412.19328)|null|
+|**2024-12-26**|**Impact of color and mixing proportion of synthetic point clouds on semantic segmentation**|Shaojie Zhou et.al.|[2412.19145](http://arxiv.org/abs/2412.19145)|null|
+|**2024-12-26**|**CLIP-GS: Unifying Vision-Language Representation with 3D Gaussian Splatting**|Siyu Jiao et.al.|[2412.19142](http://arxiv.org/abs/2412.19142)|null|
+|**2024-12-26**|**DAPoinTr: Domain Adaptive Point Transformer for Point Cloud Completion**|Yinghui Li et.al.|[2412.19062](http://arxiv.org/abs/2412.19062)|**[link](https://github.com/yinghui-li-new/dapointr)**|
 |**2024-12-24**|**MR-COGraphs: Communication-efficient Multi-Robot Open-vocabulary Mapping System via 3D Scene Graphs**|Qiuyi Gu et.al.|[2412.18381](http://arxiv.org/abs/2412.18381)|null|
 |**2024-12-24**|**RSGaussian:3D Gaussian Splatting with LiDAR for Aerial Remote Sensing Novel View Synthesis**|Yiling Yao et.al.|[2412.18380](http://arxiv.org/abs/2412.18380)|null|
 |**2024-12-24**|**Point-DeepONet: A Deep Operator Network Integrating PointNet for Nonlinear Analysis of Non-Parametric 3D Geometries and Load Conditions**|Jangseop Park et.al.|[2412.18362](http://arxiv.org/abs/2412.18362)|**[link](https://github.com/jangseop-park/point-deeponet)**|
