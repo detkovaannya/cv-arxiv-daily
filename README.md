@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-30**|**Distributed Mixture-of-Agents for Edge Inference with Large Language Models**|Purbesh Mitra et.al.|[2412.21200](http://arxiv.org/abs/2412.21200)|**[link](https://github.com/purbeshmitra/distributed_moa)**|
+|**2024-12-30**|**Enhanced Two-Way Teleportation of Entangled States with Six-Qubit Cluster State**|Vedhanayagi R et.al.|[2412.21179](http://arxiv.org/abs/2412.21179)|null|
+|**2024-12-30**|**Lattice random walks and quantum A-period conjecture**|Li Gan et.al.|[2412.21128](http://arxiv.org/abs/2412.21128)|null|
+|**2024-12-30**|**Z $_2$ topological orders in kagomé dipolar systems: Feedback from Rydberg quantum simulator**|Pengwei Zhao et.al.|[2412.21112](http://arxiv.org/abs/2412.21112)|null|
+|**2024-12-30**|**Parallel DNA Sequence Alignment on High-Performance Systems with CUDA and MPI**|Linus Zwaka et.al.|[2412.21103](http://arxiv.org/abs/2412.21103)|null|
+|**2024-12-30**|**First-principles Spin and Optical Properties of Vacancy Clusters in Lithium Fluoride**|Mariano Guerrero Perez et.al.|[2412.21060](http://arxiv.org/abs/2412.21060)|null|
+|**2024-12-30**|**EdgeRAG: Online-Indexed RAG for Edge Devices**|Korakit Seemakhupt et.al.|[2412.21023](http://arxiv.org/abs/2412.21023)|null|
+|**2024-12-30**|**Halma: a routing-based technique for defect mitigation in quantum error correction**|Runshi Zhou et.al.|[2412.21000](http://arxiv.org/abs/2412.21000)|null|
+|**2024-12-30**|**Resolving Pleiades binary stars with Gaia and speckle interferometric observations**|Dmitry Chulkov et.al.|[2412.20986](http://arxiv.org/abs/2412.20986)|null|
+|**2024-12-30**|**Cluster-Based Time-Variant Channel Characterization and Modeling for 5G-Railways**|Xuejian Zhang et.al.|[2412.20943](http://arxiv.org/abs/2412.20943)|null|
 |**2024-12-27**|**Enhancing Adversarial Robustness of Deep Neural Networks Through Supervised Contrastive Learning**|Longwei Wang et.al.|[2412.19747](http://arxiv.org/abs/2412.19747)|null|
 |**2024-12-27**|**Geometric Freeze-Tag Problem**|Sharareh Alipour et.al.|[2412.19706](http://arxiv.org/abs/2412.19706)|null|
 |**2024-12-27**|**Identifying clusters in Czekanowski's diagram**|Krzysztof Bartoszek et.al.|[2412.19679](http://arxiv.org/abs/2412.19679)|null|
@@ -2736,6 +2746,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-30**|**Frequency-aware Event Cloud Network**|Hongwei Ren et.al.|[2412.20803](http://arxiv.org/abs/2412.20803)|null|
+|**2024-12-29**|**Towards Explaining Uncertainty Estimates in Point Cloud Registration**|Ziyuan Qin et.al.|[2412.20612](http://arxiv.org/abs/2412.20612)|null|
 |**2024-12-27**|**Sharpening Neural Implicit Functions with Frequency Consolidation Priors**|Chao Chen et.al.|[2412.19720](http://arxiv.org/abs/2412.19720)|null|
 |**2024-12-27**|**CAD-GPT: Synthesising CAD Construction Sequence with Spatial Reasoning-Enhanced Multimodal LLMs**|Siyu Wang et.al.|[2412.19663](http://arxiv.org/abs/2412.19663)|null|
 |**2024-12-27**|**DAS3R: Dynamics-Aware Gaussian Splatting for Static Scene Reconstruction**|Kai Xu et.al.|[2412.19584](http://arxiv.org/abs/2412.19584)|null|
