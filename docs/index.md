@@ -19,8 +19,8 @@ layout: default
 |**2024-12-30**|**Lattice random walks and quantum A-period conjecture**|Li Gan et.al.|[2412.21128](http://arxiv.org/abs/2412.21128)|null|
 |**2024-12-30**|**Z $_2$ topological orders in kagomé dipolar systems: Feedback from Rydberg quantum simulator**|Pengwei Zhao et.al.|[2412.21112](http://arxiv.org/abs/2412.21112)|null|
 |**2024-12-30**|**Parallel DNA Sequence Alignment on High-Performance Systems with CUDA and MPI**|Linus Zwaka et.al.|[2412.21103](http://arxiv.org/abs/2412.21103)|null|
-|**2024-12-30**|**First-principles Spin and Optical Properties of Vacancy Clusters in Lithium Fluoride**|Mariano Guerrero Perez et.al.|[2412.21060](http://arxiv.org/abs/2412.21060)|null|
-|**2024-12-30**|**EdgeRAG: Online-Indexed RAG for Edge Devices**|Korakit Seemakhupt et.al.|[2412.21023](http://arxiv.org/abs/2412.21023)|null|
+|**2024-12-31**|**First-principles Spin and Optical Properties of Vacancy Clusters in Lithium Fluoride**|Mariano Guerrero Perez et.al.|[2412.21060](http://arxiv.org/abs/2412.21060)|null|
+|**2024-12-31**|**EdgeRAG: Online-Indexed RAG for Edge Devices**|Korakit Seemakhupt et.al.|[2412.21023](http://arxiv.org/abs/2412.21023)|null|
 |**2024-12-30**|**Halma: a routing-based technique for defect mitigation in quantum error correction**|Runshi Zhou et.al.|[2412.21000](http://arxiv.org/abs/2412.21000)|null|
 |**2024-12-30**|**Resolving Pleiades binary stars with Gaia and speckle interferometric observations**|Dmitry Chulkov et.al.|[2412.20986](http://arxiv.org/abs/2412.20986)|null|
 |**2024-12-30**|**Cluster-Based Time-Variant Channel Characterization and Modeling for 5G-Railways**|Xuejian Zhang et.al.|[2412.20943](http://arxiv.org/abs/2412.20943)|null|
