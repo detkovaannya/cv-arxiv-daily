@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-02**|**Quantum periods, toric degenerations and intrinsic mirror symmetry**|Sam Johnston et.al.|[2501.01408](http://arxiv.org/abs/2501.01408)|null|
+|**2025-01-02**|**Optimising Virtual Resource Mapping in Multi-Level NUMA Disaggregated Systems**|Ewnetu Bayuh Lakew et.al.|[2501.01356](http://arxiv.org/abs/2501.01356)|null|
+|**2025-01-02**|**Computational Grids**|Ian Foster et.al.|[2501.01316](http://arxiv.org/abs/2501.01316)|null|
+|**2025-01-02**|**Learning Spectral Methods by Transformers**|Yihan He et.al.|[2501.01312](http://arxiv.org/abs/2501.01312)|null|
+|**2025-01-02**|**LEO-Split: A Semi-Supervised Split Learning Framework over LEO Satellite Networks**|Zheng Lin et.al.|[2501.01293](http://arxiv.org/abs/2501.01293)|null|
+|**2025-01-02**|**Integrative Learning of Intensity Fluctuations of Quantum Dots under Excitation via a Tailored Mixture Hidden Markov Model**|Xin Yang et.al.|[2501.01292](http://arxiv.org/abs/2501.01292)|null|
+|**2025-01-02**|**Risk forecasting using Long Short-Term Memory Mixture Density Networks**|Nico Herrig et.al.|[2501.01278](http://arxiv.org/abs/2501.01278)|null|
+|**2025-01-02**|**NET-SA: An Efficient Secure Aggregation Architecture Based on In-Network Computing**|Qingqing Ren et.al.|[2501.01187](http://arxiv.org/abs/2501.01187)|null|
+|**2025-01-02**|**Simultaneous Spin and Point-Group Adaptation in Exact Diagonalization of Spin Clusters**|Shadan Ghassemi Tabrizi et.al.|[2501.01160](http://arxiv.org/abs/2501.01160)|null|
+|**2025-01-02**|**Adaptive Hardness-driven Augmentation and Alignment Strategies for Multi-Source Domain Adaptations**|Yang Yuxiang et.al.|[2501.01142](http://arxiv.org/abs/2501.01142)|null|
 |**2024-12-30**|**Distributed Mixture-of-Agents for Edge Inference with Large Language Models**|Purbesh Mitra et.al.|[2412.21200](http://arxiv.org/abs/2412.21200)|**[link](https://github.com/purbeshmitra/distributed_moa)**|
 |**2024-12-30**|**Enhanced Two-Way Teleportation of Entangled States with Six-Qubit Cluster State**|Vedhanayagi R et.al.|[2412.21179](http://arxiv.org/abs/2412.21179)|null|
 |**2024-12-30**|**Lattice random walks and quantum A-period conjecture**|Li Gan et.al.|[2412.21128](http://arxiv.org/abs/2412.21128)|null|
@@ -2740,6 +2750,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-02**|**GPT4Scene: Understand 3D Scenes from Videos with Vision-Language Models**|Zhangyang Qi et.al.|[2501.01428](http://arxiv.org/abs/2501.01428)|null|
+|**2025-01-02**|**3D-LLaVA: Towards Generalist 3D LMMs with Omni Superpoint Transformer**|Jiajun Deng et.al.|[2501.01163](http://arxiv.org/abs/2501.01163)|null|
+|**2025-01-02**|**EasySplat: View-Adaptive Learning makes 3D Gaussian Splatting Easy**|Ao Gao et.al.|[2501.01003](http://arxiv.org/abs/2501.01003)|null|
+|**2024-12-31**|**DecoratingFusion: A LiDAR-Camera Fusion Network with the Combination of Point-level and Feature-level Fusion**|Zixuan Yin et.al.|[2501.00220](http://arxiv.org/abs/2501.00220)|null|
 |**2024-12-30**|**Frequency-aware Event Cloud Network**|Hongwei Ren et.al.|[2412.20803](http://arxiv.org/abs/2412.20803)|null|
 |**2024-12-29**|**Towards Explaining Uncertainty Estimates in Point Cloud Registration**|Ziyuan Qin et.al.|[2412.20612](http://arxiv.org/abs/2412.20612)|null|
 |**2024-12-27**|**Sharpening Neural Implicit Functions with Frequency Consolidation Priors**|Chao Chen et.al.|[2412.19720](http://arxiv.org/abs/2412.19720)|null|
