@@ -42,7 +42,7 @@
 |**2024-12-27**|**Geometric Freeze-Tag Problem**|Sharareh Alipour et.al.|[2412.19706](http://arxiv.org/abs/2412.19706)|null|
 |**2024-12-27**|**Identifying clusters in Czekanowski's diagram**|Krzysztof Bartoszek et.al.|[2412.19679](http://arxiv.org/abs/2412.19679)|null|
 |**2024-12-27**|**Quantum Cluster State Model with Haagerup Fusion Category Symmetry**|Zhian Jia et.al.|[2412.19657](http://arxiv.org/abs/2412.19657)|null|
-|**2024-12-27**|**Asymmetrical Reciprocity-based Federated Learning for Resolving Disparities in Medical Diagnosis**|Jiaqi Wang et.al.|[2412.19654](http://arxiv.org/abs/2412.19654)|null|
+|**2024-12-27**|**Asymmetrical Reciprocity-based Federated Learning for Resolving Disparities in Medical Diagnosis**|Jiaqi Wang et.al.|[2412.19654](http://arxiv.org/abs/2412.19654)|**[link](https://github.com/JackqqWang/fedhelp)**|
 |**2024-12-27**|**Distributed Download from an External Data Source in Faulty Majority Settings**|John Augustine et.al.|[2412.19649](http://arxiv.org/abs/2412.19649)|null|
 |**2024-12-27**|**Net-Baryon Number Probability Distribution As an Indicator of Phase Transition**|R. N. Rogalyov et.al.|[2412.19614](http://arxiv.org/abs/2412.19614)|null|
 |**2024-12-27**|**Readout of strongly coupled NV center-pair spin states with deep neural networks**|Matthew Joliffe et.al.|[2412.19581](http://arxiv.org/abs/2412.19581)|null|
@@ -298,7 +298,7 @@
 |**2024-11-18**|**FLMarket: Enabling Privacy-preserved Pre-training Data Pricing for Federated Learning**|Zhenyu Wen et.al.|[2411.11713](http://arxiv.org/abs/2411.11713)|null|
 |**2024-11-18**|**Coevolution of Opinion Dynamics and Recommendation System: Modeling Analysis and Reinforcement Learning Based Manipulation**|Yuhong Chen et.al.|[2411.11687](http://arxiv.org/abs/2411.11687)|null|
 |**2024-11-18**|**Hash & Adjust: Competitive Demand-Aware Consistent Hashing**|Arash Pourdamghani et.al.|[2411.11665](http://arxiv.org/abs/2411.11665)|**[link](https://github.com/inet-tub/Hash-And-Adjust)**|
-|**2024-11-15**|**Game Theoretic Liquidity Provisioning in Concentrated Liquidity Market Makers**|Weizhao Tang et.al.|[2411.10399](http://arxiv.org/abs/2411.10399)|null|
+|**2024-11-15**|**Game Theoretic Liquidity Provisioning in Concentrated Liquidity Market Makers**|Weizhao Tang et.al.|[2411.10399](http://arxiv.org/abs/2411.10399)|**[link](https://github.com/WeizhaoT/CLMM-game)**|
 |**2024-11-15**|**Low-Latency Task-Oriented Communications with Multi-Round, Multi-Task Deep Learning**|Yalin E. Sagduyu et.al.|[2411.10385](http://arxiv.org/abs/2411.10385)|null|
 |**2024-11-15**|**Generation of synthetic gait data: application to multiple sclerosis patients' gait patterns**|Klervi Le Gall et.al.|[2411.10377](http://arxiv.org/abs/2411.10377)|null|
 |**2024-11-15**|**Local Clustering Decoder: a fast and adaptive hardware decoder for the surface code**|Abbas B. Ziad et.al.|[2411.10343](http://arxiv.org/abs/2411.10343)|null|
@@ -2804,7 +2804,7 @@
 |**2024-12-18**|**4D Radar-Inertial Odometry based on Gaussian Modeling and Multi-Hypothesis Scan Matching**|Fernando Amodeo et.al.|[2412.13639](http://arxiv.org/abs/2412.13639)|**[link](https://github.com/robotics-upo/gaussian-rio)**|
 |**2024-12-18**|**Level-Set Parameters: Novel Representation for 3D Shape Analysis**|Huan Lei et.al.|[2412.13502](http://arxiv.org/abs/2412.13502)|null|
 |**2024-12-18**|**Look Inside for More: Internal Spatial Modality Perception for 3D Anomaly Detection**|Hanzhe Liang et.al.|[2412.13461](http://arxiv.org/abs/2412.13461)|null|
-|**2024-12-18**|**Pre-training a Density-Aware Pose Transformer for Robust LiDAR-based 3D Human Pose Estimation**|Xiaoqi An et.al.|[2412.13454](http://arxiv.org/abs/2412.13454)|null|
+|**2024-12-18**|**Pre-training a Density-Aware Pose Transformer for Robust LiDAR-based 3D Human Pose Estimation**|Xiaoqi An et.al.|[2412.13454](http://arxiv.org/abs/2412.13454)|**[link](https://github.com/anxq/dapt)**|
 |**2024-12-17**|**StreetCrafter: Street View Synthesis with Controllable Video Diffusion Models**|Yunzhi Yan et.al.|[2412.13188](http://arxiv.org/abs/2412.13188)|null|
 |**2024-12-17**|**A New Adversarial Perspective for LiDAR-based 3D Object Detection**|Shijun Zheng et.al.|[2412.13017](http://arxiv.org/abs/2412.13017)|null|
 |**2024-12-17**|**RCTrans: Radar-Camera Transformer via Radar Densifier and Sequential Decoder for 3D Object Detection**|Yiheng Li et.al.|[2412.12799](http://arxiv.org/abs/2412.12799)|**[link](https://github.com/liyih/rctrans)**|
@@ -3447,7 +3447,7 @@
 |**2024-07-16**|**Snail-Radar: A large-scale diverse dataset for the evaluation of 4D-radar-based SLAM systems**|Jianzhu Huai et.al.|[2407.11705](http://arxiv.org/abs/2407.11705)|null|
 |**2024-07-16**|**MergeNet: Explicit Mesh Reconstruction from Sparse Point Clouds via Edge Prediction**|Weimin Wang et.al.|[2407.11610](http://arxiv.org/abs/2407.11610)|null|
 |**2024-07-16**|**SFPNet: Sparse Focal Point Network for Semantic Segmentation on General LiDAR Point Clouds**|Yanbo Wang et.al.|[2407.11569](http://arxiv.org/abs/2407.11569)|**[link](https://github.com/Cavendish518/SFPNet)**|
-|**2024-07-16**|**SGIFormer: Semantic-guided and Geometric-enhanced Interleaving Transformer for 3D Instance Segmentation**|Lei Yao et.al.|[2407.11564](http://arxiv.org/abs/2407.11564)|null|
+|**2024-07-16**|**SGIFormer: Semantic-guided and Geometric-enhanced Interleaving Transformer for 3D Instance Segmentation**|Lei Yao et.al.|[2407.11564](http://arxiv.org/abs/2407.11564)|**[link](https://github.com/RayYoh/SGIFormer)**|
 |**2024-07-16**|**MRIo3DS-Net: A Mutually Reinforcing Images to 3D Surface RNN-like framework for model-adaptation indoor 3D reconstruction**|Chang Li et.al.|[2407.11431](http://arxiv.org/abs/2407.11431)|null|
 |**2024-07-16**|**PADRe: A Unifying Polynomial Attention Drop-in Replacement for Efficient Vision Transformer**|Pierre-David Letourneau et.al.|[2407.11306](http://arxiv.org/abs/2407.11306)|null|
 |**2024-07-15**|**R3D-AD: Reconstruction via Diffusion for 3D Anomaly Detection**|Zheyuan Zhou et.al.|[2407.10862](http://arxiv.org/abs/2407.10862)|null|
