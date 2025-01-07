@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-06**|**When Should Selfish Miners Double-Spend?**|Mustafa Doger et.al.|[2501.03227](http://arxiv.org/abs/2501.03227)|null|
+|**2025-01-06**|**Rate-My-LoRA: Efficient and Adaptive Federated Model Tuning for Cardiac MRI Segmentation**|Xiaoxiao He et.al.|[2501.03223](http://arxiv.org/abs/2501.03223)|null|
+|**2025-01-06**|**Bell and Mermin inequalities in Quantum Field Theory from vacuum projectors and Weyl operators**|M. S. Guimaraes et.al.|[2501.03186](http://arxiv.org/abs/2501.03186)|null|
+|**2025-01-06**|**A Faster Algorithm for Constrained Correlation Clustering**|Nick Fischer et.al.|[2501.03154](http://arxiv.org/abs/2501.03154)|null|
+|**2025-01-06**|**Learning DAGs and Root Causes from Time-Series Data**|Panagiotis Misiakos et.al.|[2501.03130](http://arxiv.org/abs/2501.03130)|null|
+|**2025-01-06**|**CrowdProve: Community Proving for ZK Rollups**|John Stephan et.al.|[2501.03126](http://arxiv.org/abs/2501.03126)|null|
+|**2025-01-06**|**Distributed and heterogeneous tensor-vector contraction algorithms for high performance computing**|Pedro J. Martinez-Ferrer et.al.|[2501.03121](http://arxiv.org/abs/2501.03121)|null|
+|**2025-01-06**|**The NewAthena mission concept in the context of the next decade of X-ray astronomy**|Mike Cruise et.al.|[2501.03100](http://arxiv.org/abs/2501.03100)|null|
+|**2025-01-06**|**Analysis of mean-field models arising from self-attention dynamics in transformer architectures with layer normalization**|Martin Burger et.al.|[2501.03096](http://arxiv.org/abs/2501.03096)|null|
+|**2025-01-06**|**A Novel Structure-Agnostic Multi-Objective Approach for Weight-Sharing Compression in Deep Neural Networks**|Rasa Khosrowshahli et.al.|[2501.03095](http://arxiv.org/abs/2501.03095)|null|
 |**2025-01-03**|**Dwarf Galaxies in the TNG50 Field: connecting their Star-formation Rates with their Environments**|Joy Bhattacharyya et.al.|[2501.01946](http://arxiv.org/abs/2501.01946)|null|
 |**2025-01-03**|**Hybrid-z: Enhancing Kilo-Degree Survey bright galaxy sample photometric redshifts with deep learning**|Anjitha John William et.al.|[2501.01942](http://arxiv.org/abs/2501.01942)|null|
 |**2025-01-03**|**Mingling with the Good to Backdoor Federated Learning**|Nuno Neves et.al.|[2501.01913](http://arxiv.org/abs/2501.01913)|null|
@@ -2760,6 +2770,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-06**|**RW-Net: Enhancing Few-Shot Point Cloud Classification with a Wavelet Transform Projection-based Network**|Haosheng Zhang et.al.|[2501.03221](http://arxiv.org/abs/2501.03221)|null|
+|**2025-01-06**|**MCBench: A Benchmark Suite for Monte Carlo Sampling Algorithms**|Zeyu Ding et.al.|[2501.03138](http://arxiv.org/abs/2501.03138)|null|
+|**2025-01-06**|**4D-CS: Exploiting Cluster Prior for 4D Spatio-Temporal LiDAR Semantic Segmentation**|Jiexi Zhong et.al.|[2501.02937](http://arxiv.org/abs/2501.02937)|null|
+|**2025-01-05**|**LP-ICP: General Localizability-Aware Point Cloud Registration for Robust Localization in Extreme Unstructured Environments**|Haosong Yue et.al.|[2501.02580](http://arxiv.org/abs/2501.02580)|null|
+|**2025-01-04**|**RadarNeXt: Real-Time and Reliable 3D Object Detector Based On 4D mmWave Imaging Radar**|Liye Jia et.al.|[2501.02314](http://arxiv.org/abs/2501.02314)|null|
+|**2025-01-04**|**Hyperbolic Contrastive Learning for Hierarchical 3D Point Cloud Embedding**|Yingjie Liu et.al.|[2501.02285](http://arxiv.org/abs/2501.02285)|null|
+|**2025-01-03**|**MRG: A Multi-Robot Manufacturing Digital Scene Generation Method Using Multi-Instance Point Cloud Registration**|Songjie Han et.al.|[2501.02041](http://arxiv.org/abs/2501.02041)|null|
 |**2025-01-03**|**Multi-modal classification of forest biodiversity potential from 2D orthophotos and 3D airborne laser scanning point clouds**|Simon B. Jensen et.al.|[2501.01728](http://arxiv.org/abs/2501.01728)|null|
 |**2025-01-03**|**GPT4Scene: Understand 3D Scenes from Videos with Vision-Language Models**|Zhangyang Qi et.al.|[2501.01428](http://arxiv.org/abs/2501.01428)|null|
 |**2025-01-02**|**3D-LLaVA: Towards Generalist 3D LMMs with Omni Superpoint Transformer**|Jiajun Deng et.al.|[2501.01163](http://arxiv.org/abs/2501.01163)|null|
