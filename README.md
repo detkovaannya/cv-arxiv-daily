@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-07**|**Superpixel Boundary Correction for Weakly-Supervised Semantic Segmentation on Histopathology Images**|Hongyi Wu et.al.|[2501.03891](http://arxiv.org/abs/2501.03891)|null|
+|**2025-01-07**|**Gapless Symmetry-Protected Topological States in Measurement-Only Circuits**|Xue-Jia Yu et.al.|[2501.03851](http://arxiv.org/abs/2501.03851)|null|
+|**2025-01-07**|**Machine learning applications in archaeological practices: a review**|Mathias Bellat et.al.|[2501.03840](http://arxiv.org/abs/2501.03840)|**[link](https://github.com/mathias-bellat/ml_archaeology_review)**|
+|**2025-01-07**|**Communication-reduced Conjugate Gradient Variants for GPU-accelerated Clusters**|Massimo Bernaschi et.al.|[2501.03743](http://arxiv.org/abs/2501.03743)|null|
+|**2025-01-07**|**Exploring membership and variability in NGC 7419: An open cluster rich in super giants and Be type stars**|Arghya Chakraborty et.al.|[2501.03738](http://arxiv.org/abs/2501.03738)|null|
+|**2025-01-07**|**Unraveling Responsiveness of Chained BFT Consensus with Network Delay**|Yining Tang et.al.|[2501.03695](http://arxiv.org/abs/2501.03695)|null|
+|**2025-01-07**|**Dimension-Free Parameterized Approximation Schemes for Hybrid Clustering**|Ameet Gadekar et.al.|[2501.03663](http://arxiv.org/abs/2501.03663)|null|
+|**2025-01-07**|**On the Locality of Hall's Theorem**|Sebastian Brandt et.al.|[2501.03649](http://arxiv.org/abs/2501.03649)|null|
+|**2025-01-07**|**Observations of Turbulence and Transport of Energetic Particles at Interplanetary Shocks: Transition of Transport Regimes**|Siqi Zhao et.al.|[2501.03648](http://arxiv.org/abs/2501.03648)|null|
+|**2025-01-07**|**MHGNet: Multi-Heterogeneous Graph Neural Network for Traffic Prediction**|Mei Wu et.al.|[2501.03635](http://arxiv.org/abs/2501.03635)|**[link](https://github.com/meiwu5/mhgnet)**|
 |**2025-01-06**|**When Should Selfish Miners Double-Spend?**|Mustafa Doger et.al.|[2501.03227](http://arxiv.org/abs/2501.03227)|null|
 |**2025-01-06**|**Rate-My-LoRA: Efficient and Adaptive Federated Model Tuning for Cardiac MRI Segmentation**|Xiaoxiao He et.al.|[2501.03223](http://arxiv.org/abs/2501.03223)|null|
 |**2025-01-06**|**Bell and Mermin inequalities in Quantum Field Theory from vacuum projectors and Weyl operators**|M. S. Guimaraes et.al.|[2501.03186](http://arxiv.org/abs/2501.03186)|null|
@@ -2776,6 +2786,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-07**|**LargeAD: Large-Scale Cross-Sensor Data Pretraining for Autonomous Driving**|Lingdong Kong et.al.|[2501.04005](http://arxiv.org/abs/2501.04005)|null|
+|**2025-01-07**|**LiMoE: Mixture of LiDAR Representation Learners from Automotive Scenes**|Xiang Xu et.al.|[2501.04004](http://arxiv.org/abs/2501.04004)|**[link](https://github.com/xiangxu-0103/limoe)**|
+|**2025-01-07**|**CL3DOR: Contrastive Learning for 3D Large Multimodal Models via Odds Ratio on High-Resolution Point Clouds**|Keonwoo Kim et.al.|[2501.03879](http://arxiv.org/abs/2501.03879)|null|
+|**2025-01-07**|**MeshConv3D: Efficient convolution and pooling operators for triangular 3D meshes**|Germain Bregeon et.al.|[2501.03830](http://arxiv.org/abs/2501.03830)|null|
+|**2025-01-07**|**DehazeGS: Seeing Through Fog with 3D Gaussian Splatting**|Jinze Yu et.al.|[2501.03659](http://arxiv.org/abs/2501.03659)|null|
+|**2025-01-07**|**Advancing the Understanding of Fine-Grained 3D Forest Structures using Digital Cousins and Simulation-to-Reality: Methods and Datasets**|Jing Liu et.al.|[2501.03637](http://arxiv.org/abs/2501.03637)|null|
+|**2025-01-06**|**Compression of 3D Gaussian Splatting with Optimized Feature Planes and Standard Video Codecs**|Soonbin Lee et.al.|[2501.03399](http://arxiv.org/abs/2501.03399)|null|
 |**2025-01-06**|**RW-Net: Enhancing Few-Shot Point Cloud Classification with a Wavelet Transform Projection-based Network**|Haosheng Zhang et.al.|[2501.03221](http://arxiv.org/abs/2501.03221)|null|
 |**2025-01-06**|**MCBench: A Benchmark Suite for Monte Carlo Sampling Algorithms**|Zeyu Ding et.al.|[2501.03138](http://arxiv.org/abs/2501.03138)|null|
 |**2025-01-06**|**4D-CS: Exploiting Cluster Prior for 4D Spatio-Temporal LiDAR Semantic Segmentation**|Jiexi Zhong et.al.|[2501.02937](http://arxiv.org/abs/2501.02937)|null|
