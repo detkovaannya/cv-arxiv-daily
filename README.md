@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-09**|**Decentralized Diffusion Models**|David McAllister et.al.|[2501.05450](http://arxiv.org/abs/2501.05450)|null|
+|**2025-01-09**|**TimeRL: Efficient Deep Reinforcement Learning with Polyhedral Dependence Graphs**|Pedro F. Silvestre et.al.|[2501.05408](http://arxiv.org/abs/2501.05408)|null|
+|**2025-01-09**|**Byzantine Fault Tolerant Protocols with Near-Constant Work per Node without Signatures**|Philipp Schneider et.al.|[2501.05377](http://arxiv.org/abs/2501.05377)|null|
+|**2025-01-09**|**Validation of GPU Computation in Decentralized, Trustless Networks**|Eric Boniardi et.al.|[2501.05374](http://arxiv.org/abs/2501.05374)|null|
+|**2025-01-09**|**On the emergence of almost-honeycomb structures in low-energy planar clusters**|Marco Caroccia et.al.|[2501.05373](http://arxiv.org/abs/2501.05373)|null|
+|**2025-01-09**|**The supercritical phase of the $\varphi^4$ model is well behaved**|Trishen S. Gunaratnam et.al.|[2501.05353](http://arxiv.org/abs/2501.05353)|null|
+|**2025-01-09**|**Real-frequency TPSC+DMFT investigation of the square-lattice Hubbard model**|Lei Geng et.al.|[2501.05346](http://arxiv.org/abs/2501.05346)|null|
+|**2025-01-09**|**Resolving an Asteroseismic Catastrophe: Structural Diagnostics from p-mode Phase Functions off the Main Sequence**|J. M. Joel Ong et.al.|[2501.05343](http://arxiv.org/abs/2501.05343)|null|
+|**2025-01-09**|**Randomized Spectral Clustering for Large-Scale Multi-Layer Networks**|Wenqing Su et.al.|[2501.05326](http://arxiv.org/abs/2501.05326)|null|
+|**2025-01-09**|**Optimizing Distributed Deployment of Mixture-of-Experts Model Inference in Serverless Computing**|Mengfan Liu et.al.|[2501.05313](http://arxiv.org/abs/2501.05313)|null|
 |**2025-01-08**|**A study of the frequency and characteristics of stellar companions and Jupiter-like planets in nearby open clusters**|R. Gratton et.al.|[2501.04692](http://arxiv.org/abs/2501.04692)|null|
 |**2025-01-08**|**Observation of topological prethermal strong zero modes**|Feitong Jin et.al.|[2501.04688](http://arxiv.org/abs/2501.04688)|null|
 |**2025-01-08**|**Exploring nontrivial topology at quantum criticality in a superconducting processor**|Ziqi Tan et.al.|[2501.04679](http://arxiv.org/abs/2501.04679)|null|
@@ -2796,6 +2806,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-09**|**Advancing ALS Applications with Large-Scale Pre-training: Dataset Development and Downstream Assessment**|Haoyi Xiu et.al.|[2501.05095](http://arxiv.org/abs/2501.05095)|null|
+|**2025-01-09**|**IPDN: Image-enhanced Prompt Decoding Network for 3D Referring Expression Segmentation**|Qi Chen et.al.|[2501.04995](http://arxiv.org/abs/2501.04995)|null|
+|**2025-01-09**|**Image2CADSeq: Computer-Aided Design Sequence and Knowledge Inference from Product Images**|Xingang Li et.al.|[2501.04928](http://arxiv.org/abs/2501.04928)|null|
+|**2025-01-09**|**From Mesh Completion to AI Designed Crown**|Golriz Hosseinimanesh et.al.|[2501.04914](http://arxiv.org/abs/2501.04914)|null|
 |**2025-01-08**|**SPAR3D: Stable Point-Aware Reconstruction of 3D Objects from Single Images**|Zixuan Huang et.al.|[2501.04689](http://arxiv.org/abs/2501.04689)|null|
 |**2025-01-08**|**UPAQ: A Framework for Real-Time and Energy-Efficient 3D Object Detection in Autonomous Vehicles**|Abhishek Balasubramaniam et.al.|[2501.04213](http://arxiv.org/abs/2501.04213)|null|
 |**2025-01-07**|**Spatiotemporal Gaussian Optimization for 4D Cone Beam CT Reconstruction from Sparse Projections**|Yabo Fu et.al.|[2501.04140](http://arxiv.org/abs/2501.04140)|null|
