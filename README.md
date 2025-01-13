@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-10**|**Batched DGEMMs for scientific codes running on long vector architectures**|Fabio Banchelli et.al.|[2501.06175](http://arxiv.org/abs/2501.06175)|null|
+|**2025-01-10**|**Using a minimally parametrised SHAM to constrain the link between dark matter and galaxies**|F. L. Davidson et.al.|[2501.06169](http://arxiv.org/abs/2501.06169)|null|
+|**2025-01-10**|**Modeling the Impact of Moderate External UV Irradiation on Disk Chemistry**|Rachel E. Gross et.al.|[2501.06156](http://arxiv.org/abs/2501.06156)|null|
+|**2025-01-10**|**The GALAH survey: Improving chemical abundances using star clusters**|Janez Kos et.al.|[2501.06140](http://arxiv.org/abs/2501.06140)|null|
+|**2025-01-10**|**Benchmarking Different Application Types across Heterogeneous Cloud Compute Services**|Nivedhitha Duggi et.al.|[2501.06128](http://arxiv.org/abs/2501.06128)|null|
+|**2025-01-10**|**Multi-Phase Dataset for Ti and Ti-6Al-4V**|Connor S. Allen et.al.|[2501.06116](http://arxiv.org/abs/2501.06116)|null|
+|**2025-01-10**|**Finite-Horizon Single-Pull Restless Bandits: An Efficient Index Policy For Scarce Resource Allocation**|Guojun Xiong et.al.|[2501.06103](http://arxiv.org/abs/2501.06103)|null|
+|**2025-01-10**|**Variation of the low-mass end of the stellar initial mass function with redshift and metallicity**|Matthew R. Bate et.al.|[2501.06082](http://arxiv.org/abs/2501.06082)|null|
+|**2025-01-10**|**Scale-up Unlearnable Examples Learning with High-Performance Computing**|Yanfan Zhu et.al.|[2501.06080](http://arxiv.org/abs/2501.06080)|null|
+|**2025-01-10**|**Beyond Optimal Fault Tolerance**|Andrew Lewis-Pye et.al.|[2501.06044](http://arxiv.org/abs/2501.06044)|null|
 |**2025-01-09**|**Decentralized Diffusion Models**|David McAllister et.al.|[2501.05450](http://arxiv.org/abs/2501.05450)|null|
 |**2025-01-09**|**TimeRL: Efficient Deep Reinforcement Learning with Polyhedral Dependence Graphs**|Pedro F. Silvestre et.al.|[2501.05408](http://arxiv.org/abs/2501.05408)|null|
 |**2025-01-09**|**Byzantine Fault Tolerant Protocols with Near-Constant Work per Node without Signatures**|Philipp Schneider et.al.|[2501.05377](http://arxiv.org/abs/2501.05377)|null|
@@ -2806,6 +2816,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-10**|**Semantic Mapping in Indoor Embodied AI -- A Comprehensive Survey and Future Directions**|Sonia Raychaudhuri et.al.|[2501.05750](http://arxiv.org/abs/2501.05750)|null|
+|**2025-01-10**|**LPRnet: A self-supervised registration network for LiDAR and photogrammetric point clouds**|Chen Wang et.al.|[2501.05669](http://arxiv.org/abs/2501.05669)|null|
+|**2025-01-09**|**Approximate Supervised Object Distance Estimation on Unmanned Surface Vehicles**|Benjamin Kiefer et.al.|[2501.05567](http://arxiv.org/abs/2501.05567)|null|
+|**2025-01-09**|**OmniJet- ${α_{ C}}$ : Learning point cloud calorimeter simulations using generative transformers**|Joschka Birk et.al.|[2501.05534](http://arxiv.org/abs/2501.05534)|null|
 |**2025-01-09**|**Advancing ALS Applications with Large-Scale Pre-training: Dataset Development and Downstream Assessment**|Haoyi Xiu et.al.|[2501.05095](http://arxiv.org/abs/2501.05095)|null|
 |**2025-01-09**|**IPDN: Image-enhanced Prompt Decoding Network for 3D Referring Expression Segmentation**|Qi Chen et.al.|[2501.04995](http://arxiv.org/abs/2501.04995)|**[link](https://github.com/80chen86/ipdn)**|
 |**2025-01-09**|**Image2CADSeq: Computer-Aided Design Sequence and Knowledge Inference from Product Images**|Xingang Li et.al.|[2501.04928](http://arxiv.org/abs/2501.04928)|null|
