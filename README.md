@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-15**|**Vision Foundation Models for Computed Tomography**|Suraj Pai et.al.|[2501.09001](http://arxiv.org/abs/2501.09001)|null|
+|**2025-01-15**|**Automated Quantum Chemistry Code Generation with the p $^\dagger$ q Package**|Marcus D. Liebenthal et.al.|[2501.08882](http://arxiv.org/abs/2501.08882)|null|
+|**2025-01-15**|**Ampère phase in frustrated magnets**|N. Rougemaille et.al.|[2501.08859](http://arxiv.org/abs/2501.08859)|null|
+|**2025-01-15**|**The post-gas expulsion coalescence of embedded clusters as an origin of open clusters**|J. W. Zhou et.al.|[2501.08831](http://arxiv.org/abs/2501.08831)|null|
+|**2025-01-15**|**Pixelization effects in cosmic shear angular power spectra**|Alex Hall et.al.|[2501.08718](http://arxiv.org/abs/2501.08718)|null|
+|**2025-01-15**|**$\texttt{InfoHier}$ : Hierarchical Information Extraction via Encoding and Embedding**|Tianru Zhang et.al.|[2501.08717](http://arxiv.org/abs/2501.08717)|null|
+|**2025-01-15**|**Disentangled Interleaving Variational Encoding**|Noelle Y. L. Wong et.al.|[2501.08710](http://arxiv.org/abs/2501.08710)|null|
+|**2025-01-15**|**A Spatio-Temporal Dirichlet Process Mixture Model on Linear Networks for Crime Data**|Sujeong Lee et.al.|[2501.08673](http://arxiv.org/abs/2501.08673)|null|
+|**2025-01-15**|**SWSC: Shared Weight for Similar Channel in LLM**|Binrui Zeng et.al.|[2501.08631](http://arxiv.org/abs/2501.08631)|null|
+|**2025-01-15**|**Self-Organizing Edge Computing Distribution Framework for Visual SLAM**|Jussi Kalliola et.al.|[2501.08629](http://arxiv.org/abs/2501.08629)|null|
 |**2025-01-14**|**A GPU-Accelerated Distributed Algorithm for Optimal Power Flow in Distribution Systems**|Minseok Ryu et.al.|[2501.08293](http://arxiv.org/abs/2501.08293)|null|
 |**2025-01-14**|**PRESERVE: Prefetching Model Weights and KV-Cache in Distributed LLM Serving**|Ahmet Caner Yüzügüler et.al.|[2501.08192](http://arxiv.org/abs/2501.08192)|null|
 |**2025-01-14**|**Maximal green sequences for $\mathcal{Q}^N$ quivers**|Jingmin Guo et.al.|[2501.08175](http://arxiv.org/abs/2501.08175)|null|
@@ -2836,6 +2846,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-15**|**A Multi-modal Intelligent Channel Model for 6G Multi-UAV-to-Multi-Vehicle Communications**|Lu Bai et.al.|[2501.08825](http://arxiv.org/abs/2501.08825)|null|
+|**2025-01-15**|**GS-LIVO: Real-Time LiDAR, Inertial, and Visual Multi-sensor Fused Odometry with Gaussian Mapping**|Sheng Hong et.al.|[2501.08672](http://arxiv.org/abs/2501.08672)|null|
+|**2025-01-15**|**Image-to-Force Estimation for Soft Tissue Interaction in Robotic-Assisted Surgery Using Structured Light**|Jiayin Wang et.al.|[2501.08593](http://arxiv.org/abs/2501.08593)|null|
+|**2025-01-15**|**GOTLoc: General Outdoor Text-based Localization Using Scene Graph Retrieval with OpenStreetMap**|Donghwi Jung et.al.|[2501.08575](http://arxiv.org/abs/2501.08575)|**[link](https://github.com/donghwijung/gotloc)**|
+|**2025-01-14**|**Automotive Elevation Mapping with Interferometric Synthetic Aperture Radar**|Leyla A. Kabuli et.al.|[2501.08495](http://arxiv.org/abs/2501.08495)|null|
 |**2025-01-14**|**Revisiting Birds Eye View Perception Models with Frozen Foundation Models: DINOv2 and Metric3Dv2**|Seamie Hayes et.al.|[2501.08118](http://arxiv.org/abs/2501.08118)|null|
 |**2025-01-14**|**3UR-LLM: An End-to-End Multimodal Large Language Model for 3D Scene Understanding**|Haomiao Xiong et.al.|[2501.07819](http://arxiv.org/abs/2501.07819)|**[link](https://github.com/hmxiong/3ur-llm)**|
 |**2025-01-14**|**HgPCN: A Heterogeneous Architecture for E2E Embedded Point Cloud Inference**|Yiming Gao et.al.|[2501.07767](http://arxiv.org/abs/2501.07767)|null|
