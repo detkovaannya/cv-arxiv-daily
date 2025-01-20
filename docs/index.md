@@ -62,7 +62,7 @@ layout: default
 |**2025-01-10**|**Multi-Phase Dataset for Ti and Ti-6Al-4V**|Connor S. Allen et.al.|[2501.06116](http://arxiv.org/abs/2501.06116)|null|
 |**2025-01-10**|**Finite-Horizon Single-Pull Restless Bandits: An Efficient Index Policy For Scarce Resource Allocation**|Guojun Xiong et.al.|[2501.06103](http://arxiv.org/abs/2501.06103)|null|
 |**2025-01-10**|**Variation of the low-mass end of the stellar initial mass function with redshift and metallicity**|Matthew R. Bate et.al.|[2501.06082](http://arxiv.org/abs/2501.06082)|null|
-|**2025-01-10**|**Scale-up Unlearnable Examples Learning with High-Performance Computing**|Yanfan Zhu et.al.|[2501.06080](http://arxiv.org/abs/2501.06080)|null|
+|**2025-01-10**|**Scale-up Unlearnable Examples Learning with High-Performance Computing**|Yanfan Zhu et.al.|[2501.06080](http://arxiv.org/abs/2501.06080)|**[link](https://github.com/hrlblab/ue_hpc)**|
 |**2025-01-10**|**Beyond Optimal Fault Tolerance**|Andrew Lewis-Pye et.al.|[2501.06044](http://arxiv.org/abs/2501.06044)|null|
 |**2025-01-09**|**Decentralized Diffusion Models**|David McAllister et.al.|[2501.05450](http://arxiv.org/abs/2501.05450)|null|
 |**2025-01-09**|**TimeRL: Efficient Deep Reinforcement Learning with Polyhedral Dependence Graphs**|Pedro F. Silvestre et.al.|[2501.05408](http://arxiv.org/abs/2501.05408)|null|
@@ -72,12 +72,12 @@ layout: default
 |**2025-01-09**|**The supercritical phase of the $\varphi^4$ model is well behaved**|Trishen S. Gunaratnam et.al.|[2501.05353](http://arxiv.org/abs/2501.05353)|null|
 |**2025-01-09**|**Real-frequency TPSC+DMFT investigation of the square-lattice Hubbard model**|Lei Geng et.al.|[2501.05346](http://arxiv.org/abs/2501.05346)|null|
 |**2025-01-09**|**Resolving an Asteroseismic Catastrophe: Structural Diagnostics from p-mode Phase Functions off the Main Sequence**|J. M. Joel Ong et.al.|[2501.05343](http://arxiv.org/abs/2501.05343)|null|
-|**2025-01-09**|**Randomized Spectral Clustering for Large-Scale Multi-Layer Networks**|Wenqing Su et.al.|[2501.05326](http://arxiv.org/abs/2501.05326)|null|
+|**2025-01-09**|**Randomized Spectral Clustering for Large-Scale Multi-Layer Networks**|Wenqing Su et.al.|[2501.05326](http://arxiv.org/abs/2501.05326)|**[link](https://github.com/wenqingsu/mlrclust)**|
 |**2025-01-09**|**Optimizing Distributed Deployment of Mixture-of-Experts Model Inference in Serverless Computing**|Mengfan Liu et.al.|[2501.05313](http://arxiv.org/abs/2501.05313)|null|
 |**2025-01-08**|**A study of the frequency and characteristics of stellar companions and Jupiter-like planets in nearby open clusters**|R. Gratton et.al.|[2501.04692](http://arxiv.org/abs/2501.04692)|null|
 |**2025-01-08**|**Observation of topological prethermal strong zero modes**|Feitong Jin et.al.|[2501.04688](http://arxiv.org/abs/2501.04688)|null|
 |**2025-01-08**|**Exploring nontrivial topology at quantum criticality in a superconducting processor**|Ziqi Tan et.al.|[2501.04679](http://arxiv.org/abs/2501.04679)|null|
-|**2025-01-08**|**Recorder: Comprehensive Parallel I/O Tracing and Analysis**|Chen Wang et.al.|[2501.04654](http://arxiv.org/abs/2501.04654)|null|
+|**2025-01-08**|**Recorder: Comprehensive Parallel I/O Tracing and Analysis**|Chen Wang et.al.|[2501.04654](http://arxiv.org/abs/2501.04654)|**[link](https://github.com/uiuc-hpc/recorder)**|
 |**2025-01-08**|**Optimal Trading of a Charging-Station Company in Auction Markets for Electricity**|Farnaz Sohrabi et.al.|[2501.04647](http://arxiv.org/abs/2501.04647)|null|
 |**2025-01-08**|**A Semantic Partitioning Method for Large-Scale Training of Knowledge Graph Embeddings**|Yuhe Bai et.al.|[2501.04613](http://arxiv.org/abs/2501.04613)|**[link](https://github.com/yuhebai/sem-kge)**|
 |**2025-01-08**|**Modeling temporal dependence in a sequence of spatial random partitions driven by spanning tree: an application to mosquito-borne diseases**|Jessica Pavani et.al.|[2501.04601](http://arxiv.org/abs/2501.04601)|null|
@@ -2875,14 +2875,14 @@ layout: default
 |**2025-01-10**|**Semantic Mapping in Indoor Embodied AI -- A Comprehensive Survey and Future Directions**|Sonia Raychaudhuri et.al.|[2501.05750](http://arxiv.org/abs/2501.05750)|null|
 |**2025-01-10**|**LPRnet: A self-supervised registration network for LiDAR and photogrammetric point clouds**|Chen Wang et.al.|[2501.05669](http://arxiv.org/abs/2501.05669)|null|
 |**2025-01-09**|**Approximate Supervised Object Distance Estimation on Unmanned Surface Vehicles**|Benjamin Kiefer et.al.|[2501.05567](http://arxiv.org/abs/2501.05567)|null|
-|**2025-01-09**|**OmniJet- ${α_{ C}}$ : Learning point cloud calorimeter simulations using generative transformers**|Joschka Birk et.al.|[2501.05534](http://arxiv.org/abs/2501.05534)|null|
-|**2025-01-09**|**Advancing ALS Applications with Large-Scale Pre-training: Dataset Development and Downstream Assessment**|Haoyi Xiu et.al.|[2501.05095](http://arxiv.org/abs/2501.05095)|null|
+|**2025-01-09**|**OmniJet- ${α_{ C}}$ : Learning point cloud calorimeter simulations using generative transformers**|Joschka Birk et.al.|[2501.05534](http://arxiv.org/abs/2501.05534)|**[link](https://github.com/uhh-pd-ml/omnijet_alpha_c)**|
+|**2025-01-09**|**Advancing ALS Applications with Large-Scale Pre-training: Dataset Development and Downstream Assessment**|Haoyi Xiu et.al.|[2501.05095](http://arxiv.org/abs/2501.05095)|**[link](https://github.com/martianxiu/als_pretraining)**|
 |**2025-01-09**|**IPDN: Image-enhanced Prompt Decoding Network for 3D Referring Expression Segmentation**|Qi Chen et.al.|[2501.04995](http://arxiv.org/abs/2501.04995)|**[link](https://github.com/80chen86/ipdn)**|
 |**2025-01-09**|**Image2CADSeq: Computer-Aided Design Sequence and Knowledge Inference from Product Images**|Xingang Li et.al.|[2501.04928](http://arxiv.org/abs/2501.04928)|null|
 |**2025-01-09**|**From Mesh Completion to AI Designed Crown**|Golriz Hosseinimanesh et.al.|[2501.04914](http://arxiv.org/abs/2501.04914)|**[link](https://github.com/golriz-code/dmc)**|
 |**2025-01-08**|**SPAR3D: Stable Point-Aware Reconstruction of 3D Objects from Single Images**|Zixuan Huang et.al.|[2501.04689](http://arxiv.org/abs/2501.04689)|null|
 |**2025-01-08**|**UPAQ: A Framework for Real-Time and Energy-Efficient 3D Object Detection in Autonomous Vehicles**|Abhishek Balasubramaniam et.al.|[2501.04213](http://arxiv.org/abs/2501.04213)|null|
-|**2025-01-07**|**Spatiotemporal Gaussian Optimization for 4D Cone Beam CT Reconstruction from Sparse Projections**|Yabo Fu et.al.|[2501.04140](http://arxiv.org/abs/2501.04140)|null|
+|**2025-01-07**|**Spatiotemporal Gaussian Optimization for 4D Cone Beam CT Reconstruction from Sparse Projections**|Yabo Fu et.al.|[2501.04140](http://arxiv.org/abs/2501.04140)|**[link](https://github.com/fuyabo/4dgs_for_4dcbct)**|
 |**2025-01-07**|**LargeAD: Large-Scale Cross-Sensor Data Pretraining for Autonomous Driving**|Lingdong Kong et.al.|[2501.04005](http://arxiv.org/abs/2501.04005)|null|
 |**2025-01-07**|**LiMoE: Mixture of LiDAR Representation Learners from Automotive Scenes**|Xiang Xu et.al.|[2501.04004](http://arxiv.org/abs/2501.04004)|**[link](https://github.com/xiangxu-0103/limoe)**|
 |**2025-01-07**|**CL3DOR: Contrastive Learning for 3D Large Multimodal Models via Odds Ratio on High-Resolution Point Clouds**|Keonwoo Kim et.al.|[2501.03879](http://arxiv.org/abs/2501.03879)|null|
@@ -2891,7 +2891,7 @@ layout: default
 |**2025-01-07**|**Advancing the Understanding of Fine-Grained 3D Forest Structures using Digital Cousins and Simulation-to-Reality: Methods and Datasets**|Jing Liu et.al.|[2501.03637](http://arxiv.org/abs/2501.03637)|null|
 |**2025-01-06**|**Compression of 3D Gaussian Splatting with Optimized Feature Planes and Standard Video Codecs**|Soonbin Lee et.al.|[2501.03399](http://arxiv.org/abs/2501.03399)|null|
 |**2025-01-06**|**RW-Net: Enhancing Few-Shot Point Cloud Classification with a Wavelet Transform Projection-based Network**|Haosheng Zhang et.al.|[2501.03221](http://arxiv.org/abs/2501.03221)|null|
-|**2025-01-06**|**MCBench: A Benchmark Suite for Monte Carlo Sampling Algorithms**|Zeyu Ding et.al.|[2501.03138](http://arxiv.org/abs/2501.03138)|null|
+|**2025-01-06**|**MCBench: A Benchmark Suite for Monte Carlo Sampling Algorithms**|Zeyu Ding et.al.|[2501.03138](http://arxiv.org/abs/2501.03138)|**[link](https://github.com/tudo-physik-e4/mcbench)**|
 |**2025-01-06**|**4D-CS: Exploiting Cluster Prior for 4D Spatio-Temporal LiDAR Semantic Segmentation**|Jiexi Zhong et.al.|[2501.02937](http://arxiv.org/abs/2501.02937)|null|
 |**2025-01-05**|**LP-ICP: General Localizability-Aware Point Cloud Registration for Robust Localization in Extreme Unstructured Environments**|Haosong Yue et.al.|[2501.02580](http://arxiv.org/abs/2501.02580)|**[link](https://github.com/xuqingyuan2000/lp-icp)**|
 |**2025-01-04**|**RadarNeXt: Real-Time and Reliable 3D Object Detector Based On 4D mmWave Imaging Radar**|Liye Jia et.al.|[2501.02314](http://arxiv.org/abs/2501.02314)|**[link](https://github.com/pay246-git468/radarnext)**|
@@ -2904,7 +2904,7 @@ layout: default
 |**2024-12-31**|**DecoratingFusion: A LiDAR-Camera Fusion Network with the Combination of Point-level and Feature-level Fusion**|Zixuan Yin et.al.|[2501.00220](http://arxiv.org/abs/2501.00220)|null|
 |**2024-12-30**|**Frequency-aware Event Cloud Network**|Hongwei Ren et.al.|[2412.20803](http://arxiv.org/abs/2412.20803)|null|
 |**2024-12-29**|**Towards Explaining Uncertainty Estimates in Point Cloud Registration**|Ziyuan Qin et.al.|[2412.20612](http://arxiv.org/abs/2412.20612)|null|
-|**2024-12-27**|**Sharpening Neural Implicit Functions with Frequency Consolidation Priors**|Chao Chen et.al.|[2412.19720](http://arxiv.org/abs/2412.19720)|null|
+|**2024-12-27**|**Sharpening Neural Implicit Functions with Frequency Consolidation Priors**|Chao Chen et.al.|[2412.19720](http://arxiv.org/abs/2412.19720)|**[link](https://github.com/chenchao15/fcp)**|
 |**2024-12-27**|**CAD-GPT: Synthesising CAD Construction Sequence with Spatial Reasoning-Enhanced Multimodal LLMs**|Siyu Wang et.al.|[2412.19663](http://arxiv.org/abs/2412.19663)|null|
 |**2024-12-27**|**DAS3R: Dynamics-Aware Gaussian Splatting for Static Scene Reconstruction**|Kai Xu et.al.|[2412.19584](http://arxiv.org/abs/2412.19584)|null|
 |**2024-12-27**|**RobotDiffuse: Motion Planning for Redundant Manipulator based on Diffusion Model**|Xiaohan Zhang et.al.|[2412.19500](http://arxiv.org/abs/2412.19500)|**[link](https://github.com/acrobot-buaa/robotdiffuse)**|
