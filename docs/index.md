@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-17**|**From strong to weak correlations in breathing-mode kagome van der Waals materials: Nb $_3$(F,Cl,Br,I)$_8$ as a robust and versatile platform for many-body engineering**|Joost Aretz et.al.|[2501.10320](http://arxiv.org/abs/2501.10320)|null|
+|**2025-01-17**|**An optimal transport based embedding to quantify the distance between playing styles in collective sports**|Ali Baouan et.al.|[2501.10299](http://arxiv.org/abs/2501.10299)|null|
+|**2025-01-17**|**Evidence for the gravity-driven and magnetically-regularized gas flows feeding the massive protostellar cluster in Cep A**|Panigrahy Sandhyarani et.al.|[2501.10280](http://arxiv.org/abs/2501.10280)|null|
+|**2025-01-17**|**Over-the-Air Multi-Sensor Inference with Neural Networks Using Memristor-Based Analog Computing**|Busra Tegin et.al.|[2501.10245](http://arxiv.org/abs/2501.10245)|null|
+|**2025-01-17**|**Resource-Efficient Compilation of Distributed Quantum Circuits for Solving Large-Scale Wireless Communication Network Problems**|Kuan-Cheng Chen et.al.|[2501.10242](http://arxiv.org/abs/2501.10242)|null|
+|**2025-01-17**|**Counterfactual Explanations for k-means and Gaussian Clustering**|Georgios Vardakas et.al.|[2501.10234](http://arxiv.org/abs/2501.10234)|null|
+|**2025-01-17**|**Adaptive Clustering for Efficient Phenotype Segmentation of UAV Hyperspectral Data**|Ciem Cornelissen et.al.|[2501.10199](http://arxiv.org/abs/2501.10199)|null|
+|**2025-01-17**|**Good things come in small packages: Should we adopt Lite-GPUs in AI infrastructure?**|Burcu Canakci et.al.|[2501.10187](http://arxiv.org/abs/2501.10187)|null|
+|**2025-01-17**|**Structure-guided Deep Multi-View Clustering**|Jinrong Cui et.al.|[2501.10157](http://arxiv.org/abs/2501.10157)|null|
+|**2025-01-17**|**Regularized Sparse Optimal Discriminant Clustering**|Mayu Hiraishi et.al.|[2501.10147](http://arxiv.org/abs/2501.10147)|null|
 |**2025-01-16**|**Enhancing Lexicon-Based Text Embeddings with Large Language Models**|Yibin Lei et.al.|[2501.09749](http://arxiv.org/abs/2501.09749)|null|
 |**2025-01-16**|**Improvement of Data Analytics Techniques in Reflection High Energy Electron Diffraction to Enable Machine Learning**|Patrick T. Gemperline et.al.|[2501.09743](http://arxiv.org/abs/2501.09743)|**[link](https://zenodo.org/record/14649215)**|
 |**2025-01-16**|**Asymptotic behavior of clusters in hierarchical species sampling models**|Stefano Favaro et.al.|[2501.09741](http://arxiv.org/abs/2501.09741)|null|
@@ -2850,6 +2860,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-17**|**MutualForce: Mutual-Aware Enhancement for 4D Radar-LiDAR 3D Object Detection**|Xiangyuan Peng et.al.|[2501.10266](http://arxiv.org/abs/2501.10266)|null|
+|**2025-01-17**|**CLIP-PCQA: Exploring Subjective-Aligned Vision-Language Modeling for Point Cloud Quality Assessment**|Yating Liu et.al.|[2501.10071](http://arxiv.org/abs/2501.10071)|null|
 |**2025-01-16**|**Model Predictive Path Integral Docking of Fully Actuated Surface Vessel**|Akash Vijayakumar et.al.|[2501.09668](http://arxiv.org/abs/2501.09668)|null|
 |**2025-01-15**|**Unified Few-shot Crack Segmentation and its Precise 3D Automatic Measurement in Concrete Structures**|Pengru Deng et.al.|[2501.09203](http://arxiv.org/abs/2501.09203)|null|
 |**2025-01-15**|**Generative diffusion model with inverse renormalization group flows**|Kanta Masuki et.al.|[2501.09064](http://arxiv.org/abs/2501.09064)|**[link](https://github.com/kantamasuki/rgdm)**|
