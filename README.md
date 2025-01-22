@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-21**|**Learning segmentation from point trajectories**|Laurynas Karazija et.al.|[2501.12392](http://arxiv.org/abs/2501.12392)|null|
+|**2025-01-21**|**The doubly librating Plutinos**|Renu Malhotra et.al.|[2501.12345](http://arxiv.org/abs/2501.12345)|null|
+|**2025-01-21**|**CYCle: Choosing Your Collaborators Wisely to Enhance Collaborative Fairness in Decentralized Learning**|Nurbek Tastan et.al.|[2501.12344](http://arxiv.org/abs/2501.12344)|null|
+|**2025-01-21**|**Tracing magnetic switchbacks to their source: An assessment of solar coronal jets as switchback precursors**|Nina Bizien et.al.|[2501.12340](http://arxiv.org/abs/2501.12340)|null|
+|**2025-01-21**|**Empower Healthcare through a Self-Sovereign Identity Infrastructure for Secure Electronic Health Data Access**|Antonio López Martínez et.al.|[2501.12229](http://arxiv.org/abs/2501.12229)|null|
+|**2025-01-21**|**CDW-CoT: Clustered Distance-Weighted Chain-of-Thoughts Reasoning**|Yuanheng Fang et.al.|[2501.12226](http://arxiv.org/abs/2501.12226)|null|
+|**2025-01-21**|**Community Discovery Algorithm Based on Spatio-temporal Graph Embedding in Dynamic Social Networks**|Yingnan Xu et.al.|[2501.12208](http://arxiv.org/abs/2501.12208)|null|
+|**2025-01-21**|**Investigating launching of black hole jets with the combined power of the EVN and the EHT**|G. F. Paraschos et.al.|[2501.12168](http://arxiv.org/abs/2501.12168)|null|
+|**2025-01-21**|**AdaServe: SLO-Customized LLM Serving with Fine-Grained Speculative Decoding**|Zikun Li et.al.|[2501.12162](http://arxiv.org/abs/2501.12162)|null|
+|**2025-01-21**|**Globular cluster formation from inertial inflows: accreting extremely massive stars as the origin of abundance anomalies**|Mark Gieles et.al.|[2501.12138](http://arxiv.org/abs/2501.12138)|null|
 |**2025-01-17**|**From strong to weak correlations in breathing-mode kagome van der Waals materials: Nb $_3$(F,Cl,Br,I)$_8$ as a robust and versatile platform for many-body engineering**|Joost Aretz et.al.|[2501.10320](http://arxiv.org/abs/2501.10320)|null|
 |**2025-01-17**|**An optimal transport based embedding to quantify the distance between playing styles in collective sports**|Ali Baouan et.al.|[2501.10299](http://arxiv.org/abs/2501.10299)|null|
 |**2025-01-17**|**Evidence for the gravity-driven and magnetically-regularized gas flows feeding the massive protostellar cluster in Cep A**|Panigrahy Sandhyarani et.al.|[2501.10280](http://arxiv.org/abs/2501.10280)|null|
@@ -2866,6 +2876,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-21**|**HAC++: Towards 100X Compression of 3D Gaussian Splatting**|Yihang Chen et.al.|[2501.12255](http://arxiv.org/abs/2501.12255)|**[link](https://github.com/yihangchen-ee/hac-plus)**|
+|**2025-01-19**|**OpenLiDARMap: Zero-Drift Point Cloud Mapping using Map Priors**|Dominik Kulmer et.al.|[2501.11111](http://arxiv.org/abs/2501.11111)|null|
+|**2025-01-19**|**DC-PCN: Point Cloud Completion Network with Dual-Codebook Guided Quantization**|Qiuxia Wu et.al.|[2501.10966](http://arxiv.org/abs/2501.10966)|null|
+|**2025-01-18**|**CS-Net:Contribution-based Sampling Network for Point Cloud Simplification**|Tian Guo et.al.|[2501.10789](http://arxiv.org/abs/2501.10789)|null|
+|**2025-01-18**|**PB-NBV: Efficient Projection-Based Next-Best-View Planning Framework for Reconstruction of Unknown Objects**|Zhizhou Jia et.al.|[2501.10663](http://arxiv.org/abs/2501.10663)|null|
+|**2025-01-17**|**The Geometry of Tokens in Internal Representations of Large Language Models**|Karthik Viswanathan et.al.|[2501.10573](http://arxiv.org/abs/2501.10573)|**[link](https://github.com/ritareasciencepark/token_geometry)**|
 |**2025-01-17**|**MutualForce: Mutual-Aware Enhancement for 4D Radar-LiDAR 3D Object Detection**|Xiangyuan Peng et.al.|[2501.10266](http://arxiv.org/abs/2501.10266)|null|
 |**2025-01-17**|**CLIP-PCQA: Exploring Subjective-Aligned Vision-Language Modeling for Point Cloud Quality Assessment**|Yating Liu et.al.|[2501.10071](http://arxiv.org/abs/2501.10071)|null|
 |**2025-01-16**|**Model Predictive Path Integral Docking of Fully Actuated Surface Vessel**|Akash Vijayakumar et.al.|[2501.09668](http://arxiv.org/abs/2501.09668)|null|
