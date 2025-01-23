@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-22**|**Guaranteed Recovery of Unambiguous Clusters**|Kayvon Mazooji et.al.|[2501.13093](http://arxiv.org/abs/2501.13093)|null|
+|**2025-01-22**|**Bailout Embedding and Stability Analysis of a Dynamical Mean-Field Ising Model of Opinion Dynamics**|Senbagaraman Sudarsanam et.al.|[2501.13078](http://arxiv.org/abs/2501.13078)|null|
+|**2025-01-22**|**The outer structure of old star clusters in the Small Magellanic Cloud**|Andrés E. Piatti et.al.|[2501.13062](http://arxiv.org/abs/2501.13062)|null|
+|**2025-01-22**|**TimeFilter: Patch-Specific Spatial-Temporal Graph Filtration for Time Series Forecasting**|Yifan Hu et.al.|[2501.13041](http://arxiv.org/abs/2501.13041)|**[link](https://github.com/troubadour000/timefilter)**|
+|**2025-01-22**|**eROSITA X-ray Analysis of the PeVatron Candidate Westerlund 1**|Konstantin Haubner et.al.|[2501.12990](http://arxiv.org/abs/2501.12990)|null|
+|**2025-01-22**|**A Selective Homomorphic Encryption Approach for Faster Privacy-Preserving Federated Learning**|Abdulkadir Korkmaz et.al.|[2501.12911](http://arxiv.org/abs/2501.12911)|null|
+|**2025-01-22**|**Unified CNNs and transformers underlying learning mechanism reveals multi-head attention modus vivendi**|Ella Koresh et.al.|[2501.12900](http://arxiv.org/abs/2501.12900)|null|
+|**2025-01-22**|**Advanced deep architecture pruning using single filter performance**|Yarden Tzach et.al.|[2501.12880](http://arxiv.org/abs/2501.12880)|null|
+|**2025-01-22**|**$μ$ OpTime: Statically Reducing the Execution Time of Microbenchmark Suites Using Stability Metrics**|Nils Japke et.al.|[2501.12878](http://arxiv.org/abs/2501.12878)|null|
+|**2025-01-22**|**Open or Closed LLM for Lesser-Resourced Languages? Lessons from Greek**|John Pavlopoulos et.al.|[2501.12826](http://arxiv.org/abs/2501.12826)|null|
 |**2025-01-21**|**Learning segmentation from point trajectories**|Laurynas Karazija et.al.|[2501.12392](http://arxiv.org/abs/2501.12392)|null|
 |**2025-01-21**|**The doubly librating Plutinos**|Renu Malhotra et.al.|[2501.12345](http://arxiv.org/abs/2501.12345)|null|
 |**2025-01-21**|**CYCle: Choosing Your Collaborators Wisely to Enhance Collaborative Fairness in Decentralized Learning**|Nurbek Tastan et.al.|[2501.12344](http://arxiv.org/abs/2501.12344)|null|
@@ -2870,7 +2880,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-01-21**|**HAC++: Towards 100X Compression of 3D Gaussian Splatting**|Yihang Chen et.al.|[2501.12255](http://arxiv.org/abs/2501.12255)|**[link](https://github.com/yihangchen-ee/hac-plus)**|
+|**2025-01-22**|**CHaRNet: Conditioned Heatmap Regression for Robust Dental Landmark Localization**|José Rodríguez-Ortega et.al.|[2501.13073](http://arxiv.org/abs/2501.13073)|null|
+|**2025-01-22**|**MorphoSkel3D: Morphological Skeletonization of 3D Point Clouds for Informed Sampling in Object Classification and Retrieval**|Pierre Onghena et.al.|[2501.12974](http://arxiv.org/abs/2501.12974)|null|
+|**2025-01-22**|**Manifold learning and optimization using tangent space proxies**|Ryan A. Robinett et.al.|[2501.12678](http://arxiv.org/abs/2501.12678)|null|
+|**2025-01-22**|**HAC++: Towards 100X Compression of 3D Gaussian Splatting**|Yihang Chen et.al.|[2501.12255](http://arxiv.org/abs/2501.12255)|**[link](https://github.com/yihangchen-ee/hac-plus)**|
 |**2025-01-19**|**OpenLiDARMap: Zero-Drift Point Cloud Mapping using Map Priors**|Dominik Kulmer et.al.|[2501.11111](http://arxiv.org/abs/2501.11111)|null|
 |**2025-01-19**|**DC-PCN: Point Cloud Completion Network with Dual-Codebook Guided Quantization**|Qiuxia Wu et.al.|[2501.10966](http://arxiv.org/abs/2501.10966)|null|
 |**2025-01-18**|**CS-Net:Contribution-based Sampling Network for Point Cloud Simplification**|Tian Guo et.al.|[2501.10789](http://arxiv.org/abs/2501.10789)|null|
