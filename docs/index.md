@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-24**|**Limit theorems for the number of sign and level-set clusters of the Gaussian free field**|Michael McAuley et.al.|[2501.14707](http://arxiv.org/abs/2501.14707)|null|
+|**2025-01-24**|**NLP-based assessment of prescription appropriateness from Italian referrals**|Vittorio Torri et.al.|[2501.14701](http://arxiv.org/abs/2501.14701)|null|
+|**2025-01-24**|**Federated Domain Generalization with Data-free On-server Gradient Matching**|Trong-Binh Nguyen et.al.|[2501.14653](http://arxiv.org/abs/2501.14653)|null|
+|**2025-01-24**|**Whisper D-SGD: Correlated Noise Across Agents for Differentially Private Decentralized Learning**|Angelo Rodio et.al.|[2501.14644](http://arxiv.org/abs/2501.14644)|**[link](https://github.com/arodio/whisperdsgd)**|
+|**2025-01-24**|**A theoretical approach to density-split clustering**|Mathilde Pinon et.al.|[2501.14638](http://arxiv.org/abs/2501.14638)|null|
+|**2025-01-24**|**Single-neuron deep generative model uncovers underlying physics of neuronal activity in Ca imaging data**|Jordi Abante et.al.|[2501.14615](http://arxiv.org/abs/2501.14615)|null|
+|**2025-01-24**|**Giant Molecular Clouds in RCW 106 (G333): Galactic Mini-starbursts and Massive Star Formation Induced by Supersonic Cloud-Cloud Collisions**|Mikito Kohno et.al.|[2501.14575](http://arxiv.org/abs/2501.14575)|null|
+|**2025-01-24**|**A sandbox study proposal for private and distributed health data analysis**|Rickard Brännvall et.al.|[2501.14556](http://arxiv.org/abs/2501.14556)|null|
+|**2025-01-24**|**A Survey of Optimization Methods for Training DL Models: Theoretical Perspective on Convergence and Generalization**|Jing Wang et.al.|[2501.14458](http://arxiv.org/abs/2501.14458)|null|
+|**2025-01-24**|**Experimentally Evaluating the Resource Efficiency of Big Data Autoscaling**|Jonathan Will et.al.|[2501.14456](http://arxiv.org/abs/2501.14456)|null|
 |**2025-01-23**|**Consistent spectral clustering in sparse tensor block models**|Ian Välimaa et.al.|[2501.13820](http://arxiv.org/abs/2501.13820)|null|
 |**2025-01-23**|**By-Example Synthesis of Vector Textures**|Christopher Palazzolo et.al.|[2501.13812](http://arxiv.org/abs/2501.13812)|null|
 |**2025-01-23**|**Topic Modeling for Free-Response Text Data from a Complex Survey**|Namitha V. Pais et.al.|[2501.13777](http://arxiv.org/abs/2501.13777)|null|
@@ -2890,6 +2900,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-24**|**Towards Scalable Topological Regularizers**|Hiu-Tung Wong et.al.|[2501.14641](http://arxiv.org/abs/2501.14641)|null|
+|**2025-01-24**|**Optimal Transport Barycenter via Nonconvex-Concave Minimax Optimization**|Kaheon Kim et.al.|[2501.14635](http://arxiv.org/abs/2501.14635)|null|
+|**2025-01-24**|**LiDAR-Based Vehicle Detection and Tracking for Autonomous Racing**|Marcello Cellina et.al.|[2501.14502](http://arxiv.org/abs/2501.14502)|null|
+|**2025-01-24**|**Point Cloud Neural Operator for Parametric PDEs on Complex and Variable Geometries**|Chenyu Zeng et.al.|[2501.14475](http://arxiv.org/abs/2501.14475)|null|
+|**2025-01-24**|**Point-LN: A Lightweight Framework for Efficient Point Cloud Classification Using Non-Parametric Positional Encoding**|Marzieh Mohammadi et.al.|[2501.14238](http://arxiv.org/abs/2501.14238)|**[link](https://github.com/asalarpour/point_ln)**|
+|**2025-01-23**|**Implicit Neural Surface Deformation with Explicit Velocity Fields**|Lu Sang et.al.|[2501.14038](http://arxiv.org/abs/2501.14038)|**[link](https://github.com/sangluisme/implicit-surf-deformation)**|
+|**2025-01-23**|**ME-CPT: Multi-Task Enhanced Cross-Temporal Point Transformer for Urban 3D Change Detection**|Luqi Zhang et.al.|[2501.14004](http://arxiv.org/abs/2501.14004)|**[link](https://github.com/zhangluqi0209/me-cpt)**|
 |**2025-01-23**|**Point Cloud Surface Parametrization with HAND and LEG: Hausdorff Approximation from Node-wise Distances and Localized Energy for Geometry**|Ka Ho Lai et.al.|[2501.13737](http://arxiv.org/abs/2501.13737)|null|
 |**2025-01-23**|**MultiDreamer3D: Multi-concept 3D Customization with Concept-Aware Diffusion Guidance**|Wooseok Song et.al.|[2501.13449](http://arxiv.org/abs/2501.13449)|null|
 |**2025-01-23**|**From Images to Point Clouds: An Efficient Solution for Cross-media Blind Quality Assessment without Annotated Training**|Yipeng Liu et.al.|[2501.13387](http://arxiv.org/abs/2501.13387)|null|
