@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-27**|**Uncoded Download in Lagrange-Coded Elastic Computing with Straggler Tolerance**|Xi Zhong et.al.|[2501.16298](http://arxiv.org/abs/2501.16298)|null|
+|**2025-01-27**|**A Possible Mass Ratio and Spin-Orbit Misalignment Correlation for Mergers of Binary Black Holes in Nuclear Star Clusters**|Yubo Su et.al.|[2501.16258](http://arxiv.org/abs/2501.16258)|null|
+|**2025-01-27**|**SP-IMPact: A Framework for Static Partitioning Interference Mitigation and Performance Analysis**|Diogo Costa et.al.|[2501.16245](http://arxiv.org/abs/2501.16245)|null|
+|**2025-01-27**|**EPOCH: Enabling Preemption Operation for Context Saving in Heterogeneous FPGA Systems**|Arsalan Ali Malik et.al.|[2501.16205](http://arxiv.org/abs/2501.16205)|null|
+|**2025-01-27**|**Looking into the faintEst WIth MUSE (LEWIS): Exploring the nature of ultra-diffuse galaxies in the Hydra I cluster III. Untangling UDG 32 from the stripped filaments of NGC 3314A with multi-wavelength data**|J. Hartke et.al.|[2501.16192](http://arxiv.org/abs/2501.16192)|null|
+|**2025-01-27**|**Looking into the faintEst WIth MUSE (LEWIS): Exploring the nature of ultra-diffuse galaxies in the Hydra-I cluster II. Stellar kinematics and dynamical masses**|Chiara Buttitta et.al.|[2501.16190](http://arxiv.org/abs/2501.16190)|null|
+|**2025-01-27**|**Measuring Heterogeneity in Machine Learning with Distributed Energy Distance**|Mengchen Fan et.al.|[2501.16174](http://arxiv.org/abs/2501.16174)|null|
+|**2025-01-27**|**Ringmaster ASGD: The First Asynchronous SGD with Optimal Time Complexity**|Artavazd Maranjyan et.al.|[2501.16168](http://arxiv.org/abs/2501.16168)|null|
+|**2025-01-27**|**Optimized Self-supervised Training with BEST-RQ for Speech Recognition**|Ilja Baumann et.al.|[2501.16131](http://arxiv.org/abs/2501.16131)|null|
+|**2025-01-27**|**Fixed-sized clusters $k$ -Means**|Mikko I. Malinen et.al.|[2501.16113](http://arxiv.org/abs/2501.16113)|null|
 |**2025-01-24**|**Limit theorems for the number of sign and level-set clusters of the Gaussian free field**|Michael McAuley et.al.|[2501.14707](http://arxiv.org/abs/2501.14707)|null|
 |**2025-01-24**|**NLP-based assessment of prescription appropriateness from Italian referrals**|Vittorio Torri et.al.|[2501.14701](http://arxiv.org/abs/2501.14701)|null|
 |**2025-01-24**|**Federated Domain Generalization with Data-free On-server Gradient Matching**|Trong-Binh Nguyen et.al.|[2501.14653](http://arxiv.org/abs/2501.14653)|null|
@@ -2900,6 +2910,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-27**|**Multi-view Structural Convolution Network for Domain-Invariant Point Cloud Recognition of Autonomous Vehicles**|Younggun Kim et.al.|[2501.16289](http://arxiv.org/abs/2501.16289)|**[link](https://github.com/mlmlab/mscn)**|
+|**2025-01-27**|**Application of Structured State Space Models to High energy physics with locality-sensitive hashing**|Cheng Jiang et.al.|[2501.16237](http://arxiv.org/abs/2501.16237)|null|
+|**2025-01-27**|**INRet: A General Framework for Accurate Retrieval of INRs for Shapes**|Yushi Guan et.al.|[2501.15722](http://arxiv.org/abs/2501.15722)|null|
+|**2025-01-26**|**Differentiable Low-computation Global Correlation Loss for Monotonicity Evaluation in Quality Assessment**|Yipeng Liu et.al.|[2501.15485](http://arxiv.org/abs/2501.15485)|null|
+|**2025-01-25**|**Efficient Point Clouds Upsampling via Flow Matching**|Zhi-Song Liu et.al.|[2501.15286](http://arxiv.org/abs/2501.15286)|null|
+|**2025-01-24**|**Advances in Set Function Learning: A Survey of Techniques and Applications**|Jiahao Xie et.al.|[2501.14991](http://arxiv.org/abs/2501.14991)|null|
+|**2025-01-24**|**Glissando-Net: Deep sinGLe vIew category level poSe eStimation ANd 3D recOnstruction**|Bo Sun et.al.|[2501.14896](http://arxiv.org/abs/2501.14896)|null|
 |**2025-01-24**|**Towards Scalable Topological Regularizers**|Hiu-Tung Wong et.al.|[2501.14641](http://arxiv.org/abs/2501.14641)|null|
 |**2025-01-24**|**Optimal Transport Barycenter via Nonconvex-Concave Minimax Optimization**|Kaheon Kim et.al.|[2501.14635](http://arxiv.org/abs/2501.14635)|null|
 |**2025-01-24**|**LiDAR-Based Vehicle Detection and Tracking for Autonomous Racing**|Marcello Cellina et.al.|[2501.14502](http://arxiv.org/abs/2501.14502)|null|
