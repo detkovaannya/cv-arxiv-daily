@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-29**|**Multi-wavelength and Environmental Properties of Variability Selected Low Luminosity Active Galactic Nuclei**|Heechan Yuk et.al.|[2501.17844](http://arxiv.org/abs/2501.17844)|null|
+|**2025-01-29**|**An Incremental Multi-Level, Multi-Scale Approach to Assessment of Multifidelity HPC Systems**|Shilpika Shilpika et.al.|[2501.17796](http://arxiv.org/abs/2501.17796)|null|
+|**2025-01-29**|**Detecting Anomalies Using Rotated Isolation Forest**|Vahideh Monemizadeh et.al.|[2501.17787](http://arxiv.org/abs/2501.17787)|null|
+|**2025-01-29**|**A Matrix Optimization Method for Blind Extraction of External Equitable Partitions from Low Pass Graph Signals**|Wenshun Teng et.al.|[2501.17757](http://arxiv.org/abs/2501.17757)|null|
+|**2025-01-29**|**On the Partitioning of GPU Power among Multi-Instances**|Tirth Vamja et.al.|[2501.17752](http://arxiv.org/abs/2501.17752)|null|
+|**2025-01-29**|**Gateways for Institutional-Grade Commerce and Interoperability of Digital Assets**|Rafael Belchior et.al.|[2501.17732](http://arxiv.org/abs/2501.17732)|null|
+|**2025-01-29**|**Parsimonious Hawkes Processes for temporal networks modelling**|Yuwei Zhu et.al.|[2501.17720](http://arxiv.org/abs/2501.17720)|null|
+|**2025-01-29**|**Improved fixed-parameter bounds for Min-Sum-Radii and Diameters $k$ -clustering and their fair variants**|Sandip Banerjee et.al.|[2501.17708](http://arxiv.org/abs/2501.17708)|null|
+|**2025-01-29**|**Rotational Excitation of Vinyl Cyanide by Collisions with Helium Atoms at Low Temperature**|Karina Sogomonyan et.al.|[2501.17679](http://arxiv.org/abs/2501.17679)|null|
+|**2025-01-29**|**Cross-lingual Embedding Clustering for Hierarchical Softmax in Low-Resource Multilingual Speech Recognition**|Zhengdong Yang et.al.|[2501.17615](http://arxiv.org/abs/2501.17615)|null|
 |**2025-01-28**|**A novel inversion algorithm for weak gravitational lensing using quasi-conformal geometry**|Jan Jakob et.al.|[2501.17157](http://arxiv.org/abs/2501.17157)|null|
 |**2025-01-28**|**Reassessing the origin and evolution of Ecliptic Comets in the Planet-9 Scenario**|Rafael Ribeiro et.al.|[2501.17129](http://arxiv.org/abs/2501.17129)|null|
 |**2025-01-28**|**Unlocking Transparent Alignment Through Enhanced Inverse Constitutional AI for Principle Extraction**|Carl-Leander Henneking et.al.|[2501.17112](http://arxiv.org/abs/2501.17112)|null|
@@ -2926,9 +2936,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-29**|**SSF: Sparse Long-Range Scene Flow for Autonomous Driving**|Ajinkya Khoche et.al.|[2501.17821](http://arxiv.org/abs/2501.17821)|null|
+|**2025-01-29**|**FeatureGS: Eigenvalue-Feature Optimization in 3D Gaussian Splatting for Geometrically Accurate and Artifact-Reduced Reconstruction**|Miriam Jäger et.al.|[2501.17655](http://arxiv.org/abs/2501.17655)|null|
+|**2025-01-29**|**3DSES: an indoor Lidar point cloud segmentation dataset with real and pseudo-labels from a 3D model**|Maxime Mérizette et.al.|[2501.17534](http://arxiv.org/abs/2501.17534)|null|
+|**2025-01-28**|**MDDM: A Molecular Dynamics Diffusion Model to Predict Particle Self-Assembly**|Kevin Ferguson et.al.|[2501.17319](http://arxiv.org/abs/2501.17319)|null|
 |**2025-01-28**|**Evaluating CrowdSplat: Perceived Level of Detail for Gaussian Crowds**|Xiaohan Sun et.al.|[2501.17085](http://arxiv.org/abs/2501.17085)|null|
 |**2025-01-28**|**DINOSTAR: Deep Iterative Neural Object Detector Self-Supervised Training for Roadside LiDAR Applications**|Muhammad Shahbaz et.al.|[2501.17076](http://arxiv.org/abs/2501.17076)|null|
-|**2025-01-28**|**Synthesizing 3D Abstractions by Inverting Procedural Buildings with Transformers**|Max Dax et.al.|[2501.17044](http://arxiv.org/abs/2501.17044)|null|
+|**2025-01-29**|**Synthesizing 3D Abstractions by Inverting Procedural Buildings with Transformers**|Maximilian Dax et.al.|[2501.17044](http://arxiv.org/abs/2501.17044)|null|
 |**2025-01-28**|**SSF-PAN: Semantic Scene Flow-Based Perception for Autonomous Navigation in Traffic Scenarios**|Yinqi Chen et.al.|[2501.16754](http://arxiv.org/abs/2501.16754)|null|
 |**2025-01-28**|**Consistency Diffusion Models for Single-Image 3D Reconstruction with Priors**|Chenru Jiang et.al.|[2501.16737](http://arxiv.org/abs/2501.16737)|null|
 |**2025-01-28**|**Point Cloud Upsampling as Statistical Shape Model for Pelvic**|Tongxu Zhang et.al.|[2501.16716](http://arxiv.org/abs/2501.16716)|null|
