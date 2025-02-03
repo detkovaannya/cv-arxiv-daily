@@ -29,7 +29,7 @@
 |**2025-01-30**|**A Unified Perspective on the Dynamics of Deep Transformers**|Valérie Castin et.al.|[2501.18322](http://arxiv.org/abs/2501.18322)|null|
 |**2025-01-30**|**Knowledge in multi-robot systems: an interplay of dynamics, computation and communication**|Giorgio Cignarale et.al.|[2501.18309](http://arxiv.org/abs/2501.18309)|null|
 |**2025-01-29**|**Multi-wavelength and Environmental Properties of Variability Selected Low Luminosity Active Galactic Nuclei**|Heechan Yuk et.al.|[2501.17844](http://arxiv.org/abs/2501.17844)|null|
-|**2025-01-29**|**An Incremental Multi-Level, Multi-Scale Approach to Assessment of Multifidelity HPC Systems**|Shilpika Shilpika et.al.|[2501.17796](http://arxiv.org/abs/2501.17796)|null|
+|**2025-01-29**|**An Incremental Multi-Level, Multi-Scale Approach to Assessment of Multifidelity HPC Systems**|Shilpika Shilpika et.al.|[2501.17796](http://arxiv.org/abs/2501.17796)|**[link](https://github.com/sshilpika/incremental-mrdmd)**|
 |**2025-01-29**|**Detecting Anomalies Using Rotated Isolation Forest**|Vahideh Monemizadeh et.al.|[2501.17787](http://arxiv.org/abs/2501.17787)|null|
 |**2025-01-29**|**A Matrix Optimization Method for Blind Extraction of External Equitable Partitions from Low Pass Graph Signals**|Wenshun Teng et.al.|[2501.17757](http://arxiv.org/abs/2501.17757)|null|
 |**2025-01-29**|**On the Partitioning of GPU Power among Multi-Instances**|Tirth Vamja et.al.|[2501.17752](http://arxiv.org/abs/2501.17752)|null|
@@ -38,7 +38,7 @@
 |**2025-01-29**|**Improved fixed-parameter bounds for Min-Sum-Radii and Diameters $k$ -clustering and their fair variants**|Sandip Banerjee et.al.|[2501.17708](http://arxiv.org/abs/2501.17708)|null|
 |**2025-01-29**|**Rotational Excitation of Vinyl Cyanide by Collisions with Helium Atoms at Low Temperature**|Karina Sogomonyan et.al.|[2501.17679](http://arxiv.org/abs/2501.17679)|null|
 |**2025-01-29**|**Cross-lingual Embedding Clustering for Hierarchical Softmax in Low-Resource Multilingual Speech Recognition**|Zhengdong Yang et.al.|[2501.17615](http://arxiv.org/abs/2501.17615)|null|
-|**2025-01-28**|**A novel inversion algorithm for weak gravitational lensing using quasi-conformal geometry**|Jan Jakob et.al.|[2501.17157](http://arxiv.org/abs/2501.17157)|null|
+|**2025-01-28**|**A novel inversion algorithm for weak gravitational lensing using quasi-conformal geometry**|Jan Jakob et.al.|[2501.17157](http://arxiv.org/abs/2501.17157)|**[link](https://github.com/janjakob1/weak-lensing)**|
 |**2025-01-28**|**Reassessing the origin and evolution of Ecliptic Comets in the Planet-9 Scenario**|Rafael Ribeiro et.al.|[2501.17129](http://arxiv.org/abs/2501.17129)|null|
 |**2025-01-28**|**Unlocking Transparent Alignment Through Enhanced Inverse Constitutional AI for Principle Extraction**|Carl-Leander Henneking et.al.|[2501.17112](http://arxiv.org/abs/2501.17112)|null|
 |**2025-01-28**|**Discovery of metal-poor and distant pre-main sequence candidates in WLM with JWST**|V. M. Kalari et.al.|[2501.17097](http://arxiv.org/abs/2501.17097)|null|
@@ -67,7 +67,7 @@
 |**2025-01-24**|**Giant Molecular Clouds in RCW 106 (G333): Galactic Mini-starbursts and Massive Star Formation Induced by Supersonic Cloud-Cloud Collisions**|Mikito Kohno et.al.|[2501.14575](http://arxiv.org/abs/2501.14575)|null|
 |**2025-01-24**|**A sandbox study proposal for private and distributed health data analysis**|Rickard Brännvall et.al.|[2501.14556](http://arxiv.org/abs/2501.14556)|null|
 |**2025-01-24**|**A Survey of Optimization Methods for Training DL Models: Theoretical Perspective on Convergence and Generalization**|Jing Wang et.al.|[2501.14458](http://arxiv.org/abs/2501.14458)|null|
-|**2025-01-24**|**Experimentally Evaluating the Resource Efficiency of Big Data Autoscaling**|Jonathan Will et.al.|[2501.14456](http://arxiv.org/abs/2501.14456)|null|
+|**2025-01-24**|**Experimentally Evaluating the Resource Efficiency of Big Data Autoscaling**|Jonathan Will et.al.|[2501.14456](http://arxiv.org/abs/2501.14456)|**[link](https://github.com/dos-group/spark-autoscaling-evaluation)**|
 |**2025-01-23**|**Consistent spectral clustering in sparse tensor block models**|Ian Välimaa et.al.|[2501.13820](http://arxiv.org/abs/2501.13820)|null|
 |**2025-01-23**|**By-Example Synthesis of Vector Textures**|Christopher Palazzolo et.al.|[2501.13812](http://arxiv.org/abs/2501.13812)|null|
 |**2025-01-23**|**Topic Modeling for Free-Response Text Data from a Complex Survey**|Namitha V. Pais et.al.|[2501.13777](http://arxiv.org/abs/2501.13777)|null|
@@ -86,7 +86,7 @@
 |**2025-01-22**|**A Selective Homomorphic Encryption Approach for Faster Privacy-Preserving Federated Learning**|Abdulkadir Korkmaz et.al.|[2501.12911](http://arxiv.org/abs/2501.12911)|null|
 |**2025-01-22**|**Unified CNNs and transformers underlying learning mechanism reveals multi-head attention modus vivendi**|Ella Koresh et.al.|[2501.12900](http://arxiv.org/abs/2501.12900)|null|
 |**2025-01-22**|**Advanced deep architecture pruning using single filter performance**|Yarden Tzach et.al.|[2501.12880](http://arxiv.org/abs/2501.12880)|null|
-|**2025-01-22**|**$μ$ OpTime: Statically Reducing the Execution Time of Microbenchmark Suites Using Stability Metrics**|Nils Japke et.al.|[2501.12878](http://arxiv.org/abs/2501.12878)|null|
+|**2025-01-22**|**$μ$ OpTime: Statically Reducing the Execution Time of Microbenchmark Suites Using Stability Metrics**|Nils Japke et.al.|[2501.12878](http://arxiv.org/abs/2501.12878)|**[link](https://github.com/njapke/uoptime-replication-package)**|
 |**2025-01-22**|**Open or Closed LLM for Lesser-Resourced Languages? Lessons from Greek**|John Pavlopoulos et.al.|[2501.12826](http://arxiv.org/abs/2501.12826)|**[link](https://github.com/greek-nlp/benchmark)**|
 |**2025-01-21**|**Learning segmentation from point trajectories**|Laurynas Karazija et.al.|[2501.12392](http://arxiv.org/abs/2501.12392)|**[link](https://github.com/google-deepmind/tapnet)**|
 |**2025-01-21**|**The doubly librating Plutinos**|Renu Malhotra et.al.|[2501.12345](http://arxiv.org/abs/2501.12345)|null|
@@ -670,7 +670,7 @@
 |**2024-10-22**|**From bubbles to clusters: Multiple solutions to the Allen--Cahn system**|João Henrique de Andrade et.al.|[2410.17026](http://arxiv.org/abs/2410.17026)|null|
 |**2024-10-21**|**Origin of the metal-rich vs. metal-poor globular clusters dichotomies in the Milky Way: A sign of low black hole natal kicks**|Ali Rostami-Shirazi et.al.|[2410.16276](http://arxiv.org/abs/2410.16276)|null|
 |**2024-10-21**|**Random Spin Committee Approach For Smooth Interatomic Potentials**|Vlad Cărare et.al.|[2410.16252](http://arxiv.org/abs/2410.16252)|null|
-|**2024-10-21**|**Testing early physics solutions to the Hubble tension with CMB data**|Raphaël Kou et.al.|[2410.16185](http://arxiv.org/abs/2410.16185)|null|
+|**2024-10-21**|**Testing early physics solutions to the Hubble tension with CMB data**|Raphaël Kou et.al.|[2410.16185](http://arxiv.org/abs/2410.16185)|**[link](https://github.com/raphkou/camb)**|
 |**2024-10-21**|**AdChain: Decentralized Header Bidding**|Behkish Nassirzadeh et.al.|[2410.16141](http://arxiv.org/abs/2410.16141)|null|
 |**2024-10-21**|**MNIST-Nd: a set of naturalistic datasets to benchmark clustering across dimensions**|Polina Turishcheva et.al.|[2410.16124](http://arxiv.org/abs/2410.16124)|null|
 |**2024-10-21**|**Projective Quantum Eigensolver with Generalized Operators**|Dibyendu Mondal et.al.|[2410.16111](http://arxiv.org/abs/2410.16111)|null|
@@ -2970,7 +2970,7 @@
 |**2025-01-24**|**Towards Scalable Topological Regularizers**|Hiu-Tung Wong et.al.|[2501.14641](http://arxiv.org/abs/2501.14641)|null|
 |**2025-01-24**|**Optimal Transport Barycenter via Nonconvex-Concave Minimax Optimization**|Kaheon Kim et.al.|[2501.14635](http://arxiv.org/abs/2501.14635)|null|
 |**2025-01-24**|**LiDAR-Based Vehicle Detection and Tracking for Autonomous Racing**|Marcello Cellina et.al.|[2501.14502](http://arxiv.org/abs/2501.14502)|null|
-|**2025-01-24**|**Point Cloud Neural Operator for Parametric PDEs on Complex and Variable Geometries**|Chenyu Zeng et.al.|[2501.14475](http://arxiv.org/abs/2501.14475)|null|
+|**2025-01-24**|**Point Cloud Neural Operator for Parametric PDEs on Complex and Variable Geometries**|Chenyu Zeng et.al.|[2501.14475](http://arxiv.org/abs/2501.14475)|**[link](https://github.com/pku-cmegroup/neuraloperator)**|
 |**2025-01-24**|**Point-LN: A Lightweight Framework for Efficient Point Cloud Classification Using Non-Parametric Positional Encoding**|Marzieh Mohammadi et.al.|[2501.14238](http://arxiv.org/abs/2501.14238)|**[link](https://github.com/asalarpour/point_ln)**|
 |**2025-01-23**|**Implicit Neural Surface Deformation with Explicit Velocity Fields**|Lu Sang et.al.|[2501.14038](http://arxiv.org/abs/2501.14038)|**[link](https://github.com/sangluisme/implicit-surf-deformation)**|
 |**2025-01-23**|**ME-CPT: Multi-Task Enhanced Cross-Temporal Point Transformer for Urban 3D Change Detection**|Luqi Zhang et.al.|[2501.14004](http://arxiv.org/abs/2501.14004)|**[link](https://github.com/zhangluqi0209/me-cpt)**|
@@ -2984,7 +2984,7 @@
 |**2025-01-19**|**OpenLiDARMap: Zero-Drift Point Cloud Mapping using Map Priors**|Dominik Kulmer et.al.|[2501.11111](http://arxiv.org/abs/2501.11111)|null|
 |**2025-01-19**|**DC-PCN: Point Cloud Completion Network with Dual-Codebook Guided Quantization**|Qiuxia Wu et.al.|[2501.10966](http://arxiv.org/abs/2501.10966)|null|
 |**2025-01-18**|**CS-Net:Contribution-based Sampling Network for Point Cloud Simplification**|Tian Guo et.al.|[2501.10789](http://arxiv.org/abs/2501.10789)|null|
-|**2025-01-18**|**PB-NBV: Efficient Projection-Based Next-Best-View Planning Framework for Reconstruction of Unknown Objects**|Zhizhou Jia et.al.|[2501.10663](http://arxiv.org/abs/2501.10663)|null|
+|**2025-01-18**|**PB-NBV: Efficient Projection-Based Next-Best-View Planning Framework for Reconstruction of Unknown Objects**|Zhizhou Jia et.al.|[2501.10663](http://arxiv.org/abs/2501.10663)|**[link](https://github.com/dspangpang/pb_nbv)**|
 |**2025-01-17**|**The Geometry of Tokens in Internal Representations of Large Language Models**|Karthik Viswanathan et.al.|[2501.10573](http://arxiv.org/abs/2501.10573)|**[link](https://github.com/ritareasciencepark/token_geometry)**|
 |**2025-01-17**|**MutualForce: Mutual-Aware Enhancement for 4D Radar-LiDAR 3D Object Detection**|Xiangyuan Peng et.al.|[2501.10266](http://arxiv.org/abs/2501.10266)|null|
 |**2025-01-17**|**CLIP-PCQA: Exploring Subjective-Aligned Vision-Language Modeling for Point Cloud Quality Assessment**|Yating Liu et.al.|[2501.10071](http://arxiv.org/abs/2501.10071)|**[link](https://github.com/olivialyt/clip-pcqa)**|
@@ -4510,7 +4510,7 @@
 |**2024-01-01**|**ScatterFormer: Efficient Voxel Transformer with Scattered Linear Attention**|Chenhang He et.al.|[2401.00912](http://arxiv.org/abs/2401.00912)|**[link](https://github.com/skyhehe123/scatterformer)**|
 |**2024-01-01**|**Revisiting Nonlocal Self-Similarity from Continuous Representation**|Yisi Luo et.al.|[2401.00708](http://arxiv.org/abs/2401.00708)|null|
 |**2024-01-01**|**Point Cloud in the Air**|Yulin Shao et.al.|[2401.00658](http://arxiv.org/abs/2401.00658)|null|
-|**2023-12-31**|**AllSpark: a multimodal spatiotemporal general model**|Run Shao et.al.|[2401.00546](http://arxiv.org/abs/2401.00546)|null|
+|**2023-12-31**|**AllSpark: a multimodal spatiotemporal general model**|Run Shao et.al.|[2401.00546](http://arxiv.org/abs/2401.00546)|**[link](https://github.com/geox-lab/allspark)**|
 |**2023-12-31**|**Diff-PCR: Diffusion-Based Correspondence Searching in Doubly Stochastic Matrix Space for Point Cloud Registration**|Qianliang Wu et.al.|[2401.00436](http://arxiv.org/abs/2401.00436)|null|
 |**2023-12-29**|**Visual Point Cloud Forecasting enables Scalable Autonomous Driving**|Zetong Yang et.al.|[2312.17655](http://arxiv.org/abs/2312.17655)|**[link](https://github.com/opendrivelab/vidar)**|
 |**2023-12-29**|**P2M2-Net: Part-Aware Prompt-Guided Multimodal Point Cloud Completion**|Linlian Jiang et.al.|[2312.17611](http://arxiv.org/abs/2312.17611)|null|
