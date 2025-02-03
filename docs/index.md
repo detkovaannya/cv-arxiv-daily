@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-31**|**Ultrametric spaces and clouds**|I. N. Mikhailov et.al.|[2501.19346](http://arxiv.org/abs/2501.19346)|null|
+|**2025-01-31**|**S-VOTE: Similarity-based Voting for Client Selection in Decentralized Federated Learning**|Pedro Miguel Sánchez Sánchez et.al.|[2501.19279](http://arxiv.org/abs/2501.19279)|null|
+|**2025-01-31**|**Clustering in hyperbolic balls**|Vladimir Jaćimović et.al.|[2501.19247](http://arxiv.org/abs/2501.19247)|null|
+|**2025-01-31**|**Unveiling the largest structures in the nearby Universe: Discovery of the Quipu superstructure**|Hans Boehringer et.al.|[2501.19236](http://arxiv.org/abs/2501.19236)|null|
+|**2025-01-31**|**A Zero-Shot Generalization Framework for LLM-Driven Cross-Domain Sequential Recommendation**|Yunzhe Li et.al.|[2501.19232](http://arxiv.org/abs/2501.19232)|null|
+|**2025-01-31**|**The geography of inequalities in access to healthcare across England: the role of bus travel time variability**|Zihao Chen et.al.|[2501.19231](http://arxiv.org/abs/2501.19231)|null|
+|**2025-01-31**|**Integrating Semi-Supervised and Active Learning for Semantic Segmentation**|Wanli Ma et.al.|[2501.19227](http://arxiv.org/abs/2501.19227)|null|
+|**2025-01-31**|**FL-APU: A Software Architecture to Ease Practical Implementation of Cross-Silo Federated Learning**|F. Stricker et.al.|[2501.19091](http://arxiv.org/abs/2501.19091)|null|
+|**2025-01-31**|**A Bias-Correction Decentralized Stochastic Gradient Algorithm with Momentum Acceleration**|Yuchen Hu et.al.|[2501.19082](http://arxiv.org/abs/2501.19082)|null|
+|**2025-01-31**|**CPU vs. GPU for Community Detection: Performance Insights from GVE-Louvain and $ν$ -Louvain**|Subhajit Sahu et.al.|[2501.19004](http://arxiv.org/abs/2501.19004)|null|
 |**2025-01-30**|**Boosting galaxy clustering analyses with non-perturbative modelling of redshift-space distortions**|Alexander Eggemeier et.al.|[2501.18597](http://arxiv.org/abs/2501.18597)|null|
 |**2025-01-30**|**Prediction-Powered Inference with Imputed Covariates and Nonuniform Sampling**|Dan M. Kluger et.al.|[2501.18577](http://arxiv.org/abs/2501.18577)|**[link](https://github.com/DanKluger/Predict-Then-Debias_Bootstrap)**|
 |**2025-01-30**|**A Hybrid Data-Driven Approach For Analyzing And Predicting Inpatient Length Of Stay In Health Centre**|Tasfia Noor Chowdhury et.al.|[2501.18535](http://arxiv.org/abs/2501.18535)|null|
@@ -2940,6 +2950,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-31**|**LiDAR Loop Closure Detection using Semantic Graphs with Graph Attention Networks**|Liudi Yang et.al.|[2501.19382](http://arxiv.org/abs/2501.19382)|**[link](https://github.com/crepuscularlight/semanticloopclosure)**|
+|**2025-01-31**|**Imagine with the Teacher: Complete Shape in a Multi-View Distillation Way**|Zhanpeng Luo et.al.|[2501.19270](http://arxiv.org/abs/2501.19270)|null|
+|**2025-01-31**|**RIGNO: A Graph-based framework for robust and accurate operator learning for PDEs on arbitrary domains**|Sepehr Mousavi et.al.|[2501.19205](http://arxiv.org/abs/2501.19205)|**[link](https://github.com/camlab-ethz/rigno)**|
+|**2025-01-30**|**OT-Transformer: A Continuous-time Transformer Architecture with Optimal Transport Regularization**|Kelvin Kan et.al.|[2501.18793](http://arxiv.org/abs/2501.18793)|null|
+|**2025-01-30**|**Unpaired Translation of Point Clouds for Modeling Detector Response**|Mingyang Li et.al.|[2501.18674](http://arxiv.org/abs/2501.18674)|null|
 |**2025-01-30**|**Foundational Models for 3D Point Clouds: A Survey and Outlook**|Vishal Thengane et.al.|[2501.18594](http://arxiv.org/abs/2501.18594)|null|
 |**2025-01-30**|**Surface Defect Identification using Bayesian Filtering on a 3D Mesh**|Matteo Dalle Vedove et.al.|[2501.18315](http://arxiv.org/abs/2501.18315)|null|
 |**2025-01-30**|**Ground Awareness in Deep Learning for Large Outdoor Point Cloud Segmentation**|Kevin Qiu et.al.|[2501.18246](http://arxiv.org/abs/2501.18246)|null|
