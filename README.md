@@ -2960,7 +2960,7 @@
 |**2025-01-31**|**Imagine with the Teacher: Complete Shape in a Multi-View Distillation Way**|Zhanpeng Luo et.al.|[2501.19270](http://arxiv.org/abs/2501.19270)|null|
 |**2025-01-31**|**RIGNO: A Graph-based framework for robust and accurate operator learning for PDEs on arbitrary domains**|Sepehr Mousavi et.al.|[2501.19205](http://arxiv.org/abs/2501.19205)|**[link](https://github.com/camlab-ethz/rigno)**|
 |**2025-01-30**|**OT-Transformer: A Continuous-time Transformer Architecture with Optimal Transport Regularization**|Kelvin Kan et.al.|[2501.18793](http://arxiv.org/abs/2501.18793)|null|
-|**2025-01-30**|**Unpaired Translation of Point Clouds for Modeling Detector Response**|Mingyang Li et.al.|[2501.18674](http://arxiv.org/abs/2501.18674)|null|
+|**2025-01-30**|**Unpaired Translation of Point Clouds for Modeling Detector Response**|Mingyang Li et.al.|[2501.18674](http://arxiv.org/abs/2501.18674)|**[link](https://github.com/alpha-davidson/attpc_unpaired_trans)**|
 |**2025-01-30**|**Foundational Models for 3D Point Clouds: A Survey and Outlook**|Vishal Thengane et.al.|[2501.18594](http://arxiv.org/abs/2501.18594)|null|
 |**2025-01-30**|**Surface Defect Identification using Bayesian Filtering on a 3D Mesh**|Matteo Dalle Vedove et.al.|[2501.18315](http://arxiv.org/abs/2501.18315)|null|
 |**2025-01-30**|**Ground Awareness in Deep Learning for Large Outdoor Point Cloud Segmentation**|Kevin Qiu et.al.|[2501.18246](http://arxiv.org/abs/2501.18246)|null|
