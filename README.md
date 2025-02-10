@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-07**|**Relationship between 2D and 3D Galaxy Stellar Mass and Correlations with Halo Mass**|Conghao Zhou et.al.|[2502.05158](http://arxiv.org/abs/2502.05158)|null|
+|**2025-02-07**|**A Randomised Approach to Distributed Sorting**|Sam Olesker-Taylor et.al.|[2502.05082](http://arxiv.org/abs/2502.05082)|null|
+|**2025-02-07**|**Computing and Learning on Combinatorial Data**|Simon Zhang et.al.|[2502.05063](http://arxiv.org/abs/2502.05063)|null|
+|**2025-02-07**|**EcoServe: Designing Carbon-Aware AI Inference Systems**|Yueying et.al.|[2502.05043](http://arxiv.org/abs/2502.05043)|null|
+|**2025-02-07**|**Federated Learning for Anomaly Detection in Energy Consumption Data: Assessing the Vulnerability to Adversarial Attacks**|Yohannis Kifle Telila et.al.|[2502.05041](http://arxiv.org/abs/2502.05041)|null|
+|**2025-02-07**|**Bridging Voting and Deliberation with Algorithms: Field Insights from vTaiwan and Kultur Komitee**|Joshua C. Yang et.al.|[2502.05017](http://arxiv.org/abs/2502.05017)|null|
+|**2025-02-07**|**Clusters of tribocharged dust aggregates as pebbles in protoplanetary disks**|F. C. Onyeagusi et.al.|[2502.04926](http://arxiv.org/abs/2502.04926)|null|
+|**2025-02-07**|**The head-tail radio galaxy and revived fossil plasma in Abell 1775**|A. Bushi et.al.|[2502.04913](http://arxiv.org/abs/2502.04913)|null|
+|**2025-02-07**|**A streamlined hybrid method for the measurement of absolute photodetachment and photodissociation cross-sections**|Salvi Mohandas et.al.|[2502.04893](http://arxiv.org/abs/2502.04893)|null|
+|**2025-02-07**|**Optimisation of ATLAS computing resource usage through a modern HEP Benchmark Suite via HammerCloud and Big PanDA**|Natalia Szczepanek et.al.|[2502.04853](http://arxiv.org/abs/2502.04853)|null|
 |**2025-02-06**|**ChamaleonLLM: Batch-Aware Dynamic Low-Rank Adaptation via Inference-Time Clusters**|Kamer Ali Yuksel et.al.|[2502.04315](http://arxiv.org/abs/2502.04315)|null|
 |**2025-02-06**|**FedOptimus: Optimizing Vertical Federated Learning for Scalability and Efficiency**|Nikita Shrivastava et.al.|[2502.04243](http://arxiv.org/abs/2502.04243)|null|
 |**2025-02-06**|**Keep It Light! Simplifying Image Clustering Via Text-Free Adapters**|Yicen Li et.al.|[2502.04226](http://arxiv.org/abs/2502.04226)|null|
@@ -2986,6 +2996,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-07**|**DetVPCC: RoI-based Point Cloud Sequence Compression for 3D Object Detection**|Mingxuan Yan et.al.|[2502.04804](http://arxiv.org/abs/2502.04804)|null|
+|**2025-02-07**|**Autoregressive Generation of Static and Growing Trees**|Hanxiao Wang et.al.|[2502.04762](http://arxiv.org/abs/2502.04762)|null|
+|**2025-02-07**|**AIQViT: Architecture-Informed Post-Training Quantization for Vision Transformers**|Runqing Jiang et.al.|[2502.04628](http://arxiv.org/abs/2502.04628)|null|
+|**2025-02-07**|**Neural Clustering for Prefractured Mesh Generation in Real-time Object Destruction**|Seunghwan Kim et.al.|[2502.04615](http://arxiv.org/abs/2502.04615)|null|
 |**2025-02-06**|**Factorized Implicit Global Convolution for Automotive Computational Fluid Dynamics Prediction**|Chris Choy et.al.|[2502.04317](http://arxiv.org/abs/2502.04317)|null|
 |**2025-02-06**|**Adaptive Margin Contrastive Learning for Ambiguity-aware 3D Semantic Segmentation**|Yang Chen et.al.|[2502.04111](http://arxiv.org/abs/2502.04111)|null|
 |**2025-02-06**|**LeAP: Consistent multi-domain 3D labeling using Foundation Models**|Simon Gebraad et.al.|[2502.03901](http://arxiv.org/abs/2502.03901)|null|
