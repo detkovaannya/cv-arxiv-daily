@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-10**|**Distributed Constraint-Coupled Optimization: Harnessing ADMM-consensus for robustness**|Mohamed Abdelmouamin Messilem et.al.|[2502.06763](http://arxiv.org/abs/2502.06763)|null|
+|**2025-02-10**|**A switching identity for cable-graph loop soups and Gaussian free fields**|Wendelin Werner et.al.|[2502.06754](http://arxiv.org/abs/2502.06754)|null|
+|**2025-02-10**|**Spatial Pattern Formation in Eco-Evolutionary Games with Environment-Driven Motion**|Tianyong Yao et.al.|[2502.06723](http://arxiv.org/abs/2502.06723)|null|
+|**2025-02-10**|**The 2021 Tokyo Olympics Multilingual News Article Dataset**|Erik Novak et.al.|[2502.06648](http://arxiv.org/abs/2502.06648)|null|
+|**2025-02-10**|**MoETuner: Optimized Mixture of Expert Serving with Balanced Expert Placement and Token Routing**|Seokjin Go et.al.|[2502.06643](http://arxiv.org/abs/2502.06643)|null|
+|**2025-02-10**|**Formation of ultracold triatomic molecules by electric microwave association**|Baraa Shammout et.al.|[2502.06590](http://arxiv.org/abs/2502.06590)|null|
+|**2025-02-10**|**evclust: Python library for evidential clustering**|Armel Soubeiga et.al.|[2502.06587](http://arxiv.org/abs/2502.06587)|null|
+|**2025-02-10**|**Generalized exchange cluster algorithm to compute efficiently covariances and susceptibilities in Monte Carlo**|Assaraf Roland et.al.|[2502.06578](http://arxiv.org/abs/2502.06578)|null|
+|**2025-02-10**|**Hamiltonian formulations of centroid-based clustering**|Myeonghwan Seong et.al.|[2502.06542](http://arxiv.org/abs/2502.06542)|null|
+|**2025-02-10**|**Decentralizing Trust: Consortium Blockchains and Hyperledger Fabric Explained**|Angelo Vera-Rivera et.al.|[2502.06540](http://arxiv.org/abs/2502.06540)|null|
 |**2025-02-07**|**Relationship between 2D and 3D Galaxy Stellar Mass and Correlations with Halo Mass**|Conghao Zhou et.al.|[2502.05158](http://arxiv.org/abs/2502.05158)|null|
 |**2025-02-07**|**A Randomised Approach to Distributed Sorting**|Sam Olesker-Taylor et.al.|[2502.05082](http://arxiv.org/abs/2502.05082)|null|
 |**2025-02-07**|**Computing and Learning on Combinatorial Data**|Simon Zhang et.al.|[2502.05063](http://arxiv.org/abs/2502.05063)|null|
@@ -2996,6 +3006,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-10**|**Unsupervised Learning for Feature Extraction and Temporal Alignment of 3D+t Point Clouds of Zebrafish Embryos**|Zhu Chen et.al.|[2502.06543](http://arxiv.org/abs/2502.06543)|null|
+|**2025-02-10**|**Physically-Based Mesh Generation for Confined 3D Point Clouds Using Flexible Foil Models**|Netzer Moriya et.al.|[2502.06541](http://arxiv.org/abs/2502.06541)|null|
+|**2025-02-10**|**DefTransNet: A Transformer-based Method for Non-Rigid Point Cloud Registration in the Simulation of Soft Tissue Deformation**|Sara Monji-Azad et.al.|[2502.06336](http://arxiv.org/abs/2502.06336)|null|
+|**2025-02-10**|**Unsupervised deep learning for semantic segmentation of multispectral LiDAR forest point clouds**|Lassi Ruoppa et.al.|[2502.06227](http://arxiv.org/abs/2502.06227)|null|
+|**2025-02-10**|**Real-Time LiDAR Point Cloud Compression and Transmission for Resource-constrained Robots**|Yuhao Cao et.al.|[2502.06123](http://arxiv.org/abs/2502.06123)|null|
+|**2025-02-10**|**A Novel Multi-Teacher Knowledge Distillation for Real-Time Object Detection using 4D Radar**|Seung-Hyun Song et.al.|[2502.06114](http://arxiv.org/abs/2502.06114)|null|
+|**2025-02-09**|**Neural Shortest Path for Surface Reconstruction from Point Clouds**|Yesom Park et.al.|[2502.06047](http://arxiv.org/abs/2502.06047)|null|
+|**2025-02-09**|**A 3D Multimodal Feature for Infrastructure Anomaly Detection**|Yixiong Jing et.al.|[2502.05779](http://arxiv.org/abs/2502.05779)|null|
+|**2025-02-08**|**4DR P2T: 4D Radar Tensor Synthesis with Point Clouds**|Woo-Jin Jung et.al.|[2502.05550](http://arxiv.org/abs/2502.05550)|null|
 |**2025-02-07**|**DetVPCC: RoI-based Point Cloud Sequence Compression for 3D Object Detection**|Mingxuan Yan et.al.|[2502.04804](http://arxiv.org/abs/2502.04804)|null|
 |**2025-02-07**|**Autoregressive Generation of Static and Growing Trees**|Hanxiao Wang et.al.|[2502.04762](http://arxiv.org/abs/2502.04762)|null|
 |**2025-02-07**|**AIQViT: Architecture-Informed Post-Training Quantization for Vision Transformers**|Runqing Jiang et.al.|[2502.04628](http://arxiv.org/abs/2502.04628)|null|
