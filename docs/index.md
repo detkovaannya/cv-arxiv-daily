@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-11**|**A Flag Decomposition for Hierarchical Datasets**|Nathan Mankovich et.al.|[2502.07782](http://arxiv.org/abs/2502.07782)|null|
+|**2025-02-11**|**Geometric Interpretations of the $k$ -Nearest Neighbour Distributions**|Kwanit Gangopadhyay et.al.|[2502.07713](http://arxiv.org/abs/2502.07713)|null|
+|**2025-02-11**|**Coresets for Robust Clustering via Black-box Reductions to Vanilla Case**|Shaofeng H. -C. Jiang et.al.|[2502.07669](http://arxiv.org/abs/2502.07669)|null|
+|**2025-02-11**|**Exploring the mysterious high-ionization source powering [Ne V] in high-z analog SBS0335-052 E with JWST/MIRI**|Matilde Mingozzi et.al.|[2502.07662](http://arxiv.org/abs/2502.07662)|null|
+|**2025-02-11**|**IU4Rec: Interest Unit-Based Product Organization and Recommendation for E-Commerce Platform**|Wenhao Wu et.al.|[2502.07658](http://arxiv.org/abs/2502.07658)|null|
+|**2025-02-11**|**Robust-Sorting and Applications to Ulam-Median**|Ragesh Jaiswal et.al.|[2502.07653](http://arxiv.org/abs/2502.07653)|null|
+|**2025-02-11**|**Response rate estimation in single-stage basket trials: A comparison of estimators that allow for borrowing across cohorts**|Antonios Daletzakis et.al.|[2502.07639](http://arxiv.org/abs/2502.07639)|null|
+|**2025-02-11**|**The impact of hole $g$ -factor anisotropy on spin-photon entanglement generation with InGaAs quantum dots**|P. R. Ramesh et.al.|[2502.07627](http://arxiv.org/abs/2502.07627)|null|
+|**2025-02-11**|**Intraday order transition dynamics in high, medium, and low market cap stocks: A Markov chain approach**|S. R. Luwang et.al.|[2502.07625](http://arxiv.org/abs/2502.07625)|null|
+|**2025-02-11**|**Assessment of non-intrusive sensing in wall-bounded turbulence through explainable deep learning**|A. Cremades et.al.|[2502.07610](http://arxiv.org/abs/2502.07610)|null|
 |**2025-02-10**|**Distributed Constraint-Coupled Optimization: Harnessing ADMM-consensus for robustness**|Mohamed Abdelmouamin Messilem et.al.|[2502.06763](http://arxiv.org/abs/2502.06763)|null|
 |**2025-02-10**|**A switching identity for cable-graph loop soups and Gaussian free fields**|Wendelin Werner et.al.|[2502.06754](http://arxiv.org/abs/2502.06754)|null|
 |**2025-02-10**|**Spatial Pattern Formation in Eco-Evolutionary Games with Environment-Driven Motion**|Tianyong Yao et.al.|[2502.06723](http://arxiv.org/abs/2502.06723)|null|
@@ -3000,6 +3010,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-11**|**HiPoNet: A Topology-Preserving Multi-View Neural Network For High Dimensional Point Cloud and Single-Cell Data**|Siddharth Viswanath et.al.|[2502.07746](http://arxiv.org/abs/2502.07746)|null|
+|**2025-02-11**|**GaRLIO: Gravity enhanced Radar-LiDAR-Inertial Odometry**|Chiyun Noh et.al.|[2502.07703](http://arxiv.org/abs/2502.07703)|null|
+|**2025-02-11**|**Multiview Point Cloud Registration Based on Minimum Potential Energy for Free-Form Blade Measurement**|Zijie Wu et.al.|[2502.07680](http://arxiv.org/abs/2502.07680)|null|
+|**2025-02-11**|**Efficient Continuous Group Convolutions for Local SE(3) Equivariance in 3D Point Clouds**|Lisa Weijler et.al.|[2502.07505](http://arxiv.org/abs/2502.07505)|null|
+|**2025-02-11**|**Automated Road Extraction and Centreline Fitting in LiDAR Point Clouds**|Xinyu Wang et.al.|[2502.07486](http://arxiv.org/abs/2502.07486)|null|
+|**2025-02-11**|**Extended monocular 3D imaging**|Zicheng Shen et.al.|[2502.07403](http://arxiv.org/abs/2502.07403)|null|
+|**2025-02-11**|**Diffusion Suction Grasping with Large-Scale Parcel Dataset**|Ding-Tao Huang et.al.|[2502.07238](http://arxiv.org/abs/2502.07238)|null|
+|**2025-02-11**|**Mesh2SSM++: A Probabilistic Framework for Unsupervised Learning of Statistical Shape Model of Anatomies from Surface Meshes**|Krithika Iyer et.al.|[2502.07145](http://arxiv.org/abs/2502.07145)|null|
+|**2025-02-10**|**Data Warehouse Design for Multiple Source Forest Inventory Management and Image Processing**|Kristina Cormier et.al.|[2502.07015](http://arxiv.org/abs/2502.07015)|null|
 |**2025-02-10**|**Unsupervised Learning for Feature Extraction and Temporal Alignment of 3D+t Point Clouds of Zebrafish Embryos**|Zhu Chen et.al.|[2502.06543](http://arxiv.org/abs/2502.06543)|null|
 |**2025-02-10**|**Physically-Based Mesh Generation for Confined 3D Point Clouds Using Flexible Foil Models**|Netzer Moriya et.al.|[2502.06541](http://arxiv.org/abs/2502.06541)|null|
 |**2025-02-10**|**DefTransNet: A Transformer-based Method for Non-Rigid Point Cloud Registration in the Simulation of Soft Tissue Deformation**|Sara Monji-Azad et.al.|[2502.06336](http://arxiv.org/abs/2502.06336)|null|
