@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-12**|**Directly Imaging the Cooling Flow in the Phoenix Cluster**|Michael Reefe et.al.|[2502.08619](http://arxiv.org/abs/2502.08619)|null|
+|**2025-02-12**|**Nanoscale Mapping of Magnetic Orientations with Complex X-ray Magnetic Linear Dichroism**|Marina Raboni Ferreira et.al.|[2502.08617](http://arxiv.org/abs/2502.08617)|null|
+|**2025-02-12**|**Copula-based mixture model identification for subgroup clustering with imaging applications**|Fei Zheng et.al.|[2502.08549](http://arxiv.org/abs/2502.08549)|null|
+|**2025-02-12**|**FedMHO: Heterogeneous One-Shot Federated Learning Towards Resource-Constrained Edge Devices**|Dezhong Yao et.al.|[2502.08518](http://arxiv.org/abs/2502.08518)|null|
+|**2025-02-12**|**The Paradox of Stochasticity: Limited Creativity and Computational Decoupling in Temperature-Varied LLM Outputs of Structured Fictional Data**|Evgenii Evstafev et.al.|[2502.08515](http://arxiv.org/abs/2502.08515)|null|
+|**2025-02-12**|**Referring Remote Sensing Image Segmentation via Bidirectional Alignment Guided Joint Prediction**|Tianxiang Zhang et.al.|[2502.08486](http://arxiv.org/abs/2502.08486)|null|
+|**2025-02-12**|**Morpheus Consensus: Excelling on trails and autobahns**|Andrew Lewis-Pye et.al.|[2502.08465](http://arxiv.org/abs/2502.08465)|null|
+|**2025-02-12**|**Analysis of the weak lensing mass-richness relation of redMaPPer clusters in the LSST DESC DC2 simulations**|Constantin Payerne et.al.|[2502.08444](http://arxiv.org/abs/2502.08444)|null|
+|**2025-02-12**|**Solving Large-Scale Two-Echelon Location Routing Problems in City Logistics**|Banu Ulusoy Dereli et.al.|[2502.08403](http://arxiv.org/abs/2502.08403)|null|
+|**2025-02-12**|**Ferromagnetic Resonance in a Magnetically Dilute Percolating Ferromagnet: An Experimental and Theoretical Study**|Y. K. Edathumkandy et.al.|[2502.08399](http://arxiv.org/abs/2502.08399)|null|
 |**2025-02-11**|**A Flag Decomposition for Hierarchical Datasets**|Nathan Mankovich et.al.|[2502.07782](http://arxiv.org/abs/2502.07782)|null|
 |**2025-02-11**|**Geometric Interpretations of the $k$ -Nearest Neighbour Distributions**|Kwanit Gangopadhyay et.al.|[2502.07713](http://arxiv.org/abs/2502.07713)|null|
 |**2025-02-11**|**Coresets for Robust Clustering via Black-box Reductions to Vanilla Case**|Shaofeng H. -C. Jiang et.al.|[2502.07669](http://arxiv.org/abs/2502.07669)|null|
@@ -3010,6 +3020,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-12**|**Checkerboard Target Measurement in Unordered Point Clouds with Coloured ICP**|June Moh Goo et.al.|[2502.08525](http://arxiv.org/abs/2502.08525)|null|
+|**2025-02-12**|**Revisiting 3D LLM Benchmarks: Are We Really Testing 3D Capabilities?**|Jiahe Jin et.al.|[2502.08503](http://arxiv.org/abs/2502.08503)|null|
+|**2025-02-12**|**CordViP: Correspondence-based Visuomotor Policy for Dexterous Manipulation in Real-World**|Yankai Fu et.al.|[2502.08449](http://arxiv.org/abs/2502.08449)|null|
+|**2025-02-12**|**Fully-Geometric Cross-Attention for Point Cloud Registration**|Weijie Wang et.al.|[2502.08285](http://arxiv.org/abs/2502.08285)|null|
+|**2025-02-12**|**COMBO-Grasp: Learning Constraint-Based Manipulation for Bimanual Occluded Grasping**|Jun Yamada et.al.|[2502.08054](http://arxiv.org/abs/2502.08054)|null|
+|**2025-02-11**|**ESPFormer: Doubly-Stochastic Attention with Expected Sliced Transport Plans**|Ashkan Shahbazi et.al.|[2502.07962](http://arxiv.org/abs/2502.07962)|null|
 |**2025-02-11**|**HiPoNet: A Topology-Preserving Multi-View Neural Network For High Dimensional Point Cloud and Single-Cell Data**|Siddharth Viswanath et.al.|[2502.07746](http://arxiv.org/abs/2502.07746)|null|
 |**2025-02-11**|**GaRLIO: Gravity enhanced Radar-LiDAR-Inertial Odometry**|Chiyun Noh et.al.|[2502.07703](http://arxiv.org/abs/2502.07703)|null|
 |**2025-02-11**|**Multiview Point Cloud Registration Based on Minimum Potential Energy for Free-Form Blade Measurement**|Zijie Wu et.al.|[2502.07680](http://arxiv.org/abs/2502.07680)|null|
