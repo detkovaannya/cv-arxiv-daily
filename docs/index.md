@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-18**|**No Evidence of Asymmetrically Enhanced Star Formation in Infalling Galaxies in UNIONS**|Lauren M. Foster et.al.|[2502.13123](http://arxiv.org/abs/2502.13123)|null|
+|**2025-02-18**|**HARP: A Taxonomy for Heterogeneous and Hierarchical Processors for Mixed-reuse Workloads**|Raveesh Garg et.al.|[2502.13113](http://arxiv.org/abs/2502.13113)|null|
+|**2025-02-18**|**$k$ -Graph: A Graph Embedding for Interpretable Time Series Clustering**|Paul Boniol et.al.|[2502.13049](http://arxiv.org/abs/2502.13049)|null|
+|**2025-02-18**|**Agentic Deep Graph Reasoning Yields Self-Organizing Knowledge Networks**|Markus J. Buehler et.al.|[2502.13025](http://arxiv.org/abs/2502.13025)|null|
+|**2025-02-18**|**Edge-Colored Clustering in Hypergraphs: Beyond Minimizing Unsatisfied Edges**|Alex Crane et.al.|[2502.13000](http://arxiv.org/abs/2502.13000)|null|
+|**2025-02-18**|**Approximate Tree Completion and Learning-Augmented Algorithms for Metric Minimum Spanning Trees**|Nate Veldt et.al.|[2502.12993](http://arxiv.org/abs/2502.12993)|null|
+|**2025-02-18**|**The Early Days of the Ethereum Blob Fee Market and Lessons Learnt**|Lioba Heimbach et.al.|[2502.12966](http://arxiv.org/abs/2502.12966)|null|
+|**2025-02-18**|**Moving to ICSC: synergy between PNRR projects for more powerful Data Centers: a case study**|Fabio Ragosta et.al.|[2502.12938](http://arxiv.org/abs/2502.12938)|null|
+|**2025-02-18**|**Contrast-Unity for Partially-Supervised Temporal Sentence Grounding**|Haicheng Wang et.al.|[2502.12917](http://arxiv.org/abs/2502.12917)|null|
+|**2025-02-18**|**Selection Function of Clusters in Dark Energy Survey Year 3 Data from Cross-Matching with South Pole Telescope Detections**|S. Grandis et.al.|[2502.12914](http://arxiv.org/abs/2502.12914)|null|
 |**2025-02-17**|**Hypernym Bias: Unraveling Deep Classifier Training Dynamics through the Lens of Class Hierarchy**|Roman Malashin et.al.|[2502.12125](http://arxiv.org/abs/2502.12125)|null|
 |**2025-02-17**|**Crime in Proportions: Applying Compositional Data Analysis to European Crime Trends for 2022**|Onur Batın Doğan et.al.|[2502.12099](http://arxiv.org/abs/2502.12099)|null|
 |**2025-02-17**|**JADES: Average Nitrogen Enhancement in High-Redshift Broad-Line Active Galactic Nuclei**|Yuki Isobe et.al.|[2502.12091](http://arxiv.org/abs/2502.12091)|null|
@@ -3050,6 +3060,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-18**|**Enhancing Power Grid Inspections with Machine Learning**|Diogo Lavado et.al.|[2502.13037](http://arxiv.org/abs/2502.13037)|null|
+|**2025-02-18**|**CAST: Component-Aligned 3D Scene Reconstruction from an RGB Image**|Kaixin Yao et.al.|[2502.12894](http://arxiv.org/abs/2502.12894)|null|
+|**2025-02-18**|**An Experimental Study of SOTA LiDAR Segmentation Models**|Bike Chen et.al.|[2502.12860](http://arxiv.org/abs/2502.12860)|null|
+|**2025-02-18**|**Beyond Timesteps: A Novel Activation-wise Membrane Potential Propagation Mechanism for Spiking Neural Networks in 3D cloud**|Jian Song et.al.|[2502.12791](http://arxiv.org/abs/2502.12791)|null|
+|**2025-02-18**|**RadSplatter: Extending 3D Gaussian Splatting to Radio Frequencies for Wireless Radiomap Extrapolation**|Yiheng Wang et.al.|[2502.12686](http://arxiv.org/abs/2502.12686)|null|
+|**2025-02-18**|**NoKSR: Kernel-Free Neural Surface Reconstruction via Point Cloud Serialization**|Zhen Li et.al.|[2502.12534](http://arxiv.org/abs/2502.12534)|null|
+|**2025-02-18**|**Not-So-Optimal Transport Flows for 3D Point Cloud Generation**|Ka-Hei Hui et.al.|[2502.12456](http://arxiv.org/abs/2502.12456)|null|
+|**2025-02-17**|**Towards Fusing Point Cloud and Visual Representations for Imitation Learning**|Atalay Donat et.al.|[2502.12320](http://arxiv.org/abs/2502.12320)|null|
 |**2025-02-17**|**Range and Bird's Eye View Fused Cross-Modal Visual Place Recognition**|Jianyi Peng et.al.|[2502.11742](http://arxiv.org/abs/2502.11742)|null|
 |**2025-02-17**|**No-reference geometry quality assessment for colorless point clouds via list-wise rank learning**|Zheng Li et.al.|[2502.11726](http://arxiv.org/abs/2502.11726)|null|
 |**2025-02-17**|**The Worse The Better: Content-Aware Viewpoint Generation Network for Projection-related Point Cloud Quality Assessment**|Zhiyong Su et.al.|[2502.11710](http://arxiv.org/abs/2502.11710)|null|
