@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-19**|**Autellix: An Efficient Serving Engine for LLM Agents as General Programs**|Michael Luo et.al.|[2502.13965](http://arxiv.org/abs/2502.13965)|null|
+|**2025-02-19**|**GroundCap: A Visually Grounded Image Captioning Dataset**|Daniel A. P. Oliveira et.al.|[2502.13898](http://arxiv.org/abs/2502.13898)|null|
+|**2025-02-19**|**Hierarchical accretion flow from the G351 infrared dark filament to its central cores**|H. Beuther et.al.|[2502.13866](http://arxiv.org/abs/2502.13866)|null|
+|**2025-02-19**|**Performance Comparison of Graph Representations Which Support Dynamic Graph Updates**|Subhajit Sahu et.al.|[2502.13862](http://arxiv.org/abs/2502.13862)|null|
+|**2025-02-19**|**Strong and Hiding Distributed Certification of $k$ -Coloring**|Augusto Modanese et.al.|[2502.13854](http://arxiv.org/abs/2502.13854)|null|
+|**2025-02-19**|**DH-RAG: A Dynamic Historical Context-Powered Retrieval-Augmented Generation Method for Multi-Turn Dialogue**|Feiyuan Zhang et.al.|[2502.13847](http://arxiv.org/abs/2502.13847)|null|
+|**2025-02-19**|**Performance optimization of BLAS algorithms with band matrices for RISC-V processors**|Anna Pirova et.al.|[2502.13839](http://arxiv.org/abs/2502.13839)|null|
+|**2025-02-19**|**The T16 Project: Image Subtraction Light Curves from TESS Cycle 1 Full-Frame Images for Stars with T < 16**|Joel Hartman et.al.|[2502.13792](http://arxiv.org/abs/2502.13792)|null|
+|**2025-02-19**|**A Zero-Inflated Poisson Latent Position Cluster Model**|Chaoyi Lu et.al.|[2502.13790](http://arxiv.org/abs/2502.13790)|null|
+|**2025-02-19**|**Nuclear $α$ -cluster structures from valence-space microscopic cluster model**|Zhen Wang et.al.|[2502.13724](http://arxiv.org/abs/2502.13724)|null|
 |**2025-02-18**|**No Evidence of Asymmetrically Enhanced Star Formation in Infalling Galaxies in UNIONS**|Lauren M. Foster et.al.|[2502.13123](http://arxiv.org/abs/2502.13123)|null|
 |**2025-02-18**|**HARP: A Taxonomy for Heterogeneous and Hierarchical Processors for Mixed-reuse Workloads**|Raveesh Garg et.al.|[2502.13113](http://arxiv.org/abs/2502.13113)|null|
 |**2025-02-18**|**$k$ -Graph: A Graph Embedding for Interpretable Time Series Clustering**|Paul Boniol et.al.|[2502.13049](http://arxiv.org/abs/2502.13049)|null|
@@ -3066,14 +3076,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-19**|**Multi-view Video-Pose Pretraining for Operating Room Surgical Activity Recognition**|Idris Hamoud et.al.|[2502.13883](http://arxiv.org/abs/2502.13883)|null|
+|**2025-02-19**|**Integrated Sensing and Communication for 6G Holographic Digital Twins**|Haijun Zhang et.al.|[2502.13352](http://arxiv.org/abs/2502.13352)|null|
 |**2025-02-18**|**Enhancing Power Grid Inspections with Machine Learning**|Diogo Lavado et.al.|[2502.13037](http://arxiv.org/abs/2502.13037)|null|
 |**2025-02-18**|**CAST: Component-Aligned 3D Scene Reconstruction from an RGB Image**|Kaixin Yao et.al.|[2502.12894](http://arxiv.org/abs/2502.12894)|null|
 |**2025-02-18**|**An Experimental Study of SOTA LiDAR Segmentation Models**|Bike Chen et.al.|[2502.12860](http://arxiv.org/abs/2502.12860)|null|
 |**2025-02-18**|**Beyond Timesteps: A Novel Activation-wise Membrane Potential Propagation Mechanism for Spiking Neural Networks in 3D cloud**|Jian Song et.al.|[2502.12791](http://arxiv.org/abs/2502.12791)|null|
 |**2025-02-18**|**RadSplatter: Extending 3D Gaussian Splatting to Radio Frequencies for Wireless Radiomap Extrapolation**|Yiheng Wang et.al.|[2502.12686](http://arxiv.org/abs/2502.12686)|null|
-|**2025-02-18**|**NoKSR: Kernel-Free Neural Surface Reconstruction via Point Cloud Serialization**|Zhen Li et.al.|[2502.12534](http://arxiv.org/abs/2502.12534)|null|
+|**2025-02-19**|**NoKSR: Kernel-Free Neural Surface Reconstruction via Point Cloud Serialization**|Zhen Li et.al.|[2502.12534](http://arxiv.org/abs/2502.12534)|null|
 |**2025-02-18**|**Not-So-Optimal Transport Flows for 3D Point Cloud Generation**|Ka-Hei Hui et.al.|[2502.12456](http://arxiv.org/abs/2502.12456)|null|
-|**2025-02-17**|**Towards Fusing Point Cloud and Visual Representations for Imitation Learning**|Atalay Donat et.al.|[2502.12320](http://arxiv.org/abs/2502.12320)|null|
+|**2025-02-19**|**Towards Fusing Point Cloud and Visual Representations for Imitation Learning**|Atalay Donat et.al.|[2502.12320](http://arxiv.org/abs/2502.12320)|null|
 |**2025-02-17**|**Range and Bird's Eye View Fused Cross-Modal Visual Place Recognition**|Jianyi Peng et.al.|[2502.11742](http://arxiv.org/abs/2502.11742)|null|
 |**2025-02-17**|**No-reference geometry quality assessment for colorless point clouds via list-wise rank learning**|Zheng Li et.al.|[2502.11726](http://arxiv.org/abs/2502.11726)|null|
 |**2025-02-17**|**The Worse The Better: Content-Aware Viewpoint Generation Network for Projection-related Point Cloud Quality Assessment**|Zhiyong Su et.al.|[2502.11710](http://arxiv.org/abs/2502.11710)|null|
