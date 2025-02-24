@@ -18,20 +18,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-20**|**LServe: Efficient Long-sequence LLM Serving with Unified Sparse Attention**|Shang Yang et.al.|[2502.14866](http://arxiv.org/abs/2502.14866)|null|
-|**2025-02-20**|**MadVoro: Parallel Construction of Voronoi Diagrams in Distributed Memory Systems**|Maor Mizrachi et.al.|[2502.14825](http://arxiv.org/abs/2502.14825)|null|
+|**2025-02-20**|**LServe: Efficient Long-sequence LLM Serving with Unified Sparse Attention**|Shang Yang et.al.|[2502.14866](http://arxiv.org/abs/2502.14866)|**[link](https://github.com/mit-han-lab/omniserve)**|
+|**2025-02-20**|**MadVoro: Parallel Construction of Voronoi Diagrams in Distributed Memory Systems**|Maor Mizrachi et.al.|[2502.14825](http://arxiv.org/abs/2502.14825)|**[link](https://github.com/maormizrachi/madvoro)**|
 |**2025-02-20**|**Byzantine Game Theory: Sun Tzus Boxes**|Andrei Constantinescu et.al.|[2502.14812](http://arxiv.org/abs/2502.14812)|null|
-|**2025-02-20**|**Cross Validation for Correlated Data in Regression and Classification Models, with Applications to Deep Learning**|Oren Yuval et.al.|[2502.14808](http://arxiv.org/abs/2502.14808)|null|
+|**2025-02-20**|**Cross Validation for Correlated Data in Regression and Classification Models, with Applications to Deep Learning**|Oren Yuval et.al.|[2502.14808](http://arxiv.org/abs/2502.14808)|**[link](https://github.com/OrenYuv/CVc-for-General-Models)**|
 |**2025-02-20**|**YOLOv12: A Breakdown of the Key Architectural Features**|Mujadded Al Rabbani Alif et.al.|[2502.14740](http://arxiv.org/abs/2502.14740)|null|
 |**2025-02-20**|**Data-Efficient Pretraining with Group-Level Data Influence Modeling**|Zichun Yu et.al.|[2502.14709](http://arxiv.org/abs/2502.14709)|null|
 |**2025-02-20**|**Parallelizing a modern GPU simulator**|Rodrigo Huerta et.al.|[2502.14691](http://arxiv.org/abs/2502.14691)|null|
-|**2025-02-20**|**BP-SGCN: Behavioral Pseudo-Label Informed Sparse Graph Convolution Network for Pedestrian and Heterogeneous Trajectory Prediction**|Ruochen Li et.al.|[2502.14676](http://arxiv.org/abs/2502.14676)|null|
+|**2025-02-20**|**BP-SGCN: Behavioral Pseudo-Label Informed Sparse Graph Convolution Network for Pedestrian and Heterogeneous Trajectory Prediction**|Ruochen Li et.al.|[2502.14676](http://arxiv.org/abs/2502.14676)|**[link](https://github.com/carrotsniper/bp-sgcn)**|
 |**2025-02-20**|**Understanding long-term energy use in off-grid solar home systems in sub-Saharan Africa**|Rebecca Perriment et.al.|[2502.14630](http://arxiv.org/abs/2502.14630)|null|
 |**2025-02-20**|**Serving Models, Fast and Slow:Optimizing Heterogeneous LLM Inferencing Workloads at Scale**|Shashwat Jaiswal et.al.|[2502.14617](http://arxiv.org/abs/2502.14617)|null|
 |**2025-02-19**|**Autellix: An Efficient Serving Engine for LLM Agents as General Programs**|Michael Luo et.al.|[2502.13965](http://arxiv.org/abs/2502.13965)|null|
 |**2025-02-19**|**GroundCap: A Visually Grounded Image Captioning Dataset**|Daniel A. P. Oliveira et.al.|[2502.13898](http://arxiv.org/abs/2502.13898)|null|
 |**2025-02-19**|**Hierarchical accretion flow from the G351 infrared dark filament to its central cores**|H. Beuther et.al.|[2502.13866](http://arxiv.org/abs/2502.13866)|null|
-|**2025-02-19**|**Performance Comparison of Graph Representations Which Support Dynamic Graph Updates**|Subhajit Sahu et.al.|[2502.13862](http://arxiv.org/abs/2502.13862)|null|
+|**2025-02-19**|**Performance Comparison of Graph Representations Which Support Dynamic Graph Updates**|Subhajit Sahu et.al.|[2502.13862](http://arxiv.org/abs/2502.13862)|**[link](https://github.com/puzzlef/allocator-openmp)**|
 |**2025-02-19**|**Strong and Hiding Distributed Certification of $k$ -Coloring**|Augusto Modanese et.al.|[2502.13854](http://arxiv.org/abs/2502.13854)|null|
 |**2025-02-19**|**DH-RAG: A Dynamic Historical Context-Powered Retrieval-Augmented Generation Method for Multi-Turn Dialogue**|Feiyuan Zhang et.al.|[2502.13847](http://arxiv.org/abs/2502.13847)|null|
 |**2025-02-19**|**Performance optimization of BLAS algorithms with band matrices for RISC-V processors**|Anna Pirova et.al.|[2502.13839](http://arxiv.org/abs/2502.13839)|null|
@@ -40,16 +40,16 @@
 |**2025-02-19**|**Nuclear $α$ -cluster structures from valence-space microscopic cluster model**|Zhen Wang et.al.|[2502.13724](http://arxiv.org/abs/2502.13724)|null|
 |**2025-02-18**|**No Evidence of Asymmetrically Enhanced Star Formation in Infalling Galaxies in UNIONS**|Lauren M. Foster et.al.|[2502.13123](http://arxiv.org/abs/2502.13123)|null|
 |**2025-02-18**|**HARP: A Taxonomy for Heterogeneous and Hierarchical Processors for Mixed-reuse Workloads**|Raveesh Garg et.al.|[2502.13113](http://arxiv.org/abs/2502.13113)|null|
-|**2025-02-18**|**$k$ -Graph: A Graph Embedding for Interpretable Time Series Clustering**|Paul Boniol et.al.|[2502.13049](http://arxiv.org/abs/2502.13049)|null|
+|**2025-02-18**|**$k$ -Graph: A Graph Embedding for Interpretable Time Series Clustering**|Paul Boniol et.al.|[2502.13049](http://arxiv.org/abs/2502.13049)|**[link](https://github.com/boniolp/kGraph)**|
 |**2025-02-18**|**Agentic Deep Graph Reasoning Yields Self-Organizing Knowledge Networks**|Markus J. Buehler et.al.|[2502.13025](http://arxiv.org/abs/2502.13025)|null|
-|**2025-02-18**|**Edge-Colored Clustering in Hypergraphs: Beyond Minimizing Unsatisfied Edges**|Alex Crane et.al.|[2502.13000](http://arxiv.org/abs/2502.13000)|null|
+|**2025-02-18**|**Edge-Colored Clustering in Hypergraphs: Beyond Minimizing Unsatisfied Edges**|Alex Crane et.al.|[2502.13000](http://arxiv.org/abs/2502.13000)|**[link](https://github.com/tommy1019/AltECC)**|
 |**2025-02-18**|**Approximate Tree Completion and Learning-Augmented Algorithms for Metric Minimum Spanning Trees**|Nate Veldt et.al.|[2502.12993](http://arxiv.org/abs/2502.12993)|null|
 |**2025-02-18**|**The Early Days of the Ethereum Blob Fee Market and Lessons Learnt**|Lioba Heimbach et.al.|[2502.12966](http://arxiv.org/abs/2502.12966)|null|
 |**2025-02-18**|**Moving to ICSC: synergy between PNRR projects for more powerful Data Centers: a case study**|Fabio Ragosta et.al.|[2502.12938](http://arxiv.org/abs/2502.12938)|null|
 |**2025-02-18**|**Contrast-Unity for Partially-Supervised Temporal Sentence Grounding**|Haicheng Wang et.al.|[2502.12917](http://arxiv.org/abs/2502.12917)|null|
 |**2025-02-18**|**Selection Function of Clusters in Dark Energy Survey Year 3 Data from Cross-Matching with South Pole Telescope Detections**|S. Grandis et.al.|[2502.12914](http://arxiv.org/abs/2502.12914)|null|
 |**2025-02-17**|**Hypernym Bias: Unraveling Deep Classifier Training Dynamics through the Lens of Class Hierarchy**|Roman Malashin et.al.|[2502.12125](http://arxiv.org/abs/2502.12125)|null|
-|**2025-02-17**|**Crime in Proportions: Applying Compositional Data Analysis to European Crime Trends for 2022**|Onur Batın Doğan et.al.|[2502.12099](http://arxiv.org/abs/2502.12099)|null|
+|**2025-02-17**|**Crime in Proportions: Applying Compositional Data Analysis to European Crime Trends for 2022**|Onur Batın Doğan et.al.|[2502.12099](http://arxiv.org/abs/2502.12099)|**[link](https://github.com/onurbdogan/crime_in_proportions_europe_2022)**|
 |**2025-02-17**|**JADES: Average Nitrogen Enhancement in High-Redshift Broad-Line Active Galactic Nuclei**|Yuki Isobe et.al.|[2502.12091](http://arxiv.org/abs/2502.12091)|null|
 |**2025-02-17**|**How compositional generalization and creativity improve as diffusion models are trained**|Alessandro Favero et.al.|[2502.12089](http://arxiv.org/abs/2502.12089)|null|
 |**2025-02-17**|**Distributed Consensus Network: A Modularized Communication Framework and Reliability Probabilistic Analysis**|Yuetai Li et.al.|[2502.12069](http://arxiv.org/abs/2502.12069)|null|
@@ -67,10 +67,10 @@
 |**2025-02-14**|**Optimized Strategies for Peak Shaving and BESS Efficiency Enhancement through Cycle-Based Control and Cluster-Level Power Allocation**|Guo Gan et.al.|[2502.10268](http://arxiv.org/abs/2502.10268)|null|
 |**2025-02-14**|**Seamless acceleration of Fortran intrinsics via AMD AI engines**|Nick Brown et.al.|[2502.10254](http://arxiv.org/abs/2502.10254)|null|
 |**2025-02-14**|**The Power Spectrum of the Thermal Sunyaev-Zeldovich Effect**|George Efstathiou et.al.|[2502.10232](http://arxiv.org/abs/2502.10232)|null|
-|**2025-02-14**|**Forget the Data and Fine-Tuning! Just Fold the Network to Compress**|Dong Wang et.al.|[2502.10216](http://arxiv.org/abs/2502.10216)|null|
+|**2025-02-14**|**Forget the Data and Fine-Tuning! Just Fold the Network to Compress**|Dong Wang et.al.|[2502.10216](http://arxiv.org/abs/2502.10216)|**[link](https://github.com/nanguoyu/model-folding-universal)**|
 |**2025-02-13**|**BenchQC: A Benchmarking Toolkit for Quantum Computation**|Nia Pollard et.al.|[2502.09595](http://arxiv.org/abs/2502.09595)|null|
 |**2025-02-13**|**Star-crossed Clusters: Asteroseismic Ages for Individual Stars are in Tension with the Ages of their Host Clusters**|Jamie Tayar et.al.|[2502.09582](http://arxiv.org/abs/2502.09582)|null|
-|**2025-02-13**|**Spatial Transcriptomics Iterative Hierarchical Clustering (stIHC): A Novel Method for Identifying Spatial Gene Co-Expression Modules**|Catherine Higgins et.al.|[2502.09574](http://arxiv.org/abs/2502.09574)|null|
+|**2025-02-13**|**Spatial Transcriptomics Iterative Hierarchical Clustering (stIHC): A Novel Method for Identifying Spatial Gene Co-Expression Modules**|Catherine Higgins et.al.|[2502.09574](http://arxiv.org/abs/2502.09574)|**[link](https://github.com/CatherineH1/stIHC)**|
 |**2025-02-13**|**Vortex: Overcoming Memory Capacity Limitations in GPU-Accelerated Large-Scale Data Analytics**|Yichao Yuan et.al.|[2502.09541](http://arxiv.org/abs/2502.09541)|null|
 |**2025-02-13**|**Prior-Constrained Association Learning for Fine-Grained Generalized Category Discovery**|Menglin Wang et.al.|[2502.09501](http://arxiv.org/abs/2502.09501)|null|
 |**2025-02-13**|**Cracking the Code: Enhancing Development finance understanding with artificial intelligence**|Pierre Beaucoral et.al.|[2502.09495](http://arxiv.org/abs/2502.09495)|null|
@@ -81,7 +81,7 @@
 |**2025-02-12**|**Directly Imaging the Cooling Flow in the Phoenix Cluster**|Michael Reefe et.al.|[2502.08619](http://arxiv.org/abs/2502.08619)|null|
 |**2025-02-12**|**Nanoscale Mapping of Magnetic Orientations with Complex X-ray Magnetic Linear Dichroism**|Marina Raboni Ferreira et.al.|[2502.08617](http://arxiv.org/abs/2502.08617)|null|
 |**2025-02-12**|**Copula-based mixture model identification for subgroup clustering with imaging applications**|Fei Zheng et.al.|[2502.08549](http://arxiv.org/abs/2502.08549)|null|
-|**2025-02-12**|**FedMHO: Heterogeneous One-Shot Federated Learning Towards Resource-Constrained Edge Devices**|Dezhong Yao et.al.|[2502.08518](http://arxiv.org/abs/2502.08518)|null|
+|**2025-02-12**|**FedMHO: Heterogeneous One-Shot Federated Learning Towards Resource-Constrained Edge Devices**|Dezhong Yao et.al.|[2502.08518](http://arxiv.org/abs/2502.08518)|**[link](https://github.com/YXShi2000/FedMHO)**|
 |**2025-02-12**|**The Paradox of Stochasticity: Limited Creativity and Computational Decoupling in Temperature-Varied LLM Outputs of Structured Fictional Data**|Evgenii Evstafev et.al.|[2502.08515](http://arxiv.org/abs/2502.08515)|null|
 |**2025-02-12**|**Referring Remote Sensing Image Segmentation via Bidirectional Alignment Guided Joint Prediction**|Tianxiang Zhang et.al.|[2502.08486](http://arxiv.org/abs/2502.08486)|null|
 |**2025-02-12**|**Morpheus Consensus: Excelling on trails and autobahns**|Andrew Lewis-Pye et.al.|[2502.08465](http://arxiv.org/abs/2502.08465)|null|
@@ -3090,7 +3090,7 @@
 |**2025-02-20**|**OG-Gaussian: Occupancy Based Street Gaussians for Autonomous Driving**|Yedong Shen et.al.|[2502.14235](http://arxiv.org/abs/2502.14235)|null|
 |**2025-02-20**|**Rethinking Spiking Neural Networks from an Ensemble Learning Perspective**|Yongqi Ding et.al.|[2502.14218](http://arxiv.org/abs/2502.14218)|null|
 |**2025-02-19**|**Mixed Signals: A Diverse Point Cloud Dataset for Heterogeneous LiDAR V2X Collaboration**|Katie Z Luo et.al.|[2502.14156](http://arxiv.org/abs/2502.14156)|null|
-|**2025-02-19**|**Token Adaptation via Side Graph Convolution for Temporally and Spatially Efficient Fine-tuning of 3D Point Cloud Transformers**|Takahiko Furuya et.al.|[2502.14142](http://arxiv.org/abs/2502.14142)|null|
+|**2025-02-19**|**Token Adaptation via Side Graph Convolution for Temporally and Spatially Efficient Fine-tuning of 3D Point Cloud Transformers**|Takahiko Furuya et.al.|[2502.14142](http://arxiv.org/abs/2502.14142)|**[link](https://github.com/takahikof/stag)**|
 |**2025-02-19**|**Point Cloud Geometry Scalable Coding Using a Resolution and Quality-conditioned Latents Probability Estimator**|Daniele Mari et.al.|[2502.14099](http://arxiv.org/abs/2502.14099)|null|
 |**2025-02-19**|**Multi-view Video-Pose Pretraining for Operating Room Surgical Activity Recognition**|Idris Hamoud et.al.|[2502.13883](http://arxiv.org/abs/2502.13883)|null|
 |**2025-02-19**|**Integrated Sensing and Communication for 6G Holographic Digital Twins**|Haijun Zhang et.al.|[2502.13352](http://arxiv.org/abs/2502.13352)|null|
@@ -3103,14 +3103,14 @@
 |**2025-02-18**|**Not-So-Optimal Transport Flows for 3D Point Cloud Generation**|Ka-Hei Hui et.al.|[2502.12456](http://arxiv.org/abs/2502.12456)|null|
 |**2025-02-19**|**Towards Fusing Point Cloud and Visual Representations for Imitation Learning**|Atalay Donat et.al.|[2502.12320](http://arxiv.org/abs/2502.12320)|null|
 |**2025-02-17**|**Range and Bird's Eye View Fused Cross-Modal Visual Place Recognition**|Jianyi Peng et.al.|[2502.11742](http://arxiv.org/abs/2502.11742)|null|
-|**2025-02-17**|**No-reference geometry quality assessment for colorless point clouds via list-wise rank learning**|Zheng Li et.al.|[2502.11726](http://arxiv.org/abs/2502.11726)|null|
-|**2025-02-17**|**The Worse The Better: Content-Aware Viewpoint Generation Network for Projection-related Point Cloud Quality Assessment**|Zhiyong Su et.al.|[2502.11710](http://arxiv.org/abs/2502.11710)|null|
+|**2025-02-17**|**No-reference geometry quality assessment for colorless point clouds via list-wise rank learning**|Zheng Li et.al.|[2502.11726](http://arxiv.org/abs/2502.11726)|**[link](https://github.com/vcg-njust/lrl-gqa)**|
+|**2025-02-17**|**The Worse The Better: Content-Aware Viewpoint Generation Network for Projection-related Point Cloud Quality Assessment**|Zhiyong Su et.al.|[2502.11710](http://arxiv.org/abs/2502.11710)|**[link](https://github.com/yokeno1/cavgn1)**|
 |**2025-02-17**|**Deep Subspace Learning for Surface Anomaly Classification Based on 3D Point Cloud Data**|Xuanming Cao et.al.|[2502.11669](http://arxiv.org/abs/2502.11669)|null|
 |**2025-02-17**|**Real-time Neural Rendering of LiDAR Point Clouds**|Joni Vanherck et.al.|[2502.11618](http://arxiv.org/abs/2502.11618)|null|
 |**2025-02-17**|**Cheesemap: A High-Performance Point-Indexing Data Structure for Neighbor~Search in LiDAR Data**|Ruben Laso et.al.|[2502.11602](http://arxiv.org/abs/2502.11602)|null|
 |**2025-02-17**|**Doppler Correspondence: Non-Iterative Scan Matching With Doppler Velocity-Based Correspondence**|Jiwoo Kim et.al.|[2502.11461](http://arxiv.org/abs/2502.11461)|null|
 |**2025-02-16**|**Exploiting Point-Language Models with Dual-Prompts for 3D Anomaly Detection**|Jiaxiang Wang et.al.|[2502.11307](http://arxiv.org/abs/2502.11307)|null|
-|**2025-02-15**|**Implicit Neural Representations of Molecular Vector-Valued Functions**|Jirka Lhotka et.al.|[2502.10848](http://arxiv.org/abs/2502.10848)|null|
+|**2025-02-15**|**Implicit Neural Representations of Molecular Vector-Valued Functions**|Jirka Lhotka et.al.|[2502.10848](http://arxiv.org/abs/2502.10848)|**[link](https://github.com/daenuprobst/minf)**|
 |**2025-02-15**|**Motion planning for highly-dynamic unconditioned reflexes based on chained Signed Distance Functions**|Ken Lin et.al.|[2502.10734](http://arxiv.org/abs/2502.10734)|null|
 |**2025-02-13**|**IMM-MOT: A Novel 3D Multi-object Tracking Framework with Interacting Multiple Model Filter**|Xiaohong Liu et.al.|[2502.09672](http://arxiv.org/abs/2502.09672)|null|
 |**2025-02-13**|**Exploring the Potential of Encoder-free Architectures in 3D LMMs**|Yiwen Tang et.al.|[2502.09620](http://arxiv.org/abs/2502.09620)|**[link](https://github.com/ivan-tang-3d/enel)**|
@@ -3118,7 +3118,7 @@
 |**2025-02-13**|**3D-Grounded Vision-Language Framework for Robotic Task Planning: Automated Prompt Synthesis and Supervised Reasoning**|Guoqin Tang et.al.|[2502.08903](http://arxiv.org/abs/2502.08903)|null|
 |**2025-02-13**|**CoL3D: Collaborative Learning of Single-view Depth and Camera Intrinsics for Metric 3D Shape Recovery**|Chenghao Zhang et.al.|[2502.08902](http://arxiv.org/abs/2502.08902)|null|
 |**2025-02-13**|**ShapeLib: designing a library of procedural 3D shape abstractions with Large Language Models**|R. Kenny Jones et.al.|[2502.08884](http://arxiv.org/abs/2502.08884)|null|
-|**2025-02-12**|**LIR-LIVO: A Lightweight,Robust LiDAR/Vision/Inertial Odometry with Illumination-Resilient Deep Features**|Shujie Zhou et.al.|[2502.08676](http://arxiv.org/abs/2502.08676)|null|
+|**2025-02-12**|**LIR-LIVO: A Lightweight,Robust LiDAR/Vision/Inertial Odometry with Illumination-Resilient Deep Features**|Shujie Zhou et.al.|[2502.08676](http://arxiv.org/abs/2502.08676)|**[link](https://github.com/IF-A-CAT/LIR-LIVO)**|
 |**2025-02-12**|**Checkerboard Target Measurement in Unordered Point Clouds with Coloured ICP**|June Moh Goo et.al.|[2502.08525](http://arxiv.org/abs/2502.08525)|null|
 |**2025-02-12**|**Revisiting 3D LLM Benchmarks: Are We Really Testing 3D Capabilities?**|Jiahe Jin et.al.|[2502.08503](http://arxiv.org/abs/2502.08503)|**[link](https://github.com/llm-class-group/revisiting-3d-llm-benchmarks)**|
 |**2025-02-12**|**CordViP: Correspondence-based Visuomotor Policy for Dexterous Manipulation in Real-World**|Yankai Fu et.al.|[2502.08449](http://arxiv.org/abs/2502.08449)|null|
@@ -3869,7 +3869,7 @@
 |**2024-08-04**|**3D Single-object Tracking in Point Clouds with High Temporal Variation**|Qiao Wu et.al.|[2408.02049](http://arxiv.org/abs/2408.02049)|null|
 |**2024-08-03**|**SiamMo: Siamese Motion-Centric 3D Object Tracking**|Yuxiang Yang et.al.|[2408.01688](http://arxiv.org/abs/2408.01688)|**[link](https://github.com/hdu-vrlab/siammo)**|
 |**2024-08-06**|**Three-dimensional Morphological Reconstruction of Millimeter-Scale Soft Continuum Robots based on Dual-Stereo-Vision**|Tian-Ao Ren et.al.|[2408.01615](http://arxiv.org/abs/2408.01615)|null|
-|**2024-08-02**|**THOR2: Leveraging Topological Soft Clustering of Color Space for Human-Inspired Object Recognition in Unseen Environments**|Ekta U. Samani et.al.|[2408.01579](http://arxiv.org/abs/2408.01579)|null|
+|**2024-08-02**|**THOR2: Leveraging Topological Soft Clustering of Color Space for Human-Inspired Object Recognition in Unseen Environments**|Ekta U. Samani et.al.|[2408.01579](http://arxiv.org/abs/2408.01579)|**[link](https://github.com/smartslab/THOR2)**|
 |**2024-08-02**|**Trainable Pointwise Decoder Module for Point Cloud Segmentation**|Bike Chen et.al.|[2408.01548](http://arxiv.org/abs/2408.01548)|null|
 |**2024-08-02**|**Resampling and averaging coordinates on data**|Andrew J. Blumberg et.al.|[2408.01379](http://arxiv.org/abs/2408.01379)|null|
 |**2024-08-02**|**Balanced Residual Distillation Learning for 3D Point Cloud Class-Incremental Semantic Segmentation**|Yuanzhi Su et.al.|[2408.01356](http://arxiv.org/abs/2408.01356)|null|
