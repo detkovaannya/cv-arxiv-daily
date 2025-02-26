@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.25
+## Updated on 2025.02.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## clustering
@@ -3106,7 +3106,7 @@ layout: default
 |**2025-02-24**|**PointSea: Point Cloud Completion via Self-structure Augmentation**|Zhe Zhu et.al.|[2502.17053](http://arxiv.org/abs/2502.17053)|null|
 |**2025-02-24**|**LCV2I: Communication-Efficient and High-Performance Collaborative Perception Framework with Low-Resolution LiDAR**|Xinxin Feng et.al.|[2502.17039](http://arxiv.org/abs/2502.17039)|null|
 |**2025-02-24**|**DemoGen: Synthetic Demonstration Generation for Data-Efficient Visuomotor Policy Learning**|Zhengrong Xue et.al.|[2502.16932](http://arxiv.org/abs/2502.16932)|null|
-|**2025-02-24**|**MambaFlow: A Novel and Flow-guided State Space Model for Scene Flow Estimation**|Jiehao Luo et.al.|[2502.16907](http://arxiv.org/abs/2502.16907)|null|
+|**2025-02-24**|**MambaFlow: A Novel and Flow-guided State Space Model for Scene Flow Estimation**|Jiehao Luo et.al.|[2502.16907](http://arxiv.org/abs/2502.16907)|**[link](https://github.com/scnu-rislab/mambaflow)**|
 |**2025-02-24**|**Noise2Score3D:Unsupervised Tweedie's Approach for Point Cloud Denoising**|Xiangbin Wei et.al.|[2502.16826](http://arxiv.org/abs/2502.16826)|null|
 |**2025-02-23**|**Probing a Quarkophobic ${\mathbf{W}}^\prime$ at the High-Luminosity LHC via Vector Boson Fusion and Lorentz-Equivariant Point Cloud Learning**|U. S. Qureshi et.al.|[2502.16630](http://arxiv.org/abs/2502.16630)|null|
 |**2025-02-23**|**Improving Monocular Visual-Inertial Initialization with Structureless Visual-Inertial Bundle Adjustment**|Junlin Song et.al.|[2502.16598](http://arxiv.org/abs/2502.16598)|null|
