@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-25**|**Chevalley operations on TNN Grassmannians**|Prateek Kumar Vishwakarma et.al.|[2502.18419](http://arxiv.org/abs/2502.18419)|null|
+|**2025-02-25**|**GLEAN: Generalized Category Discovery with Diverse and Quality-Enhanced LLM Feedback**|Henry Peng Zou et.al.|[2502.18414](http://arxiv.org/abs/2502.18414)|null|
+|**2025-02-25**|**Kitsune: Enabling Dataflow Execution on GPUs**|Michael Davies et.al.|[2502.18403](http://arxiv.org/abs/2502.18403)|null|
+|**2025-02-25**|**Mapping of Subjective Accounts into Interpreted Clusters (MOSAIC): Topic Modelling and LLM applied to Stroboscopic Phenomenology**|Romy Beauté et.al.|[2502.18318](http://arxiv.org/abs/2502.18318)|null|
+|**2025-02-25**|**Water Nucleation via Transient Bonds to Oxygen Functionalized Graphite**|Frederik G. Doktor et.al.|[2502.18306](http://arxiv.org/abs/2502.18306)|null|
+|**2025-02-25**|**AMPO: Active Multi-Preference Optimization**|Taneesh Gupta et.al.|[2502.18293](http://arxiv.org/abs/2502.18293)|null|
+|**2025-02-25**|**Causal AI-based Root Cause Identification: Research to Practice at Scale**|Saurabh Jha et.al.|[2502.18240](http://arxiv.org/abs/2502.18240)|null|
+|**2025-02-25**|**Learning Structure-Supporting Dependencies via Keypoint Interactive Transformer for General Mammal Pose Estimation**|Tianyang Xu et.al.|[2502.18214](http://arxiv.org/abs/2502.18214)|**[link](https://github.com/Raojiyong/KITPose)**|
+|**2025-02-25**|**Graph Augmentation for Cross Graph Domain Generalization**|Guanzi Chen et.al.|[2502.18188](http://arxiv.org/abs/2502.18188)|null|
+|**2025-02-25**|**Variable stars in Galactic globular clusters II. Population II Cepheids**|Mauricio Cruz Reyes et.al.|[2502.18158](http://arxiv.org/abs/2502.18158)|null|
 |**2025-02-24**|**Evaluating IOMMU-Based Shared Virtual Addressing for RISC-V Embedded Heterogeneous SoCs**|Cyril Koenig et.al.|[2502.17398](http://arxiv.org/abs/2502.17398)|null|
 |**2025-02-24**|**Chemical characterisation of small substructures in the local stellar halo**|Emma Dodd et.al.|[2502.17353](http://arxiv.org/abs/2502.17353)|null|
 |**2025-02-24**|**Robust cosmic shear with small-scale nulling**|Giulia Piccirilli et.al.|[2502.17339](http://arxiv.org/abs/2502.17339)|null|
@@ -3100,6 +3110,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-25**|**OpenFly: A Versatile Toolchain and Large-scale Benchmark for Aerial Vision-Language Navigation**|Yunpeng Gao et.al.|[2502.18041](http://arxiv.org/abs/2502.18041)|null|
+|**2025-02-25**|**Deep-JGAC: End-to-End Deep Joint Geometry and Attribute Compression for Dense Colored Point Clouds**|Yun Zhang et.al.|[2502.17939](http://arxiv.org/abs/2502.17939)|null|
+|**2025-02-25**|**VVRec: Reconstruction Attacks on DL-based Volumetric Video Upstreaming via Latent Diffusion Model with Gamma Distribution**|Rui Lu et.al.|[2502.17880](http://arxiv.org/abs/2502.17880)|null|
+|**2025-02-25**|**UniGS: Unified Language-Image-3D Pretraining with Gaussian Splatting**|Haoyuan Li et.al.|[2502.17860](http://arxiv.org/abs/2502.17860)|null|
+|**2025-02-25**|**Learning Density Evolution from Snapshot Data**|Rentian Yao et.al.|[2502.17738](http://arxiv.org/abs/2502.17738)|null|
+|**2025-02-24**|**CalibRefine: Deep Learning-Based Online Automatic Targetless LiDAR-Camera Calibration with Iterative and Attention-Driven Post-Refinement**|Lei Chenga et.al.|[2502.17648](http://arxiv.org/abs/2502.17648)|null|
+|**2025-02-24**|**Laplace-Beltrami Operator for Gaussian Splatting**|Hongyu Zhou et.al.|[2502.17531](http://arxiv.org/abs/2502.17531)|null|
 |**2025-02-24**|**HybridLinker: Topology-Guided Posterior Sampling for Enhanced Diversity and Validity in 3D Molecular Linker Generation**|Minyeong Hwang et.al.|[2502.17349](http://arxiv.org/abs/2502.17349)|null|
 |**2025-02-24**|**CAR-LOAM: Color-Assisted Robust LiDAR Odometry and Mapping**|Yufei Lu et.al.|[2502.17249](http://arxiv.org/abs/2502.17249)|null|
 |**2025-02-24**|**Continuous Scatterplot and Image Moments for Time-Varying Bivariate Field Analysis of Electronic Structure Evolution**|Mohit Sharma et.al.|[2502.17118](http://arxiv.org/abs/2502.17118)|null|
