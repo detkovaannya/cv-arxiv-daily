@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-26**|**Learning Code-Edit Embedding to Model Student Debugging Behavior**|Hasnain Heickal et.al.|[2502.19407](http://arxiv.org/abs/2502.19407)|null|
+|**2025-02-26**|**The Octo-Rail Lattice: a four-dimensional cluster state design**|Emil E. B. Østergaard et.al.|[2502.19393](http://arxiv.org/abs/2502.19393)|null|
+|**2025-02-26**|**HDEE: Heterogeneous Domain Expert Ensemble**|Oğuzhan Ersoy et.al.|[2502.19385](http://arxiv.org/abs/2502.19385)|null|
+|**2025-02-26**|**Deep Learning For Time Series Analysis With Application On Human Motion**|Ali Ismail-Fawaz et.al.|[2502.19364](http://arxiv.org/abs/2502.19364)|null|
+|**2025-02-26**|**An emulation-based model for the projected correlation function**|Vetle A. Vikenes et.al.|[2502.19353](http://arxiv.org/abs/2502.19353)|null|
+|**2025-02-26**|**Consistent Amortized Clustering via Generative Flow Networks**|Irit Chelly et.al.|[2502.19337](http://arxiv.org/abs/2502.19337)|null|
+|**2025-02-26**|**Model Adaptation: Unsupervised Domain Adaptation without Source Data**|Rui Li et.al.|[2502.19316](http://arxiv.org/abs/2502.19316)|null|
+|**2025-02-26**|**Agent-centric Information Access**|Evangelos Kanoulas et.al.|[2502.19298](http://arxiv.org/abs/2502.19298)|null|
+|**2025-02-26**|**Global Graph Propagation with Hierarchical Information Transfer for Incomplete Contrastive Multi-view Clustering**|Guoqing Chao et.al.|[2502.19291](http://arxiv.org/abs/2502.19291)|null|
+|**2025-02-26**|**Dynamical cluster-based optimization of tensor network algorithms for quantum circuit simulations**|Andrea De Girolamo et.al.|[2502.19289](http://arxiv.org/abs/2502.19289)|null|
 |**2025-02-25**|**Chevalley operations on TNN Grassmannians**|Prateek Kumar Vishwakarma et.al.|[2502.18419](http://arxiv.org/abs/2502.18419)|null|
 |**2025-02-25**|**GLEAN: Generalized Category Discovery with Diverse and Quality-Enhanced LLM Feedback**|Henry Peng Zou et.al.|[2502.18414](http://arxiv.org/abs/2502.18414)|**[link](https://github.com/amazon-science/Glean)**|
 |**2025-02-25**|**Kitsune: Enabling Dataflow Execution on GPUs**|Michael Davies et.al.|[2502.18403](http://arxiv.org/abs/2502.18403)|null|
@@ -3116,6 +3126,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-26**|**LiDAR Registration with Visual Foundation Models**|Niclas Vödisch et.al.|[2502.19374](http://arxiv.org/abs/2502.19374)|null|
+|**2025-02-26**|**ProxyTransformation: Preshaping Point Cloud Manifold With Proxy Attention For 3D Visual Grounding**|Qihang Peng et.al.|[2502.19247](http://arxiv.org/abs/2502.19247)|null|
+|**2025-02-26**|**BEV-LIO(LC): BEV Image Assisted LiDAR-Inertial Odometry with Loop Closure**|Haoxin Cai et.al.|[2502.19242](http://arxiv.org/abs/2502.19242)|null|
+|**2025-02-26**|**Leg Exoskeleton Odometry using a Limited FOV Depth Sensor**|Fabio Elnecave Xavier et.al.|[2502.19237](http://arxiv.org/abs/2502.19237)|null|
+|**2025-02-26**|**Efficient and Distributed Large-Scale Point Cloud Bundle Adjustment via Majorization-Minimization**|Rundong Li et.al.|[2502.18801](http://arxiv.org/abs/2502.18801)|null|
+|**2025-02-26**|**MaskPlanner: Learning-Based Object-Centric Motion Generation from 3D Point Clouds**|Gabriele Tiboni et.al.|[2502.18745](http://arxiv.org/abs/2502.18745)|null|
 |**2025-02-25**|**OpenFly: A Versatile Toolchain and Large-scale Benchmark for Aerial Vision-Language Navigation**|Yunpeng Gao et.al.|[2502.18041](http://arxiv.org/abs/2502.18041)|null|
 |**2025-02-25**|**Deep-JGAC: End-to-End Deep Joint Geometry and Attribute Compression for Dense Colored Point Clouds**|Yun Zhang et.al.|[2502.17939](http://arxiv.org/abs/2502.17939)|null|
 |**2025-02-25**|**VVRec: Reconstruction Attacks on DL-based Volumetric Video Upstreaming via Latent Diffusion Model with Gamma Distribution**|Rui Lu et.al.|[2502.17880](http://arxiv.org/abs/2502.17880)|null|
