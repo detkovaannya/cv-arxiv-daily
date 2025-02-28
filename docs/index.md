@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-27**|**Bridging Legal Knowledge and AI: Retrieval-Augmented Generation with Vector Stores, Knowledge Graphs, and Hierarchical Non-negative Matrix Factorization**|Ryan C. Barron et.al.|[2502.20364](http://arxiv.org/abs/2502.20364)|null|
+|**2025-02-27**|**Improving the Efficiency of a Deep Reinforcement Learning-Based Power Management System for HPC Clusters Using Curriculum Learning**|Thomas Budiarjo et.al.|[2502.20348](http://arxiv.org/abs/2502.20348)|null|
+|**2025-02-27**|**Online Meta-learning for AutoML in Real-time (OnMAR)**|Mia Gerber et.al.|[2502.20279](http://arxiv.org/abs/2502.20279)|null|
+|**2025-02-27**|**Discovery of WINERED-HVS1: A metal-rich hyper-velocity star candidate ejected from the Galactic center**|Kohei Hattori et.al.|[2502.20266](http://arxiv.org/abs/2502.20266)|null|
+|**2025-02-27**|**RURANET++: An Unsupervised Learning Method for Diabetic Macular Edema Based on SCSE Attention Mechanisms and Dynamic Multi-Projection Head Clustering**|Wei Yang et.al.|[2502.20224](http://arxiv.org/abs/2502.20224)|null|
+|**2025-02-27**|**Voting Scheme to Strengthen Localization Security in Randomly Deployed Wireless Sensor Networks**|Slavisa Tomic et.al.|[2502.20218](http://arxiv.org/abs/2502.20218)|null|
+|**2025-02-27**|**Electromagnetic form factors of ${}^6$Li, ${}^7$Li, and ${}^7$ Be in cluster effective field theory**|Son T. Nguyen et.al.|[2502.20202](http://arxiv.org/abs/2502.20202)|null|
+|**2025-02-27**|**Bisecting K-Means in RAG for Enhancing Question-Answering Tasks Performance in Telecommunications**|Pedro Sousa et.al.|[2502.20188](http://arxiv.org/abs/2502.20188)|null|
+|**2025-02-27**|**Sketch & Paint: Stroke-by-Stroke Evolution of Visual Artworks**|Jeripothula Prudviraj et.al.|[2502.20119](http://arxiv.org/abs/2502.20119)|null|
+|**2025-02-27**|**Qini curve estimation under clustered network interference**|Rickard K. A. Karlsson et.al.|[2502.20097](http://arxiv.org/abs/2502.20097)|null|
 |**2025-02-26**|**Learning Code-Edit Embedding to Model Student Debugging Behavior**|Hasnain Heickal et.al.|[2502.19407](http://arxiv.org/abs/2502.19407)|null|
 |**2025-02-26**|**The Octo-Rail Lattice: a four-dimensional cluster state design**|Emil E. B. Østergaard et.al.|[2502.19393](http://arxiv.org/abs/2502.19393)|null|
 |**2025-02-26**|**HDEE: Heterogeneous Domain Expert Ensemble**|Oğuzhan Ersoy et.al.|[2502.19385](http://arxiv.org/abs/2502.19385)|null|
@@ -3120,8 +3130,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-27**|**Multi-Scale Neighborhood Occupancy Masked Autoencoder for Self-Supervised Learning in LiDAR Point Clouds**|Mohamed Abdelsamad et.al.|[2502.20316](http://arxiv.org/abs/2502.20316)|null|
+|**2025-02-27**|**4Deform: Neural Surface Deformation for Robust Shape Interpolation**|Lu Sang et.al.|[2502.20208](http://arxiv.org/abs/2502.20208)|null|
+|**2025-02-27**|**GenPC: Zero-shot Point Cloud Completion via 3D Generative Priors**|An Li et.al.|[2502.19896](http://arxiv.org/abs/2502.19896)|null|
+|**2025-02-27**|**Open-Vocabulary Semantic Part Segmentation of 3D Human**|Keito Suzuki et.al.|[2502.19782](http://arxiv.org/abs/2502.19782)|null|
+|**2025-02-27**|**You Only Click Once: Single Point Weakly Supervised 3D Instance Segmentation for Autonomous Driving**|Guangfeng Jiang et.al.|[2502.19698](http://arxiv.org/abs/2502.19698)|null|
+|**2025-02-27**|**Noise-Injected Spiking Graph Convolution for Energy-Efficient 3D Point Cloud Denoising**|Zikuan Li et.al.|[2502.19660](http://arxiv.org/abs/2502.19660)|null|
+|**2025-02-26**|**Ev-3DOD: Pushing the Temporal Boundaries of 3D Object Detection with Event Cameras**|Hoonhee Cho et.al.|[2502.19630](http://arxiv.org/abs/2502.19630)|null|
 |**2025-02-26**|**LiDAR Registration with Visual Foundation Models**|Niclas Vödisch et.al.|[2502.19374](http://arxiv.org/abs/2502.19374)|null|
-|**2025-02-26**|**ProxyTransformation: Preshaping Point Cloud Manifold With Proxy Attention For 3D Visual Grounding**|Qihang Peng et.al.|[2502.19247](http://arxiv.org/abs/2502.19247)|null|
+|**2025-02-27**|**ProxyTransformation: Preshaping Point Cloud Manifold With Proxy Attention For 3D Visual Grounding**|Qihang Peng et.al.|[2502.19247](http://arxiv.org/abs/2502.19247)|null|
 |**2025-02-26**|**BEV-LIO(LC): BEV Image Assisted LiDAR-Inertial Odometry with Loop Closure**|Haoxin Cai et.al.|[2502.19242](http://arxiv.org/abs/2502.19242)|null|
 |**2025-02-26**|**Leg Exoskeleton Odometry using a Limited FOV Depth Sensor**|Fabio Elnecave Xavier et.al.|[2502.19237](http://arxiv.org/abs/2502.19237)|null|
 |**2025-02-26**|**Efficient and Distributed Large-Scale Point Cloud Bundle Adjustment via Majorization-Minimization**|Rundong Li et.al.|[2502.18801](http://arxiv.org/abs/2502.18801)|null|
