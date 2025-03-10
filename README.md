@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.09
+## Updated on 2025.03.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -25,7 +25,7 @@
 |**2025-03-06**|**Preference for evolving dark energy in light of the galaxy bispectrum**|Zhiyu Lu et.al.|[2503.04602](http://arxiv.org/abs/2503.04602)|null|
 |**2025-03-06**|**Boosting Blockchain Throughput: Parallel EVM Execution with Asynchronous Storage for Reddio**|Xiaodong Qi et.al.|[2503.04595](http://arxiv.org/abs/2503.04595)|null|
 |**2025-03-06**|**Existence of Deadlock-Free Routing for Arbitrary Networks**|Uri Mendlovic et.al.|[2503.04583](http://arxiv.org/abs/2503.04583)|null|
-|**2025-03-06**|**Fundamental Limits of Hierarchical Secure Aggregation with Cyclic User Association**|Xiang Zhang et.al.|[2503.04564](http://arxiv.org/abs/2503.04564)|null|
+|**2025-03-07**|**Fundamental Limits of Hierarchical Secure Aggregation with Cyclic User Association**|Xiang Zhang et.al.|[2503.04564](http://arxiv.org/abs/2503.04564)|null|
 |**2025-03-06**|**Dynamic Pricing for On-Demand DNN Inference in the Edge-AI Market**|Songyuan Li et.al.|[2503.04521](http://arxiv.org/abs/2503.04521)|null|
 |**2025-03-06**|**A Graph-Partitioning Based Continuous Optimization Approach to Semi-supervised Clustering Problems**|Wei Liu et.al.|[2503.04447](http://arxiv.org/abs/2503.04447)|null|
 |**2025-03-05**|**Rethinking Deep Clustering Paradigms: Self-Supervision Is All You Need**|Amal Shaheena et.al.|[2503.03733](http://arxiv.org/abs/2503.03733)|null|
@@ -3170,7 +3170,7 @@
 |**2023-11-10**|**The First Verification Test of Space-Ground Collaborative Intelligence via Cloud-Native Satellites**|Shangguang Wang et.al.|[2311.06078](http://arxiv.org/abs/2311.06078)|null|
 |**2023-11-10**|**Collaborative Inference in DNN-based Satellite Systems with Dynamic Task Streams**|Jinglong Guan et.al.|[2311.06073](http://arxiv.org/abs/2311.06073)|null|
 
-<p align=right>(<a href=#updated-on-20250309>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250310>back to top</a>)</p>
 
 ## point cloud
 
@@ -3181,7 +3181,7 @@
 |**2025-03-06**|**ForestLPR: LiDAR Place Recognition in Forests Attentioning Multiple BEV Density Images**|Yanqing Shen et.al.|[2503.04475](http://arxiv.org/abs/2503.04475)|null|
 |**2025-03-06**|**PointsToWood: A deep learning framework for complete canopy leaf-wood segmentation of TLS data across diverse European forests**|Harry J. F. Owen et.al.|[2503.04420](http://arxiv.org/abs/2503.04420)|null|
 |**2025-03-06**|**Real-time Spatial-temporal Traversability Assessment via Feature-based Sparse Gaussian Process**|Senming Tan et.al.|[2503.04134](http://arxiv.org/abs/2503.04134)|null|
-|**2025-03-06**|**Diff-Reg v2: Diffusion-Based Matching Matrix Estimation for Image Matching and 3D Registration**|Qianliang Wu et.al.|[2503.04127](http://arxiv.org/abs/2503.04127)|null|
+|**2025-03-07**|**Diff-Reg v2: Diffusion-Based Matching Matrix Estimation for Image Matching and 3D Registration**|Qianliang Wu et.al.|[2503.04127](http://arxiv.org/abs/2503.04127)|null|
 |**2025-03-06**|**Instrument-Splatting: Controllable Photorealistic Reconstruction of Surgical Instruments Using Gaussian Splatting**|Shuojue Yang et.al.|[2503.04082](http://arxiv.org/abs/2503.04082)|null|
 |**2025-03-06**|**Self-Supervised Large Scale Point Cloud Completion for Archaeological Site Restoration**|Aocheng Li et.al.|[2503.04030](http://arxiv.org/abs/2503.04030)|null|
 |**2025-03-05**|**GEN3C: 3D-Informed World-Consistent Video Generation with Precise Camera Control**|Xuanchi Ren et.al.|[2503.03751](http://arxiv.org/abs/2503.03751)|**[link](https://github.com/nv-tlabs/GEN3C)**|
@@ -5104,7 +5104,7 @@
 |**2023-11-08**|**VET: Visual Error Tomography for Point Cloud Completion and High-Quality Neural Rendering**|Linus Franke et.al.|[2311.04634](http://arxiv.org/abs/2311.04634)|**[link](https://github.com/lfranke/vet)**|
 |**2023-11-09**|**Rethinking Human Pose Estimation for Autonomous Driving with 3D Event Representations**|Xiaoting Yin et.al.|[2311.04591](http://arxiv.org/abs/2311.04591)|**[link](https://github.com/masterhow/eventpointpose)**|
 
-<p align=right>(<a href=#updated-on-20250309>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250310>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
