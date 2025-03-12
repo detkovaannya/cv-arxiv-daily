@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-11**|**Gas Perturbations in Hot Smooth Atmospheres X-ray Surface Brightness Fluctuations in Smooth Galaxy Cluster Atmospheres**|Muzi Li et.al.|[2503.08680](http://arxiv.org/abs/2503.08680)|null|
+|**2025-03-11**|**SSVQ: Unleashing the Potential of Vector Quantization with Sign-Splitting**|Shuaiting Li et.al.|[2503.08668](http://arxiv.org/abs/2503.08668)|null|
+|**2025-03-11**|**A Comprehensive Experimentation Framework for Energy-Efficient Design of Cloud-Native Applications**|Sebastian Werner et.al.|[2503.08641](http://arxiv.org/abs/2503.08641)|null|
+|**2025-03-11**|**Design and Construction of an Affordable Adjustable Repetition Rate Optical Frequency Comb**|Christopher E. Latchford et.al.|[2503.08635](http://arxiv.org/abs/2503.08635)|null|
+|**2025-03-11**|**Interplay of entanglement structures and stabilizer entropy in spin models**|Michele Viscardi et.al.|[2503.08620](http://arxiv.org/abs/2503.08620)|null|
+|**2025-03-11**|**A Fair and Lightweight Consensus Algorithm for IoT**|Sokratis Vavilis et.al.|[2503.08607](http://arxiv.org/abs/2503.08607)|null|
+|**2025-03-11**|**Spectral distortion and polarization of the cosmic microwave background: Measurement, challenges and perspectives**|Vyoma Muralidhara et.al.|[2503.08538](http://arxiv.org/abs/2503.08538)|null|
+|**2025-03-11**|**Astrophysical properties of star clusters projected toward tidally perturbed SMC regions**|Denis M. F. Illesca et.al.|[2503.08535](http://arxiv.org/abs/2503.08535)|null|
+|**2025-03-11**|**On the Uncertainties of Galaxy Distances from Flow Models**|Konstantin Haubner et.al.|[2503.08491](http://arxiv.org/abs/2503.08491)|null|
+|**2025-03-11**|**Accelerating MoE Model Inference with Expert Sharding**|Oana Balmau et.al.|[2503.08467](http://arxiv.org/abs/2503.08467)|null|
 |**2025-03-10**|**Real-Time Monitoring of Multimode Squeezing**|Mahmoud Kalash et.al.|[2503.07486](http://arxiv.org/abs/2503.07486)|null|
 |**2025-03-10**|**Euclid: Early Release Observations -- The Intracluster Light of Abell 2390**|A. Ellien et.al.|[2503.07484](http://arxiv.org/abs/2503.07484)|null|
 |**2025-03-10**|**Eva: Cost-Efficient Cloud-Based Cluster Scheduling**|Tzu-Tao Chang et.al.|[2503.07437](http://arxiv.org/abs/2503.07437)|null|
@@ -3196,6 +3206,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-11**|**Language-Depth Navigated Thermal and Visible Image Fusion**|Jinchang Zhang et.al.|[2503.08676](http://arxiv.org/abs/2503.08676)|null|
+|**2025-03-11**|**GBlobs: Explicit Local Structure via Gaussian Blobs for Improved Cross-Domain LiDAR-based 3D Object Detection**|Dušan Malić et.al.|[2503.08639](http://arxiv.org/abs/2503.08639)|null|
+|**2025-03-11**|**LiSu: A Dataset and Method for LiDAR Surface Normal Estimation**|Dušan Malić et.al.|[2503.08601](http://arxiv.org/abs/2503.08601)|null|
+|**2025-03-11**|**3D Point Cloud Generation via Autoregressive Up-sampling**|Ziqiao Meng et.al.|[2503.08594](http://arxiv.org/abs/2503.08594)|null|
+|**2025-03-11**|**SAS: Segment Any 3D Scene with Integrated 2D Priors**|Zhuoyuan Li et.al.|[2503.08512](http://arxiv.org/abs/2503.08512)|null|
+|**2025-03-11**|**JiSAM: Alleviate Labeling Burden and Corner Case Problems in Autonomous Driving via Minimal Real-World Data**|Runjian Chen et.al.|[2503.08422](http://arxiv.org/abs/2503.08422)|null|
+|**2025-03-11**|**MetaFold: Language-Guided Multi-Category Garment Folding Framework via Trajectory Generation and Foundation Model**|Haonan Chen et.al.|[2503.08372](http://arxiv.org/abs/2503.08372)|null|
+|**2025-03-11**|**Parametric Point Cloud Completion for Polygonal Surface Reconstruction**|Zhaiyu Chen et.al.|[2503.08363](http://arxiv.org/abs/2503.08363)|null|
+|**2025-03-11**|**Mitigating Ambiguities in 3D Classification with Gaussian Splatting**|Ruiqi Zhang et.al.|[2503.08352](http://arxiv.org/abs/2503.08352)|null|
+|**2025-03-11**|**Talk2PC: Enhancing 3D Visual Grounding through LiDAR and Radar Point Clouds Fusion for Autonomous Driving**|Runwei Guan et.al.|[2503.08336](http://arxiv.org/abs/2503.08336)|null|
 |**2025-03-10**|**Open-Set Gait Recognition from Sparse mmWave Radar Point Clouds**|Riccardo Mazzieri et.al.|[2503.07435](http://arxiv.org/abs/2503.07435)|null|
 |**2025-03-10**|**Multi-Modal 3D Mesh Reconstruction from Images and Text**|Melvin Reka et.al.|[2503.07190](http://arxiv.org/abs/2503.07190)|null|
 |**2025-03-10**|**Temporal Overlapping Prediction: A Self-supervised Pre-training Method for LiDAR Moving Object Segmentation**|Ziliang Miao et.al.|[2503.07167](http://arxiv.org/abs/2503.07167)|null|
