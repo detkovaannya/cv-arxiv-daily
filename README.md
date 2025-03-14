@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-13**|**The Spectral Bias of Shallow Neural Network Learning is Shaped by the Choice of Non-linearity**|Justin Sahs et.al.|[2503.10587](http://arxiv.org/abs/2503.10587)|null|
+|**2025-03-13**|**Phase locking and fractional Shapiro steps in collective dynamics of microparticles**|Seemant Mishra et.al.|[2503.10536](http://arxiv.org/abs/2503.10536)|null|
+|**2025-03-13**|**Efficient Precoding in XL-MIMO-AFDM System**|Jun Zhu et.al.|[2503.10525](http://arxiv.org/abs/2503.10525)|null|
+|**2025-03-13**|**Concurrent Scheduling of High-Level Parallel Programs on Multi-GPU Systems**|Fabian Knorr et.al.|[2503.10516](http://arxiv.org/abs/2503.10516)|null|
+|**2025-03-13**|**Geometric realizations of $ν$ -associahedra via brick polyhedra**|Cesar Ceballos et.al.|[2503.10477](http://arxiv.org/abs/2503.10477)|null|
+|**2025-03-13**|**Architecture-Aware Minimization (A $^2$ M): How to Find Flat Minima in Neural Architecture Search**|Matteo Gambella et.al.|[2503.10404](http://arxiv.org/abs/2503.10404)|null|
+|**2025-03-13**|**Deep source separation of overlapping gravitational-wave signals and non-stationary noise artifacts**|Niklas Houba et.al.|[2503.10398](http://arxiv.org/abs/2503.10398)|null|
+|**2025-03-13**|**Hadron physics with functional methods**|Gernot Eichmann et.al.|[2503.10397](http://arxiv.org/abs/2503.10397)|null|
+|**2025-03-13**|**Towards Using Matrix-Free Tensor Decompositions to Systematically Improve Approximate Tensor-Networks**|Karl Pierce et.al.|[2503.10380](http://arxiv.org/abs/2503.10380)|null|
+|**2025-03-13**|**SPPO:Efficient Long-sequence LLM Training via Adaptive Sequence Pipeline Parallel Offloading**|Qiaoling Chen et.al.|[2503.10377](http://arxiv.org/abs/2503.10377)|null|
 |**2025-03-12**|**Hints of Primordial Magnetic Fields at Recombination and Implications for the Hubble Tension**|Karsten Jedamzik et.al.|[2503.09599](http://arxiv.org/abs/2503.09599)|null|
 |**2025-03-12**|**Properties of Contracting Massive Protostellar Cores**|L. E. Pirogov et.al.|[2503.09547](http://arxiv.org/abs/2503.09547)|null|
 |**2025-03-12**|**Evaluating Multi-Instance DNN Inferencing on Multiple Accelerators of an Edge Device**|Mumuksh Tayal et.al.|[2503.09546](http://arxiv.org/abs/2503.09546)|null|
@@ -3216,6 +3226,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-13**|**ETCH: Generalizing Body Fitting to Clothed Humans via Equivariant Tightness**|Boqian Li et.al.|[2503.10624](http://arxiv.org/abs/2503.10624)|null|
+|**2025-03-13**|**MuDG: Taming Multi-modal Diffusion with Gaussian Splatting for Urban Scene Reconstruction**|Yingshuang Zou et.al.|[2503.10604](http://arxiv.org/abs/2503.10604)|null|
+|**2025-03-13**|**PiSA: A Self-Augmented Data Engine and Training Strategy for 3D Understanding with Large Models**|Zilu Guo et.al.|[2503.10529](http://arxiv.org/abs/2503.10529)|null|
+|**2025-03-13**|**TARS: Traffic-Aware Radar Scene Flow Estimation**|Jialong Wu et.al.|[2503.10210](http://arxiv.org/abs/2503.10210)|null|
+|**2025-03-13**|**PRISM: Preference Refinement via Implicit Scene Modeling for 3D Vision-Language Preference-Based Reinforcement Learning**|Yirong Sun et.al.|[2503.10177](http://arxiv.org/abs/2503.10177)|null|
+|**2025-03-13**|**GS-SDF: LiDAR-Augmented Gaussian Splatting and Neural SDF for Geometrically Consistent Rendering and Reconstruction**|Jianheng Liu et.al.|[2503.10170](http://arxiv.org/abs/2503.10170)|null|
+|**2025-03-13**|**Unlocking Generalization Power in LiDAR Point Cloud Registration**|Zhenxuan Zeng et.al.|[2503.10149](http://arxiv.org/abs/2503.10149)|null|
+|**2025-03-13**|**Mapless Collision-Free Flight via MPC using Dual KD-Trees in Cluttered Environments**|Linzuo Zhang et.al.|[2503.10141](http://arxiv.org/abs/2503.10141)|null|
+|**2025-03-13**|**G $^{2}$ SF-MIAD: Geometry-Guided Score Fusion for Multimodal Industrial Anomaly Detection**|Chengyu Tao et.al.|[2503.10091](http://arxiv.org/abs/2503.10091)|null|
+|**2025-03-13**|**Fourier Decomposition for Explicit Representation of 3D Point Cloud Attributes**|Donghyun Kim et.al.|[2503.10055](http://arxiv.org/abs/2503.10055)|null|
 |**2025-03-12**|**Hybrid Rendering for Multimodal Autonomous Driving: Merging Neural and Physics-Based Simulation**|Máté Tóth et.al.|[2503.09464](http://arxiv.org/abs/2503.09464)|null|
 |**2025-03-12**|**Stealthy Patch-Wise Backdoor Attack in 3D Point Cloud via Curvature Awareness**|Yu Feng et.al.|[2503.09336](http://arxiv.org/abs/2503.09336)|null|
 |**2025-03-12**|**Noise2Score3D: Tweedie's Approach for Unsupervised Point Cloud Denoising**|Xiangbin Wei et.al.|[2503.09283](http://arxiv.org/abs/2503.09283)|null|
