@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-14**|**Centaur: Robust End-to-End Autonomous Driving with Test-Time Training**|Chonghao Sima et.al.|[2503.11650](http://arxiv.org/abs/2503.11650)|null|
+|**2025-03-14**|**Euclid preparation. BAO analysis of photometric galaxy clustering in configuration space**|Euclid Collaboration et.al.|[2503.11621](http://arxiv.org/abs/2503.11621)|null|
+|**2025-03-14**|**Supervised Distributed Computing**|John Augustine et.al.|[2503.11600](http://arxiv.org/abs/2503.11600)|null|
+|**2025-03-14**|**Quantifying sleep apnea heterogeneity using hierarchical Bayesian modeling**|Glenn Palmer et.al.|[2503.11599](http://arxiv.org/abs/2503.11599)|null|
+|**2025-03-14**|**Pathology Image Compression with Pre-trained Autoencoders**|Srikar Yellapragada et.al.|[2503.11591](http://arxiv.org/abs/2503.11591)|null|
+|**2025-03-14**|**Gravitational Redshift from Galaxy Clusters -- a Relativistic Approach**|Enea Di Dio et.al.|[2503.11585](http://arxiv.org/abs/2503.11585)|null|
+|**2025-03-14**|**Bosonized 1D quantum systems through enhanced Event-Chain Monte Carlo**|Oscar Bouverot-Dupuis et.al.|[2503.11577](http://arxiv.org/abs/2503.11577)|null|
+|**2025-03-14**|**Finding a Fair Scoring Function for Top- $k$ Selection: Hardness, Algorithms, and Experiments**|Guangya Cai et.al.|[2503.11575](http://arxiv.org/abs/2503.11575)|**[link](https://github.com/caiguangya/fair-topk)**|
+|**2025-03-14**|**On the Functional Dependence of Transition-Potential Coupled Cluster**|Alexis A. A. Delgado et.al.|[2503.11558](http://arxiv.org/abs/2503.11558)|null|
+|**2025-03-14**|**Perfect Stabilization of Biomolecular Adhesions under Load**|Anton F. Burnet et.al.|[2503.11510](http://arxiv.org/abs/2503.11510)|null|
 |**2025-03-13**|**The Spectral Bias of Shallow Neural Network Learning is Shaped by the Choice of Non-linearity**|Justin Sahs et.al.|[2503.10587](http://arxiv.org/abs/2503.10587)|null|
 |**2025-03-13**|**Phase locking and fractional Shapiro steps in collective dynamics of microparticles**|Seemant Mishra et.al.|[2503.10536](http://arxiv.org/abs/2503.10536)|null|
 |**2025-03-13**|**Efficient Precoding in XL-MIMO-AFDM System**|Jun Zhu et.al.|[2503.10525](http://arxiv.org/abs/2503.10525)|null|
@@ -3226,6 +3236,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-14**|**VGGT: Visual Geometry Grounded Transformer**|Jianyuan Wang et.al.|[2503.11651](http://arxiv.org/abs/2503.11651)|null|
+|**2025-03-14**|**TreeMeshGPT: Artistic Mesh Generation with Autoregressive Tree Sequencing**|Stefan Lionar et.al.|[2503.11629](http://arxiv.org/abs/2503.11629)|null|
+|**2025-03-14**|**Cloud2BIM: An open-source automatic pipeline for efficient conversion of large-scale point clouds into IFC format**|Slávek Zbirovský et.al.|[2503.11498](http://arxiv.org/abs/2503.11498)|null|
+|**2025-03-14**|**L2RSI: Cross-view LiDAR-based Place Recognition for Large-scale Urban Scenes via Remote Sensing Imagery**|Ziwei Shi et.al.|[2503.11245](http://arxiv.org/abs/2503.11245)|null|
+|**2025-03-14**|**Leveraging Semantic Graphs for Efficient and Robust LiDAR SLAM**|Neng Wang et.al.|[2503.11145](http://arxiv.org/abs/2503.11145)|null|
 |**2025-03-13**|**ETCH: Generalizing Body Fitting to Clothed Humans via Equivariant Tightness**|Boqian Li et.al.|[2503.10624](http://arxiv.org/abs/2503.10624)|**[link](https://github.com/boqian-li/ETCH)**|
 |**2025-03-13**|**MuDG: Taming Multi-modal Diffusion with Gaussian Splatting for Urban Scene Reconstruction**|Yingshuang Zou et.al.|[2503.10604](http://arxiv.org/abs/2503.10604)|null|
 |**2025-03-13**|**PiSA: A Self-Augmented Data Engine and Training Strategy for 3D Understanding with Large Models**|Zilu Guo et.al.|[2503.10529](http://arxiv.org/abs/2503.10529)|null|
