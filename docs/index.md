@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-18**|**Precise Quantum Chemistry calculations with few Slater Determinants**|Clemens Giuliani et.al.|[2503.14502](http://arxiv.org/abs/2503.14502)|null|
+|**2025-03-18**|**Utilization of Neighbor Information for Image Classification with Different Levels of Supervision**|Gihan Jayatilaka et.al.|[2503.14500](http://arxiv.org/abs/2503.14500)|null|
+|**2025-03-18**|**Strong local uniqueness for the vacant set of random interlacements**|Subhajit Goswami et.al.|[2503.14497](http://arxiv.org/abs/2503.14497)|null|
+|**2025-03-18**|**Velocity Structure Correlations between the Nebular, Molecular, and Atmospheric Gases in the Cores of Four Cool Core Clusters**|Muzi Li et.al.|[2503.14486](http://arxiv.org/abs/2503.14486)|null|
+|**2025-03-18**|**Global survey of star clusters in the Milky Way VIII. Cluster formation and evolution**|Jonathan H. Klos et.al.|[2503.14480](http://arxiv.org/abs/2503.14480)|null|
+|**2025-03-18**|**EnQode: Fast Amplitude Embedding for Quantum Machine Learning Using Classical Data**|Jason Han et.al.|[2503.14473](http://arxiv.org/abs/2503.14473)|null|
+|**2025-03-18**|**Low-Metallicity Star Formation Survey in Sh2-284 (LZ-STAR). I. Ordered massive star formation in the outer Galaxy**|Yu Cheng et.al.|[2503.14460](http://arxiv.org/abs/2503.14460)|null|
+|**2025-03-18**|**Spatial and temporal analysis of political violence in the United States**|Ravi Varma Pakalapati et.al.|[2503.14399](http://arxiv.org/abs/2503.14399)|null|
+|**2025-03-18**|**On the clustering behavior of sliding windows**|Boris Alexeev et.al.|[2503.14393](http://arxiv.org/abs/2503.14393)|null|
+|**2025-03-18**|**Wasserstein-based Kernels for Clustering: Application to Power Distribution Graphs**|Alfredo Oneto et.al.|[2503.14357](http://arxiv.org/abs/2503.14357)|null|
 |**2025-03-17**|**Measuring and unbiasing the BAO shift in the Lyman-Alpha forest with AbacusSummit**|Boryana Hadzhiyska et.al.|[2503.13442](http://arxiv.org/abs/2503.13442)|null|
 |**2025-03-17**|**Optimal Expert Selection for Distributed Mixture-of-Experts at the Wireless Edge**|Shengling Qin et.al.|[2503.13421](http://arxiv.org/abs/2503.13421)|null|
 |**2025-03-17**|**Scale Efficient Training for Large Datasets**|Qing Zhou et.al.|[2503.13385](http://arxiv.org/abs/2503.13385)|null|
@@ -3240,6 +3250,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-18**|**State Space Model Meets Transformer: A New Paradigm for 3D Object Detection**|Chuxin Wang et.al.|[2503.14493](http://arxiv.org/abs/2503.14493)|null|
+|**2025-03-18**|**Flying in Highly Dynamic Environments with End-to-end Learning Approach**|Xiyu Fan et.al.|[2503.14352](http://arxiv.org/abs/2503.14352)|null|
+|**2025-03-18**|**Deep Unsupervised Segmentation of Log Point Clouds**|Fedor Zolotarev et.al.|[2503.14244](http://arxiv.org/abs/2503.14244)|null|
+|**2025-03-18**|**RBFIM: Perceptual Quality Assessment for Compressed Point Clouds Using Radial Basis Function Interpolation**|Zhang Chen et.al.|[2503.14154](http://arxiv.org/abs/2503.14154)|null|
+|**2025-03-18**|**Monoidal Rips: Stable Multiparameter Filtrations of Directed Networks**|Nello Blaser et.al.|[2503.14019](http://arxiv.org/abs/2503.14019)|null|
+|**2025-03-18**|**Multimodal Feature-Driven Deep Learning for the Prediction of Duck Body Dimensions and Weight**|Yi Xiao et.al.|[2503.14001](http://arxiv.org/abs/2503.14001)|null|
+|**2025-03-18**|**FrustumFusionNets: A Three-Dimensional Object Detection Network Based on Tractor Road Scene**|Lili Yang et.al.|[2503.13951](http://arxiv.org/abs/2503.13951)|null|
+|**2025-03-18**|**Learning Shape-Independent Transformation via Spherical Representations for Category-Level Object Pose Estimation**|Huan Ren et.al.|[2503.13926](http://arxiv.org/abs/2503.13926)|null|
+|**2025-03-18**|**PSA-SSL: Pose and Size-aware Self-Supervised Learning on LiDAR Point Clouds**|Barza Nisar et.al.|[2503.13914](http://arxiv.org/abs/2503.13914)|null|
+|**2025-03-18**|**Robust3D-CIL: Robust Class-Incremental Learning for 3D Perception**|Jinge Ma et.al.|[2503.13869](http://arxiv.org/abs/2503.13869)|null|
 |**2025-03-17**|**TriDF: Triplane-Accelerated Density Fields for Few-Shot Remote Sensing Novel View Synthesis**|Jiaming Kang et.al.|[2503.13347](http://arxiv.org/abs/2503.13347)|null|
 |**2025-03-17**|**Clustering is back: Reaching state-of-the-art LiDAR instance segmentation without training**|Corentin Sautier et.al.|[2503.13203](http://arxiv.org/abs/2503.13203)|null|
 |**2025-03-17**|**LIVEPOINT: Fully Decentralized, Safe, Deadlock-Free Multi-Robot Control in Cluttered Environments with High-Dimensional Inputs**|Jeffrey Chen et.al.|[2503.13098](http://arxiv.org/abs/2503.13098)|null|
