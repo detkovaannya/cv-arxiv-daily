@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-19**|**Value Profiles for Encoding Human Variation**|Taylor Sorensen et.al.|[2503.15484](http://arxiv.org/abs/2503.15484)|null|
+|**2025-03-19**|**Reducing Communication Overhead in Federated Learning for Network Anomaly Detection with Adaptive Client Selection**|William Marfo et.al.|[2503.15448](http://arxiv.org/abs/2503.15448)|null|
+|**2025-03-19**|**Particle Pairing Caused Subdiffusion of Heavy Particles in the Imbalanced Hubbard Model**|Mirko Daumann et.al.|[2503.15409](http://arxiv.org/abs/2503.15409)|null|
+|**2025-03-19**|**Contemplating a Lightweight Communication Interface for Asynchronous Many-Task Systems**|Jiakun Yan et.al.|[2503.15400](http://arxiv.org/abs/2503.15400)|null|
+|**2025-03-19**|**ChonkyBFT: Consensus Protocol of ZKsync**|Bruno França et.al.|[2503.15380](http://arxiv.org/abs/2503.15380)|null|
+|**2025-03-19**|**Genomic data processing with GenomeFlow**|Junseok Park et.al.|[2503.15377](http://arxiv.org/abs/2503.15377)|null|
+|**2025-03-19**|**SPILL: Domain-Adaptive Intent Clustering based on Selection and Pooling with Large Language Models**|I-Fan Lin et.al.|[2503.15351](http://arxiv.org/abs/2503.15351)|null|
+|**2025-03-19**|**Euclid: Quick Data Release (Q1) -- A census of dwarf galaxies across a range of distances and environments**|F. R. Marleau et.al.|[2503.15335](http://arxiv.org/abs/2503.15335)|null|
+|**2025-03-19**|**Euclid Quick Data Release (Q1). The role of cosmic connectivity in shaping galaxy clusters**|Euclid Collaboration et.al.|[2503.15332](http://arxiv.org/abs/2503.15332)|null|
+|**2025-03-19**|**Combined Euclid and Spitzer galaxy density catalogues at $z$ >1.3 and detection of significant Euclid passive galaxy overdensities in Spitzer overdense regions**|Euclid Collaboration et.al.|[2503.15331](http://arxiv.org/abs/2503.15331)|null|
 |**2025-03-18**|**Precise Quantum Chemistry calculations with few Slater Determinants**|Clemens Giuliani et.al.|[2503.14502](http://arxiv.org/abs/2503.14502)|null|
 |**2025-03-18**|**Utilization of Neighbor Information for Image Classification with Different Levels of Supervision**|Gihan Jayatilaka et.al.|[2503.14500](http://arxiv.org/abs/2503.14500)|null|
 |**2025-03-18**|**Strong local uniqueness for the vacant set of random interlacements**|Subhajit Goswami et.al.|[2503.14497](http://arxiv.org/abs/2503.14497)|null|
@@ -3256,6 +3266,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-19**|**SUM Parts: Benchmarking Part-Level Semantic Segmentation of Urban Meshes**|Weixiao Gao et.al.|[2503.15300](http://arxiv.org/abs/2503.15300)|null|
+|**2025-03-19**|**PAPI-Reg: Patch-to-Pixel Solution for Efficient Cross-Modal Registration between LiDAR Point Cloud and Camera Image**|Yuanchao Yue et.al.|[2503.15285](http://arxiv.org/abs/2503.15285)|null|
+|**2025-03-19**|**EdgeRegNet: Edge Feature-based Multimodal Registration Network between Images and LiDAR Point Clouds**|Yuanchao Yue et.al.|[2503.15284](http://arxiv.org/abs/2503.15284)|null|
+|**2025-03-19**|**DeepMesh: Auto-Regressive Artist-mesh Creation with Reinforcement Learning**|Ruowen Zhao et.al.|[2503.15265](http://arxiv.org/abs/2503.15265)|null|
+|**2025-03-19**|**PointSFDA: Source-free Domain Adaptation for Point Cloud Completion**|Xing He et.al.|[2503.15144](http://arxiv.org/abs/2503.15144)|null|
+|**2025-03-19**|**Distilling 3D distinctive local descriptors for 6D pose estimation**|Amir Hamza et.al.|[2503.15106](http://arxiv.org/abs/2503.15106)|null|
+|**2025-03-19**|**Intelligent Spatial Perception by Building Hierarchical 3D Scene Graphs for Indoor Scenarios with the Help of LLMs**|Yao Cheng et.al.|[2503.15091](http://arxiv.org/abs/2503.15091)|null|
+|**2025-03-19**|**xMOD: Cross-Modal Distillation for 2D/3D Multi-Object Discovery from 2D motion**|Saad Lahlali et.al.|[2503.15022](http://arxiv.org/abs/2503.15022)|null|
+|**2025-03-19**|**Low-Complexity Patch-based No-Reference Point Cloud Quality Metric exploiting Weighted Structure and Texture Features**|Michael Neri et.al.|[2503.15001](http://arxiv.org/abs/2503.15001)|null|
+|**2025-03-19**|**Depth-Aware Range Image-Based Model for Point Cloud Segmentation**|Bike Chen et.al.|[2503.14955](http://arxiv.org/abs/2503.14955)|null|
 |**2025-03-19**|**State Space Model Meets Transformer: A New Paradigm for 3D Object Detection**|Chuxin Wang et.al.|[2503.14493](http://arxiv.org/abs/2503.14493)|null|
 |**2025-03-18**|**Flying in Highly Dynamic Environments with End-to-end Learning Approach**|Xiyu Fan et.al.|[2503.14352](http://arxiv.org/abs/2503.14352)|null|
 |**2025-03-18**|**Deep Unsupervised Segmentation of Log Point Clouds**|Fedor Zolotarev et.al.|[2503.14244](http://arxiv.org/abs/2503.14244)|null|
