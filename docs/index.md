@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**Graph of Effort: Quantifying Risk of AI Usage for Vulnerability Assessment**|Anket Mehra et.al.|[2503.16392](http://arxiv.org/abs/2503.16392)|null|
+|**2025-03-20**|**The impact of baryons on the sparsity of simulated galaxy clusters from The Three Hundred Project**|P. S. Corasaniti et.al.|[2503.16379](http://arxiv.org/abs/2503.16379)|null|
+|**2025-03-20**|**Euclid: Early Release Observations -- Interplay between dwarf galaxies and their globular clusters in the Perseus galaxy cluster**|T. Saifollahi et.al.|[2503.16367](http://arxiv.org/abs/2503.16367)|null|
+|**2025-03-20**|**DEMNUni: the Sunyaev-Zel'dovich effect in the presence of massive neutrinos and dynamical dark energy**|Davide Luchina et.al.|[2503.16355](http://arxiv.org/abs/2503.16355)|null|
+|**2025-03-20**|**On the spatial distribution of luminous blue variables in the M33 galaxy**|A. Kostenkov et.al.|[2503.16349](http://arxiv.org/abs/2503.16349)|null|
+|**2025-03-20**|**A parallel algorithm for the odd two-face shortest k-disjoint path problem**|Srijan Chakraborty et.al.|[2503.16336](http://arxiv.org/abs/2503.16336)|null|
+|**2025-03-20**|**RESFL: An Uncertainty-Aware Framework for Responsible Federated Learning by Balancing Privacy, Fairness and Utility in Autonomous Vehicles**|Dawood Wasif et.al.|[2503.16251](http://arxiv.org/abs/2503.16251)|null|
+|**2025-03-20**|**Empirical Analysis of Privacy-Fairness-Accuracy Trade-offs in Federated Learning: A Step Towards Responsible AI**|Dawood Wasif et.al.|[2503.16233](http://arxiv.org/abs/2503.16233)|null|
+|**2025-03-20**|**Dispersion is (Almost) Optimal under (A)synchrony**|Ajay D. Kshemkalyani et.al.|[2503.16216](http://arxiv.org/abs/2503.16216)|null|
+|**2025-03-20**|**Subaru Hyper-Supreme Cam observations of IC 1396: Source catalogue, member population, and sub-clusters of the complex**|Swagat R Das et.al.|[2503.16205](http://arxiv.org/abs/2503.16205)|null|
 |**2025-03-19**|**Value Profiles for Encoding Human Variation**|Taylor Sorensen et.al.|[2503.15484](http://arxiv.org/abs/2503.15484)|null|
 |**2025-03-19**|**Reducing Communication Overhead in Federated Learning for Network Anomaly Detection with Adaptive Client Selection**|William Marfo et.al.|[2503.15448](http://arxiv.org/abs/2503.15448)|null|
 |**2025-03-19**|**Particle Pairing Caused Subdiffusion of Heavy Particles in the Imbalanced Hubbard Model**|Mirko Daumann et.al.|[2503.15409](http://arxiv.org/abs/2503.15409)|null|
@@ -3260,6 +3270,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**Sonata: Self-Supervised Learning of Reliable Point Representations**|Xiaoyang Wu et.al.|[2503.16429](http://arxiv.org/abs/2503.16429)|null|
+|**2025-03-20**|**Panoptic-CUDAL Technical Report: Rural Australia Point Cloud Dataset in Rainy Conditions**|Tzu-Yun Tseng et.al.|[2503.16378](http://arxiv.org/abs/2503.16378)|null|
+|**2025-03-20**|**Dynamic Point Maps: A Versatile Representation for Dynamic 3D Reconstruction**|Edgar Sucar et.al.|[2503.16318](http://arxiv.org/abs/2503.16318)|null|
+|**2025-03-20**|**Generalized Few-shot 3D Point Cloud Segmentation with Vision-Language Model**|Zhaochong An et.al.|[2503.16282](http://arxiv.org/abs/2503.16282)|null|
+|**2025-03-20**|**From Monocular Vision to Autonomous Action: Guiding Tumor Resection via 3D Reconstruction**|Ayberk Acar et.al.|[2503.16263](http://arxiv.org/abs/2503.16263)|null|
+|**2025-03-20**|**Persistent Stiefel-Whitney Classes of Tangent Bundles**|Dongwoo Gang et.al.|[2503.15854](http://arxiv.org/abs/2503.15854)|null|
+|**2025-03-20**|**Computation-Efficient and Recognition-Friendly 3D Point Cloud Privacy Protection**|Haotian Ma et.al.|[2503.15818](http://arxiv.org/abs/2503.15818)|null|
+|**2025-03-20**|**OffsetOPT: Explicit Surface Reconstruction without Normals**|Huan Lei et.al.|[2503.15763](http://arxiv.org/abs/2503.15763)|null|
+|**2025-03-19**|**Toward Scalable, Flexible Scene Flow for Point Clouds**|Kyle Vedder et.al.|[2503.15666](http://arxiv.org/abs/2503.15666)|null|
 |**2025-03-19**|**SUM Parts: Benchmarking Part-Level Semantic Segmentation of Urban Meshes**|Weixiao Gao et.al.|[2503.15300](http://arxiv.org/abs/2503.15300)|null|
 |**2025-03-19**|**PAPI-Reg: Patch-to-Pixel Solution for Efficient Cross-Modal Registration between LiDAR Point Cloud and Camera Image**|Yuanchao Yue et.al.|[2503.15285](http://arxiv.org/abs/2503.15285)|null|
 |**2025-03-19**|**EdgeRegNet: Edge Feature-based Multimodal Registration Network between Images and LiDAR Point Clouds**|Yuanchao Yue et.al.|[2503.15284](http://arxiv.org/abs/2503.15284)|null|
