@@ -69,7 +69,7 @@ layout: default
 |**2025-03-13**|**Efficient Precoding in XL-MIMO-AFDM System**|Jun Zhu et.al.|[2503.10525](http://arxiv.org/abs/2503.10525)|null|
 |**2025-03-13**|**Concurrent Scheduling of High-Level Parallel Programs on Multi-GPU Systems**|Fabian Knorr et.al.|[2503.10516](http://arxiv.org/abs/2503.10516)|null|
 |**2025-03-13**|**Geometric realizations of $ν$ -associahedra via brick polyhedra**|Cesar Ceballos et.al.|[2503.10477](http://arxiv.org/abs/2503.10477)|null|
-|**2025-03-13**|**Architecture-Aware Minimization (A $^2$ M): How to Find Flat Minima in Neural Architecture Search**|Matteo Gambella et.al.|[2503.10404](http://arxiv.org/abs/2503.10404)|null|
+|**2025-03-13**|**Architecture-Aware Minimization (A $^2$ M): How to Find Flat Minima in Neural Architecture Search**|Matteo Gambella et.al.|[2503.10404](http://arxiv.org/abs/2503.10404)|**[link](https://github.com/ai-tech-research-lab/asquaredm)**|
 |**2025-03-13**|**Deep source separation of overlapping gravitational-wave signals and non-stationary noise artifacts**|Niklas Houba et.al.|[2503.10398](http://arxiv.org/abs/2503.10398)|null|
 |**2025-03-13**|**Hadron physics with functional methods**|Gernot Eichmann et.al.|[2503.10397](http://arxiv.org/abs/2503.10397)|null|
 |**2025-03-13**|**Towards Using Matrix-Free Tensor Decompositions to Systematically Improve Approximate Tensor-Networks**|Karl Pierce et.al.|[2503.10380](http://arxiv.org/abs/2503.10380)|null|
@@ -934,7 +934,7 @@ layout: default
 |**2024-10-30**|**Efficient Routing on Quantum Networks using Adaptive Clustering**|Connor Clayton et.al.|[2410.23007](http://arxiv.org/abs/2410.23007)|null|
 |**2024-10-30**|**Generalized many-body perturbation theory for the electron correlation energy**|Yuqi Wang et.al.|[2410.22990](http://arxiv.org/abs/2410.22990)|null|
 |**2024-10-30**|**Dual-Optimized Adaptive Graph Reconstruction for Multi-View Graph Clustering**|Zichen Wen et.al.|[2410.22983](http://arxiv.org/abs/2410.22983)|null|
-|**2024-10-29**|**An Efficient Approach to Generate Safe Drivable Space by LiDAR-Camera-HDmap Fusion**|Minghao Ning et.al.|[2410.22314](http://arxiv.org/abs/2410.22314)|null|
+|**2024-10-29**|**An Efficient Approach to Generate Safe Drivable Space by LiDAR-Camera-HDmap Fusion**|Minghao Ning et.al.|[2410.22314](http://arxiv.org/abs/2410.22314)|**[link](https://github.com/NingMingHao/Yolov8TensorrtRos)**|
 |**2024-10-29**|**Capturing the elusive curve-crossing in low-lying states of butadiene with dressed TDDFT**|Davood B. Dar et.al.|[2410.22286](http://arxiv.org/abs/2410.22286)|null|
 |**2024-10-29**|**GPU Sharing with Triples Mode**|Chansup Byun et.al.|[2410.22254](http://arxiv.org/abs/2410.22254)|null|
 |**2024-10-29**|**Model-free Estimation of Latent Structure via Multiscale Nonparametric Maximum Likelihood**|Bryon Aragam et.al.|[2410.22248](http://arxiv.org/abs/2410.22248)|null|
@@ -1427,7 +1427,7 @@ layout: default
 |**2024-08-09**|**Deep-change at AXOLOTL-24: Orchestrating WSD and WSI Models for Semantic Change Modeling**|Denis Kokosinskii et.al.|[2408.05184](http://arxiv.org/abs/2408.05184)|null|
 |**2024-08-09**|**Weak-Annotation of HAR Datasets using Vision Foundation Models**|Marius Bock et.al.|[2408.05169](http://arxiv.org/abs/2408.05169)|**[link](https://github.com/mariusbock/weak_har)**|
 |**2024-08-09**|**Sparsity-Preserving Encodings for Straggler-Optimal Distributed Matrix Computations at the Edge**|Anindya Bijoy Das et.al.|[2408.05152](http://arxiv.org/abs/2408.05152)|null|
-|**2024-08-09**|**Impacts of floating-point non-associativity on reproducibility for HPC and deep learning applications**|Sanjif Shanmugavelu et.al.|[2408.05148](http://arxiv.org/abs/2408.05148)|null|
+|**2024-08-09**|**Impacts of floating-point non-associativity on reproducibility for HPC and deep learning applications**|Sanjif Shanmugavelu et.al.|[2408.05148](http://arxiv.org/abs/2408.05148)|**[link](https://github.com/minnervva/correctness)**|
 |**2024-08-09**|**Scaling and universality for percolation in random networks: a unified view**|Lorenzo Cirigliano et.al.|[2408.05125](http://arxiv.org/abs/2408.05125)|null|
 |**2024-08-09**|**Acto-myosin clusters as active units shaping living matter**|Karsten Kruse et.al.|[2408.05119](http://arxiv.org/abs/2408.05119)|null|
 |**2024-08-09**|**On the origin of transient features in cosmological N-Body Simulations**|J. S. Bagla et.al.|[2408.05118](http://arxiv.org/abs/2408.05118)|null|
@@ -3309,11 +3309,11 @@ layout: default
 |**2025-03-17**|**AV-Surf: Surface-Enhanced Geometry-Aware Novel-View Acoustic Synthesis**|Hadam Baek et.al.|[2503.12806](http://arxiv.org/abs/2503.12806)|null|
 |**2025-03-17**|**ProtoDepth: Unsupervised Continual Depth Completion with Prototypes**|Patrick Rim et.al.|[2503.12745](http://arxiv.org/abs/2503.12745)|null|
 |**2025-03-16**|**Point Cloud Based Scene Segmentation: A Survey**|Dan Halperin et.al.|[2503.12595](http://arxiv.org/abs/2503.12595)|null|
-|**2025-03-14**|**VGGT: Visual Geometry Grounded Transformer**|Jianyuan Wang et.al.|[2503.11651](http://arxiv.org/abs/2503.11651)|null|
-|**2025-03-14**|**TreeMeshGPT: Artistic Mesh Generation with Autoregressive Tree Sequencing**|Stefan Lionar et.al.|[2503.11629](http://arxiv.org/abs/2503.11629)|null|
-|**2025-03-14**|**Cloud2BIM: An open-source automatic pipeline for efficient conversion of large-scale point clouds into IFC format**|Slávek Zbirovský et.al.|[2503.11498](http://arxiv.org/abs/2503.11498)|null|
+|**2025-03-14**|**VGGT: Visual Geometry Grounded Transformer**|Jianyuan Wang et.al.|[2503.11651](http://arxiv.org/abs/2503.11651)|**[link](https://github.com/facebookresearch/vggt)**|
+|**2025-03-14**|**TreeMeshGPT: Artistic Mesh Generation with Autoregressive Tree Sequencing**|Stefan Lionar et.al.|[2503.11629](http://arxiv.org/abs/2503.11629)|**[link](https://github.com/sail-sg/treemeshgpt)**|
+|**2025-03-14**|**Cloud2BIM: An open-source automatic pipeline for efficient conversion of large-scale point clouds into IFC format**|Slávek Zbirovský et.al.|[2503.11498](http://arxiv.org/abs/2503.11498)|**[link](https://github.com/vaclavnezerka/cloud2bim)**|
 |**2025-03-14**|**L2RSI: Cross-view LiDAR-based Place Recognition for Large-scale Urban Scenes via Remote Sensing Imagery**|Ziwei Shi et.al.|[2503.11245](http://arxiv.org/abs/2503.11245)|null|
-|**2025-03-14**|**Leveraging Semantic Graphs for Efficient and Robust LiDAR SLAM**|Neng Wang et.al.|[2503.11145](http://arxiv.org/abs/2503.11145)|null|
+|**2025-03-14**|**Leveraging Semantic Graphs for Efficient and Robust LiDAR SLAM**|Neng Wang et.al.|[2503.11145](http://arxiv.org/abs/2503.11145)|**[link](https://github.com/nubot-nudt/sg-slam)**|
 |**2025-03-13**|**ETCH: Generalizing Body Fitting to Clothed Humans via Equivariant Tightness**|Boqian Li et.al.|[2503.10624](http://arxiv.org/abs/2503.10624)|**[link](https://github.com/boqian-li/ETCH)**|
 |**2025-03-13**|**MuDG: Taming Multi-modal Diffusion with Gaussian Splatting for Urban Scene Reconstruction**|Yingshuang Zou et.al.|[2503.10604](http://arxiv.org/abs/2503.10604)|null|
 |**2025-03-13**|**PiSA: A Self-Augmented Data Engine and Training Strategy for 3D Understanding with Large Models**|Zilu Guo et.al.|[2503.10529](http://arxiv.org/abs/2503.10529)|null|
@@ -3911,7 +3911,7 @@ layout: default
 |**2024-10-23**|**Att2CPC: Attention-Guided Lossy Attribute Compression of Point Clouds**|Kai Liu et.al.|[2410.17823](http://arxiv.org/abs/2410.17823)|**[link](https://github.com/i2-multimedia-lab/att2cpc)**|
 |**2024-10-23**|**Pointer: An Energy-Efficient ReRAM-based Point Cloud Recognition Accelerator with Inter-layer and Intra-layer Optimizations**|Qijun Zhang et.al.|[2410.17782](http://arxiv.org/abs/2410.17782)|null|
 |**2024-10-23**|**Quasi-Medial Distance Field (Q-MDF): A Robust Method for Approximating and Discretizing Neural Medial Axis**|Jiayi Kong et.al.|[2410.17774](http://arxiv.org/abs/2410.17774)|null|
-|**2024-10-23**|**Topology meets Machine Learning: An Introduction using the Euler Characteristic Transform**|Bastian Rieck et.al.|[2410.17760](http://arxiv.org/abs/2410.17760)|null|
+|**2024-10-23**|**Topology meets Machine Learning: An Introduction using the Euler Characteristic Transform**|Bastian Rieck et.al.|[2410.17760](http://arxiv.org/abs/2410.17760)|**[link](https://github.com/aidos-lab/ECT)**|
 |**2024-10-22**|**EPContrast: Effective Point-level Contrastive Learning for Large-scale Point Cloud Understanding**|Zhiyi Pan et.al.|[2410.17207](http://arxiv.org/abs/2410.17207)|null|
 |**2024-10-22**|**Joint Point Cloud Upsampling and Cleaning with Octree-based CNNs**|Jihe Li et.al.|[2410.17001](http://arxiv.org/abs/2410.17001)|**[link](https://github.com/octree-nn/upsample-clean)**|
 |**2024-10-22**|**E-3DGS: Gaussian Splatting with Exposure and Motion Events**|Xiaoting Yin et.al.|[2410.16995](http://arxiv.org/abs/2410.16995)|**[link](https://github.com/masterhow/e-3dgs)**|
