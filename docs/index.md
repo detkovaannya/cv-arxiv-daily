@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-25**|**RCC-PFL: Robust Client Clustering under Noisy Labels in Personalized Federated Learning**|Abdulmoneam Ali et.al.|[2503.19886](http://arxiv.org/abs/2503.19886)|null|
+|**2025-03-25**|**SLA-Awareness for AI-assisted coding**|Kishanthan Thangarajah et.al.|[2503.19876](http://arxiv.org/abs/2503.19876)|null|
+|**2025-03-25**|**Comparing the Run-time Behavior of Modern PDES Engines on Alternative Hardware Architectures**|Romolo Marotta et.al.|[2503.19857](http://arxiv.org/abs/2503.19857)|null|
+|**2025-03-25**|**Macroscopic suppression of supersonic quantum transport**|Jérémy Faupin et.al.|[2503.19788](http://arxiv.org/abs/2503.19788)|null|
+|**2025-03-25**|**Stellar-wind feedback and magnetic fields around young compact star clusters: 3D MHD simulations**|Lucia Härer et.al.|[2503.19745](http://arxiv.org/abs/2503.19745)|null|
+|**2025-03-25**|**Role of spatial embedding and planarity in shaping the topology of the Street Networks**|Ritish Khetarpal et.al.|[2503.19723](http://arxiv.org/abs/2503.19723)|null|
+|**2025-03-25**|**AIGC-assisted Federated Learning for Vehicular Edge Intelligence: Vehicle Selection, Resource Allocation and Model Augmentation**|Xianke Qiang et.al.|[2503.19676](http://arxiv.org/abs/2503.19676)|null|
+|**2025-03-25**|**A Tight Meta-theorem for LOCAL Certification of MSO $_2$ Properties within Bounded Treewidth Graphs**|Linda Cook et.al.|[2503.19671](http://arxiv.org/abs/2503.19671)|null|
+|**2025-03-25**|**fine-CLIP: Enhancing Zero-Shot Fine-Grained Surgical Action Recognition with Vision-Language Models**|Saurav Sharma et.al.|[2503.19670](http://arxiv.org/abs/2503.19670)|null|
+|**2025-03-25**|**Multiplication of 0-1 matrices via clustering**|Jesper Jansson et.al.|[2503.19631](http://arxiv.org/abs/2503.19631)|null|
 |**2025-03-24**|**Advances of Mayer's cluster approach in quantitative theoretical description of phase transitions for various lattice models of matter**|M. V. Ushcats et.al.|[2503.18895](http://arxiv.org/abs/2503.18895)|null|
 |**2025-03-24**|**Beyond the first galaxies primordial black holes shine**|Antonio Matteri et.al.|[2503.18850](http://arxiv.org/abs/2503.18850)|null|
 |**2025-03-24**|**A benchmark companion at the hydrogen-burning limit imaged in the core cluster of the Fornax-Horologium association**|Pengyu Liu et.al.|[2503.18838](http://arxiv.org/abs/2503.18838)|null|
@@ -3290,6 +3300,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-25**|**SuperFlow++: Enhanced Spatiotemporal Consistency for Cross-Modal Data Pretraining**|Xiang Xu et.al.|[2503.19912](http://arxiv.org/abs/2503.19912)|null|
+|**2025-03-24**|**Stochastic Poisson Surface Reconstruction with One Solve using Geometric Gaussian Processes**|Sidhanth Holalkere et.al.|[2503.19136](http://arxiv.org/abs/2503.19136)|null|
+|**2025-03-24**|**3D Structural Phenotype of the Optic Nerve Head at the Intersection of Glaucoma and Myopia - A Key to Improving Glaucoma Diagnosis in Myopic Populations**|Swati Sharma et.al.|[2503.19083](http://arxiv.org/abs/2503.19083)|null|
 |**2025-03-24**|**DINO in the Room: Leveraging 2D Foundation Models for 3D Segmentation**|Karim Abou Zeid et.al.|[2503.18944](http://arxiv.org/abs/2503.18944)|**[link](https://github.com/VisualComputingInstitute/DITR)**|
 |**2025-03-24**|**NexusGS: Sparse View Synthesis with Epipolar Depth Priors in 3D Gaussian Splatting**|Yulong Zheng et.al.|[2503.18794](http://arxiv.org/abs/2503.18794)|null|
 |**2025-03-24**|**FG $^2$ : Fine-Grained Cross-View Localization by Fine-Grained Feature Matching**|Zimin Xia et.al.|[2503.18725](http://arxiv.org/abs/2503.18725)|null|
