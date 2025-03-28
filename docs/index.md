@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-27**|**Optical control of orbital magnetism in magic angle twisted bilayer graphene**|Eylon Persky et.al.|[2503.21750](http://arxiv.org/abs/2503.21750)|null|
+|**2025-03-27**|**Three-Dimensional Stacking as a Line Intensity Mapping Statistic**|D. A. Dunne et.al.|[2503.21743](http://arxiv.org/abs/2503.21743)|null|
+|**2025-03-27**|**Effective Skill Unlearning through Intervention and Abstention**|Yongce Li et.al.|[2503.21730](http://arxiv.org/abs/2503.21730)|null|
+|**2025-03-27**|**Ram-pressure stripping caught in action in a forming galaxy cluster 3 billion years after the Big Bang**|Ke Xu et.al.|[2503.21724](http://arxiv.org/abs/2503.21724)|null|
+|**2025-03-27**|**Dynamics of Star Cluster Formation: The Effects of Ongoing Star Formation and Stellar Feedback**|Jeremy Karam et.al.|[2503.21716](http://arxiv.org/abs/2503.21716)|null|
+|**2025-03-27**|**Flashlights: Prospects for constraining the Initial Mass Function around cosmic noon with caustic-crossing events**|Ashish Kumar Meena et.al.|[2503.21706](http://arxiv.org/abs/2503.21706)|null|
+|**2025-03-27**|**Decorated phases in triblock copolymers: zeroth- and first-order analysis**|Stanley Alama et.al.|[2503.21684](http://arxiv.org/abs/2503.21684)|null|
+|**2025-03-27**|**Interacting dark sectors in light of DESI DR2**|Rahul Shah et.al.|[2503.21652](http://arxiv.org/abs/2503.21652)|null|
+|**2025-03-27**|**A possible GeV-TeV connection in the direction of the Globular Cluster UKS 1**|Jiwon Shin et.al.|[2503.21641](http://arxiv.org/abs/2503.21641)|null|
+|**2025-03-27**|**ClusterSC: Advancing Synthetic Control with Donor Selection**|Saeyoung Rho et.al.|[2503.21629](http://arxiv.org/abs/2503.21629)|null|
 |**2025-03-27**|**An Empirical Study of the Impact of Federated Learning on Machine Learning Model Accuracy**|Haotian Yang et.al.|[2503.20768](http://arxiv.org/abs/2503.20768)|null|
 |**2025-03-26**|**Ontology-based Semantic Similarity Measures for Clustering Medical Concepts in Drug Safety**|Jeffery L Painter et.al.|[2503.20737](http://arxiv.org/abs/2503.20737)|null|
 |**2025-03-26**|**Functional methods for hadron spectroscopy**|Gernot Eichmann et.al.|[2503.20718](http://arxiv.org/abs/2503.20718)|null|
@@ -3310,6 +3320,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-27**|**ICG-MVSNet: Learning Intra-view and Cross-view Relationships for Guidance in Multi-View Stereo**|Yuxi Hu et.al.|[2503.21525](http://arxiv.org/abs/2503.21525)|null|
+|**2025-03-27**|**Towards Generating Realistic 3D Semantic Training Data for Autonomous Driving**|Lucas Nunes et.al.|[2503.21449](http://arxiv.org/abs/2503.21449)|null|
+|**2025-03-27**|**Multimodal surface defect detection from wooden logs for sawing optimization**|Bořek Reich et.al.|[2503.21367](http://arxiv.org/abs/2503.21367)|null|
+|**2025-03-27**|**HORT: Monocular Hand-held Objects Reconstruction with Transformers**|Zerui Chen et.al.|[2503.21313](http://arxiv.org/abs/2503.21313)|null|
+|**2025-03-27**|**One Snapshot is All You Need: A Generalized Method for mmWave Signal Generation**|Teng Huang et.al.|[2503.21122](http://arxiv.org/abs/2503.21122)|null|
+|**2025-03-27**|**Geographical hotspot prediction based on point cloud-voxel-community partition clustering**|Yan Tang et.al.|[2503.21084](http://arxiv.org/abs/2503.21084)|null|
 |**2025-03-26**|**Topology of The Polar Vortex and Montana Weather**|Joshua Dorrington et.al.|[2503.20743](http://arxiv.org/abs/2503.20743)|null|
 |**2025-03-26**|**GLRD: Global-Local Collaborative Reason and Debate with PSL for 3D Open-Vocabulary Detection**|Xingyu Peng et.al.|[2503.20682](http://arxiv.org/abs/2503.20682)|null|
 |**2025-03-27**|**Recovering Dynamic 3D Sketches from Videos**|Jaeah Lee et.al.|[2503.20321](http://arxiv.org/abs/2503.20321)|null|
