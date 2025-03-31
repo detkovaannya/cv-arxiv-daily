@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-28**|**A Performance Analysis of Task Scheduling for UQ Workflows on HPC Systems**|Chung Ming Loi et.al.|[2503.22645](http://arxiv.org/abs/2503.22645)|null|
+|**2025-03-28**|**Hiding Latencies in Network-Based Image Loading for Deep Learning**|Francesco Versaci et.al.|[2503.22643](http://arxiv.org/abs/2503.22643)|null|
+|**2025-03-28**|**The BLOBs: Enigmatic Diffuse Ionized Gas Structures in a Cluster of Galaxies near Cosmic Noon**|C. Maier et.al.|[2503.22628](http://arxiv.org/abs/2503.22628)|null|
+|**2025-03-28**|**Using Machine Learning for Lunar Mineralogy-I: Hyperspectral Imaging of Volcanic Samples**|Fatemeh Fazel Hesar et.al.|[2503.22617](http://arxiv.org/abs/2503.22617)|null|
+|**2025-03-28**|**Niyama : Breaking the Silos of LLM Inference Serving**|Kanishk Goel et.al.|[2503.22562](http://arxiv.org/abs/2503.22562)|null|
+|**2025-03-28**|**Improving Low-Resource Retrieval Effectiveness using Zero-Shot Linguistic Similarity Transfer**|Andreas Chari et.al.|[2503.22508](http://arxiv.org/abs/2503.22508)|null|
+|**2025-03-28**|**An integrated method for clustering and association network inference**|Jeanne Tous et.al.|[2503.22467](http://arxiv.org/abs/2503.22467)|null|
+|**2025-03-28**|**On the Solvability of Byzantine-tolerant Reliable Communication in Dynamic Networks**|Silvia Bonomi et.al.|[2503.22452](http://arxiv.org/abs/2503.22452)|null|
+|**2025-03-28**|**Comparison between neural network clustering, hierarchical clustering and k-means clustering: Applications using fluidic lenses**|Graciana Puentes et.al.|[2503.22448](http://arxiv.org/abs/2503.22448)|null|
+|**2025-03-28**|**Chemical distance for smooth Gaussian fields in higher dimension**|David Vernotte et.al.|[2503.22434](http://arxiv.org/abs/2503.22434)|null|
 |**2025-03-27**|**Optical control of orbital magnetism in magic angle twisted bilayer graphene**|Eylon Persky et.al.|[2503.21750](http://arxiv.org/abs/2503.21750)|null|
 |**2025-03-27**|**Three-Dimensional Stacking as a Line Intensity Mapping Statistic**|D. A. Dunne et.al.|[2503.21743](http://arxiv.org/abs/2503.21743)|null|
 |**2025-03-27**|**Effective Skill Unlearning through Intervention and Abstention**|Yongce Li et.al.|[2503.21730](http://arxiv.org/abs/2503.21730)|**[link](https://github.com/trustworthy-ml-lab/effective_skill_unlearning)**|
@@ -3320,6 +3330,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-28**|**Permutation-Invariant and Orientation-Aware Dataset Distillation for 3D Point Clouds**|Jae-Young Yim et.al.|[2503.22154](http://arxiv.org/abs/2503.22154)|null|
+|**2025-03-27**|**NeRF-based Point Cloud Reconstruction using a Stationary Camera for Agricultural Applications**|Kibon Ku et.al.|[2503.21958](http://arxiv.org/abs/2503.21958)|null|
 |**2025-03-27**|**ICG-MVSNet: Learning Intra-view and Cross-view Relationships for Guidance in Multi-View Stereo**|Yuxi Hu et.al.|[2503.21525](http://arxiv.org/abs/2503.21525)|null|
 |**2025-03-27**|**Towards Generating Realistic 3D Semantic Training Data for Autonomous Driving**|Lucas Nunes et.al.|[2503.21449](http://arxiv.org/abs/2503.21449)|**[link](https://github.com/prbonn/3diss)**|
 |**2025-03-27**|**Multimodal surface defect detection from wooden logs for sawing optimization**|Bořek Reich et.al.|[2503.21367](http://arxiv.org/abs/2503.21367)|null|
