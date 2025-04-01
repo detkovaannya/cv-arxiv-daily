@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-31**|**AutoEval: Autonomous Evaluation of Generalist Robot Manipulation Policies in the Real World**|Zhiyuan Zhou et.al.|[2503.24278](http://arxiv.org/abs/2503.24278)|**[link](https://github.com/zhouzypaul/auto_eval)**|
+|**2025-03-31**|**The Physics of Conformal Cyclic Cosmology**|Krzysztof A. Meissner et.al.|[2503.24263](http://arxiv.org/abs/2503.24263)|null|
+|**2025-03-31**|**Distinct parallel electrostatic collisionless shocks in hot-cold ablative mixing plasmas**|Yanzeng Zhang et.al.|[2503.24231](http://arxiv.org/abs/2503.24231)|null|
+|**2025-03-31**|**GPU-centric Communication Schemes for HPC and ML Applications**|Naveen Namashivayam et.al.|[2503.24230](http://arxiv.org/abs/2503.24230)|null|
+|**2025-03-31**|**Fermilab's Transition to Token Authentication**|Dave Dykstra et.al.|[2503.24196](http://arxiv.org/abs/2503.24196)|null|
+|**2025-03-31**|**Enhancing Traffic Safety with AI and 6G: Latency Requirements and Real-Time Threat Detection**|Kurt Horvath et.al.|[2503.24143](http://arxiv.org/abs/2503.24143)|null|
+|**2025-03-31**|**From Local to Remote: VisIVO Visual Analytics in the Era of the Square Kilometre Array**|Giuseppe Tudisco et.al.|[2503.24113](http://arxiv.org/abs/2503.24113)|null|
+|**2025-03-31**|**Robust Magnetic Polaron Percolation in the Antiferromagnetic CMR System EuCd $_2$P$_2$**|Marvin Kopp et.al.|[2503.24059](http://arxiv.org/abs/2503.24059)|null|
+|**2025-03-31**|**A Deep Learning Framework for the Electronic Structure of Water: Towards a Universal Model**|Xinyuan Liang et.al.|[2503.24050](http://arxiv.org/abs/2503.24050)|null|
+|**2025-03-31**|**Tree-Guided $L_1$ -Convex Clustering**|Bingyuan Zhang et.al.|[2503.24012](http://arxiv.org/abs/2503.24012)|null|
 |**2025-03-28**|**A Performance Analysis of Task Scheduling for UQ Workflows on HPC Systems**|Chung Ming Loi et.al.|[2503.22645](http://arxiv.org/abs/2503.22645)|null|
 |**2025-03-28**|**Hiding Latencies in Network-Based Image Loading for Deep Learning**|Francesco Versaci et.al.|[2503.22643](http://arxiv.org/abs/2503.22643)|null|
 |**2025-03-28**|**The BLOBs: Enigmatic Diffuse Ionized Gas Structures in a Cluster of Galaxies near Cosmic Noon**|C. Maier et.al.|[2503.22628](http://arxiv.org/abs/2503.22628)|null|
@@ -3336,6 +3346,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-31**|**Easi3R: Estimating Disentangled Motion from DUSt3R Without Training**|Xingyu Chen et.al.|[2503.24391](http://arxiv.org/abs/2503.24391)|**[link](https://github.com/inception3d/easi3r)**|
+|**2025-03-31**|**Pre-training with 3D Synthetic Data: Learning 3D Point Cloud Instance Segmentation from 3D Synthetic Scenes**|Daichi Otsuka et.al.|[2503.24229](http://arxiv.org/abs/2503.24229)|null|
+|**2025-03-31**|**SALT: A Flexible Semi-Automatic Labeling Tool for General LiDAR Point Clouds with Cross-Scene Adaptability and 4D Consistency**|Yanbo Wang et.al.|[2503.23980](http://arxiv.org/abs/2503.23980)|**[link](https://github.com/Cavendish518/SALT)**|
+|**2025-03-31**|**Learning Bijective Surface Parameterization for Inferring Signed Distance Functions from Sparse Point Clouds with Grid Deformation**|Takeshi Noda et.al.|[2503.23670](http://arxiv.org/abs/2503.23670)|null|
+|**2025-03-31**|**LiM-Loc: Visual Localization with Dense and Accurate 3D Reference Maps Directly Corresponding 2D Keypoints to 3D LiDAR Point Clouds**|Masahiko Tsuji et.al.|[2503.23664](http://arxiv.org/abs/2503.23664)|null|
+|**2025-03-31**|**Introducing the Short-Time Fourier Kolmogorov Arnold Network: A Dynamic Graph CNN Approach for Tree Species Classification in 3D Point Clouds**|Said Ohamouddoua et.al.|[2503.23647](http://arxiv.org/abs/2503.23647)|**[link](https://github.com/said-ohamouddou/stft-kan-litedgcnn)**|
+|**2025-03-29**|**A point cloud reconstruction method based on uncertainty feature enhancement for aerodynamic shape optimization**|Junlin Li et.al.|[2503.23082](http://arxiv.org/abs/2503.23082)|null|
 |**2025-03-28**|**Permutation-Invariant and Orientation-Aware Dataset Distillation for 3D Point Clouds**|Jae-Young Yim et.al.|[2503.22154](http://arxiv.org/abs/2503.22154)|null|
 |**2025-03-27**|**NeRF-based Point Cloud Reconstruction using a Stationary Camera for Agricultural Applications**|Kibon Ku et.al.|[2503.21958](http://arxiv.org/abs/2503.21958)|null|
 |**2025-03-27**|**ICG-MVSNet: Learning Intra-view and Cross-view Relationships for Guidance in Multi-View Stereo**|Yuxi Hu et.al.|[2503.21525](http://arxiv.org/abs/2503.21525)|null|
