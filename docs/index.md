@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-02**|**Individual halo bias in models of $f(R)$ gravity**|Jorge Enrique García-Farieta et.al.|[2504.01958](http://arxiv.org/abs/2504.01958)|null|
+|**2025-04-02**|**Deep Representation Learning for Unsupervised Clustering of Myocardial Fiber Trajectories in Cardiac Diffusion Tensor Imaging**|Mohini Anand et.al.|[2504.01953](http://arxiv.org/abs/2504.01953)|null|
+|**2025-04-02**|**PIMDAL: Mitigating the Memory Bottleneck in Data Analytics using a Real Processing-in-Memory System**|Manos Frouzakis et.al.|[2504.01948](http://arxiv.org/abs/2504.01948)|null|
+|**2025-04-02**|**Efficient Federated Learning Tiny Language Models for Mobile Network Feature Prediction**|Daniel Becking et.al.|[2504.01947](http://arxiv.org/abs/2504.01947)|null|
+|**2025-04-02**|**Open cluster age calibration from colour-magnitude morphological indices using Gaia DR3 data**|F. A. Ferreira et.al.|[2504.01912](http://arxiv.org/abs/2504.01912)|null|
+|**2025-04-02**|**Lower Bounds for Leader Election and Collective Coin Flipping, Revisited**|Eshan Chattopadhyay et.al.|[2504.01856](http://arxiv.org/abs/2504.01856)|null|
+|**2025-04-02**|**Virtual Target Trajectory Prediction for Stochastic Targets**|Marc Schneider et.al.|[2504.01851](http://arxiv.org/abs/2504.01851)|null|
+|**2025-04-02**|**Acoustic modes in M67 cluster stars trace deepening convective envelopes**|Claudia Reyes et.al.|[2504.01828](http://arxiv.org/abs/2504.01828)|null|
+|**2025-04-02**|**Studying stellar populations in Omega Centauri with phylogenetics**|P. Jofré et.al.|[2504.01813](http://arxiv.org/abs/2504.01813)|null|
+|**2025-04-02**|**Distributed Triangle Detection is Hard in Few Rounds**|Sepehr Assadi et.al.|[2504.01802](http://arxiv.org/abs/2504.01802)|null|
 |**2025-03-31**|**AutoEval: Autonomous Evaluation of Generalist Robot Manipulation Policies in the Real World**|Zhiyuan Zhou et.al.|[2503.24278](http://arxiv.org/abs/2503.24278)|**[link](https://github.com/zhouzypaul/auto_eval)**|
 |**2025-03-31**|**The Physics of Conformal Cyclic Cosmology**|Krzysztof A. Meissner et.al.|[2503.24263](http://arxiv.org/abs/2503.24263)|null|
 |**2025-03-31**|**Distinct parallel electrostatic collisionless shocks in hot-cold ablative mixing plasmas**|Yanzeng Zhang et.al.|[2503.24231](http://arxiv.org/abs/2503.24231)|null|
@@ -3340,6 +3350,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-02**|**FIORD: A Fisheye Indoor-Outdoor Dataset with LIDAR Ground Truth for 3D Scene Reconstruction and Benchmarking**|Ulas Gunes et.al.|[2504.01732](http://arxiv.org/abs/2504.01732)|null|
+|**2025-04-02**|**Overlap-Aware Feature Learning for Robust Unsupervised Domain Adaptation for 3D Semantic Segmentation**|Junjie Chen et.al.|[2504.01668](http://arxiv.org/abs/2504.01668)|null|
+|**2025-04-02**|**Robust Unsupervised Domain Adaptation for 3D Point Cloud Segmentation Under Source Adversarial Attacks**|Haosheng Li et.al.|[2504.01659](http://arxiv.org/abs/2504.01659)|null|
+|**2025-04-02**|**ProtoGuard-guided PROPEL: Class-Aware Prototype Enhancement and Progressive Labeling for Incremental 3D Point Cloud Segmentation**|Haosheng Li et.al.|[2504.01648](http://arxiv.org/abs/2504.01648)|null|
+|**2025-04-02**|**Bridge 2D-3D: Uncertainty-aware Hierarchical Registration Network with Domain Alignment**|Zhixin Cheng et.al.|[2504.01641](http://arxiv.org/abs/2504.01641)|null|
+|**2025-04-02**|**3DBonsai: Structure-Aware Bonsai Modeling Using Conditioned 3D Gaussian Splatting**|Hao Wu et.al.|[2504.01619](http://arxiv.org/abs/2504.01619)|null|
+|**2025-04-02**|**Enhanced Cross-modal 3D Retrieval via Tri-modal Reconstruction**|Junlong Ren et.al.|[2504.01476](http://arxiv.org/abs/2504.01476)|null|
+|**2025-04-02**|**Dynamic Initialization for LiDAR-inertial SLAM**|Jie Xu et.al.|[2504.01451](http://arxiv.org/abs/2504.01451)|null|
+|**2025-04-02**|**Multimodal Point Cloud Semantic Segmentation With Virtual Point Enhancement**|Zaipeng Duan et.al.|[2504.01449](http://arxiv.org/abs/2504.01449)|null|
+|**2025-04-01**|**SuperDec: 3D Scene Decomposition with Superquadric Primitives**|Elisabetta Fedele et.al.|[2504.00992](http://arxiv.org/abs/2504.00992)|null|
 |**2025-03-31**|**Easi3R: Estimating Disentangled Motion from DUSt3R Without Training**|Xingyu Chen et.al.|[2503.24391](http://arxiv.org/abs/2503.24391)|**[link](https://github.com/inception3d/easi3r)**|
 |**2025-03-31**|**Pre-training with 3D Synthetic Data: Learning 3D Point Cloud Instance Segmentation from 3D Synthetic Scenes**|Daichi Otsuka et.al.|[2503.24229](http://arxiv.org/abs/2503.24229)|null|
 |**2025-03-31**|**SALT: A Flexible Semi-Automatic Labeling Tool for General LiDAR Point Clouds with Cross-Scene Adaptability and 4D Consistency**|Yanbo Wang et.al.|[2503.23980](http://arxiv.org/abs/2503.23980)|**[link](https://github.com/Cavendish518/SALT)**|
