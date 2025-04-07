@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-04**|**Performance Analysis of HPC applications on the Aurora Supercomputer: Exploring the Impact of HBM-Enabled Intel Xeon Max CPUs**|Huda Ibeid et.al.|[2504.03632](http://arxiv.org/abs/2504.03632)|null|
+|**2025-04-04**|**Autonomous and Self-Adapting System for Synthetic Media Detection and Attribution**|Aref Azizpour et.al.|[2504.03615](http://arxiv.org/abs/2504.03615)|null|
+|**2025-04-04**|**Flatness-Robust Critical Bandwidth**|Scott Kostyshak et.al.|[2504.03594](http://arxiv.org/abs/2504.03594)|null|
+|**2025-04-04**|**An overview of the efficiency and censorship-resistance guarantees of widely-used consensus protocols**|Orestis Alpos et.al.|[2504.03588](http://arxiv.org/abs/2504.03588)|null|
+|**2025-04-04**|**Dimensionality reduction for k-means clustering of large-scale influenza mutation datasets**|Emilee Walden et.al.|[2504.03550](http://arxiv.org/abs/2504.03550)|null|
+|**2025-04-04**|**Clustering analysis of Fermi-LAT unidentified point sources**|Giovanni Cozzolongo et.al.|[2504.03543](http://arxiv.org/abs/2504.03543)|null|
+|**2025-04-04**|**Dynamic Training Enhances Machine Learning Potentials for Long-Lasting Molecular Dynamics**|Ivan Žugec et.al.|[2504.03521](http://arxiv.org/abs/2504.03521)|null|
+|**2025-04-04**|**The Three Hundred Project: A fast semi-analytic model emulator of hydrodynamical galaxy cluster simulations**|Jonathan S. Gómez et.al.|[2504.03519](http://arxiv.org/abs/2504.03519)|null|
+|**2025-04-04**|**Intracluster light is a biased tracer of the dark matter distribution in clusters**|J. Butler et.al.|[2504.03518](http://arxiv.org/abs/2504.03518)|null|
+|**2025-04-04**|**Local Search for Clustering in Almost-linear Time**|Shaofeng H. -C. Jiang et.al.|[2504.03513](http://arxiv.org/abs/2504.03513)|null|
 |**2025-04-03**|**From moving groups to star formation in the Solar Neighborhood**|Cameren Swiggum et.al.|[2504.02825](http://arxiv.org/abs/2504.02825)|null|
 |**2025-04-03**|**A 3D view of dwarf galaxies with Gaia and VLT/FLAMES II. The Sextans dwarf spheroidal**|Eline Tolstoy et.al.|[2504.02787](http://arxiv.org/abs/2504.02787)|null|
 |**2025-04-03**|**Clustering in a preferential attachment network with triangles**|Angelica Pachon et.al.|[2504.02717](http://arxiv.org/abs/2504.02717)|null|
@@ -3360,6 +3370,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-04**|**Robust Human Registration with Body Part Segmentation on Noisy Point Clouds**|Kai Lascheit et.al.|[2504.03602](http://arxiv.org/abs/2504.03602)|null|
+|**2025-04-04**|**PF3Det: A Prompted Foundation Feature Assisted Visual LiDAR 3D Detector**|Kaidong Li et.al.|[2504.03563](http://arxiv.org/abs/2504.03563)|null|
+|**2025-04-04**|**ZFusion: An Effective Fuser of Camera and 4D Radar for 3D Object Perception in Autonomous Driving**|Sheng Yang et.al.|[2504.03438](http://arxiv.org/abs/2504.03438)|null|
+|**2025-04-04**|**Point Cloud Objective Quality: Benchmarking Features and Quality Evaluation**|Joao Prazeres et.al.|[2504.03381](http://arxiv.org/abs/2504.03381)|null|
+|**2025-04-04**|**Point Cloud-based Grasping for Soft Hand Exoskeleton**|Chen Hu et.al.|[2504.03369](http://arxiv.org/abs/2504.03369)|null|
+|**2025-04-03**|**LiDAR-based Object Detection with Real-time Voice Specifications**|Anurag Kulkarni et.al.|[2504.02920](http://arxiv.org/abs/2504.02920)|null|
 |**2025-04-03**|**Multi-Head Adaptive Graph Convolution Network for Sparse Point Cloud-Based Human Activity Recognition**|Vincent Gbouna Zakka et.al.|[2504.02778](http://arxiv.org/abs/2504.02778)|**[link](https://github.com/Gbouna/MAK-GCN)**|
 |**2025-04-03**|**CanonNet: Canonical Ordering and Curvature Learning for Point Cloud Analysis**|Benjy Friedmann et.al.|[2504.02763](http://arxiv.org/abs/2504.02763)|null|
 |**2025-04-03**|**Graph Attention-Driven Bayesian Deep Unrolling for Dual-Peak Single-Photon Lidar Imaging**|Kyungmin Choi et.al.|[2504.02480](http://arxiv.org/abs/2504.02480)|null|
