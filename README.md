@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.08
+## Updated on 2025.04.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,9 +22,9 @@
 |**2025-04-07**|**Federated Learning for Medical Image Classification: A Comprehensive Benchmark**|Zhekai Zhou et.al.|[2504.05238](http://arxiv.org/abs/2504.05238)|null|
 |**2025-04-07**|**Reducing the Communication of Distributed Model Predictive Control: Autoencoders and Formation Control**|Torben Schiz et.al.|[2504.05223](http://arxiv.org/abs/2504.05223)|null|
 |**2025-04-07**|**Distributed Quantum Advantage in Locally Checkable Labeling Problems**|Alkida Balliu et.al.|[2504.05191](http://arxiv.org/abs/2504.05191)|null|
-|**2025-04-07**|**PRDTs: Composable Knowledge-Based Consensus Protocols with Replicated Data Types**|Julian Haas et.al.|[2504.05173](http://arxiv.org/abs/2504.05173)|null|
+|**2025-04-08**|**PRDTs: Composable Knowledge-Based Consensus Protocols with Replicated Data Types**|Julian Haas et.al.|[2504.05173](http://arxiv.org/abs/2504.05173)|null|
 |**2025-04-07**|**Online Cluster-Based Parameter Control for Metaheuristic**|Vasileios A. Tatsis et.al.|[2504.05144](http://arxiv.org/abs/2504.05144)|null|
-|**2025-04-07**|**Towards Optimal Heterogeneous Client Sampling in Multi-Model Federated Learning**|Haoran Zhang et.al.|[2504.05138](http://arxiv.org/abs/2504.05138)|null|
+|**2025-04-08**|**Towards Optimal Heterogeneous Client Sampling in Multi-Model Federated Learning**|Haoran Zhang et.al.|[2504.05138](http://arxiv.org/abs/2504.05138)|null|
 |**2025-04-07**|**Partially compactified quantum cluster algebras and coordinate rings of simple algebraic groups**|Fan Qin et.al.|[2504.05134](http://arxiv.org/abs/2504.05134)|null|
 |**2025-04-07**|**Interpretable Style Takagi-Sugeno-Kang Fuzzy Clustering**|Suhang Gu et.al.|[2504.05125](http://arxiv.org/abs/2504.05125)|null|
 |**2025-04-07**|**On the Origins of "Hostless'' Supernovae: Testing the Faint-end Galaxy Luminosity Function and Supernova Progenitors with Events in Dwarf Galaxies**|Louis-Gregory Strolger et.al.|[2504.05117](http://arxiv.org/abs/2504.05117)|null|
@@ -3380,7 +3380,7 @@
 |**2023-11-10**|**The First Verification Test of Space-Ground Collaborative Intelligence via Cloud-Native Satellites**|Shangguang Wang et.al.|[2311.06078](http://arxiv.org/abs/2311.06078)|null|
 |**2023-11-10**|**Collaborative Inference in DNN-based Satellite Systems with Dynamic Task Streams**|Jinglong Guan et.al.|[2311.06073](http://arxiv.org/abs/2311.06073)|null|
 
-<p align=right>(<a href=#updated-on-20250408>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250409>back to top</a>)</p>
 
 ## point cloud
 
@@ -5481,7 +5481,7 @@
 |**2023-11-08**|**VET: Visual Error Tomography for Point Cloud Completion and High-Quality Neural Rendering**|Linus Franke et.al.|[2311.04634](http://arxiv.org/abs/2311.04634)|**[link](https://github.com/lfranke/vet)**|
 |**2023-11-09**|**Rethinking Human Pose Estimation for Autonomous Driving with 3D Event Representations**|Xiaoting Yin et.al.|[2311.04591](http://arxiv.org/abs/2311.04591)|**[link](https://github.com/masterhow/eventpointpose)**|
 
-<p align=right>(<a href=#updated-on-20250408>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250409>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
