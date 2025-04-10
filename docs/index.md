@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.09
+## Updated on 2025.04.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## clustering
@@ -23,7 +23,7 @@ layout: default
 |**2025-04-08**|**Primordial Features in light of the Effective Field Theory of Large Scale Structure**|Rodrigo Calderon et.al.|[2504.06183](http://arxiv.org/abs/2504.06183)|null|
 |**2025-04-08**|**Plug and Play Distributed Control of Clustered Energy Hub Networks**|Varsha Behrunani et.al.|[2504.06179](http://arxiv.org/abs/2504.06179)|null|
 |**2025-04-08**|**On Soft Clustering For Correlation Estimators: Model Uncertainty, Differentiability, and Surrogates**|Edward Berman et.al.|[2504.06174](http://arxiv.org/abs/2504.06174)|null|
-|**2025-04-08**|**Navigating the Rabbit Hole: Emergent Biases in LLM-Generated Attack Narratives Targeting Mental Health Groups**|Rijul Magu et.al.|[2504.06160](http://arxiv.org/abs/2504.06160)|null|
+|**2025-04-09**|**Navigating the Rabbit Hole: Emergent Biases in LLM-Generated Attack Narratives Targeting Mental Health Groups**|Rijul Magu et.al.|[2504.06160](http://arxiv.org/abs/2504.06160)|null|
 |**2025-04-07**|**Bayesian local clustering of age-period mortality surfaces across multiple countries**|Giovanni Romanò et.al.|[2504.05240](http://arxiv.org/abs/2504.05240)|null|
 |**2025-04-07**|**Federated Learning for Medical Image Classification: A Comprehensive Benchmark**|Zhekai Zhou et.al.|[2504.05238](http://arxiv.org/abs/2504.05238)|null|
 |**2025-04-07**|**Reducing the Communication of Distributed Model Predictive Control: Autoencoders and Formation Control**|Torben Schiz et.al.|[2504.05223](http://arxiv.org/abs/2504.05223)|null|

@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.09
+## Updated on 2025.04.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -27,7 +27,7 @@
 |**2025-04-08**|**Primordial Features in light of the Effective Field Theory of Large Scale Structure**|Rodrigo Calderon et.al.|[2504.06183](http://arxiv.org/abs/2504.06183)|null|
 |**2025-04-08**|**Plug and Play Distributed Control of Clustered Energy Hub Networks**|Varsha Behrunani et.al.|[2504.06179](http://arxiv.org/abs/2504.06179)|null|
 |**2025-04-08**|**On Soft Clustering For Correlation Estimators: Model Uncertainty, Differentiability, and Surrogates**|Edward Berman et.al.|[2504.06174](http://arxiv.org/abs/2504.06174)|null|
-|**2025-04-08**|**Navigating the Rabbit Hole: Emergent Biases in LLM-Generated Attack Narratives Targeting Mental Health Groups**|Rijul Magu et.al.|[2504.06160](http://arxiv.org/abs/2504.06160)|null|
+|**2025-04-09**|**Navigating the Rabbit Hole: Emergent Biases in LLM-Generated Attack Narratives Targeting Mental Health Groups**|Rijul Magu et.al.|[2504.06160](http://arxiv.org/abs/2504.06160)|null|
 |**2025-04-07**|**Bayesian local clustering of age-period mortality surfaces across multiple countries**|Giovanni Romanò et.al.|[2504.05240](http://arxiv.org/abs/2504.05240)|null|
 |**2025-04-07**|**Federated Learning for Medical Image Classification: A Comprehensive Benchmark**|Zhekai Zhou et.al.|[2504.05238](http://arxiv.org/abs/2504.05238)|null|
 |**2025-04-07**|**Reducing the Communication of Distributed Model Predictive Control: Autoencoders and Formation Control**|Torben Schiz et.al.|[2504.05223](http://arxiv.org/abs/2504.05223)|null|
@@ -3390,7 +3390,7 @@
 |**2023-11-10**|**The First Verification Test of Space-Ground Collaborative Intelligence via Cloud-Native Satellites**|Shangguang Wang et.al.|[2311.06078](http://arxiv.org/abs/2311.06078)|null|
 |**2023-11-10**|**Collaborative Inference in DNN-based Satellite Systems with Dynamic Task Streams**|Jinglong Guan et.al.|[2311.06073](http://arxiv.org/abs/2311.06073)|null|
 
-<p align=right>(<a href=#updated-on-20250409>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250410>back to top</a>)</p>
 
 ## point cloud
 
@@ -5500,7 +5500,7 @@
 |**2023-11-08**|**VET: Visual Error Tomography for Point Cloud Completion and High-Quality Neural Rendering**|Linus Franke et.al.|[2311.04634](http://arxiv.org/abs/2311.04634)|**[link](https://github.com/lfranke/vet)**|
 |**2023-11-09**|**Rethinking Human Pose Estimation for Autonomous Driving with 3D Event Representations**|Xiaoting Yin et.al.|[2311.04591](http://arxiv.org/abs/2311.04591)|**[link](https://github.com/masterhow/eventpointpose)**|
 
-<p align=right>(<a href=#updated-on-20250409>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250410>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
