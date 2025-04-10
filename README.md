@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-09**|**Buffer Centering for bittide Synchronization via Frame Rotation**|Sanjay Lall et.al.|[2504.07044](http://arxiv.org/abs/2504.07044)|null|
+|**2025-04-09**|**Microlensing at Cosmological Distances: Event Rate Predictions in the Warhol Arc of MACS 0416**|J. M. Palencia et.al.|[2504.07039](http://arxiv.org/abs/2504.07039)|null|
+|**2025-04-09**|**VQE calculations on a NISQ era trapped ion quantum computer using a multireference unitary coupled cluster ansatz: application to the BeH $_2$ insertion problem**|Palak Chawla et.al.|[2504.07037](http://arxiv.org/abs/2504.07037)|null|
+|**2025-04-09**|**Restoring the Forecasting Power of Google Trends with Statistical Preprocessing**|Candice Djorno et.al.|[2504.07032](http://arxiv.org/abs/2504.07032)|null|
+|**2025-04-09**|**UAV Position Estimation using a LiDAR-based 3D Object Detection Method**|Uthman Olawoye et.al.|[2504.07028](http://arxiv.org/abs/2504.07028)|null|
+|**2025-04-09**|**Polyspectral Mean based Time Series Clustering of Indian Stock Market**|Dhrubajyoti Ghosh et.al.|[2504.07021](http://arxiv.org/abs/2504.07021)|null|
+|**2025-04-09**|**Constraining the $z \sim 1$ IMF with {\it HST} and {\it JWST} lensed stars in MACS J0416.1-2403**|Sung Kei Li et.al.|[2504.06992](http://arxiv.org/abs/2504.06992)|null|
+|**2025-04-09**|**Enhancing Metabolic Syndrome Prediction with Hybrid Data Balancing and Counterfactuals**|Sanyam Paresh Shah et.al.|[2504.06987](http://arxiv.org/abs/2504.06987)|null|
+|**2025-04-09**|**Coreset Strikes Back: Improved Parameterized Approximation Schemes for (Constrained) k-Median/Means**|Sujoy Bhore et.al.|[2504.06980](http://arxiv.org/abs/2504.06980)|null|
+|**2025-04-09**|**Tractable reformulations of DRO problems over structured optimal transport ambiguity sets**|Lotfi M. Chaouach et.al.|[2504.06966](http://arxiv.org/abs/2504.06966)|null|
 |**2025-04-08**|**Constraining the [CII] luminosity function from the power spectrum of line intensity maps at redshift 3.6**|Elena Marcuzzo et.al.|[2504.06266](http://arxiv.org/abs/2504.06266)|null|
 |**2025-04-08**|**Fixing non-blocking data structures for better compatibility with memory reclamation schemes**|MD Amit Hasan Arovi et.al.|[2504.06254](http://arxiv.org/abs/2504.06254)|null|
 |**2025-04-08**|**A systematic method to identify runaways from star clusters produced from single-binary interactions: A case study of M67**|A. Herrera-Urquieta et.al.|[2504.06252](http://arxiv.org/abs/2504.06252)|null|
@@ -3396,6 +3406,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-09**|**UAV Position Estimation using a LiDAR-based 3D Object Detection Method**|Uthman Olawoye et.al.|[2504.07028](http://arxiv.org/abs/2504.07028)|null|
+|**2025-04-09**|**Visualisation of a multidimensional point cloud as a 3D swarm of avatars**|Leszek Luchowski et.al.|[2504.06751](http://arxiv.org/abs/2504.06751)|null|
+|**2025-04-09**|**FACT: Multinomial Misalignment Classification for Point Cloud Registration**|Ludvig Dillén et.al.|[2504.06627](http://arxiv.org/abs/2504.06627)|null|
+|**2025-04-08**|**Implementation of a Zed 2i Stereo Camera for High-Frequency Shoreline Change and Coastal Elevation Monitoring**|José A. Pilartes-Congo et.al.|[2504.06464](http://arxiv.org/abs/2504.06464)|null|
 |**2025-04-08**|**Modular Soft Wearable Glove for Real-Time Gesture Recognition and Dynamic 3D Shape Reconstruction**|Huazhi Dong et.al.|[2504.05983](http://arxiv.org/abs/2504.05983)|null|
 |**2025-04-08**|**UVG-VPC: Voxelized Point Cloud Dataset for Visual Volumetric Video-based Coding**|Guillaume Gautier et.al.|[2504.05888](http://arxiv.org/abs/2504.05888)|null|
 |**2025-04-08**|**Turin3D: Evaluating Adaptation Strategies under Label Scarcity in Urban LiDAR Segmentation with Semi-Supervised Techniques**|Luca Barco et.al.|[2504.05882](http://arxiv.org/abs/2504.05882)|null|
