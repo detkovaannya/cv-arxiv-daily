@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-11**|**Counting independent sets in percolated graphs via the Ising model**|Anna Geisler et.al.|[2504.08715](http://arxiv.org/abs/2504.08715)|null|
+|**2025-04-11**|**ProtoECGNet: Case-Based Interpretable Deep Learning for Multi-Label ECG Classification with Contrastive Learning**|Sahil Sethi et.al.|[2504.08713](http://arxiv.org/abs/2504.08713)|null|
+|**2025-04-11**|**Two-body currents at finite momentum transfer and applications to M1 transitions**|C. Brase et.al.|[2504.08711](http://arxiv.org/abs/2504.08711)|null|
+|**2025-04-11**|**Hypergraph Vision Transformers: Images are More than Nodes, More than Edges**|Joshua Fixelle et.al.|[2504.08710](http://arxiv.org/abs/2504.08710)|null|
+|**2025-04-11**|**Decomposition of Sparse Amplitude Permutation Gates with Application to Preparation of Sparse Clustered Quantum States**|Igor Gaidai et.al.|[2504.08705](http://arxiv.org/abs/2504.08705)|null|
+|**2025-04-11**|**Application of machine learning models to predict the relationship between air pollution, ecosystem degradation, and health disparities and lung cancer in Vietnam**|Ngoc Hong Tran et.al.|[2504.08651](http://arxiv.org/abs/2504.08651)|null|
+|**2025-04-11**|**Extrapolation method to optimize linear-ramp QAOA parameters: Evaluation of QAOA runtime scaling**|Vanessa Dehn et.al.|[2504.08577](http://arxiv.org/abs/2504.08577)|null|
+|**2025-04-11**|**Localized plasmonic meron-antimeron pairs in doubly degenerate orbitals**|Jie Yang et.al.|[2504.08558](http://arxiv.org/abs/2504.08558)|null|
+|**2025-04-11**|**Slicing the Gaussian Mixture Wasserstein Distance**|Moritz Piening et.al.|[2504.08544](http://arxiv.org/abs/2504.08544)|null|
+|**2025-04-11**|**Spin-state energetics of heme-related models with the variational quantum eigensolver**|Unathi Skosana et.al.|[2504.08494](http://arxiv.org/abs/2504.08494)|null|
 |**2025-04-10**|**Note on the identification of total effect in Cluster-DAGs with cycles**|Clément Yvernes et.al.|[2504.07921](http://arxiv.org/abs/2504.07921)|null|
 |**2025-04-10**|**Molecular excited state in the interaction quench dynamics of two different atoms in a two-dimensional anisotropic trap**|I. S. Ishmukhamedov et.al.|[2504.07893](http://arxiv.org/abs/2504.07893)|null|
 |**2025-04-10**|**Token Level Routing Inference System for Edge Devices**|Jianshu She et.al.|[2504.07878](http://arxiv.org/abs/2504.07878)|null|
@@ -3416,6 +3426,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-11**|**CMIP-CIL: A Cross-Modal Benchmark for Image-Point Class Incremental Learning**|Chao Qi et.al.|[2504.08422](http://arxiv.org/abs/2504.08422)|null|
+|**2025-04-11**|**Boosting the Class-Incremental Learning in 3D Point Clouds via Zero-Collection-Cost Basic Shape Pre-Training**|Chao Qi et.al.|[2504.08412](http://arxiv.org/abs/2504.08412)|null|
+|**2025-04-11**|**SN-LiDAR: Semantic Neural Fields for Novel Space-time View LiDAR Synthesis**|Yi Chen et.al.|[2504.08361](http://arxiv.org/abs/2504.08361)|null|
+|**2025-04-11**|**Enabling Automatic Differentiation with Mollified Graph Neural Operators**|Ryan Y. Lin et.al.|[2504.08277](http://arxiv.org/abs/2504.08277)|null|
+|**2025-04-11**|**DrivAer Transformer: A high-precision and fast prediction method for vehicle aerodynamic drag coefficient based on the DrivAerNet++ dataset**|Jiaqi He et.al.|[2504.08217](http://arxiv.org/abs/2504.08217)|null|
+|**2025-04-11**|**II-NVM: Enhancing Map Accuracy and Consistency with Normal Vector-Assisted Mapping**|Chengwei Zhao et.al.|[2504.08204](http://arxiv.org/abs/2504.08204)|null|
+|**2025-04-10**|**Enhanced Cooperative Perception Through Asynchronous Vehicle to Infrastructure Framework with Delay Mitigation for Connected and Automated Vehicles**|Nithish Kumar Saravanan et.al.|[2504.08172](http://arxiv.org/abs/2504.08172)|null|
+|**2025-04-10**|**Investigating Vision-Language Model for Point Cloud-based Vehicle Classification**|Yiqiao Li et.al.|[2504.08154](http://arxiv.org/abs/2504.08154)|null|
 |**2025-04-10**|**WS-DETR: Robust Water Surface Object Detection through Vision-Radar Fusion with Detection Transformer**|Huilin Yin et.al.|[2504.07441](http://arxiv.org/abs/2504.07441)|null|
 |**2025-04-10**|**Novel Diffusion Models for Multimodal 3D Hand Trajectory Prediction**|Junyi Ma et.al.|[2504.07375](http://arxiv.org/abs/2504.07375)|**[link](https://github.com/irmvlab/mmtwin)**|
 |**2025-04-09**|**A Pointcloud Registration Framework for Relocalization in Subterranean Environments**|David Akhihiero et.al.|[2504.07231](http://arxiv.org/abs/2504.07231)|null|
