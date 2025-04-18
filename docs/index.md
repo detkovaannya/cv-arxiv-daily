@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-17**|**CLIMB: CLustering-based Iterative Data Mixture Bootstrapping for Language Model Pre-training**|Shizhe Diao et.al.|[2504.13161](http://arxiv.org/abs/2504.13161)|null|
+|**2025-04-17**|**Complexity at Scale: A Quantitative Analysis of an Alibaba Microservice Deployment**|Giles Winchester et.al.|[2504.13141](http://arxiv.org/abs/2504.13141)|null|
+|**2025-04-17**|**PCBEAR: Pose Concept Bottleneck for Explainable Action Recognition**|Jongseo Lee et.al.|[2504.13140](http://arxiv.org/abs/2504.13140)|null|
+|**2025-04-17**|**Towards Optimal Distributed Edge Coloring with Small Palettes**|Manuel Jakob et.al.|[2504.13003](http://arxiv.org/abs/2504.13003)|null|
+|**2025-04-17**|**Maximum Information Extraction From Noisy Data Via Shannon Entropy Minimization**|Matteo Becchi et.al.|[2504.12990](http://arxiv.org/abs/2504.12990)|null|
+|**2025-04-17**|**Quantifying walkable accessibility to urban services: An application to Florence, Italy**|Leonardo Boncinelli et.al.|[2504.12934](http://arxiv.org/abs/2504.12934)|null|
+|**2025-04-17**|**The Rise of Bluesky**|Ozgur Can Seckin et.al.|[2504.12902](http://arxiv.org/abs/2504.12902)|null|
+|**2025-04-17**|**Hardness of classically sampling quantum chemistry circuits**|Ayoub Hafid et.al.|[2504.12893](http://arxiv.org/abs/2504.12893)|null|
+|**2025-04-17**|**The impact of ram pressure on cluster galaxies, insights from GAEA and TNG**|Lizhi Xie et.al.|[2504.12863](http://arxiv.org/abs/2504.12863)|null|
+|**2025-04-17**|**iHHO-SMOTe: A Cleansed Approach for Handling Outliers and Reducing Noise to Improve Imbalanced Data Classification**|Khaled SH. Raslan et.al.|[2504.12850](http://arxiv.org/abs/2504.12850)|null|
 |**2025-04-16**|**Trend Filtered Mixture of Experts for Automated Gating of High-Frequency Flow Cytometry Data**|Sangwon Hyun et.al.|[2504.12287](http://arxiv.org/abs/2504.12287)|null|
 |**2025-04-16**|**Narrowband Imaging of a z=3.24 Protocluster: Insights from [O III] Emitting Galaxies**|Ke Shi et.al.|[2504.12225](http://arxiv.org/abs/2504.12225)|null|
 |**2025-04-16**|**Interacting Object-Enabled Clustering and Characterization of Distributed MIMO Channels**|Yingjie Xu et.al.|[2504.12220](http://arxiv.org/abs/2504.12220)|null|
@@ -3450,6 +3460,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-17**|**Hierarchical Feature Learning for Medical Point Clouds via State Space Model**|Guoqing Zhang et.al.|[2504.13015](http://arxiv.org/abs/2504.13015)|null|
+|**2025-04-17**|**3D-PNAS: 3D Industrial Surface Anomaly Synthesis with Perlin Noise**|Yifeng Cheng et.al.|[2504.12856](http://arxiv.org/abs/2504.12856)|null|
+|**2025-04-17**|**CAGE-GS: High-fidelity Cage Based 3D Gaussian Splatting Deformation**|Yifei Tong et.al.|[2504.12800](http://arxiv.org/abs/2504.12800)|null|
+|**2025-04-16**|**DG-MVP: 3D Domain Generalization via Multiple Views of Point Clouds for Classification**|Huantao Ren et.al.|[2504.12456](http://arxiv.org/abs/2504.12456)|null|
+|**2025-04-16**|**3D-PointZshotS: Geometry-Aware 3D Point Cloud Zero-Shot Semantic Segmentation Narrowing the Visual-Semantic Gap**|Minmin Yang et.al.|[2504.12442](http://arxiv.org/abs/2504.12442)|null|
+|**2025-04-16**|**Diffusion Based Robust LiDAR Place Recognition**|Benjamin Krummenacher et.al.|[2504.12412](http://arxiv.org/abs/2504.12412)|null|
+|**2025-04-15**|**3D Object Reconstruction with mmWave Radars**|Samah Hussein et.al.|[2504.12348](http://arxiv.org/abs/2504.12348)|null|
 |**2025-04-16**|**TacoDepth: Towards Efficient Radar-Camera Depth Estimation with One-stage Fusion**|Yiran Wang et.al.|[2504.11773](http://arxiv.org/abs/2504.11773)|null|
 |**2025-04-16**|**GrabS: Generative Embodied Agent for 3D Object Segmentation without Scene Supervision**|Zihui Zhang et.al.|[2504.11754](http://arxiv.org/abs/2504.11754)|null|
 |**2025-04-16**|**Non-uniform Point Cloud Upsampling via Local Manifold Distribution**|Yaohui Fang et.al.|[2504.11701](http://arxiv.org/abs/2504.11701)|null|
