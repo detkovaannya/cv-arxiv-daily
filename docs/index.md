@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-21**|**Multiple Quantum Many-Body Clustering Probed by Dynamical Decoupling**|Gerónimo Sequeiros et.al.|[2504.15183](http://arxiv.org/abs/2504.15183)|null|
+|**2025-04-21**|**To Offload or Not To Offload: Model-driven Comparison of Edge-native and On-device Processing**|Nathan Ng et.al.|[2504.15162](http://arxiv.org/abs/2504.15162)|null|
+|**2025-04-21**|**Interacting Copies of Random Constraint Satisfaction Problems**|Maria Chiara Angelini et.al.|[2504.15158](http://arxiv.org/abs/2504.15158)|null|
+|**2025-04-21**|**Deterministic $k$ -Median Clustering in Near-Optimal Time**|Martín Costa et.al.|[2504.15115](http://arxiv.org/abs/2504.15115)|null|
+|**2025-04-21**|**Mitigating Degree Bias in Graph Representation Learning with Learnable Structural Augmentation and Structural Self-Attention**|Van Thuy Hoang et.al.|[2504.15075](http://arxiv.org/abs/2504.15075)|null|
+|**2025-04-21**|**Beyond Terabit/s Integrated Neuromorphic Photonic Processor for DSP-Free Optical Interconnects**|Benshan Wang et.al.|[2504.15044](http://arxiv.org/abs/2504.15044)|null|
+|**2025-04-21**|**Is Intelligence the Right Direction in New OS Scheduling for Multiple Resources in Cloud Environments?**|Xinglei Dou et.al.|[2504.15021](http://arxiv.org/abs/2504.15021)|null|
+|**2025-04-21**|**clusttraj: a solvent-informed clustering tool for molecular modeling**|Rafael Bicudo Ribeiro et.al.|[2504.14978](http://arxiv.org/abs/2504.14978)|null|
+|**2025-04-21**|**SLO-Aware Scheduling for Large Language Model Inferences**|Jinqi Huang et.al.|[2504.14966](http://arxiv.org/abs/2504.14966)|null|
+|**2025-04-21**|**MoE Parallel Folding: Heterogeneous Parallelism Mappings for Efficient Large-Scale MoE Model Training with Megatron Core**|Dennis Liu et.al.|[2504.14960](http://arxiv.org/abs/2504.14960)|null|
 |**2025-04-18**|**MIG: Automatic Data Selection for Instruction Tuning by Maximizing Information Gain in Semantic Space**|Yicheng Chen et.al.|[2504.13835](http://arxiv.org/abs/2504.13835)|null|
 |**2025-04-18**|**Science Hierarchography: Hierarchical Organization of Science Literature**|Muhan Gao et.al.|[2504.13834](http://arxiv.org/abs/2504.13834)|null|
 |**2025-04-18**|**Toward Portable GPU Performance: Julia Recursive Implementation of TRMM and TRSM**|Vicki Carrica et.al.|[2504.13821](http://arxiv.org/abs/2504.13821)|null|
@@ -3470,6 +3480,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-21**|**Robust and Real-time Surface Normal Estimation from Stereo Disparities using Affine Transformations**|Csongor Csanad Kariko et.al.|[2504.15121](http://arxiv.org/abs/2504.15121)|null|
+|**2025-04-21**|**Uni3C: Unifying Precisely 3D-Enhanced Camera and Human Motion Controls for Video Generation**|Chenjie Cao et.al.|[2504.14899](http://arxiv.org/abs/2504.14899)|**[link](https://github.com/ewrfcas/uni3c)**|
+|**2025-04-21**|**An Iterative Task-Driven Framework for Resilient LiDAR Place Recognition in Adverse Weather**|Xiongwei Zhao et.al.|[2504.14806](http://arxiv.org/abs/2504.14806)|null|
+|**2025-04-20**|**Efficient Implicit Neural Compression of Point Clouds via Learnable Activation in Latent Space**|Yichi Zhang et.al.|[2504.14471](http://arxiv.org/abs/2504.14471)|null|
+|**2025-04-19**|**Efficient Spiking Point Mamba for Point Cloud Analysis**|Peixi Wu et.al.|[2504.14371](http://arxiv.org/abs/2504.14371)|null|
+|**2025-04-19**|**Multispectral airborne laser scanning for tree species classification: a benchmark of machine learning and deep learning algorithms**|Josef Taher et.al.|[2504.14337](http://arxiv.org/abs/2504.14337)|null|
+|**2025-04-19**|**HoLa: B-Rep Generation using a Holistic Latent Representation**|Yilin Liu et.al.|[2504.14257](http://arxiv.org/abs/2504.14257)|null|
+|**2025-04-19**|**ROI-Guided Point Cloud Geometry Compression Towards Human and Machine Vision**|Xie Liang et.al.|[2504.14240](http://arxiv.org/abs/2504.14240)|null|
+|**2025-04-19**|**Exploring Modality Guidance to Enhance VFM-based Feature Fusion for UDA in 3D Semantic Segmentation**|Johannes Spoecklberger et.al.|[2504.14231](http://arxiv.org/abs/2504.14231)|null|
+|**2025-04-19**|**Real-IAD D3: A Real-World 2D/Pseudo-3D/3D Dataset for Industrial Anomaly Detection**|Wenbing Zhu et.al.|[2504.14221](http://arxiv.org/abs/2504.14221)|null|
 |**2025-04-18**|**RefComp: A Reference-guided Unified Framework for Unpaired Point Cloud Completion**|Yixuan Yang et.al.|[2504.13788](http://arxiv.org/abs/2504.13788)|null|
 |**2025-04-18**|**KAN or MLP? Point Cloud Shows the Way Forward**|Yan Shi et.al.|[2504.13593](http://arxiv.org/abs/2504.13593)|null|
 |**2025-04-18**|**HAECcity: Open-Vocabulary Scene Understanding of City-Scale Point Clouds with Superpoint Graph Clustering**|Alexander Rusnak et.al.|[2504.13590](http://arxiv.org/abs/2504.13590)|null|
