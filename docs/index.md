@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-22**|**Intent-aware Diffusion with Contrastive Learning for Sequential Recommendation**|Yuanpeng Qu et.al.|[2504.16077](http://arxiv.org/abs/2504.16077)|null|
+|**2025-04-22**|**How to make CLEAN variants faster? Using clustered components informed by the autocorrelation function**|Hendrik Müller et.al.|[2504.16058](http://arxiv.org/abs/2504.16058)|null|
+|**2025-04-22**|**From observed transitions to hidden paths in Markov networks**|Alexander M. Maier et.al.|[2504.16015](http://arxiv.org/abs/2504.16015)|null|
+|**2025-04-22**|**Small-scale dynamic phenomena associated with interacting fan-spine topologies: quiet-Sun Ellerman bombs, UV brightenings, and chromospheric inverted-Y-shaped jets**|Aditi Bhatnagar et.al.|[2504.15996](http://arxiv.org/abs/2504.15996)|null|
+|**2025-04-22**|**Charting the Uncharted: The Landscape of Monero Peer-to-Peer Network**|Yu Gao et.al.|[2504.15986](http://arxiv.org/abs/2504.15986)|null|
+|**2025-04-22**|**Visual Place Cell Encoding: A Computational Model for Spatial Representation and Cognitive Mapping**|Chance J. Hamilton et.al.|[2504.15953](http://arxiv.org/abs/2504.15953)|null|
+|**2025-04-22**|**StreamRL: Scalable, Heterogeneous, and Elastic RL for LLMs with Disaggregated Stream Generation**|Yinmin Zhong et.al.|[2504.15930](http://arxiv.org/abs/2504.15930)|null|
+|**2025-04-22**|**Improving robustness and training efficiency of machine-learned potentials by incorporating short-range empirical potentials**|Zihan Yan et.al.|[2504.15925](http://arxiv.org/abs/2504.15925)|null|
+|**2025-04-22**|**Searching for heavy vector-like B quark via pair production in fully hadronic channels at the CLIC**|Shuo Yang et.al.|[2504.15882](http://arxiv.org/abs/2504.15882)|null|
+|**2025-04-22**|**FailLite: Failure-Resilient Model Serving for Resource-Constrained Edge Environments**|Li Wu et.al.|[2504.15856](http://arxiv.org/abs/2504.15856)|null|
 |**2025-04-21**|**Multiple Quantum Many-Body Clustering Probed by Dynamical Decoupling**|Gerónimo Sequeiros et.al.|[2504.15183](http://arxiv.org/abs/2504.15183)|null|
 |**2025-04-21**|**To Offload or Not To Offload: Model-driven Comparison of Edge-native and On-device Processing**|Nathan Ng et.al.|[2504.15162](http://arxiv.org/abs/2504.15162)|null|
 |**2025-04-21**|**Interacting Copies of Random Constraint Satisfaction Problems**|Maria Chiara Angelini et.al.|[2504.15158](http://arxiv.org/abs/2504.15158)|null|
@@ -3480,6 +3490,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-22**|**PointLoRA: Low-Rank Adaptation with Token Selection for Point Cloud Learning**|Song Wang et.al.|[2504.16023](http://arxiv.org/abs/2504.16023)|null|
+|**2025-04-22**|**Locating and Mitigating Gradient Conflicts in Point Cloud Domain Adaptation via Saliency Map Skewness**|Jiaqi Tang et.al.|[2504.15796](http://arxiv.org/abs/2504.15796)|null|
 |**2025-04-21**|**Robust and Real-time Surface Normal Estimation from Stereo Disparities using Affine Transformations**|Csongor Csanad Kariko et.al.|[2504.15121](http://arxiv.org/abs/2504.15121)|null|
 |**2025-04-21**|**Uni3C: Unifying Precisely 3D-Enhanced Camera and Human Motion Controls for Video Generation**|Chenjie Cao et.al.|[2504.14899](http://arxiv.org/abs/2504.14899)|**[link](https://github.com/ewrfcas/uni3c)**|
 |**2025-04-21**|**An Iterative Task-Driven Framework for Resilient LiDAR Place Recognition in Adverse Weather**|Xiongwei Zhao et.al.|[2504.14806](http://arxiv.org/abs/2504.14806)|null|
