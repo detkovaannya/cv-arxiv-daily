@@ -59,7 +59,7 @@
 |**2025-04-21**|**SLO-Aware Scheduling for Large Language Model Inferences**|Jinqi Huang et.al.|[2504.14966](http://arxiv.org/abs/2504.14966)|null|
 |**2025-04-21**|**MoE Parallel Folding: Heterogeneous Parallelism Mappings for Efficient Large-Scale MoE Model Training with Megatron Core**|Dennis Liu et.al.|[2504.14960](http://arxiv.org/abs/2504.14960)|null|
 |**2025-04-18**|**MIG: Automatic Data Selection for Instruction Tuning by Maximizing Information Gain in Semantic Space**|Yicheng Chen et.al.|[2504.13835](http://arxiv.org/abs/2504.13835)|null|
-|**2025-04-18**|**Science Hierarchography: Hierarchical Organization of Science Literature**|Muhan Gao et.al.|[2504.13834](http://arxiv.org/abs/2504.13834)|null|
+|**2025-04-18**|**Science Hierarchography: Hierarchical Organization of Science Literature**|Muhan Gao et.al.|[2504.13834](http://arxiv.org/abs/2504.13834)|**[link](https://github.com/jhu-clsp/science-hierarchography)**|
 |**2025-04-18**|**Toward Portable GPU Performance: Julia Recursive Implementation of TRMM and TRSM**|Vicki Carrica et.al.|[2504.13821](http://arxiv.org/abs/2504.13821)|null|
 |**2025-04-18**|**Robust Decentralized Quantum Kernel Learning for Noisy and Adversarial Environment**|Wenxuan Ma et.al.|[2504.13782](http://arxiv.org/abs/2504.13782)|null|
 |**2025-04-18**|**Robust Distributed Arrays: Provably Secure Networking for Data Availability Sampling**|Dankrad Feist et.al.|[2504.13757](http://arxiv.org/abs/2504.13757)|null|
@@ -3536,7 +3536,7 @@
 |**2025-04-18**|**RefComp: A Reference-guided Unified Framework for Unpaired Point Cloud Completion**|Yixuan Yang et.al.|[2504.13788](http://arxiv.org/abs/2504.13788)|null|
 |**2025-04-18**|**KAN or MLP? Point Cloud Shows the Way Forward**|Yan Shi et.al.|[2504.13593](http://arxiv.org/abs/2504.13593)|null|
 |**2025-04-18**|**HAECcity: Open-Vocabulary Scene Understanding of City-Scale Point Clouds with Superpoint Graph Clustering**|Alexander Rusnak et.al.|[2504.13590](http://arxiv.org/abs/2504.13590)|null|
-|**2025-04-18**|**Leveraging Automatic CAD Annotations for Supervised Learning in 3D Scene Understanding**|Yuchen Rao et.al.|[2504.13580](http://arxiv.org/abs/2504.13580)|null|
+|**2025-04-18**|**Leveraging Automatic CAD Annotations for Supervised Learning in 3D Scene Understanding**|Yuchen Rao et.al.|[2504.13580](http://arxiv.org/abs/2504.13580)|**[link](https://github.com/stefan-ainetter/SCANnotatepp)**|
 |**2025-04-18**|**WeatherGen: A Unified Diverse Weather Generator for LiDAR Point Clouds via Spider Mamba Diffusion**|Yang Wu et.al.|[2504.13561](http://arxiv.org/abs/2504.13561)|null|
 |**2025-04-18**|**Mono3R: Exploiting Monocular Cues for Geometric 3D Reconstruction**|Wenyu Li et.al.|[2504.13419](http://arxiv.org/abs/2504.13419)|null|
 |**2025-04-17**|**Hierarchical Feature Learning for Medical Point Clouds via State Space Model**|Guoqing Zhang et.al.|[2504.13015](http://arxiv.org/abs/2504.13015)|**[link](https://github.com/wlsdzyzl/flemme)**|
@@ -3946,7 +3946,7 @@
 |**2025-01-22**|**MorphoSkel3D: Morphological Skeletonization of 3D Point Clouds for Informed Sampling in Object Classification and Retrieval**|Pierre Onghena et.al.|[2501.12974](http://arxiv.org/abs/2501.12974)|**[link](https://github.com/pierreoo/morphoskel3d)**|
 |**2025-01-22**|**Manifold learning and optimization using tangent space proxies**|Ryan A. Robinett et.al.|[2501.12678](http://arxiv.org/abs/2501.12678)|null|
 |**2025-01-22**|**HAC++: Towards 100X Compression of 3D Gaussian Splatting**|Yihang Chen et.al.|[2501.12255](http://arxiv.org/abs/2501.12255)|**[link](https://github.com/yihangchen-ee/hac-plus)**|
-|**2025-01-19**|**OpenLiDARMap: Zero-Drift Point Cloud Mapping using Map Priors**|Dominik Kulmer et.al.|[2501.11111](http://arxiv.org/abs/2501.11111)|null|
+|**2025-01-19**|**OpenLiDARMap: Zero-Drift Point Cloud Mapping using Map Priors**|Dominik Kulmer et.al.|[2501.11111](http://arxiv.org/abs/2501.11111)|**[link](https://github.com/TUMFTM/OpenLiDARMap)**|
 |**2025-01-19**|**DC-PCN: Point Cloud Completion Network with Dual-Codebook Guided Quantization**|Qiuxia Wu et.al.|[2501.10966](http://arxiv.org/abs/2501.10966)|null|
 |**2025-01-18**|**CS-Net:Contribution-based Sampling Network for Point Cloud Simplification**|Tian Guo et.al.|[2501.10789](http://arxiv.org/abs/2501.10789)|null|
 |**2025-01-18**|**PB-NBV: Efficient Projection-Based Next-Best-View Planning Framework for Reconstruction of Unknown Objects**|Zhizhou Jia et.al.|[2501.10663](http://arxiv.org/abs/2501.10663)|**[link](https://github.com/dspangpang/pb_nbv)**|
@@ -5423,7 +5423,7 @@
 |**2024-01-19**|**Symbol as Points: Panoptic Symbol Spotting via Point-based Representation**|Wenlong Liu et.al.|[2401.10556](http://arxiv.org/abs/2401.10556)|**[link](https://github.com/nicehuster/sympoint)**|
 |**2024-01-18**|**TIPSY: Trajectory of Infalling Particles in Streamers around Young stars. Dynamical analysis of the streamers around S CrA and HL Tau**|Aashish Gupta et.al.|[2401.10403](http://arxiv.org/abs/2401.10403)|null|
 |**2024-01-18**|**GPAvatar: Generalizable and Precise Head Avatar from Image(s)**|Xuangeng Chu et.al.|[2401.10215](http://arxiv.org/abs/2401.10215)|**[link](https://github.com/xg-chu/gpavatar)**|
-|**2024-01-18**|**Measuring the Discrepancy between 3D Geometric Models using Directional Distance Fields**|Siyu Ren et.al.|[2401.09736](http://arxiv.org/abs/2401.09736)|null|
+|**2024-01-18**|**Measuring the Discrepancy between 3D Geometric Models using Directional Distance Fields**|Siyu Ren et.al.|[2401.09736](http://arxiv.org/abs/2401.09736)|**[link](https://github.com/rsy6318/dirdist)**|
 |**2024-01-19**|**Fast graph-based denoising for point cloud color information**|Ryosuke Watanabe et.al.|[2401.09721](http://arxiv.org/abs/2401.09721)|null|
 |**2024-01-18**|**GaussianBody: Clothed Human Reconstruction via 3d Gaussian Splatting**|Mengtian Li et.al.|[2401.09720](http://arxiv.org/abs/2401.09720)|null|
 |**2024-01-17**|**POP-3D: Open-Vocabulary 3D Occupancy Prediction from Images**|Antonin Vobecky et.al.|[2401.09413](http://arxiv.org/abs/2401.09413)|null|
