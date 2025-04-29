@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-28**|**3D MPSoC with On-Chip Cache Support -- Design and Exploitation**|Rodrigo Cataldo et.al.|[2504.19984](http://arxiv.org/abs/2504.19984)|null|
+|**2025-04-28**|**Accelerating Mixture-of-Experts Training with Adaptive Expert Replication**|Athinagoras Skiadopoulos et.al.|[2504.19925](http://arxiv.org/abs/2504.19925)|null|
+|**2025-04-28**|**Dynamical analysis of stacked samples of asymmetric, non-static, self-gravitating systems**|Yan-Chuan Cai et.al.|[2504.19922](http://arxiv.org/abs/2504.19922)|null|
+|**2025-04-28**|**semi-PD: Towards Efficient LLM Serving via Phase-Wise Disaggregated Computation and Unified Storage**|Ke Hong et.al.|[2504.19867](http://arxiv.org/abs/2504.19867)|null|
+|**2025-04-28**|**Clustering-based Recurrent Neural Network Controller synthesis under Signal Temporal Logic Specifications**|Kazunobu Serizawa et.al.|[2504.19846](http://arxiv.org/abs/2504.19846)|null|
+|**2025-04-28**|**Inference with few treated units**|Luis Alvarez et.al.|[2504.19841](http://arxiv.org/abs/2504.19841)|null|
+|**2025-04-28**|**Hierarchical Uncertainty-Aware Graph Neural Network**|Yoonhyuk Choi et.al.|[2504.19820](http://arxiv.org/abs/2504.19820)|null|
+|**2025-04-28**|**OmicsQ: A User-Friendly Platform for Interactive Quantitative Omics Data Analysis**|Xuan-Tung Trinh et.al.|[2504.19813](http://arxiv.org/abs/2504.19813)|null|
+|**2025-04-28**|**Meson scattering and tetraquarks in two-dimensional QCD**|Hagop Sazdjian et.al.|[2504.19809](http://arxiv.org/abs/2504.19809)|null|
+|**2025-04-28**|**Studying thermal radiation with T-matrices**|Juan Diego Mazo-Vásquez et.al.|[2504.19788](http://arxiv.org/abs/2504.19788)|null|
 |**2025-04-25**|**Complex morphology and precession indicators of AGN jets in LoTSS DR2**|Maya Horton et.al.|[2504.18518](http://arxiv.org/abs/2504.18518)|null|
 |**2025-04-25**|**Highly Accurate Expectation Values Using High-Order Relativistic Coupled Cluster Theory**|Gabriele Fabbro et.al.|[2504.18516](http://arxiv.org/abs/2504.18516)|null|
 |**2025-04-25**|**TopSpace: spatial topic modeling for unsupervised discovery of multicellular spatial tissue structures in multiplex imaging**|Junsouk Choi et.al.|[2504.18495](http://arxiv.org/abs/2504.18495)|null|
@@ -3520,6 +3530,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-28**|**QuickGrasp: Lightweight Antipodal Grasp Planning with Point Clouds**|Navin Sriram Ravie et.al.|[2504.19716](http://arxiv.org/abs/2504.19716)|null|
+|**2025-04-28**|**SAMBLE: Shape-Specific Point Cloud Sampling for an Optimal Trade-Off Between Local Detail and Global Uniformity**|Chengzhi Wu et.al.|[2504.19581](http://arxiv.org/abs/2504.19581)|null|
+|**2025-04-28**|**CE-NPBG: Connectivity Enhanced Neural Point-Based Graphics for Novel View Synthesis in Autonomous Driving Scenes**|Mohammad Altillawi et.al.|[2504.19557](http://arxiv.org/abs/2504.19557)|null|
+|**2025-04-28**|**Point2Quad: Generating Quad Meshes from Point Clouds via Face Prediction**|Zezeng Li et.al.|[2504.19545](http://arxiv.org/abs/2504.19545)|null|
+|**2025-04-28**|**Masked Point-Entity Contrast for Open-Vocabulary 3D Scene Understanding**|Yan Wang et.al.|[2504.19500](http://arxiv.org/abs/2504.19500)|null|
+|**2025-04-28**|**Geometry-Informed Neural Operator Transformer**|Qibang Liu et.al.|[2504.19452](http://arxiv.org/abs/2504.19452)|null|
+|**2025-04-28**|**A Real-Time Event-Based Normal Flow Estimator**|Dehao Yuan et.al.|[2504.19417](http://arxiv.org/abs/2504.19417)|null|
+|**2025-04-27**|**OpenFusion++: An Open-vocabulary Real-time Scene Understanding System**|Xiaofeng Jin et.al.|[2504.19266](http://arxiv.org/abs/2504.19266)|null|
+|**2025-04-27**|**CLR-Wire: Towards Continuous Latent Representations for 3D Curve Wireframe Generation**|Xueqi Ma et.al.|[2504.19174](http://arxiv.org/abs/2504.19174)|null|
+|**2025-04-26**|**An SE(3) Noise Model for Range-Azimuth-Elevation Sensors**|Thomas Hitchcox et.al.|[2504.19009](http://arxiv.org/abs/2504.19009)|null|
 |**2025-04-25**|**A Multimodal Deep Learning Approach for White Matter Shape Prediction in Diffusion MRI Tractography**|Yui Lo et.al.|[2504.18400](http://arxiv.org/abs/2504.18400)|null|
 |**2025-04-25**|**Interpretable Affordance Detection on 3D Point Clouds with Probabilistic Prototypes**|Maximilian Xiling Li et.al.|[2504.18355](http://arxiv.org/abs/2504.18355)|null|
 |**2025-04-24**|**Range Image-Based Implicit Neural Compression for LiDAR Point Clouds**|Akihiro Kuwabara et.al.|[2504.17229](http://arxiv.org/abs/2504.17229)|null|
