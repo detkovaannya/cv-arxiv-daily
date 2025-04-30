@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.29
+## Updated on 2025.04.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## clustering
@@ -3535,7 +3535,7 @@ layout: default
 |**2025-04-28**|**CE-NPBG: Connectivity Enhanced Neural Point-Based Graphics for Novel View Synthesis in Autonomous Driving Scenes**|Mohammad Altillawi et.al.|[2504.19557](http://arxiv.org/abs/2504.19557)|null|
 |**2025-04-28**|**Point2Quad: Generating Quad Meshes from Point Clouds via Face Prediction**|Zezeng Li et.al.|[2504.19545](http://arxiv.org/abs/2504.19545)|null|
 |**2025-04-28**|**Masked Point-Entity Contrast for Open-Vocabulary 3D Scene Understanding**|Yan Wang et.al.|[2504.19500](http://arxiv.org/abs/2504.19500)|null|
-|**2025-04-28**|**Geometry-Informed Neural Operator Transformer**|Qibang Liu et.al.|[2504.19452](http://arxiv.org/abs/2504.19452)|null|
+|**2025-04-29**|**Geometry-Informed Neural Operator Transformer**|Qibang Liu et.al.|[2504.19452](http://arxiv.org/abs/2504.19452)|null|
 |**2025-04-28**|**A Real-Time Event-Based Normal Flow Estimator**|Dehao Yuan et.al.|[2504.19417](http://arxiv.org/abs/2504.19417)|null|
 |**2025-04-27**|**OpenFusion++: An Open-vocabulary Real-time Scene Understanding System**|Xiaofeng Jin et.al.|[2504.19266](http://arxiv.org/abs/2504.19266)|null|
 |**2025-04-27**|**CLR-Wire: Towards Continuous Latent Representations for 3D Curve Wireframe Generation**|Xueqi Ma et.al.|[2504.19174](http://arxiv.org/abs/2504.19174)|null|
