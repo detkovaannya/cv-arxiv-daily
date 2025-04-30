@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-29**|**Constraints on primordial non-Gaussianity from Quaia**|Giulio Fabbian et.al.|[2504.20992](http://arxiv.org/abs/2504.20992)|null|
+|**2025-04-29**|**Hubs and Spokes Learning: Efficient and Scalable Collaborative Machine Learning**|Atul Sharma et.al.|[2504.20988](http://arxiv.org/abs/2504.20988)|null|
+|**2025-04-29**|**Provably faster randomized and quantum algorithms for k-means clustering via uniform sampling**|Tyler Chen et.al.|[2504.20982](http://arxiv.org/abs/2504.20982)|null|
+|**2025-04-29**|**Generalized cluster algebras are subquotients of cluster algebras**|Rolando Ramos et.al.|[2504.20931](http://arxiv.org/abs/2504.20931)|null|
+|**2025-04-29**|**XRISM forecast for the Coma cluster: stormy, with a steep power spectrum**|XRISM Collaboration et.al.|[2504.20928](http://arxiv.org/abs/2504.20928)|null|
+|**2025-04-29**|**Chemotactic aggregation dynamics of micro-swimmers in Brinkman flows**|Yasser Almoteri et.al.|[2504.20925](http://arxiv.org/abs/2504.20925)|null|
+|**2025-04-29**|**Bayesian and Statistical Analysis of the Open Star Cluster NGC 6416**|Simanta Deka et.al.|[2504.20909](http://arxiv.org/abs/2504.20909)|null|
+|**2025-04-29**|**High-temperature partition functions and classical simulability of long-range quantum systems**|Jorge Sánchez-Segovia et.al.|[2504.20901](http://arxiv.org/abs/2504.20901)|null|
+|**2025-04-29**|**Guessing Efficiently for Constrained Subspace Approximation**|Aditya Bhaskara et.al.|[2504.20883](http://arxiv.org/abs/2504.20883)|null|
+|**2025-04-29**|**Predicting the Performance of Scientific Workflow Tasks for Cluster Resource Management: An Overview of the State of the Art**|Jonathan Bader et.al.|[2504.20867](http://arxiv.org/abs/2504.20867)|null|
 |**2025-04-28**|**3D MPSoC with On-Chip Cache Support -- Design and Exploitation**|Rodrigo Cataldo et.al.|[2504.19984](http://arxiv.org/abs/2504.19984)|null|
 |**2025-04-28**|**Accelerating Mixture-of-Experts Training with Adaptive Expert Replication**|Athinagoras Skiadopoulos et.al.|[2504.19925](http://arxiv.org/abs/2504.19925)|null|
 |**2025-04-28**|**Dynamical analysis of stacked samples of asymmetric, non-static, self-gravitating systems**|Yan-Chuan Cai et.al.|[2504.19922](http://arxiv.org/abs/2504.19922)|null|
@@ -3530,6 +3540,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-29**|**CMT: A Cascade MAR with Topology Predictor for Multimodal Conditional CAD Generation**|Jianyu Wu et.al.|[2504.20830](http://arxiv.org/abs/2504.20830)|null|
+|**2025-04-29**|**Autoencoder Models for Point Cloud Environmental Synthesis from WiFi Channel State Information: A Preliminary Study**|Daniele Pannone et.al.|[2504.20541](http://arxiv.org/abs/2504.20541)|null|
+|**2025-04-29**|**DRO: Doppler-Aware Direct Radar Odometry**|Cedric Le Gentil et.al.|[2504.20339](http://arxiv.org/abs/2504.20339)|null|
+|**2025-04-28**|**FreBIS: Frequency-Based Stratification for Neural Implicit Surface Representations**|Naoko Sawada et.al.|[2504.20222](http://arxiv.org/abs/2504.20222)|null|
 |**2025-04-28**|**QuickGrasp: Lightweight Antipodal Grasp Planning with Point Clouds**|Navin Sriram Ravie et.al.|[2504.19716](http://arxiv.org/abs/2504.19716)|null|
 |**2025-04-28**|**SAMBLE: Shape-Specific Point Cloud Sampling for an Optimal Trade-Off Between Local Detail and Global Uniformity**|Chengzhi Wu et.al.|[2504.19581](http://arxiv.org/abs/2504.19581)|null|
 |**2025-04-28**|**CE-NPBG: Connectivity Enhanced Neural Point-Based Graphics for Novel View Synthesis in Autonomous Driving Scenes**|Mohammad Altillawi et.al.|[2504.19557](http://arxiv.org/abs/2504.19557)|null|
