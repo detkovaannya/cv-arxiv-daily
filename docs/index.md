@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-30**|**Topology, Kinetics and Inheritance in Clonal Colonies of Bone Marrow Stromal Cells**|Alessandro Allegrezza et.al.|[2504.21818](http://arxiv.org/abs/2504.21818)|null|
+|**2025-04-30**|**Stable Trajectory Clustering: An Efficient Split and Merge Algorithm**|Atieh Rahmani et.al.|[2504.21808](http://arxiv.org/abs/2504.21808)|null|
+|**2025-04-30**|**Message Optimality and Message-Time Trade-offs for APSP and Beyond**|Fabien Dufoulon et.al.|[2504.21781](http://arxiv.org/abs/2504.21781)|null|
+|**2025-04-30**|**Near-Optimal Distributed Ruling Sets for Trees and High-Girth Graphs**|Malte Baumecker et.al.|[2504.21777](http://arxiv.org/abs/2504.21777)|null|
+|**2025-04-30**|**Is Stephen Curry really a guard? New perspective on players typology using functional data analysis**|Steven Golovkine et.al.|[2504.21761](http://arxiv.org/abs/2504.21761)|null|
+|**2025-04-30**|**While-alive regression analysis of composite survival endpoints**|Xi Fang et.al.|[2504.21710](http://arxiv.org/abs/2504.21710)|null|
+|**2025-04-30**|**Recursive KL Divergence Optimization: A Dynamic Framework for Representation Learning**|Anthony D Martin et.al.|[2504.21707](http://arxiv.org/abs/2504.21707)|**[link](https://github.com/anthonymartin/RKDO-recursive-kl-divergence-optimization)**|
+|**2025-04-30**|**Elimination Distance to Dominated Clusters**|Nicole Schirrmacher et.al.|[2504.21675](http://arxiv.org/abs/2504.21675)|null|
+|**2025-04-30**|**Discrete coagulation--fragmentation systems in weighted $\ell^1$ spaces**|Lyndsay Kerr et.al.|[2504.21665](http://arxiv.org/abs/2504.21665)|null|
+|**2025-04-30**|**A p-adaptive polytopal discontinuous Galerkin method for high-order approximation of brain electrophysiology**|Caterina Beatrice Leimer Saglio et.al.|[2504.21657](http://arxiv.org/abs/2504.21657)|null|
 |**2025-04-29**|**Constraints on primordial non-Gaussianity from Quaia**|Giulio Fabbian et.al.|[2504.20992](http://arxiv.org/abs/2504.20992)|null|
 |**2025-04-29**|**Hubs and Spokes Learning: Efficient and Scalable Collaborative Machine Learning**|Atul Sharma et.al.|[2504.20988](http://arxiv.org/abs/2504.20988)|null|
 |**2025-04-29**|**Provably faster randomized and quantum algorithms for k-means clustering via uniform sampling**|Tyler Chen et.al.|[2504.20982](http://arxiv.org/abs/2504.20982)|null|
@@ -3540,6 +3550,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-30**|**REHEARSE-3D: A Multi-modal Emulated Rain Dataset for 3D Point Cloud De-raining**|Abu Mohammed Raisuddin et.al.|[2504.21699](http://arxiv.org/abs/2504.21699)|null|
+|**2025-04-30**|**HoloTime: Taming Video Diffusion Models for Panoramic 4D Scene Generation**|Haiyang Zhou et.al.|[2504.21650](http://arxiv.org/abs/2504.21650)|null|
+|**2025-04-30**|**Path Planning on Multi-level Point Cloud with a Weighted Traversability Graph**|Yujie Tang et.al.|[2504.21622](http://arxiv.org/abs/2504.21622)|null|
+|**2025-04-30**|**LRBO2: Improved 3D Vision Based Hand-Eye Calibration for Collaborative Robot Arm**|Leihui Li et.al.|[2504.21619](http://arxiv.org/abs/2504.21619)|null|
+|**2025-04-30**|**Multiview Point Cloud Registration via Optimization in an Autoencoder Latent Space**|Luc Vedrenne et.al.|[2504.21467](http://arxiv.org/abs/2504.21467)|null|
+|**2025-04-30**|**JAvaScript Multimodal INformation Explorer**|Fenja Schweder et.al.|[2504.21393](http://arxiv.org/abs/2504.21393)|null|
 |**2025-04-29**|**CMT: A Cascade MAR with Topology Predictor for Multimodal Conditional CAD Generation**|Jianyu Wu et.al.|[2504.20830](http://arxiv.org/abs/2504.20830)|null|
 |**2025-04-29**|**Autoencoder Models for Point Cloud Environmental Synthesis from WiFi Channel State Information: A Preliminary Study**|Daniele Pannone et.al.|[2504.20541](http://arxiv.org/abs/2504.20541)|null|
 |**2025-04-29**|**DRO: Doppler-Aware Direct Radar Odometry**|Cedric Le Gentil et.al.|[2504.20339](http://arxiv.org/abs/2504.20339)|null|
