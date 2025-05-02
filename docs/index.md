@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.01
+## Updated on 2025.05.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## clustering
@@ -19,7 +19,7 @@ layout: default
 |**2025-04-30**|**Message Optimality and Message-Time Trade-offs for APSP and Beyond**|Fabien Dufoulon et.al.|[2504.21781](http://arxiv.org/abs/2504.21781)|null|
 |**2025-04-30**|**Near-Optimal Distributed Ruling Sets for Trees and High-Girth Graphs**|Malte Baumecker et.al.|[2504.21777](http://arxiv.org/abs/2504.21777)|null|
 |**2025-04-30**|**Is Stephen Curry really a guard? New perspective on players typology using functional data analysis**|Steven Golovkine et.al.|[2504.21761](http://arxiv.org/abs/2504.21761)|null|
-|**2025-04-30**|**While-alive regression analysis of composite survival endpoints**|Xi Fang et.al.|[2504.21710](http://arxiv.org/abs/2504.21710)|null|
+|**2025-05-01**|**While-alive regression analysis of composite survival endpoints**|Xi Fang et.al.|[2504.21710](http://arxiv.org/abs/2504.21710)|null|
 |**2025-04-30**|**Recursive KL Divergence Optimization: A Dynamic Framework for Representation Learning**|Anthony D Martin et.al.|[2504.21707](http://arxiv.org/abs/2504.21707)|**[link](https://github.com/anthonymartin/RKDO-recursive-kl-divergence-optimization)**|
 |**2025-04-30**|**Elimination Distance to Dominated Clusters**|Nicole Schirrmacher et.al.|[2504.21675](http://arxiv.org/abs/2504.21675)|null|
 |**2025-04-30**|**Discrete coagulation--fragmentation systems in weighted $\ell^1$ spaces**|Lyndsay Kerr et.al.|[2504.21665](http://arxiv.org/abs/2504.21665)|null|
