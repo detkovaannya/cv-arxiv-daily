@@ -891,7 +891,7 @@
 |**2024-12-19**|**LeviTor: 3D Trajectory Oriented Image-to-Video Synthesis**|Hanlin Wang et.al.|[2412.15214](http://arxiv.org/abs/2412.15214)|**[link](https://github.com/qiuyu96/LeviTor)**|
 |**2024-12-19**|**HPC-Coder-V2: Studying Code LLMs Across Low-Resource Parallel Languages**|Aman Chaturvedi et.al.|[2412.15178](http://arxiv.org/abs/2412.15178)|null|
 |**2024-12-19**|**Turbulent dissipative coupling in nanoscale multimode superfluid acoustics**|Filip Novotný et.al.|[2412.15110](http://arxiv.org/abs/2412.15110)|null|
-|**2024-12-19**|**Constraining the potential of the Milky Way using stellar streams and the Inverse Time Integration method**|C. G. Palau et.al.|[2412.15091](http://arxiv.org/abs/2412.15091)|null|
+|**2024-12-19**|**Constraining the potential of the Milky Way using stellar streams and the Inverse Time Integration method**|C. G. Palau et.al.|[2412.15091](http://arxiv.org/abs/2412.15091)|**[link](https://github.com/cgpalau-astro/invi)**|
 |**2024-12-19**|**Linear response of rotating and flattened stellar clusters: the oblate Kuzmin-Kutuzov Stäckel family**|Kerwann Tep et.al.|[2412.15033](http://arxiv.org/abs/2412.15033)|null|
 |**2024-12-19**|**Multi-frequency Radio Observations of the Dissociative Cluster Merger CIZA J0107.7+5408**|Emma Schwartzman et.al.|[2412.15015](http://arxiv.org/abs/2412.15015)|null|
 |**2024-12-19**|**From Nonequilibrium to Equilibrium: Insights from a Two-Population Occupation Model**|Jerome Garnier-Brun et.al.|[2412.14996](http://arxiv.org/abs/2412.14996)|null|
