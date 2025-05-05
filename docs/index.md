@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-02**|**Towards Optimal Deterministic LOCAL Algorithms on Trees**|Sebastian Brandt et.al.|[2505.01410](http://arxiv.org/abs/2505.01410)|null|
+|**2025-05-02**|**Dynamic Robot Tool Use with Vision Language Models**|Noah Trupin et.al.|[2505.01399](http://arxiv.org/abs/2505.01399)|null|
+|**2025-05-02**|**Emerging Media Use and Acceptance of Digital Immortality: A Cluster Analysis among Chinese Young Generations**|Yi Mou et.al.|[2505.01355](http://arxiv.org/abs/2505.01355)|null|
+|**2025-05-02**|**Redshift-space bispectrum in presence of massive neutrinos: A multipole expansion approach for Euclid**|Sourav Pal et.al.|[2505.01270](http://arxiv.org/abs/2505.01270)|null|
+|**2025-05-02**|**Optical properties of a diamond NV color center from capped embedded multiconfigurational correlated wavefunction theory**|John Mark P. Martirez et.al.|[2505.01250](http://arxiv.org/abs/2505.01250)|null|
+|**2025-05-02**|**Ind-cluster algebras and infinite Grassmannians**|Sira Gratz et.al.|[2505.01228](http://arxiv.org/abs/2505.01228)|null|
+|**2025-05-02**|**One Target, Many Views: Multi-User Fusion for Collaborative Uplink ISAC**|Sajad Daei et.al.|[2505.01223](http://arxiv.org/abs/2505.01223)|null|
+|**2025-05-02**|**A stochastic Gordon-Loeb model for optimal cybersecurity investment under clustered attacks**|Giorgia Callegaro et.al.|[2505.01221](http://arxiv.org/abs/2505.01221)|null|
+|**2025-05-02**|**A Self-Healing and Fault-Tolerant Cloud-based Digital Twin Processing Management Model**|Deepika Saxena et.al.|[2505.01215](http://arxiv.org/abs/2505.01215)|null|
+|**2025-05-02**|**A Space-Time Trade-off for Fast Self-Stabilizing Leader Election in Population Protocols**|Henry Austin et.al.|[2505.01210](http://arxiv.org/abs/2505.01210)|null|
 |**2025-05-01**|**On Minimal Generating Sets of Splitting Field and Cluster Towers**|Shubham Jaiswal et.al.|[2505.00672](http://arxiv.org/abs/2505.00672)|null|
 |**2025-05-01**|**Auditing without Leaks Despite Curiosity**|Hagit Attiya et.al.|[2505.00665](http://arxiv.org/abs/2505.00665)|null|
 |**2025-05-01**|**RIS Partitioning and User Clustering for Resilient Non-Orthogonal Multiple Access UAV Networks**|Mohammed Saif et.al.|[2505.00658](http://arxiv.org/abs/2505.00658)|null|
@@ -3560,6 +3570,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-02**|**Tightly Coupled Range Inertial Odometry and Mapping with Exact Point Cloud Downsampling**|Kenji Koide et.al.|[2505.01017](http://arxiv.org/abs/2505.01017)|null|
 |**2025-05-01**|**Synthesizing and Identifying Noise Levels in Autonomous Vehicle Camera Radar Datasets**|Mathis Morales et.al.|[2505.00584](http://arxiv.org/abs/2505.00584)|null|
 |**2025-05-01**|**Implicit Neural-Representation Learning for Elastic Deformable-Object Manipulations**|Minseok Song et.al.|[2505.00500](http://arxiv.org/abs/2505.00500)|null|
 |**2025-05-01**|**Leveraging Pretrained Diffusion Models for Zero-Shot Part Assembly**|Ruiyuan Zhang et.al.|[2505.00426](http://arxiv.org/abs/2505.00426)|null|
