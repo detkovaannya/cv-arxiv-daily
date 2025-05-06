@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-05**|**AutoLibra: Agent Metric Induction from Open-Ended Feedback**|Hao Zhu et.al.|[2505.02820](http://arxiv.org/abs/2505.02820)|null|
+|**2025-05-05**|**Complex-variable MP2 theory applied to core-vacant states for the computation of Auger spectra**|Florian Matz et.al.|[2505.02810](http://arxiv.org/abs/2505.02810)|null|
+|**2025-05-05**|**HSplitLoRA: A Heterogeneous Split Parameter-Efficient Fine-Tuning Framework for Large Language Models**|Zheng Lin et.al.|[2505.02795](http://arxiv.org/abs/2505.02795)|null|
+|**2025-05-05**|**Recolorable Graph Exploration by an Oblivious Agent with Fewer Colors**|Shota Takahashi et.al.|[2505.02789](http://arxiv.org/abs/2505.02789)|null|
+|**2025-05-05**|**Brief Announcement: Minimizing Energy Solves Relative Majority with a Cubic Number of States in Population Protocols**|Tom-Lukas Breitkopf et.al.|[2505.02785](http://arxiv.org/abs/2505.02785)|null|
+|**2025-05-05**|**Giving Simulated Cells a Voice: Evolving Prompt-to-Intervention Models for Cellular Control**|Nam H. Le et.al.|[2505.02766](http://arxiv.org/abs/2505.02766)|null|
+|**2025-05-05**|**An Almost Tight Lower Bound for Plurality Consensus with Undecided State Dynamics in the Population Protocol Model**|Antoine El-Hayek et.al.|[2505.02765](http://arxiv.org/abs/2505.02765)|null|
+|**2025-05-05**|**DUCA: Dynamic Universe Cosmological Analysis. II. The impact of clustering dark energy on the halo mass function**|Tiago Castro et.al.|[2505.02762](http://arxiv.org/abs/2505.02762)|null|
+|**2025-05-05**|**Optimistic, Signature-Free Reliable Broadcast and Its Applications**|Nibesh Shrestha et.al.|[2505.02761](http://arxiv.org/abs/2505.02761)|null|
+|**2025-05-05**|**A Unifying Framework to Enable Artificial Intelligence in High Performance Computing Workflows**|Jens Domke et.al.|[2505.02738](http://arxiv.org/abs/2505.02738)|null|
 |**2025-05-02**|**Towards Optimal Deterministic LOCAL Algorithms on Trees**|Sebastian Brandt et.al.|[2505.01410](http://arxiv.org/abs/2505.01410)|null|
 |**2025-05-02**|**Dynamic Robot Tool Use with Vision Language Models**|Noah Trupin et.al.|[2505.01399](http://arxiv.org/abs/2505.01399)|null|
 |**2025-05-02**|**Emerging Media Use and Acceptance of Digital Immortality: A Cluster Analysis among Chinese Young Generations**|Yi Mou et.al.|[2505.01355](http://arxiv.org/abs/2505.01355)|null|
@@ -3576,6 +3586,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-05**|**Grasp the Graph (GtG) 2.0: Ensemble of GNNs for High-Precision Grasp Pose Detection in Clutter**|Ali Rashidi Moghadam et.al.|[2505.02664](http://arxiv.org/abs/2505.02664)|null|
+|**2025-05-05**|**Point Cloud Recombination: Systematic Real Data Augmentation Using Robotic Targets for LiDAR Perception Validation**|Hubert Padusinski et.al.|[2505.02476](http://arxiv.org/abs/2505.02476)|null|
+|**2025-05-05**|**Sparse Ellipsoidal Radial Basis Function Network for Point Cloud Surface Representation**|Bobo Lian et.al.|[2505.02350](http://arxiv.org/abs/2505.02350)|null|
+|**2025-05-04**|**GarmentGS: Point-Cloud Guided Gaussian Splatting for High-Fidelity Non-Watertight 3D Garment Reconstruction**|Zhihao Tang et.al.|[2505.02126](http://arxiv.org/abs/2505.02126)|null|
+|**2025-05-04**|**Enhancing Lidar Point Cloud Sampling via Colorization and Super-Resolution of Lidar Imagery**|Sier Ha et.al.|[2505.02049](http://arxiv.org/abs/2505.02049)|null|
+|**2025-05-04**|**Point2Primitive: CAD Reconstruction from Point Cloud by Direct Primitive Prediction**|Cheng Wang et.al.|[2505.02043](http://arxiv.org/abs/2505.02043)|null|
+|**2025-05-04**|**MC3D-AD: A Unified Geometry-aware Reconstruction Model for Multi-category 3D Anomaly Detection**|Jiayi Cheng et.al.|[2505.01969](http://arxiv.org/abs/2505.01969)|null|
+|**2025-05-03**|**HybridGS: High-Efficiency Gaussian Splatting Data Compression using Dual-Channel Sparse Representation and Point Cloud Encoder**|Qi Yang et.al.|[2505.01938](http://arxiv.org/abs/2505.01938)|null|
+|**2025-05-03**|**3DWG: 3D Weakly Supervised Visual Grounding via Category and Instance-Level Alignment**|Xiaoqi Li et.al.|[2505.01809](http://arxiv.org/abs/2505.01809)|null|
+|**2025-05-03**|**Probabilistic Interactive 3D Segmentation with Hierarchical Neural Processes**|Jie Liu et.al.|[2505.01726](http://arxiv.org/abs/2505.01726)|null|
 |**2025-05-02**|**Tightly Coupled Range Inertial Odometry and Mapping with Exact Point Cloud Downsampling**|Kenji Koide et.al.|[2505.01017](http://arxiv.org/abs/2505.01017)|null|
 |**2025-05-01**|**Synthesizing and Identifying Noise Levels in Autonomous Vehicle Camera Radar Datasets**|Mathis Morales et.al.|[2505.00584](http://arxiv.org/abs/2505.00584)|null|
 |**2025-05-01**|**Implicit Neural-Representation Learning for Elastic Deformable-Object Manipulations**|Minseok Song et.al.|[2505.00500](http://arxiv.org/abs/2505.00500)|null|
