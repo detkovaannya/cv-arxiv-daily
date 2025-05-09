@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-08**|**Empowering Scientific Workflows with Federated Agents**|J. Gregory Pauloski et.al.|[2505.05428](http://arxiv.org/abs/2505.05428)|null|
+|**2025-05-08**|**Variable Selection for Fixed and Random Effects in Multilevel Functional Mixed Effects Models**|Rahul Ghosal et.al.|[2505.05416](http://arxiv.org/abs/2505.05416)|null|
+|**2025-05-08**|**Radial Profiles of Radio Halos in Massive Galaxy Clusters: Diffuse Giants Over 2 Mpc**|K. Rajpurohit et.al.|[2505.05415](http://arxiv.org/abs/2505.05415)|null|
+|**2025-05-08**|**Testing an unstable cosmic neutrino background**|Pasquale Di Bari et.al.|[2505.05405](http://arxiv.org/abs/2505.05405)|null|
+|**2025-05-08**|**Walrus: An Efficient Decentralized Storage Network**|George Danezis et.al.|[2505.05370](http://arxiv.org/abs/2505.05370)|null|
+|**2025-05-08**|**Empirical Analysis of Transaction Conflicts in Ethereum and Solana for Parallel Execution**|Parwat Singh Anjana et.al.|[2505.05358](http://arxiv.org/abs/2505.05358)|null|
+|**2025-05-08**|**HEXGEN-TEXT2SQL: Optimizing LLM Inference Request Scheduling for Agentic Text-to-SQL Workflow**|You Peng et.al.|[2505.05286](http://arxiv.org/abs/2505.05286)|null|
+|**2025-05-08**|**Metallicities of 20 Million Giant Stars Based on Gaia XP spectra**|Lin Yang et.al.|[2505.05281](http://arxiv.org/abs/2505.05281)|null|
+|**2025-05-08**|**Bayesian Clustering Factor Models**|Hwasoo Shin et.al.|[2505.05280](http://arxiv.org/abs/2505.05280)|null|
+|**2025-05-08**|**PUDTune: Multi-Level Charging for High-Precision Calibration in Processing-Using-DRAM**|Tatsuya Kubo et.al.|[2505.05266](http://arxiv.org/abs/2505.05266)|null|
 |**2025-05-07**|**Hierarchical Task Decomposition for Execution Monitoring and Error Recovery: Understanding the Rationale Behind Task Demonstrations**|Christoph Willibald et.al.|[2505.04565](http://arxiv.org/abs/2505.04565)|null|
 |**2025-05-07**|**Optimal Deterministic Rendezvous in Labeled Lines**|Yann Bourreau et.al.|[2505.04564](http://arxiv.org/abs/2505.04564)|null|
 |**2025-05-07**|**Comparing CPU and GPU compute of PERMANOVA on MI300A**|Igor Sfiligoi et.al.|[2505.04556](http://arxiv.org/abs/2505.04556)|null|
@@ -3606,6 +3616,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-08**|**Representing spherical tensors with scalar-based machine-learning models**|Michelangelo Domina et.al.|[2505.05404](http://arxiv.org/abs/2505.05404)|null|
+|**2025-05-08**|**PillarMamba: Learning Local-Global Context for Roadside Point Cloud via Hybrid State Space Model**|Zhang Zhang et.al.|[2505.05397](http://arxiv.org/abs/2505.05397)|null|
+|**2025-05-08**|**PlaceIt3D: Language-Guided Object Placement in Real 3D Scenes**|Ahmed Abdelreheem et.al.|[2505.05288](http://arxiv.org/abs/2505.05288)|null|
+|**2025-05-08**|**DenseGrounding: Improving Dense Language-Vision Semantics for Ego-Centric 3D Visual Grounding**|Henry Zheng et.al.|[2505.04965](http://arxiv.org/abs/2505.04965)|null|
+|**2025-05-08**|**An Efficient Method for Accurate Pose Estimation and Error Correction of Cuboidal Objects**|Utsav Rai et.al.|[2505.04962](http://arxiv.org/abs/2505.04962)|null|
+|**2025-05-08**|**SpatialPrompting: Keyframe-driven Zero-Shot Spatial Reasoning with Off-the-Shelf Multimodal Large Language Models**|Shun Taguchi et.al.|[2505.04911](http://arxiv.org/abs/2505.04911)|null|
 |**2025-05-07**|**Registration of 3D Point Sets Using Exponential-based Similarity Matrix**|Ashutosh Singandhupe et.al.|[2505.04540](http://arxiv.org/abs/2505.04540)|**[link](https://github.com/aralab-unr/esm_icp)**|
 |**2025-05-08**|**FA-KPConv: Introducing Euclidean Symmetries to KPConv via Frame Averaging**|Ali Alawieh et.al.|[2505.04485](http://arxiv.org/abs/2505.04485)|null|
 |**2025-05-07**|**Latent Manifold Reconstruction and Representation with Topological and Geometrical Regularization**|Ren Wang et.al.|[2505.04412](http://arxiv.org/abs/2505.04412)|**[link](https://github.com/thanatorika/mrtg)**|
