@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.08
+## Updated on 2025.05.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,7 +22,7 @@
 |**2025-05-07**|**Optimal Deterministic Rendezvous in Labeled Lines**|Yann Bourreau et.al.|[2505.04564](http://arxiv.org/abs/2505.04564)|null|
 |**2025-05-07**|**Comparing CPU and GPU compute of PERMANOVA on MI300A**|Igor Sfiligoi et.al.|[2505.04556](http://arxiv.org/abs/2505.04556)|null|
 |**2025-05-07**|**PANCAKE: Python bAsed Numerical Color-magnitude-diagram Analysis pacKagE**|Yun Zheng et.al.|[2505.04534](http://arxiv.org/abs/2505.04534)|null|
-|**2025-05-07**|**A Multi-Scale Quantum Framework for Evaluating Metal-Organic Frameworks in Carbon Capture**|Tom W. A. Montgomery et.al.|[2505.04527](http://arxiv.org/abs/2505.04527)|null|
+|**2025-05-08**|**A Multi-Scale Quantum Framework for Evaluating Metal-Organic Frameworks in Carbon Capture**|Tom W. A. Montgomery et.al.|[2505.04527](http://arxiv.org/abs/2505.04527)|null|
 |**2025-05-07**|**A Tutorial on Discriminative Clustering and Mutual Information**|Louis Ohl et.al.|[2505.04484](http://arxiv.org/abs/2505.04484)|null|
 |**2025-05-07**|**Disordered solid to Bose-glass transition in Bose-Hubbard model with disorder and long-range interactions**|Kohenjit Pebam et.al.|[2505.04476](http://arxiv.org/abs/2505.04476)|null|
 |**2025-05-07**|**Discriminative Ordering Through Ensemble Consensus**|Louis Ohl et.al.|[2505.04464](http://arxiv.org/abs/2505.04464)|null|
@@ -3600,14 +3600,14 @@
 |**2023-11-10**|**The First Verification Test of Space-Ground Collaborative Intelligence via Cloud-Native Satellites**|Shangguang Wang et.al.|[2311.06078](http://arxiv.org/abs/2311.06078)|null|
 |**2023-11-10**|**Collaborative Inference in DNN-based Satellite Systems with Dynamic Task Streams**|Jinglong Guan et.al.|[2311.06073](http://arxiv.org/abs/2311.06073)|null|
 
-<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
 
 ## point cloud
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-05-07**|**Registration of 3D Point Sets Using Exponential-based Similarity Matrix**|Ashutosh Singandhupe et.al.|[2505.04540](http://arxiv.org/abs/2505.04540)|**[link](https://github.com/aralab-unr/esm_icp)**|
-|**2025-05-07**|**FA-KPConv: Introducing Euclidean Symmetries to KPConv via Frame Averaging**|Ali Alawieh et.al.|[2505.04485](http://arxiv.org/abs/2505.04485)|null|
+|**2025-05-08**|**FA-KPConv: Introducing Euclidean Symmetries to KPConv via Frame Averaging**|Ali Alawieh et.al.|[2505.04485](http://arxiv.org/abs/2505.04485)|null|
 |**2025-05-07**|**Latent Manifold Reconstruction and Representation with Topological and Geometrical Regularization**|Ren Wang et.al.|[2505.04412](http://arxiv.org/abs/2505.04412)|**[link](https://github.com/thanatorika/mrtg)**|
 |**2025-05-07**|**MFSeg: Efficient Multi-frame 3D Semantic Segmentation**|Chengjie Huang et.al.|[2505.04408](http://arxiv.org/abs/2505.04408)|null|
 |**2025-05-07**|**GAPrompt: Geometry-Aware Point Cloud Prompt for 3D Vision Model**|Zixiang Ai et.al.|[2505.04119](http://arxiv.org/abs/2505.04119)|**[link](https://github.com/zhoujiahuan1991/icml2025-vgp)**|
@@ -5822,7 +5822,7 @@
 |**2023-11-08**|**VET: Visual Error Tomography for Point Cloud Completion and High-Quality Neural Rendering**|Linus Franke et.al.|[2311.04634](http://arxiv.org/abs/2311.04634)|**[link](https://github.com/lfranke/vet)**|
 |**2023-11-09**|**Rethinking Human Pose Estimation for Autonomous Driving with 3D Event Representations**|Xiaoting Yin et.al.|[2311.04591](http://arxiv.org/abs/2311.04591)|**[link](https://github.com/masterhow/eventpointpose)**|
 
-<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
