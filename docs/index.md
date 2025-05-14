@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-13**|**Extreme Loss Suppression and Wide Tunability of Dipolar Interactions in an Ultracold Molecular Gas**|Weijun Yuan et.al.|[2505.08773](http://arxiv.org/abs/2505.08773)|null|
+|**2025-05-13**|**Kudzu: Fast and Simple High-Throughput BFT**|Victor Shoup et.al.|[2505.08771](http://arxiv.org/abs/2505.08771)|null|
+|**2025-05-13**|**The CMB cold spot under the lens II: Lensing on polarization and cosmic textures footprints**|Pedro da Silveira Ferreira et.al.|[2505.08761](http://arxiv.org/abs/2505.08761)|null|
+|**2025-05-13**|**Understanding Housing and Homelessness System Access by Linking Administrative Data**|Geoffrey G. Messier et.al.|[2505.08743](http://arxiv.org/abs/2505.08743)|null|
+|**2025-05-13**|**Heterogeneity Induces Cyclops States in Kuramoto Networks with Higher-Mode Coupling**|Maxim I. Bolotov et.al.|[2505.08653](http://arxiv.org/abs/2505.08653)|null|
+|**2025-05-13**|**Cracking the relation between mass and 1P-star fraction of globular clusters: III. Initial distributions of in-situ and ex-situ clusters**|Geneviève Parmentier et.al.|[2505.08626](http://arxiv.org/abs/2505.08626)|null|
+|**2025-05-13**|**Clustering of Incomplete Data via a Bipartite Graph Structure**|Amirhossein Javaheri et.al.|[2505.08594](http://arxiv.org/abs/2505.08594)|null|
+|**2025-05-13**|**Leveraging Segment Anything Model for Source-Free Domain Adaptation via Dual Feature Guided Auto-Prompting**|Zheang Huai et.al.|[2505.08527](http://arxiv.org/abs/2505.08527)|**[link](https://github.com/zheangh/dfg)**|
+|**2025-05-13**|**Benchmarking distinguishable cluster methods to platinum standard CCSDT(Q) non covalent interaction energies in the A24 dataset**|S. Lambie et.al.|[2505.08483](http://arxiv.org/abs/2505.08483)|null|
+|**2025-05-13**|**Distributed Quantum Neural Networks on Distributed Photonic Quantum Computing**|Kuan-Cheng Chen et.al.|[2505.08474](http://arxiv.org/abs/2505.08474)|null|
 |**2025-05-12**|**Unraveling Mn intercalation and diffusion in NbSe $_2$ bilayers through DFTB simulations**|Bruno Ipaves et.al.|[2505.07781](http://arxiv.org/abs/2505.07781)|null|
 |**2025-05-12**|**Ion energy distributions from the impact of an atmospheric dielectric barrier discharge plasma jet on surfaces**|Daniel Henze et.al.|[2505.07771](http://arxiv.org/abs/2505.07771)|null|
 |**2025-05-12**|**Benchmarking of CPU-intensive Stream Data Processing in The Edge Computing Systems**|Tomasz Szydlo et.al.|[2505.07755](http://arxiv.org/abs/2505.07755)|null|
@@ -3630,6 +3640,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-13**|**CLTP: Contrastive Language-Tactile Pre-training for 3D Contact Geometry Understanding**|Wenxuan Ma et.al.|[2505.08194](http://arxiv.org/abs/2505.08194)|null|
+|**2025-05-12**|**Topology-Guided Knowledge Distillation for Efficient Point Cloud Processing**|Luu Tung Hai et.al.|[2505.08101](http://arxiv.org/abs/2505.08101)|**[link](https://github.com/hysonlab/pointdistill)**|
 |**2025-05-12**|**DepthFusion: Depth-Aware Hybrid Feature Fusion for LiDAR-Camera 3D Object Detection**|Mingqian Ji et.al.|[2505.07398](http://arxiv.org/abs/2505.07398)|null|
 |**2025-05-13**|**TUM2TWIN: Introducing the Large-Scale Multimodal Urban Digital Twin Benchmark Dataset**|Olaf Wysocki et.al.|[2505.07396](http://arxiv.org/abs/2505.07396)|null|
 |**2025-05-12**|**Boosting Global-Local Feature Matching via Anomaly Synthesis for Multi-Class Point Cloud Anomaly Detection**|Yuqi Cheng et.al.|[2505.07375](http://arxiv.org/abs/2505.07375)|**[link](https://github.com/hustCYQ/GLFM-Multi-class-3DAD)**|
