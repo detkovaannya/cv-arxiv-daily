@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.14
+## Updated on 2025.05.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## clustering
@@ -21,7 +21,7 @@ layout: default
 |**2025-05-13**|**Heterogeneity Induces Cyclops States in Kuramoto Networks with Higher-Mode Coupling**|Maxim I. Bolotov et.al.|[2505.08653](http://arxiv.org/abs/2505.08653)|null|
 |**2025-05-13**|**Cracking the relation between mass and 1P-star fraction of globular clusters: III. Initial distributions of in-situ and ex-situ clusters**|Geneviève Parmentier et.al.|[2505.08626](http://arxiv.org/abs/2505.08626)|null|
 |**2025-05-13**|**Clustering of Incomplete Data via a Bipartite Graph Structure**|Amirhossein Javaheri et.al.|[2505.08594](http://arxiv.org/abs/2505.08594)|null|
-|**2025-05-13**|**Leveraging Segment Anything Model for Source-Free Domain Adaptation via Dual Feature Guided Auto-Prompting**|Zheang Huai et.al.|[2505.08527](http://arxiv.org/abs/2505.08527)|**[link](https://github.com/zheangh/dfg)**|
+|**2025-05-14**|**Leveraging Segment Anything Model for Source-Free Domain Adaptation via Dual Feature Guided Auto-Prompting**|Zheang Huai et.al.|[2505.08527](http://arxiv.org/abs/2505.08527)|**[link](https://github.com/xmed-lab/dfg)**|
 |**2025-05-13**|**Benchmarking distinguishable cluster methods to platinum standard CCSDT(Q) non covalent interaction energies in the A24 dataset**|S. Lambie et.al.|[2505.08483](http://arxiv.org/abs/2505.08483)|null|
 |**2025-05-13**|**Distributed Quantum Neural Networks on Distributed Photonic Quantum Computing**|Kuan-Cheng Chen et.al.|[2505.08474](http://arxiv.org/abs/2505.08474)|null|
 |**2025-05-12**|**Unraveling Mn intercalation and diffusion in NbSe $_2$ bilayers through DFTB simulations**|Bruno Ipaves et.al.|[2505.07781](http://arxiv.org/abs/2505.07781)|null|
