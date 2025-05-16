@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-15**|**Magnetic deflection of high-spin sodium dimers formed on helium nanodroplets**|Thomas H. Villers et.al.|[2505.10523](http://arxiv.org/abs/2505.10523)|null|
+|**2025-05-15**|**Shift of nanodroplet and nanocluster size distributions induced by dopant pick-up statistics**|Marie Riddle et.al.|[2505.10516](http://arxiv.org/abs/2505.10516)|null|
+|**2025-05-15**|**Constraints on dark matter self-interaction from velocity distribution function in isolated halos**|Tirtha Sankar Ray et.al.|[2505.10451](http://arxiv.org/abs/2505.10451)|null|
+|**2025-05-15**|**Environmental dependences of galaxy properties in the southern regions of the GAMA survey**|K. Joy et.al.|[2505.10429](http://arxiv.org/abs/2505.10429)|null|
+|**2025-05-15**|**Euclid: Photometric redshift calibration with the clustering redshifts technique**|W. d'Assignies Doumerg et.al.|[2505.10416](http://arxiv.org/abs/2505.10416)|null|
+|**2025-05-15**|**LDIR: Low-Dimensional Dense and Interpretable Text Embeddings with Relative Representations**|Yile Wang et.al.|[2505.10354](http://arxiv.org/abs/2505.10354)|**[link](https://github.com/szu-tera/ldir)**|
+|**2025-05-15**|**Structural parameters, chronological age and dynamical age of the LMC globular cluster NGC 1754**|Camilla Giusti et.al.|[2505.10323](http://arxiv.org/abs/2505.10323)|null|
+|**2025-05-15**|**Scalable 28nm IC implementation of coupled oscillator network featuring tunable topology and complexity**|S. Y. Neyaz et.al.|[2505.10248](http://arxiv.org/abs/2505.10248)|null|
+|**2025-05-15**|**Imaging and spectropolarimetric observations of a band-split type II solar radio burst with LOFAR**|S. Normo et.al.|[2505.10243](http://arxiv.org/abs/2505.10243)|null|
+|**2025-05-15**|**Dips in the sub-TeV gamma-ray light curves from central parts of galaxies due to transiting luminous stars**|W. Bednarek et.al.|[2505.10189](http://arxiv.org/abs/2505.10189)|null|
 |**2025-05-14**|**MDTP -- An Adaptive Multi-Source Data Transfer Protocol**|Sepideh Abdollah et.al.|[2505.09597](http://arxiv.org/abs/2505.09597)|null|
 |**2025-05-14**|**Rhomboid Tiling for Geometric Graph Deep Learning**|Yipeng Zhang et.al.|[2505.09586](http://arxiv.org/abs/2505.09586)|null|
 |**2025-05-14**|**Valuative independence and cluster theta reciprocity**|Man-Wai Cheung et.al.|[2505.09585](http://arxiv.org/abs/2505.09585)|null|
@@ -3656,6 +3666,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-15**|**VolE: A Point-cloud Framework for Food 3D Reconstruction and Volume Estimation**|Umair Haroon et.al.|[2505.10205](http://arxiv.org/abs/2505.10205)|null|
+|**2025-05-15**|**From Combinatorics to Partial Differential Equations**|Francesco Mattesini et.al.|[2505.10175](http://arxiv.org/abs/2505.10175)|null|
+|**2025-05-15**|**EmbodiedMAE: A Unified 3D Multi-Modal Representation for Robot Manipulation**|Zibin Dong et.al.|[2505.10105](http://arxiv.org/abs/2505.10105)|null|
+|**2025-05-15**|**LEMON-Mapping: Loop-Enhanced Large-Scale Multi-Session Point Cloud Merging and Optimization for Globally Consistent Mapping**|Lijie Wang et.al.|[2505.10018](http://arxiv.org/abs/2505.10018)|null|
+|**2025-05-15**|**APCoTTA: Continual Test-Time Adaptation for Semantic Segmentation of Airborne LiDAR Point Clouds**|Yuan Gao et.al.|[2505.09971](http://arxiv.org/abs/2505.09971)|**[link](https://github.com/gaoyuan2/apcotta)**|
+|**2025-05-15**|**Unsupervised Radar Point Cloud Enhancement via Arbitrary LiDAR Guided Diffusion Prior**|Yanlong Yang et.al.|[2505.09887](http://arxiv.org/abs/2505.09887)|null|
+|**2025-05-14**|**Inference for Dispersion and Curvature of Random Objects**|Wookyeong Song et.al.|[2505.09844](http://arxiv.org/abs/2505.09844)|null|
+|**2025-05-14**|**VALVEFIT: An analysis-suitable B-spline-based surface fitting framework for patient-specific modeling of tricuspid valves**|Ajith Moola et.al.|[2505.09790](http://arxiv.org/abs/2505.09790)|null|
 |**2025-05-15**|**Decentralized Nonlinear Model Predictive Control-Based Flock Navigation with Real-Time Obstacle Avoidance in Unknown Obstructed Environments**|Nuthasith Gerdpratoom et.al.|[2505.09434](http://arxiv.org/abs/2505.09434)|null|
 |**2025-05-14**|**Efficient LiDAR Reflectance Compression via Scanning Serialization**|Jiahao Zhu et.al.|[2505.09433](http://arxiv.org/abs/2505.09433)|null|
 |**2025-05-14**|**Exploring Pose-Guided Imitation Learning for Robotic Precise Insertion**|Han Sun et.al.|[2505.09424](http://arxiv.org/abs/2505.09424)|null|
