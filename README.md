@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-19**|**Filtering out large-scale noise for cluster weak-lensing mass estimation**|C. Murray et.al.|[2505.13399](http://arxiv.org/abs/2505.13399)|null|
+|**2025-05-19**|**Occult: Optimizing Collaborative Communication across Experts for Accelerated Parallel MoE Training and Inference**|Shuqing Luo et.al.|[2505.13345](http://arxiv.org/abs/2505.13345)|**[link](https://github.com/unites-lab/occult)**|
+|**2025-05-19**|**SVAFD: A Secure and Verifiable Co-Aggregation Protocol for Federated Distillation**|Tian Wen et.al.|[2505.13319](http://arxiv.org/abs/2505.13319)|null|
+|**2025-05-19**|**Null-adjusted persistence function for high-resolution community detection**|Alessandro Avellone et.al.|[2505.13272](http://arxiv.org/abs/2505.13272)|null|
+|**2025-05-19**|**Ab initio study of strain-driven vacancy clustering in aluminum**|Sayan Bhowmik et.al.|[2505.13245](http://arxiv.org/abs/2505.13245)|null|
+|**2025-05-19**|**Did the Corona Borealis-A2142 supercluster binary-like system originate as a proto-cluster binary embedded in a primordial cloud of galaxies?**|Baiesi Pillastrini G. Carlo et.al.|[2505.13240](http://arxiv.org/abs/2505.13240)|null|
+|**2025-05-19**|**Automatic Complementary Separation Pruning Toward Lightweight CNNs**|David Levin et.al.|[2505.13225](http://arxiv.org/abs/2505.13225)|null|
+|**2025-05-19**|**Rapidly Varying Completely Random Measures for Modeling Extremely Sparse Networks**|Valentin Kilian et.al.|[2505.13206](http://arxiv.org/abs/2505.13206)|null|
+|**2025-05-19**|**Spatially resolved stellar populations and emission lines properties in nearby galaxies with J-PLUS -- I. Method and first results for the M101 group**|J. Thainá-Batista et.al.|[2505.13167](http://arxiv.org/abs/2505.13167)|null|
+|**2025-05-19**|**A parametric finite element method for a degenerate multi-phase Stefan problem with triple junctions**|Tokuhiro Eto et.al.|[2505.13165](http://arxiv.org/abs/2505.13165)|null|
 |**2025-05-16**|**CRISP: Clustering Multi-Vector Representations for Denoising and Pruning**|João Veneroso et.al.|[2505.11471](http://arxiv.org/abs/2505.11471)|null|
 |**2025-05-16**|**The Role of Connection Density in an Adaptive Network with Chaotic Units**|Ramiro Plüss et.al.|[2505.11437](http://arxiv.org/abs/2505.11437)|null|
 |**2025-05-16**|**MegaScale-MoE: Large-Scale Communication-Efficient Training of Mixture-of-Experts Models in Production**|Chao Jin et.al.|[2505.11432](http://arxiv.org/abs/2505.11432)|null|
@@ -3676,6 +3686,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-19**|**Denoising Diffusion Probabilistic Model for Point Cloud Compression at Low Bit-Rates**|Gabriele Spadaro et.al.|[2505.13316](http://arxiv.org/abs/2505.13316)|**[link](https://github.com/eidoslab/ddpm-pcc)**|
+|**2025-05-19**|**Cross-modal feature fusion for robust point cloud registration with ambiguous geometry**|Zhaoyi Wang et.al.|[2505.13088](http://arxiv.org/abs/2505.13088)|null|
+|**2025-05-19**|**LiDAR MOT-DETR: A LiDAR-based Two-Stage Transformer for 3D Multiple Object Tracking**|Martha Teiko Teye et.al.|[2505.12753](http://arxiv.org/abs/2505.12753)|null|
+|**2025-05-19**|**IA-MVS: Instance-Focused Adaptive Depth Sampling for Multi-View Stereo**|Yinzhe Wang et.al.|[2505.12714](http://arxiv.org/abs/2505.12714)|null|
+|**2025-05-19**|**TACOcc:Target-Adaptive Cross-Modal Fusion with Volume Rendering for 3D Semantic Occupancy**|Luyao Lei et.al.|[2505.12693](http://arxiv.org/abs/2505.12693)|null|
+|**2025-05-19**|**Multi-View Wireless Sensing via Conditional Generative Learning: Framework and Model Design**|Ziqing Xing et.al.|[2505.12664](http://arxiv.org/abs/2505.12664)|null|
+|**2025-05-18**|**SSR: Enhancing Depth Perception in Vision-Language Models via Rationale-Guided Spatial Reasoning**|Yang Liu et.al.|[2505.12448](http://arxiv.org/abs/2505.12448)|null|
+|**2025-05-18**|**DPCD: A Quality Assessment Database for Dynamic Point Clouds**|Yating Liu et.al.|[2505.12431](http://arxiv.org/abs/2505.12431)|null|
+|**2025-05-18**|**DNOI-4DRO: Deep 4D Radar Odometry with Differentiable Neural-Optimization Iterations**|Shouyi Lu et.al.|[2505.12310](http://arxiv.org/abs/2505.12310)|null|
+|**2025-05-17**|**Adversarial Robustness for Unified Multi-Modal Encoders via Efficient Calibration**|Chih-Ting Liao et.al.|[2505.11895](http://arxiv.org/abs/2505.11895)|null|
 |**2025-05-16**|**Hybrid-Emba3D: Geometry-Aware and Cross-Path Feature Hybrid Enhanced State Space Model for Point Cloud Classification**|Bin Liu et.al.|[2505.11099](http://arxiv.org/abs/2505.11099)|null|
 |**2025-05-15**|**Mapping Semantic Segmentation to Point Clouds Using Structure from Motion for Forest Analysis**|Francisco Raverta Capua et.al.|[2505.10751](http://arxiv.org/abs/2505.10751)|null|
 |**2025-05-15**|**TartanGround: A Large-Scale Dataset for Ground Robot Perception and Navigation**|Manthan Patel et.al.|[2505.10696](http://arxiv.org/abs/2505.10696)|null|
