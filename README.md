@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-20**|**HDO ice detected toward an isolated low-mass protostar with JWST**|Katerina Slavicinska et.al.|[2505.14686](http://arxiv.org/abs/2505.14686)|null|
+|**2025-05-20**|**A JWST View of the Overmassive Black Hole in NGC 4486B**|Behzad Tahmasebzadeh et.al.|[2505.14676](http://arxiv.org/abs/2505.14676)|null|
+|**2025-05-20**|**EmoGist: Efficient In-Context Learning for Visual Emotion Understanding**|Ronald Seoh et.al.|[2505.14660](http://arxiv.org/abs/2505.14660)|null|
+|**2025-05-20**|**Large-Scale Tree-Type Photonic Cluster State Generation with Recurrent Quantum Photonic Neural Networks**|Jacob Ewaniuk et.al.|[2505.14628](http://arxiv.org/abs/2505.14628)|null|
+|**2025-05-20**|**CSTS: A Benchmark for the Discovery of Correlation Structures in Time Series Clustering**|Isabella Degen et.al.|[2505.14596](http://arxiv.org/abs/2505.14596)|**[link](https://github.com/isabelladegen/corrclust-validation)**|
+|**2025-05-20**|**PSMOA: Policy Support Multi-Objective Optimization Algorithm for Decentralized Data Replication**|Xi Wang et.al.|[2505.14574](http://arxiv.org/abs/2505.14574)|null|
+|**2025-05-20**|**SSPS: Self-Supervised Positive Sampling for Robust Self-Supervised Speaker Verification**|Theo Lepage et.al.|[2505.14561](http://arxiv.org/abs/2505.14561)|null|
+|**2025-05-20**|**Phenomenological constraints of the building blocks of the cluster hadronization model**|Stefan Gieseke et.al.|[2505.14542](http://arxiv.org/abs/2505.14542)|null|
+|**2025-05-20**|**Distributed quantum computing with black-box subroutines**|X. Xu et.al.|[2505.14519](http://arxiv.org/abs/2505.14519)|null|
+|**2025-05-20**|**ReservoirTTA: Prolonged Test-time Adaptation for Evolving and Recurring Domains**|Guillaume Vray et.al.|[2505.14511](http://arxiv.org/abs/2505.14511)|null|
 |**2025-05-19**|**Filtering out large-scale noise for cluster weak-lensing mass estimation**|C. Murray et.al.|[2505.13399](http://arxiv.org/abs/2505.13399)|null|
 |**2025-05-19**|**Occult: Optimizing Collaborative Communication across Experts for Accelerated Parallel MoE Training and Inference**|Shuqing Luo et.al.|[2505.13345](http://arxiv.org/abs/2505.13345)|**[link](https://github.com/unites-lab/occult)**|
 |**2025-05-20**|**SVAFD: A Secure and Verifiable Co-Aggregation Protocol for Federated Distillation**|Tian Wen et.al.|[2505.13319](http://arxiv.org/abs/2505.13319)|null|
@@ -3686,6 +3696,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-20**|**Egocentric Action-aware Inertial Localization in Point Clouds**|Mingfang Zhang et.al.|[2505.14346](http://arxiv.org/abs/2505.14346)|**[link](https://github.com/mf-zhang/ego-inertial-localization)**|
+|**2025-05-20**|**Flexible-weighted Chamfer Distance: Enhanced Objective Function for Point Cloud Completion**|Jie Li et.al.|[2505.14218](http://arxiv.org/abs/2505.14218)|null|
+|**2025-05-20**|**4D-ROLLS: 4D Radar Occupancy Learning via LiDAR Supervision**|Ruihan Liu et.al.|[2505.13905](http://arxiv.org/abs/2505.13905)|null|
+|**2025-05-20**|**SuperMapNet for Long-Range and High-Accuracy Vectorized HD Map Construction**|Ruqin Zhou et.al.|[2505.13856](http://arxiv.org/abs/2505.13856)|null|
+|**2025-05-20**|**Physics-Driven Local-Whole Elastic Deformation Modeling for Point Cloud Representation Learning**|Zhongyu Chen et.al.|[2505.13812](http://arxiv.org/abs/2505.13812)|null|
+|**2025-05-19**|**IPENS:Interactive Unsupervised Framework for Rapid Plant Phenotyping Extraction via NeRF-SAM2 Fusion**|Wentao Song et.al.|[2505.13633](http://arxiv.org/abs/2505.13633)|null|
 |**2025-05-19**|**Denoising Diffusion Probabilistic Model for Point Cloud Compression at Low Bit-Rates**|Gabriele Spadaro et.al.|[2505.13316](http://arxiv.org/abs/2505.13316)|**[link](https://github.com/eidoslab/ddpm-pcc)**|
 |**2025-05-19**|**Cross-modal feature fusion for robust point cloud registration with ambiguous geometry**|Zhaoyi Wang et.al.|[2505.13088](http://arxiv.org/abs/2505.13088)|null|
 |**2025-05-19**|**LiDAR MOT-DETR: A LiDAR-based Two-Stage Transformer for 3D Multiple Object Tracking**|Martha Teiko Teye et.al.|[2505.12753](http://arxiv.org/abs/2505.12753)|null|
