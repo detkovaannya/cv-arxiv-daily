@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.20
+## Updated on 2025.05.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## clustering
@@ -16,7 +16,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-19**|**Filtering out large-scale noise for cluster weak-lensing mass estimation**|C. Murray et.al.|[2505.13399](http://arxiv.org/abs/2505.13399)|null|
 |**2025-05-19**|**Occult: Optimizing Collaborative Communication across Experts for Accelerated Parallel MoE Training and Inference**|Shuqing Luo et.al.|[2505.13345](http://arxiv.org/abs/2505.13345)|**[link](https://github.com/unites-lab/occult)**|
-|**2025-05-19**|**SVAFD: A Secure and Verifiable Co-Aggregation Protocol for Federated Distillation**|Tian Wen et.al.|[2505.13319](http://arxiv.org/abs/2505.13319)|null|
+|**2025-05-20**|**SVAFD: A Secure and Verifiable Co-Aggregation Protocol for Federated Distillation**|Tian Wen et.al.|[2505.13319](http://arxiv.org/abs/2505.13319)|null|
 |**2025-05-19**|**Null-adjusted persistence function for high-resolution community detection**|Alessandro Avellone et.al.|[2505.13272](http://arxiv.org/abs/2505.13272)|null|
 |**2025-05-19**|**Ab initio study of strain-driven vacancy clustering in aluminum**|Sayan Bhowmik et.al.|[2505.13245](http://arxiv.org/abs/2505.13245)|null|
 |**2025-05-19**|**Did the Corona Borealis-A2142 supercluster binary-like system originate as a proto-cluster binary embedded in a primordial cloud of galaxies?**|Baiesi Pillastrini G. Carlo et.al.|[2505.13240](http://arxiv.org/abs/2505.13240)|null|
