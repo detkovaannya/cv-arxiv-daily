@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-21**|**Discovery of a dwarf planet candidate in an extremely wide orbit: 2017 OF201**|Sihao Cheng et.al.|[2505.15806](http://arxiv.org/abs/2505.15806)|null|
+|**2025-05-21**|**Rapid phase ordering for Ising and Potts dynamics on random regular graphs**|Reza Gheissari et.al.|[2505.15783](http://arxiv.org/abs/2505.15783)|null|
+|**2025-05-21**|**A Federated Splitting Framework for LLMs: Security, Efficiency, and Adaptability**|Zishuai Zhang et.al.|[2505.15683](http://arxiv.org/abs/2505.15683)|null|
+|**2025-05-21**|**Spectroscopic Study of Blue Straggler Stars in the Globular Cluster NGC 3201**|Gourav Kumawat et.al.|[2505.15681](http://arxiv.org/abs/2505.15681)|null|
+|**2025-05-21**|**Round Elimination via Self-Reduction: Closing Gaps for Distributed Maximal Matching**|Seri Khoury et.al.|[2505.15654](http://arxiv.org/abs/2505.15654)|null|
+|**2025-05-21**|**Breaking Barriers for Distributed MIS by Faster Degree Reduction**|Seri Khoury et.al.|[2505.15652](http://arxiv.org/abs/2505.15652)|null|
+|**2025-05-21**|**Exploring future synergies for large-scale structure between gravitational waves and radio sources**|Stefano Zazzera et.al.|[2505.15645](http://arxiv.org/abs/2505.15645)|null|
+|**2025-05-21**|**Relationship Analysis of Image-Text Pair in SNS Posts**|Takuto Nabeoka et.al.|[2505.15629](http://arxiv.org/abs/2505.15629)|null|
+|**2025-05-21**|**Refining Neural Activation Patterns for Layer-Level Concept Discovery in Neural Network-Based Receivers**|Marko Tuononen et.al.|[2505.15570](http://arxiv.org/abs/2505.15570)|null|
+|**2025-05-21**|**Modular Jump Gaussian Processes**|Anna R. Flowers et.al.|[2505.15557](http://arxiv.org/abs/2505.15557)|null|
 |**2025-05-20**|**HDO ice detected toward an isolated low-mass protostar with JWST**|Katerina Slavicinska et.al.|[2505.14686](http://arxiv.org/abs/2505.14686)|null|
 |**2025-05-20**|**A JWST View of the Overmassive Black Hole in NGC 4486B**|Behzad Tahmasebzadeh et.al.|[2505.14676](http://arxiv.org/abs/2505.14676)|null|
 |**2025-05-20**|**EmoGist: Efficient In-Context Learning for Visual Emotion Understanding**|Ronald Seoh et.al.|[2505.14660](http://arxiv.org/abs/2505.14660)|null|
@@ -3696,6 +3706,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-21**|**PlantDreamer: Achieving Realistic 3D Plant Models with Diffusion-Guided Gaussian Splatting**|Zane K J Hartley et.al.|[2505.15528](http://arxiv.org/abs/2505.15528)|null|
+|**2025-05-21**|**The P $^3$ dataset: Pixels, Points and Polygons for Multimodal Building Vectorization**|Raphael Sulzer et.al.|[2505.15379](http://arxiv.org/abs/2505.15379)|**[link](https://github.com/raphaelsulzer/pixelspointspolygons)**|
+|**2025-05-20**|**Rate-Accuracy Bounds in Visual Coding for Machines**|Ivan V. Bajić et.al.|[2505.14980](http://arxiv.org/abs/2505.14980)|null|
 |**2025-05-20**|**Egocentric Action-aware Inertial Localization in Point Clouds**|Mingfang Zhang et.al.|[2505.14346](http://arxiv.org/abs/2505.14346)|**[link](https://github.com/mf-zhang/ego-inertial-localization)**|
 |**2025-05-20**|**Flexible-weighted Chamfer Distance: Enhanced Objective Function for Point Cloud Completion**|Jie Li et.al.|[2505.14218](http://arxiv.org/abs/2505.14218)|null|
 |**2025-05-20**|**4D-ROLLS: 4D Radar Occupancy Learning via LiDAR Supervision**|Ruihan Liu et.al.|[2505.13905](http://arxiv.org/abs/2505.13905)|null|
