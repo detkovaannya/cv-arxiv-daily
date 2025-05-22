@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.21
+## Updated on 2025.05.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## clustering
@@ -19,7 +19,7 @@ layout: default
 |**2025-05-20**|**EmoGist: Efficient In-Context Learning for Visual Emotion Understanding**|Ronald Seoh et.al.|[2505.14660](http://arxiv.org/abs/2505.14660)|null|
 |**2025-05-20**|**Large-Scale Tree-Type Photonic Cluster State Generation with Recurrent Quantum Photonic Neural Networks**|Jacob Ewaniuk et.al.|[2505.14628](http://arxiv.org/abs/2505.14628)|null|
 |**2025-05-20**|**CSTS: A Benchmark for the Discovery of Correlation Structures in Time Series Clustering**|Isabella Degen et.al.|[2505.14596](http://arxiv.org/abs/2505.14596)|**[link](https://github.com/isabelladegen/corrclust-validation)**|
-|**2025-05-20**|**PSMOA: Policy Support Multi-Objective Optimization Algorithm for Decentralized Data Replication**|Xi Wang et.al.|[2505.14574](http://arxiv.org/abs/2505.14574)|null|
+|**2025-05-21**|**PSMOA: Policy Support Multi-Objective Optimization Algorithm for Decentralized Data Replication**|Xi Wang et.al.|[2505.14574](http://arxiv.org/abs/2505.14574)|null|
 |**2025-05-20**|**SSPS: Self-Supervised Positive Sampling for Robust Self-Supervised Speaker Verification**|Theo Lepage et.al.|[2505.14561](http://arxiv.org/abs/2505.14561)|null|
 |**2025-05-20**|**Phenomenological constraints of the building blocks of the cluster hadronization model**|Stefan Gieseke et.al.|[2505.14542](http://arxiv.org/abs/2505.14542)|null|
 |**2025-05-20**|**Distributed quantum computing with black-box subroutines**|X. Xu et.al.|[2505.14519](http://arxiv.org/abs/2505.14519)|null|
