@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-23**|**Statistical Localization in a Rydberg Simulator of $U(1)$ Lattice Gauge Theory**|Prithvi Raj Datla et.al.|[2505.18143](http://arxiv.org/abs/2505.18143)|null|
+|**2025-05-23**|**From Temporal to Spatial: Designing Spatialized Interactions with Segmented-audios in Immersive Environments for Active Engagement with Performing Arts Intangible Cultural Heritage**|Yuqi Wang et.al.|[2505.18112](http://arxiv.org/abs/2505.18112)|null|
+|**2025-05-23**|**Accelerating Learned Image Compression Through Modeling Neural Training Dynamics**|Yichi Zhang et.al.|[2505.18107](http://arxiv.org/abs/2505.18107)|null|
+|**2025-05-23**|**Dynamic Dual Buffer with Divide-and-Conquer Strategy for Online Continual Learning**|Congren Dai et.al.|[2505.18101](http://arxiv.org/abs/2505.18101)|null|
+|**2025-05-23**|**A new generation of effective core potentials: Selected lanthanides and heavy elements II**|Omar Madany et.al.|[2505.18100](http://arxiv.org/abs/2505.18100)|null|
+|**2025-05-23**|**Improved Algorithms for Overlapping and Robust Clustering of Edge-Colored Hypergraphs: An LP-Based Combinatorial Approach**|Changyeol Lee et.al.|[2505.18043](http://arxiv.org/abs/2505.18043)|null|
+|**2025-05-23**|**DiFache: Efficient and Scalable Caching on Disaggregated Memory using Decentralized Coherence**|Hanze Zhang et.al.|[2505.18013](http://arxiv.org/abs/2505.18013)|null|
+|**2025-05-23**|**Segment Anyword: Mask Prompt Inversion for Open-Set Grounded Segmentation**|Zhihua Liu et.al.|[2505.17994](http://arxiv.org/abs/2505.17994)|null|
+|**2025-05-23**|**Efficient local atomic cluster expansion for BaTiO $_3$ close to equilibrium**|Anna Grünebohm et.al.|[2505.17991](http://arxiv.org/abs/2505.17991)|null|
+|**2025-05-23**|**M-learner:A Flexible And Powerful Framework To Study Heterogeneous Treatment Effect In Mediation Model**|Xingyu Li et.al.|[2505.17917](http://arxiv.org/abs/2505.17917)|null|
 |**2025-05-22**|**Latent Principle Discovery for Language Model Self-Improvement**|Keshav Ramji et.al.|[2505.16927](http://arxiv.org/abs/2505.16927)|null|
 |**2025-05-22**|**Backdoor Cleaning without External Guidance in MLLM Fine-tuning**|Xuankun Rong et.al.|[2505.16916](http://arxiv.org/abs/2505.16916)|**[link](https://github.com/xuankunrong/bye)**|
 |**2025-05-22**|**Redefining Clustered Federated Learning for System Identification: The Path of ClusterCraft**|Ertuğrul Keçeci et.al.|[2505.16857](http://arxiv.org/abs/2505.16857)|null|
@@ -3710,6 +3720,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-23**|**Mind the Domain Gap: Measuring the Domain Gap Between Real-World and Synthetic Point Clouds for Automated Driving Development**|Nguyen Duc et.al.|[2505.17959](http://arxiv.org/abs/2505.17959)|null|
+|**2025-05-23**|**LLM4SP: Large Language Models for Scatterer Prediction via Synesthesia of Machines**|Zengrui Han et.al.|[2505.17879](http://arxiv.org/abs/2505.17879)|null|
+|**2025-05-23**|**Generative Data Augmentation for Object Point Cloud Segmentation**|Dekai Zhu et.al.|[2505.17783](http://arxiv.org/abs/2505.17783)|null|
+|**2025-05-23**|**RQR3D: Reparametrizing the regression targets for BEV-based 3D object detection**|Ozsel Kilinc et.al.|[2505.17732](http://arxiv.org/abs/2505.17732)|null|
+|**2025-05-23**|**SeaLion: Semantic Part-Aware Latent Point Diffusion Models for 3D Generation**|Dekai Zhu et.al.|[2505.17721](http://arxiv.org/abs/2505.17721)|null|
+|**2025-05-23**|**MinkUNeXt-SI: Improving point cloud-based place recognition including spherical coordinates and LiDAR intensity**|Judith Vilella-Cantos et.al.|[2505.17591](http://arxiv.org/abs/2505.17591)|null|
+|**2025-05-23**|**Reflectance Prediction-based Knowledge Distillation for Robust 3D Object Detection in Compressed Point Clouds**|Hao Jing et.al.|[2505.17442](http://arxiv.org/abs/2505.17442)|null|
 |**2025-05-22**|**3D Equivariant Visuomotor Policy Learning via Spherical Projection**|Boce Hu et.al.|[2505.16969](http://arxiv.org/abs/2505.16969)|null|
 |**2025-05-22**|**UAV See, UGV Do: Aerial Imagery and Virtual Teach Enabling Zero-Shot Ground Vehicle Repeat**|Desiree Fisker et.al.|[2505.16912](http://arxiv.org/abs/2505.16912)|null|
 |**2025-05-22**|**How high is `high'? Rethinking the roles of dimensionality in topological data analysis and manifold learning**|Hannah Sansford et.al.|[2505.16879](http://arxiv.org/abs/2505.16879)|null|
