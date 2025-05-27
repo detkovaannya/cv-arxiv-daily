@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-26**|**On the chaos induced by the Galactic bar on the orbits of nearby halo stars**|Hanneke C. Woudenberg et.al.|[2505.20143](http://arxiv.org/abs/2505.20143)|null|
+|**2025-05-26**|**Automated data curation for self-supervised learning in underwater acoustic analysis**|Hilde I Hummel et.al.|[2505.20066](http://arxiv.org/abs/2505.20066)|null|
+|**2025-05-26**|**Optimizing edge AI models on HPC systems with the edge in the loop**|Marcel Aach et.al.|[2505.19995](http://arxiv.org/abs/2505.19995)|null|
+|**2025-05-26**|**From Few to Many Faults: Adaptive Byzantine Agreement with Optimal Communication**|Andrei Constantinescu et.al.|[2505.19989](http://arxiv.org/abs/2505.19989)|null|
+|**2025-05-26**|**Differential Privacy Analysis of Decentralized Gossip Averaging under Varying Threat Models**|Antti Koskela et.al.|[2505.19969](http://arxiv.org/abs/2505.19969)|null|
+|**2025-05-26**|**Viability of general relativity and modified gravity cosmologies using high-redshift cosmic probes**|Fernanda Oliveira et.al.|[2505.19960](http://arxiv.org/abs/2505.19960)|null|
+|**2025-05-26**|**Probing dipolar power asymmetry with galaxy clustering and intrinsic alignments**|Keita Minato et.al.|[2505.19941](http://arxiv.org/abs/2505.19941)|null|
+|**2025-05-26**|**Local Pseudopotential Unlocks the True Potential of Neural Network-based Quantum Monte Carlo**|Weizhong Fu et.al.|[2505.19909](http://arxiv.org/abs/2505.19909)|null|
+|**2025-05-26**|**Toward Unraveling Cyanopolyyne Surface Chemistry: A Preview on Isolated Systems From HC_{3}N to Ethyl Cyanide and Propylamine**|Marten T. Raaphorst et.al.|[2505.19908](http://arxiv.org/abs/2505.19908)|null|
+|**2025-05-26**|**Universal Workers: A Vision for Eliminating Cold Starts in Serverless Computing**|Saman Akbari et.al.|[2505.19880](http://arxiv.org/abs/2505.19880)|null|
 |**2025-05-23**|**Statistical Localization in a Rydberg Simulator of $U(1)$ Lattice Gauge Theory**|Prithvi Raj Datla et.al.|[2505.18143](http://arxiv.org/abs/2505.18143)|null|
 |**2025-05-23**|**From Temporal to Spatial: Designing Spatialized Interactions with Segmented-audios in Immersive Environments for Active Engagement with Performing Arts Intangible Cultural Heritage**|Yuqi Wang et.al.|[2505.18112](http://arxiv.org/abs/2505.18112)|null|
 |**2025-05-23**|**Accelerating Learned Image Compression Through Modeling Neural Training Dynamics**|Yichi Zhang et.al.|[2505.18107](http://arxiv.org/abs/2505.18107)|null|
@@ -3720,6 +3730,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-26**|**Agentic 3D Scene Generation with Spatially Contextualized VLMs**|Xinhang Liu et.al.|[2505.20129](http://arxiv.org/abs/2505.20129)|null|
+|**2025-05-26**|**LPCM: Learning-based Predictive Coding for LiDAR Point Cloud Compression**|Chang Sun et.al.|[2505.20059](http://arxiv.org/abs/2505.20059)|null|
+|**2025-05-26**|**FruitNeRF++: A Generalized Multi-Fruit Counting Method Utilizing Contrastive Learning and Neural Radiance Fields**|Lukas Meyer et.al.|[2505.19863](http://arxiv.org/abs/2505.19863)|null|
+|**2025-05-26**|**Sparse2DGS: Sparse-View Surface Reconstruction using 2D Gaussian Splatting with Dense Point Cloud**|Natsuki Takama et.al.|[2505.19854](http://arxiv.org/abs/2505.19854)|null|
+|**2025-05-26**|**InfoCons: Identifying Interpretable Critical Concepts in Point Clouds via Information Theory**|Feifei Li et.al.|[2505.19820](http://arxiv.org/abs/2505.19820)|null|
+|**2025-05-26**|**SMART-PC: Skeletal Model Adaptation for Robust Test-Time Training in Point Clouds**|Ali Bahri et.al.|[2505.19546](http://arxiv.org/abs/2505.19546)|null|
+|**2025-05-26**|**Toward Patient-specific Partial Point Cloud to Surface Completion for Pre- to Intra-operative Registration in Image-guided Liver Interventions**|Nakul Poudel et.al.|[2505.19518](http://arxiv.org/abs/2505.19518)|null|
+|**2025-05-25**|**From Single Images to Motion Policies via Video-Generation Environment Representations**|Weiming Zhi et.al.|[2505.19306](http://arxiv.org/abs/2505.19306)|null|
+|**2025-05-25**|**Improving Novel view synthesis of 360 $^\circ$ Scenes in Extremely Sparse Views by Jointly Training Hemisphere Sampled Synthetic Images**|Guangan Chen et.al.|[2505.19264](http://arxiv.org/abs/2505.19264)|null|
+|**2025-05-25**|**DriveX: Omni Scene Modeling for Learning Generalizable World Knowledge in Autonomous Driving**|Chen Shi et.al.|[2505.19239](http://arxiv.org/abs/2505.19239)|null|
 |**2025-05-23**|**Mind the Domain Gap: Measuring the Domain Gap Between Real-World and Synthetic Point Clouds for Automated Driving Development**|Nguyen Duc et.al.|[2505.17959](http://arxiv.org/abs/2505.17959)|null|
 |**2025-05-23**|**LLM4SP: Large Language Models for Scatterer Prediction via Synesthesia of Machines**|Zengrui Han et.al.|[2505.17879](http://arxiv.org/abs/2505.17879)|null|
 |**2025-05-23**|**Generative Data Augmentation for Object Point Cloud Segmentation**|Dekai Zhu et.al.|[2505.17783](http://arxiv.org/abs/2505.17783)|null|
