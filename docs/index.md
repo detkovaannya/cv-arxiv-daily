@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-27**|**Adversarial Attacks against Closed-Source MLLMs via Feature Optimal Alignment**|Xiaojun Jia et.al.|[2505.21494](http://arxiv.org/abs/2505.21494)|null|
+|**2025-05-27**|**Bayesian Dynamic Clustering Factor Models**|Tsering Dolkar et.al.|[2505.21490](http://arxiv.org/abs/2505.21490)|null|
+|**2025-05-27**|**Spectral Evolution of Rotating Population III Stars**|Jake Hassan et.al.|[2505.21463](http://arxiv.org/abs/2505.21463)|null|
+|**2025-05-27**|**M3S-UPD: Efficient Multi-Stage Self-Supervised Learning for Fine-Grained Encrypted Traffic Classification with Unknown Pattern Discovery**|Yali Yuan et.al.|[2505.21462](http://arxiv.org/abs/2505.21462)|null|
+|**2025-05-27**|**A Bayesian approach to the survivor average causal effect in cluster-randomized crossover trials**|Dane Isenberg et.al.|[2505.21447](http://arxiv.org/abs/2505.21447)|null|
+|**2025-05-27**|**Autoencoding Random Forests**|Binh Duc Vu et.al.|[2505.21441](http://arxiv.org/abs/2505.21441)|null|
+|**2025-05-27**|**Interpretable machine learned predictions of adsorption energies at the metal--oxide interface**|Marius Juul Nielsen et.al.|[2505.21428](http://arxiv.org/abs/2505.21428)|null|
+|**2025-05-27**|**Automatically Identify and Rectify: Robust Deep Contrastive Multi-view Clustering in Noisy Scenarios**|Xihong Yang et.al.|[2505.21387](http://arxiv.org/abs/2505.21387)|null|
+|**2025-05-27**|**Bencher: Simple and Reproducible Benchmarking for Black-Box Optimization**|Leonard Papenmeier et.al.|[2505.21321](http://arxiv.org/abs/2505.21321)|null|
+|**2025-05-27**|**Insights on structure and influence from the adjacency and Laplacian eigenspectra of intersecting ring networks**|Agathe Bouis et.al.|[2505.21294](http://arxiv.org/abs/2505.21294)|null|
 |**2025-05-26**|**On the chaos induced by the Galactic bar on the orbits of nearby halo stars**|Hanneke C. Woudenberg et.al.|[2505.20143](http://arxiv.org/abs/2505.20143)|null|
 |**2025-05-26**|**Automated data curation for self-supervised learning in underwater acoustic analysis**|Hilde I Hummel et.al.|[2505.20066](http://arxiv.org/abs/2505.20066)|null|
 |**2025-05-26**|**Optimizing edge AI models on HPC systems with the edge in the loop**|Marcel Aach et.al.|[2505.19995](http://arxiv.org/abs/2505.19995)|null|
@@ -3730,6 +3740,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-27**|**ZigzagPointMamba: Spatial-Semantic Mamba for Point Cloud Understanding**|Linshuang Diao et.al.|[2505.21381](http://arxiv.org/abs/2505.21381)|null|
+|**2025-05-27**|**EquAct: An SE(3)-Equivariant Multi-Task Transformer for Open-Loop Robotic Manipulation**|Xupeng Zhu et.al.|[2505.21351](http://arxiv.org/abs/2505.21351)|null|
+|**2025-05-27**|**Plenodium: UnderWater 3D Scene Reconstruction with Plenoptic Medium Representation**|Changguanng Wu et.al.|[2505.21258](http://arxiv.org/abs/2505.21258)|null|
+|**2025-05-27**|**Copresheaf Topological Neural Networks: A Generalized Deep Learning Framework**|Mustafa Hajij et.al.|[2505.21251](http://arxiv.org/abs/2505.21251)|null|
+|**2025-05-27**|**Uni3D-MoE: Scalable Multimodal 3D Scene Understanding via Mixture of Experts**|Yue Zhang et.al.|[2505.21079](http://arxiv.org/abs/2505.21079)|null|
+|**2025-05-27**|**CityGo: Lightweight Urban Modeling and Rendering with Proxy Buildings and Residual Gaussians**|Weihang Liu et.al.|[2505.21041](http://arxiv.org/abs/2505.21041)|null|
+|**2025-05-27**|**PMA: Towards Parameter-Efficient Point Cloud Understanding via Point Mamba Adapter**|Yaohua Zha et.al.|[2505.20941](http://arxiv.org/abs/2505.20941)|null|
+|**2025-05-27**|**Intern-GS: Vision Model Guided Sparse-View 3D Gaussian Splatting**|Xiangyu Sun et.al.|[2505.20729](http://arxiv.org/abs/2505.20729)|null|
 |**2025-05-26**|**Agentic 3D Scene Generation with Spatially Contextualized VLMs**|Xinhang Liu et.al.|[2505.20129](http://arxiv.org/abs/2505.20129)|null|
 |**2025-05-26**|**LPCM: Learning-based Predictive Coding for LiDAR Point Cloud Compression**|Chang Sun et.al.|[2505.20059](http://arxiv.org/abs/2505.20059)|null|
 |**2025-05-26**|**FruitNeRF++: A Generalized Multi-Fruit Counting Method Utilizing Contrastive Learning and Neural Radiance Fields**|Lukas Meyer et.al.|[2505.19863](http://arxiv.org/abs/2505.19863)|null|
