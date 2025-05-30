@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.29
+## Updated on 2025.05.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## clustering
@@ -20,7 +20,7 @@ layout: default
 |**2025-05-28**|**Closing the Quantum-Classical Scaling Gap in Approximate Optimization**|J. Pawlowski et.al.|[2505.22514](http://arxiv.org/abs/2505.22514)|null|
 |**2025-05-28**|**Beyond Leaders and Laggards: A Typology of Renewable Energy Adoption Trajectories with Evidence from Off-Grid Communities**|Roni Blushtein-Livnon et.al.|[2505.22456](http://arxiv.org/abs/2505.22456)|null|
 |**2025-05-28**|**Privacy-preserving Prompt Personalization in Federated Learning for Multimodal Large Language Models**|Sizai Hou et.al.|[2505.22447](http://arxiv.org/abs/2505.22447)|null|
-|**2025-05-28**|**Pangu Embedded: An Efficient Dual-system LLM Reasoner with Metacognition**|Hanting Chen et.al.|[2505.22375](http://arxiv.org/abs/2505.22375)|null|
+|**2025-05-29**|**Pangu Embedded: An Efficient Dual-system LLM Reasoner with Metacognition**|Hanting Chen et.al.|[2505.22375](http://arxiv.org/abs/2505.22375)|null|
 |**2025-05-28**|**Synaptic shot-noise triggers fast and slow global oscillations in balanced neural networks**|Denis S. Goldobin et.al.|[2505.22373](http://arxiv.org/abs/2505.22373)|null|
 |**2025-05-28**|**Probing nuclear structure in relativistic p-O and O-O collisions at the LHC through the measurement of anisotropic flow coefficients**|Aswathy Menon K R et.al.|[2505.22367](http://arxiv.org/abs/2505.22367)|null|
 |**2025-05-28**|**A Systematic Approach for Studying How Topological Measurements Respond to Complex Networks Modifications**|Alexandre Benatti et.al.|[2505.22345](http://arxiv.org/abs/2505.22345)|null|
