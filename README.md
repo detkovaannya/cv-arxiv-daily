@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-03**|**EIGER VII. The evolving relationship between galaxies and the intergalactic medium in the final stages of reionization**|Daichi Kashino et.al.|[2506.03121](http://arxiv.org/abs/2506.03121)|null|
+|**2025-06-03**|**Detecting Patterns of Interaction in Temporal Hypergraphs via Edge Clustering**|Ryan DeWolfe et.al.|[2506.03105](http://arxiv.org/abs/2506.03105)|null|
+|**2025-06-03**|**GPU-Parallelizable Randomized Sketch-and-Precondition for Linear Regression using Sparse Sign Sketches**|Tyler Chen et.al.|[2506.03070](http://arxiv.org/abs/2506.03070)|null|
+|**2025-06-03**|**Measurement of the Positive Muon Anomalous Magnetic Moment to 127 ppb**|D. P. Aguillard et.al.|[2506.03069](http://arxiv.org/abs/2506.03069)|null|
+|**2025-06-03**|**Euclid preparation. Constraining parameterised models of modifications of gravity with the spectroscopic and photometric primary probes**|Euclid Collaboration et.al.|[2506.03008](http://arxiv.org/abs/2506.03008)|null|
+|**2025-06-03**|**Dynamic Fee for Reducing Impermanent Loss in Decentralized Exchanges**|Irina Lebedeva et.al.|[2506.03001](http://arxiv.org/abs/2506.03001)|null|
+|**2025-06-03**|**Memory-Efficient Split Federated Learning for LLM Fine-Tuning on Heterogeneous Mobile Devices**|Xiaopei Chen et.al.|[2506.02940](http://arxiv.org/abs/2506.02940)|null|
+|**2025-06-03**|**Normal Distribution of Crab Pulsar Glitch Activity from a Glitch Cluster Perspective**|Pei-Xin Zhu et.al.|[2506.02925](http://arxiv.org/abs/2506.02925)|null|
+|**2025-06-03**|**Towards Auto-Annotation from Annotation Guidelines: A Benchmark through 3D LiDAR Detection**|Yechi Ma et.al.|[2506.02914](http://arxiv.org/abs/2506.02914)|null|
+|**2025-06-03**|**Cell-o1: Training LLMs to Solve Single-Cell Reasoning Puzzles with Reinforcement Learning**|Yin Fang et.al.|[2506.02911](http://arxiv.org/abs/2506.02911)|null|
 |**2025-05-30**|**Consistent line clustering using geometric hypergraphs**|Kalle Alaluusua et.al.|[2505.24868](http://arxiv.org/abs/2505.24868)|null|
 |**2025-05-30**|**Optimising cryptocurrency portfolios through stable clustering of price correlation networks**|Ruixue Jing et.al.|[2505.24831](http://arxiv.org/abs/2505.24831)|null|
 |**2025-05-30**|**TC-GS: A Faster Gaussian Splatting Module Utilizing Tensor Cores**|Zimu Liao et.al.|[2505.24796](http://arxiv.org/abs/2505.24796)|null|
@@ -3776,6 +3786,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-03**|**MIND: Material Interface Generation from UDFs for Non-Manifold Surface Reconstruction**|Xuhui Chen et.al.|[2506.02938](http://arxiv.org/abs/2506.02938)|null|
+|**2025-06-03**|**Towards Auto-Annotation from Annotation Guidelines: A Benchmark through 3D LiDAR Detection**|Yechi Ma et.al.|[2506.02914](http://arxiv.org/abs/2506.02914)|null|
+|**2025-06-03**|**Towards Explicit Geometry-Reflectance Collaboration for Generalized LiDAR Segmentation in Adverse Weather**|Longyu Yang et.al.|[2506.02396](http://arxiv.org/abs/2506.02396)|null|
+|**2025-06-02**|**Constrained Sliced Wasserstein Embedding**|Navid NaderiAlizadeh et.al.|[2506.02203](http://arxiv.org/abs/2506.02203)|null|
+|**2025-06-02**|**SAB3R: Semantic-Augmented Backbone in 3D Reconstruction**|Xuweiyi Chen et.al.|[2506.02112](http://arxiv.org/abs/2506.02112)|null|
+|**2025-06-02**|**E3D-Bench: A Benchmark for End-to-End 3D Geometric Foundation Models**|Wenyan Cong et.al.|[2506.01933](http://arxiv.org/abs/2506.01933)|null|
+|**2025-06-02**|**Self-supervised Latent Space Optimization with Nebula Variational Coding**|Yida Wang et.al.|[2506.01414](http://arxiv.org/abs/2506.01414)|null|
+|**2025-06-01**|**OG-VLA: 3D-Aware Vision Language Action Model via Orthographic Image Generation**|Ishika Singh et.al.|[2506.01196](http://arxiv.org/abs/2506.01196)|null|
+|**2025-06-01**|**$\text{TREX}^2$ : Dual-Reconstruction Framework for Teleoperated-Robot with EXtended Reality**|Ziliang Zhang et.al.|[2506.01135](http://arxiv.org/abs/2506.01135)|null|
+|**2025-06-01**|**CountingFruit: Real-Time 3D Fruit Counting with Language-Guided Semantic Gaussian Splatting**|Fengze Li et.al.|[2506.01109](http://arxiv.org/abs/2506.01109)|null|
 |**2025-05-30**|**6D Pose Estimation on Point Cloud Data through Prior Knowledge Integration: A Case Study in Autonomous Disassembly**|Chengzhi Wu et.al.|[2505.24669](http://arxiv.org/abs/2505.24669)|null|
 |**2025-05-30**|**A Cross Branch Fusion-Based Contrastive Learning Framework for Point Cloud Self-supervised Learning**|Chengzhi Wu et.al.|[2505.24641](http://arxiv.org/abs/2505.24641)|null|
 |**2025-06-02**|**NUC-Net: Non-uniform Cylindrical Partition Network for Efficient LiDAR Semantic Segmentation**|Xuzhi Wang et.al.|[2505.24634](http://arxiv.org/abs/2505.24634)|null|
