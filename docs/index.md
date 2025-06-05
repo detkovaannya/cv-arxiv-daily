@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**Stellar distributions around supermassive black holes in gas-rich nuclear star clusters**|Mor Rozner et.al.|[2506.04229](http://arxiv.org/abs/2506.04229)|null|
+|**2025-06-04**|**Cascadia: A Cascade Serving System for Large Language Models**|Youhe Jiang et.al.|[2506.04203](http://arxiv.org/abs/2506.04203)|null|
+|**2025-06-04**|**Signatures of the Fermi surface reconstruction of a doped Mott insulator in a slab geometry**|Gregorio Staffieri et.al.|[2506.04155](http://arxiv.org/abs/2506.04155)|null|
+|**2025-06-04**|**Carbon-Aware Temporal Data Transfer Scheduling Across Cloud Datacenters**|Elvis Rodrigues et.al.|[2506.04117](http://arxiv.org/abs/2506.04117)|null|
+|**2025-06-04**|**Point Cloud Quality Assessment Using the Perceptual Clustering Weighted Graph (PCW-Graph) and Attention Fusion Network**|Abdelouahed Laazoufi et.al.|[2506.04081](http://arxiv.org/abs/2506.04081)|null|
+|**2025-06-04**|**Probing the sensitivity of CTAO-N LSTs observations at large zenith angles to the multi-TeV gamma-ray emission from the inner 10 parsecs of the Galactic Center**|Shotaro Abe et.al.|[2506.04074](http://arxiv.org/abs/2506.04074)|null|
+|**2025-06-04**|**Crowd-SFT: Crowdsourcing for LLM Alignment**|Alex Sotiropoulos et.al.|[2506.04063](http://arxiv.org/abs/2506.04063)|null|
+|**2025-06-04**|**Energy-Aware Workflow Execution: An Overview of Techniques for Saving Energy and Emissions in Scientific Compute Clusters**|Lauritz Thamsen et.al.|[2506.04062](http://arxiv.org/abs/2506.04062)|null|
+|**2025-06-04**|**Similarity-based fuzzy clustering scientific articles: potentials and challenges from mathematical and computational perspectives**|Vu Thi Huong et.al.|[2506.04045](http://arxiv.org/abs/2506.04045)|null|
+|**2025-06-04**|**Conformal coronary calcification volume estimation with conditional coverage via histogram clustering**|Olivier Jaubert et.al.|[2506.04030](http://arxiv.org/abs/2506.04030)|null|
 |**2025-06-03**|**EIGER VII. The evolving relationship between galaxies and the intergalactic medium in the final stages of reionization**|Daichi Kashino et.al.|[2506.03121](http://arxiv.org/abs/2506.03121)|null|
 |**2025-06-03**|**Detecting Patterns of Interaction in Temporal Hypergraphs via Edge Clustering**|Ryan DeWolfe et.al.|[2506.03105](http://arxiv.org/abs/2506.03105)|null|
 |**2025-06-03**|**GPU-Parallelizable Randomized Sketch-and-Precondition for Linear Regression using Sparse Sign Sketches**|Tyler Chen et.al.|[2506.03070](http://arxiv.org/abs/2506.03070)|null|
@@ -3780,6 +3790,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**Voyager: Long-Range and World-Consistent Video Diffusion for Explorable 3D Scene Generation**|Tianyu Huang et.al.|[2506.04225](http://arxiv.org/abs/2506.04225)|null|
+|**2025-06-04**|**Seeing in the Dark: Benchmarking Egocentric 3D Vision with the Oxford Day-and-Night Dataset**|Zirui Wang et.al.|[2506.04224](http://arxiv.org/abs/2506.04224)|null|
+|**2025-06-04**|**Point Cloud Quality Assessment Using the Perceptual Clustering Weighted Graph (PCW-Graph) and Attention Fusion Network**|Abdelouahed Laazoufi et.al.|[2506.04081](http://arxiv.org/abs/2506.04081)|null|
+|**2025-06-04**|**EV-Flying: an Event-based Dataset for In-The-Wild Recognition of Flying Objects**|Gabriele Magrini et.al.|[2506.04048](http://arxiv.org/abs/2506.04048)|null|
+|**2025-06-04**|**Accelerating SfM-based Pose Estimation with Dominating Set**|Joji Joseph et.al.|[2506.03667](http://arxiv.org/abs/2506.03667)|null|
+|**2025-06-04**|**Generating 6DoF Object Manipulation Trajectories from Action Description in Egocentric Vision**|Tomoya Yoshida et.al.|[2506.03605](http://arxiv.org/abs/2506.03605)|null|
+|**2025-06-03**|**Channel-adaptive Cross-modal Generative Semantic Communication for Point Cloud Transmission**|Wanting Yang et.al.|[2506.03211](http://arxiv.org/abs/2506.03211)|null|
 |**2025-06-03**|**MIND: Material Interface Generation from UDFs for Non-Manifold Surface Reconstruction**|Xuhui Chen et.al.|[2506.02938](http://arxiv.org/abs/2506.02938)|null|
 |**2025-06-03**|**Towards Auto-Annotation from Annotation Guidelines: A Benchmark through 3D LiDAR Detection**|Yechi Ma et.al.|[2506.02914](http://arxiv.org/abs/2506.02914)|null|
 |**2025-06-03**|**Towards Explicit Geometry-Reflectance Collaboration for Generalized LiDAR Segmentation in Adverse Weather**|Longyu Yang et.al.|[2506.02396](http://arxiv.org/abs/2506.02396)|null|
