@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.04
+## Updated on 2025.06.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -21,7 +21,7 @@
 |**2025-06-03**|**EIGER VII. The evolving relationship between galaxies and the intergalactic medium in the final stages of reionization**|Daichi Kashino et.al.|[2506.03121](http://arxiv.org/abs/2506.03121)|null|
 |**2025-06-03**|**Detecting Patterns of Interaction in Temporal Hypergraphs via Edge Clustering**|Ryan DeWolfe et.al.|[2506.03105](http://arxiv.org/abs/2506.03105)|null|
 |**2025-06-03**|**GPU-Parallelizable Randomized Sketch-and-Precondition for Linear Regression using Sparse Sign Sketches**|Tyler Chen et.al.|[2506.03070](http://arxiv.org/abs/2506.03070)|null|
-|**2025-06-03**|**Measurement of the Positive Muon Anomalous Magnetic Moment to 127 ppb**|D. P. Aguillard et.al.|[2506.03069](http://arxiv.org/abs/2506.03069)|null|
+|**2025-06-03**|**Measurement of the Positive Muon Anomalous Magnetic Moment to 127 ppb**|The Muon $g-2$ Collaboration et.al.|[2506.03069](http://arxiv.org/abs/2506.03069)|null|
 |**2025-06-03**|**Euclid preparation. Constraining parameterised models of modifications of gravity with the spectroscopic and photometric primary probes**|Euclid Collaboration et.al.|[2506.03008](http://arxiv.org/abs/2506.03008)|null|
 |**2025-06-03**|**Dynamic Fee for Reducing Impermanent Loss in Decentralized Exchanges**|Irina Lebedeva et.al.|[2506.03001](http://arxiv.org/abs/2506.03001)|null|
 |**2025-06-03**|**Memory-Efficient Split Federated Learning for LLM Fine-Tuning on Heterogeneous Mobile Devices**|Xiaopei Chen et.al.|[2506.02940](http://arxiv.org/abs/2506.02940)|null|
@@ -3780,7 +3780,7 @@
 |**2023-11-10**|**The First Verification Test of Space-Ground Collaborative Intelligence via Cloud-Native Satellites**|Shangguang Wang et.al.|[2311.06078](http://arxiv.org/abs/2311.06078)|null|
 |**2023-11-10**|**Collaborative Inference in DNN-based Satellite Systems with Dynamic Task Streams**|Jinglong Guan et.al.|[2311.06073](http://arxiv.org/abs/2311.06073)|null|
 
-<p align=right>(<a href=#updated-on-20250604>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250605>back to top</a>)</p>
 
 ## point cloud
 
@@ -3790,7 +3790,7 @@
 |**2025-06-03**|**Towards Auto-Annotation from Annotation Guidelines: A Benchmark through 3D LiDAR Detection**|Yechi Ma et.al.|[2506.02914](http://arxiv.org/abs/2506.02914)|null|
 |**2025-06-03**|**Towards Explicit Geometry-Reflectance Collaboration for Generalized LiDAR Segmentation in Adverse Weather**|Longyu Yang et.al.|[2506.02396](http://arxiv.org/abs/2506.02396)|null|
 |**2025-06-02**|**Constrained Sliced Wasserstein Embedding**|Navid NaderiAlizadeh et.al.|[2506.02203](http://arxiv.org/abs/2506.02203)|null|
-|**2025-06-02**|**SAB3R: Semantic-Augmented Backbone in 3D Reconstruction**|Xuweiyi Chen et.al.|[2506.02112](http://arxiv.org/abs/2506.02112)|null|
+|**2025-06-04**|**SAB3R: Semantic-Augmented Backbone in 3D Reconstruction**|Xuweiyi Chen et.al.|[2506.02112](http://arxiv.org/abs/2506.02112)|null|
 |**2025-06-02**|**E3D-Bench: A Benchmark for End-to-End 3D Geometric Foundation Models**|Wenyan Cong et.al.|[2506.01933](http://arxiv.org/abs/2506.01933)|null|
 |**2025-06-02**|**Self-supervised Latent Space Optimization with Nebula Variational Coding**|Yida Wang et.al.|[2506.01414](http://arxiv.org/abs/2506.01414)|null|
 |**2025-06-01**|**OG-VLA: 3D-Aware Vision Language Action Model via Orthographic Image Generation**|Ishika Singh et.al.|[2506.01196](http://arxiv.org/abs/2506.01196)|null|
@@ -6128,7 +6128,7 @@
 |**2023-11-08**|**VET: Visual Error Tomography for Point Cloud Completion and High-Quality Neural Rendering**|Linus Franke et.al.|[2311.04634](http://arxiv.org/abs/2311.04634)|**[link](https://github.com/lfranke/vet)**|
 |**2023-11-09**|**Rethinking Human Pose Estimation for Autonomous Driving with 3D Event Representations**|Xiaoting Yin et.al.|[2311.04591](http://arxiv.org/abs/2311.04591)|**[link](https://github.com/masterhow/eventpointpose)**|
 
-<p align=right>(<a href=#updated-on-20250604>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250605>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
