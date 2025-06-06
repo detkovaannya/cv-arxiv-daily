@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-05**|**Tight analyses of first-order methods with error feedback**|Daniel Berg Thomsen et.al.|[2506.05271](http://arxiv.org/abs/2506.05271)|null|
+|**2025-06-05**|**Geometric and Nonequilibrium Criticality in Run-and-Tumble Particles with Competing Motility and Attraction**|Abir Bhowmick et.al.|[2506.05264](http://arxiv.org/abs/2506.05264)|null|
+|**2025-06-05**|**H3+ in irradiated protoplanetary disks: Linking far-ultraviolet radiation and hot water vapor**|Javier R. Goicoechea et.al.|[2506.05189](http://arxiv.org/abs/2506.05189)|null|
+|**2025-06-05**|**Effects of lower floating-point precision on scale-resolving numerical simulations of turbulence**|Martin Karp et.al.|[2506.05150](http://arxiv.org/abs/2506.05150)|null|
+|**2025-06-05**|**Federated Isolation Forest for Efficient Anomaly Detection on Edge IoT Systems**|Pavle Vasiljevic et.al.|[2506.05138](http://arxiv.org/abs/2506.05138)|null|
+|**2025-06-05**|**Coupling 1D stellar evolution with 3D-hydrodynamical simulations on-the-fly III: stellar evolution at different metallicities**|Yixiao Zhou et.al.|[2506.05094](http://arxiv.org/abs/2506.05094)|null|
+|**2025-06-05**|**The ${}^9$ Be photodisintegration cross section within Cluster Effective Field Theory**|Ylenia Capitani et.al.|[2506.05040](http://arxiv.org/abs/2506.05040)|null|
+|**2025-06-05**|**Attack Effect Model based Malicious Behavior Detection**|Limin Wang et.al.|[2506.05001](http://arxiv.org/abs/2506.05001)|null|
+|**2025-06-05**|**Becoming Immutable: How Ethereum is Made**|Andrea Canidio et.al.|[2506.04940](http://arxiv.org/abs/2506.04940)|null|
+|**2025-06-05**|**Resilient Pattern Mining**|Pengxin Bian et.al.|[2506.04935](http://arxiv.org/abs/2506.04935)|null|
 |**2025-06-04**|**Stellar distributions around supermassive black holes in gas-rich nuclear star clusters**|Mor Rozner et.al.|[2506.04229](http://arxiv.org/abs/2506.04229)|null|
 |**2025-06-04**|**Cascadia: A Cascade Serving System for Large Language Models**|Youhe Jiang et.al.|[2506.04203](http://arxiv.org/abs/2506.04203)|null|
 |**2025-06-04**|**Signatures of the Fermi surface reconstruction of a doped Mott insulator in a slab geometry**|Gregorio Staffieri et.al.|[2506.04155](http://arxiv.org/abs/2506.04155)|null|
@@ -3790,6 +3800,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-05**|**Revisiting Depth Representations for Feed-Forward 3D Gaussian Splatting**|Duochao Shi et.al.|[2506.05327](http://arxiv.org/abs/2506.05327)|null|
+|**2025-06-05**|**Rectified Point Flow: Generic Point Cloud Pose Estimation**|Tao Sun et.al.|[2506.05282](http://arxiv.org/abs/2506.05282)|null|
+|**2025-06-05**|**Through-the-Wall Radar Human Activity Recognition WITHOUT Using Neural Networks**|Weicheng Gao et.al.|[2506.05169](http://arxiv.org/abs/2506.05169)|null|
+|**2025-06-05**|**Point Cloud Segmentation of Agricultural Vehicles using 3D Gaussian Splatting**|Alfred T. Christiansen et.al.|[2506.05009](http://arxiv.org/abs/2506.05009)|null|
+|**2025-06-05**|**OpenMaskDINO3D : Reasoning 3D Segmentation via Large Language Model**|Kunshen Zhang et.al.|[2506.04837](http://arxiv.org/abs/2506.04837)|null|
+|**2025-06-05**|**Object-X: Learning to Reconstruct Multi-Modal 3D Object Representations**|Gaia Di Lorenzo et.al.|[2506.04789](http://arxiv.org/abs/2506.04789)|null|
+|**2025-06-05**|**Follow-Your-Creation: Empowering 4D Creation through Video Inpainting**|Yue Ma et.al.|[2506.04590](http://arxiv.org/abs/2506.04590)|null|
+|**2025-06-04**|**"Don't Do That!": Guiding Embodied Systems through Large Language Model-based Constraint Generation**|Aladin Djuhera et.al.|[2506.04500](http://arxiv.org/abs/2506.04500)|null|
+|**2025-06-04**|**FALO: Fast and Accurate LiDAR 3D Object Detection on Resource-Constrained Devices**|Shizhong Han et.al.|[2506.04499](http://arxiv.org/abs/2506.04499)|null|
+|**2025-06-04**|**Learning Smooth State-Dependent Traversability from Dense Point Clouds**|Zihao Dong et.al.|[2506.04362](http://arxiv.org/abs/2506.04362)|null|
 |**2025-06-04**|**Voyager: Long-Range and World-Consistent Video Diffusion for Explorable 3D Scene Generation**|Tianyu Huang et.al.|[2506.04225](http://arxiv.org/abs/2506.04225)|null|
 |**2025-06-04**|**Seeing in the Dark: Benchmarking Egocentric 3D Vision with the Oxford Day-and-Night Dataset**|Zirui Wang et.al.|[2506.04224](http://arxiv.org/abs/2506.04224)|null|
 |**2025-06-04**|**Point Cloud Quality Assessment Using the Perceptual Clustering Weighted Graph (PCW-Graph) and Attention Fusion Network**|Abdelouahed Laazoufi et.al.|[2506.04081](http://arxiv.org/abs/2506.04081)|null|
