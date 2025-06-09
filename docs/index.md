@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-06**|**To collapse or not to collapse: Halo evolution with self-interacting dark matter mass segregation**|Yashraj Patil et.al.|[2506.06272](http://arxiv.org/abs/2506.06272)|null|
+|**2025-06-06**|**Spectroscopic Characterization of redMaPPer Galaxy Clusters with DESI**|J. Myles et.al.|[2506.06249](http://arxiv.org/abs/2506.06249)|null|
+|**2025-06-06**|**Diverse mean-field dynamics of clustered, inhibition-stabilized Hawkes networks via combinatorial threshold-linear networks**|Caitlin Lienkaemper et.al.|[2506.06234](http://arxiv.org/abs/2506.06234)|null|
+|**2025-06-06**|**Towards an Explainable Comparison and Alignment of Feature Embeddings**|Mohammad Jalali et.al.|[2506.06231](http://arxiv.org/abs/2506.06231)|null|
+|**2025-06-06**|**Model-Driven Graph Contrastive Learning**|Ali Azizpour et.al.|[2506.06212](http://arxiv.org/abs/2506.06212)|null|
+|**2025-06-06**|**ICU-TSB: A Benchmark for Temporal Patient Representation Learning for Unsupervised Stratification into Patient Cohorts**|Dimitrios Proios et.al.|[2506.06192](http://arxiv.org/abs/2506.06192)|null|
+|**2025-06-06**|**Integrable deformations of cluster maps of type $D_{2N}$**|Wookyung Kim et.al.|[2506.06182](http://arxiv.org/abs/2506.06182)|null|
+|**2025-06-06**|**Adaptive Cucker-Smale Networks: Limiting Laplacian Time-Varying Dynamics**|Christian Kuehn et.al.|[2506.06131](http://arxiv.org/abs/2506.06131)|null|
+|**2025-06-06**|**Reinforcement Learning Optimization for Large-Scale Learning: An Efficient and User-Friendly Scaling Library**|Weixun Wang et.al.|[2506.06122](http://arxiv.org/abs/2506.06122)|null|
+|**2025-06-06**|**Scalable unsupervised feature selection via weight stability**|Xudong Zhang et.al.|[2506.06114](http://arxiv.org/abs/2506.06114)|null|
 |**2025-06-05**|**Tight analyses of first-order methods with error feedback**|Daniel Berg Thomsen et.al.|[2506.05271](http://arxiv.org/abs/2506.05271)|null|
 |**2025-06-05**|**Geometric and Nonequilibrium Criticality in Run-and-Tumble Particles with Competing Motility and Attraction**|Abir Bhowmick et.al.|[2506.05264](http://arxiv.org/abs/2506.05264)|null|
 |**2025-06-05**|**H3+ in irradiated protoplanetary disks: Linking far-ultraviolet radiation and hot water vapor**|Javier R. Goicoechea et.al.|[2506.05189](http://arxiv.org/abs/2506.05189)|null|
@@ -3800,6 +3810,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-06**|**You Only Estimate Once: Unified, One-stage, Real-Time Category-level Articulated Object 6D Pose Estimation for Robotic Grasping**|Jingshun Huang et.al.|[2506.05719](http://arxiv.org/abs/2506.05719)|null|
+|**2025-06-06**|**Pts3D-LLM: Studying the Impact of Token Structure for 3D Scene Understanding With Large Language Models**|Hugues Thomas et.al.|[2506.05689](http://arxiv.org/abs/2506.05689)|null|
 |**2025-06-05**|**Revisiting Depth Representations for Feed-Forward 3D Gaussian Splatting**|Duochao Shi et.al.|[2506.05327](http://arxiv.org/abs/2506.05327)|null|
 |**2025-06-05**|**Rectified Point Flow: Generic Point Cloud Pose Estimation**|Tao Sun et.al.|[2506.05282](http://arxiv.org/abs/2506.05282)|null|
 |**2025-06-05**|**Through-the-Wall Radar Human Activity Recognition WITHOUT Using Neural Networks**|Weicheng Gao et.al.|[2506.05169](http://arxiv.org/abs/2506.05169)|null|
