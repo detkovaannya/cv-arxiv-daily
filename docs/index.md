@@ -46,10 +46,10 @@ layout: default
 |**2025-06-03**|**Cell-o1: Training LLMs to Solve Single-Cell Reasoning Puzzles with Reinforcement Learning**|Yin Fang et.al.|[2506.02911](http://arxiv.org/abs/2506.02911)|null|
 |**2025-05-30**|**Consistent line clustering using geometric hypergraphs**|Kalle Alaluusua et.al.|[2505.24868](http://arxiv.org/abs/2505.24868)|null|
 |**2025-05-30**|**Optimising cryptocurrency portfolios through stable clustering of price correlation networks**|Ruixue Jing et.al.|[2505.24831](http://arxiv.org/abs/2505.24831)|null|
-|**2025-05-30**|**TC-GS: A Faster Gaussian Splatting Module Utilizing Tensor Cores**|Zimu Liao et.al.|[2505.24796](http://arxiv.org/abs/2505.24796)|null|
+|**2025-05-30**|**TC-GS: A Faster Gaussian Splatting Module Utilizing Tensor Cores**|Zimu Liao et.al.|[2505.24796](http://arxiv.org/abs/2505.24796)|**[link](https://github.com/tensorcore3dgs/3dgstensorcore)**|
 |**2025-05-30**|**Identification of New Candidate Be/X-Ray Binary Systems in the Small Magellanic Cloud via Analysis of S-CUBED Source Catalog**|Thomas M. Gaudin et.al.|[2505.24766](http://arxiv.org/abs/2505.24766)|null|
 |**2025-05-30**|**Survey: Graph Databases**|Miguel E. Coimbra et.al.|[2505.24758](http://arxiv.org/abs/2505.24758)|null|
-|**2025-05-30**|**Tackling View-Dependent Semantics in 3D Language Gaussian Splatting**|Jiazhong Cen et.al.|[2505.24746](http://arxiv.org/abs/2505.24746)|null|
+|**2025-05-30**|**Tackling View-Dependent Semantics in 3D Language Gaussian Splatting**|Jiazhong Cen et.al.|[2505.24746](http://arxiv.org/abs/2505.24746)|**[link](https://github.com/sjtu-deepvisionlab/laga)**|
 |**2025-05-30**|**Cluster Reconstruction in Electromagnetic Calorimeters Using Machine Learning Methods**|Kalina Dimitrova et.al.|[2505.24740](http://arxiv.org/abs/2505.24740)|null|
 |**2025-05-30**|**Robust Federated Learning against Model Perturbation in Edge Networks**|Dongzi Jin et.al.|[2505.24728](http://arxiv.org/abs/2505.24728)|null|
 |**2025-05-30**|**Bayesian nonparametric clustering for spatio-temporal data, with an application to air pollution**|Luca Aiello et.al.|[2505.24694](http://arxiv.org/abs/2505.24694)|null|
@@ -74,7 +74,7 @@ layout: default
 |**2025-05-28**|**Synaptic shot-noise triggers fast and slow global oscillations in balanced neural networks**|Denis S. Goldobin et.al.|[2505.22373](http://arxiv.org/abs/2505.22373)|null|
 |**2025-05-28**|**Probing nuclear structure in relativistic p-O and O-O collisions at the LHC through the measurement of anisotropic flow coefficients**|Aswathy Menon K R et.al.|[2505.22367](http://arxiv.org/abs/2505.22367)|null|
 |**2025-05-28**|**A Systematic Approach for Studying How Topological Measurements Respond to Complex Networks Modifications**|Alexandre Benatti et.al.|[2505.22345](http://arxiv.org/abs/2505.22345)|null|
-|**2025-05-27**|**Adversarial Attacks against Closed-Source MLLMs via Feature Optimal Alignment**|Xiaojun Jia et.al.|[2505.21494](http://arxiv.org/abs/2505.21494)|null|
+|**2025-05-27**|**Adversarial Attacks against Closed-Source MLLMs via Feature Optimal Alignment**|Xiaojun Jia et.al.|[2505.21494](http://arxiv.org/abs/2505.21494)|**[link](https://github.com/jiaxiaojunqaq/foa-attack)**|
 |**2025-05-27**|**Bayesian Dynamic Clustering Factor Models**|Tsering Dolkar et.al.|[2505.21490](http://arxiv.org/abs/2505.21490)|null|
 |**2025-05-27**|**Spectral Evolution of Rotating Population III Stars**|Jake Hassan et.al.|[2505.21463](http://arxiv.org/abs/2505.21463)|null|
 |**2025-05-27**|**M3S-UPD: Efficient Multi-Stage Self-Supervised Learning for Fine-Grained Encrypted Traffic Classification with Unknown Pattern Discovery**|Yali Yuan et.al.|[2505.21462](http://arxiv.org/abs/2505.21462)|null|
@@ -3820,7 +3820,7 @@ layout: default
 |**2025-06-03**|**MIND: Material Interface Generation from UDFs for Non-Manifold Surface Reconstruction**|Xuhui Chen et.al.|[2506.02938](http://arxiv.org/abs/2506.02938)|null|
 |**2025-06-03**|**Towards Auto-Annotation from Annotation Guidelines: A Benchmark through 3D LiDAR Detection**|Yechi Ma et.al.|[2506.02914](http://arxiv.org/abs/2506.02914)|null|
 |**2025-06-03**|**Towards Explicit Geometry-Reflectance Collaboration for Generalized LiDAR Segmentation in Adverse Weather**|Longyu Yang et.al.|[2506.02396](http://arxiv.org/abs/2506.02396)|null|
-|**2025-06-02**|**Constrained Sliced Wasserstein Embedding**|Navid NaderiAlizadeh et.al.|[2506.02203](http://arxiv.org/abs/2506.02203)|null|
+|**2025-06-02**|**Constrained Sliced Wasserstein Embedding**|Navid NaderiAlizadeh et.al.|[2506.02203](http://arxiv.org/abs/2506.02203)|**[link](https://github.com/Stranja572/constrainedswe)**|
 |**2025-06-04**|**SAB3R: Semantic-Augmented Backbone in 3D Reconstruction**|Xuweiyi Chen et.al.|[2506.02112](http://arxiv.org/abs/2506.02112)|null|
 |**2025-06-02**|**E3D-Bench: A Benchmark for End-to-End 3D Geometric Foundation Models**|Wenyan Cong et.al.|[2506.01933](http://arxiv.org/abs/2506.01933)|null|
 |**2025-06-02**|**Self-supervised Latent Space Optimization with Nebula Variational Coding**|Yida Wang et.al.|[2506.01414](http://arxiv.org/abs/2506.01414)|null|
@@ -3840,7 +3840,7 @@ layout: default
 |**2025-05-29**|**On Transferring Transferability: Towards a Theory for Size Generalization**|Eitan Levin et.al.|[2505.23599](http://arxiv.org/abs/2505.23599)|**[link](https://github.com/yuxinma98/transferring_transferability)**|
 |**2025-05-29**|**A Divide-and-Conquer Approach for Global Orientation of Non-Watertight Scene-Level Point Clouds Using 0-1 Integer Optimization**|Zhuodong Li et.al.|[2505.23469](http://arxiv.org/abs/2505.23469)|**[link](https://github.com/zd-lee/dacpo)**|
 |**2025-05-29**|**GenCAD-Self-Repairing: Feasibility Enhancement for 3D CAD Generation**|Chikaha Tsuji et.al.|[2505.23287](http://arxiv.org/abs/2505.23287)|null|
-|**2025-05-29**|**HyperPointFormer: Multimodal Fusion in 3D Space with Dual-Branch Cross-Attention Transformers**|Aldino Rizaldy et.al.|[2505.23206](http://arxiv.org/abs/2505.23206)|null|
+|**2025-05-29**|**HyperPointFormer: Multimodal Fusion in 3D Space with Dual-Branch Cross-Attention Transformers**|Aldino Rizaldy et.al.|[2505.23206](http://arxiv.org/abs/2505.23206)|**[link](https://github.com/aldinorizaldy/hyperpointformer)**|
 |**2025-05-28**|**cadrille: Multi-modal CAD Reconstruction with Online Reinforcement Learning**|Maksim Kolodiazhnyi et.al.|[2505.22914](http://arxiv.org/abs/2505.22914)|null|
 |**2025-05-28**|**Geometric GNNs for Charged Particle Tracking at GlueX**|Ahmed Hossam Mohammed et.al.|[2505.22504](http://arxiv.org/abs/2505.22504)|null|
 |**2025-05-28**|**NFR: Neural Feature-Guided Non-Rigid Shape Registration**|Puhua Jiang et.al.|[2505.22445](http://arxiv.org/abs/2505.22445)|null|
@@ -3883,7 +3883,7 @@ layout: default
 |**2025-05-22**|**Masked Conditioning for Deep Generative Models**|Phillip Mueller et.al.|[2505.16725](http://arxiv.org/abs/2505.16725)|null|
 |**2025-05-22**|**SEDD-PCC: A Single Encoder-Dual Decoder Framework For End-To-End Learned Point Cloud Compression**|Kai Hsiang Hsieh et.al.|[2505.16709](http://arxiv.org/abs/2505.16709)|null|
 |**2025-05-22**|**CoNav: Collaborative Cross-Modal Reasoning for Embodied Navigation**|Haihong Hao et.al.|[2505.16663](http://arxiv.org/abs/2505.16663)|**[link](https://github.com/oceanhao/CoNav)**|
-|**2025-05-22**|**Sketchy Bounding-box Supervision for 3D Instance Segmentation**|Qian Deng et.al.|[2505.16399](http://arxiv.org/abs/2505.16399)|null|
+|**2025-05-22**|**Sketchy Bounding-box Supervision for 3D Instance Segmentation**|Qian Deng et.al.|[2505.16399](http://arxiv.org/abs/2505.16399)|**[link](https://github.com/dengq7/sketchy-3dis)**|
 |**2025-05-22**|**SEM: Enhancing Spatial Understanding for Robust Robot Manipulation**|Xuewu Lin et.al.|[2505.16196](http://arxiv.org/abs/2505.16196)|null|
 |**2025-05-22**|**RE-TRIP : Reflectivity Instance Augmented Triangle Descriptor for 3D Place Recognition**|Yechan Park et.al.|[2505.16165](http://arxiv.org/abs/2505.16165)|**[link](https://github.com/pyc5714/re-trip)**|
 |**2025-05-21**|**PlantDreamer: Achieving Realistic 3D Plant Models with Diffusion-Guided Gaussian Splatting**|Zane K J Hartley et.al.|[2505.15528](http://arxiv.org/abs/2505.15528)|null|
