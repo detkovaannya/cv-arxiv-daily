@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.11
+## Updated on 2025.06.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## clustering
@@ -21,7 +21,7 @@ layout: default
 |**2025-06-10**|**Can A Gamer Train A Mathematical Reasoning Model?**|Andrew Shin et.al.|[2506.08935](http://arxiv.org/abs/2506.08935)|null|
 |**2025-06-10**|**Splashback radius and the mass accretion rate of RASS MCMF galaxy clusters**|Jitendra Joshi et.al.|[2506.08925](http://arxiv.org/abs/2506.08925)|null|
 |**2025-06-10**|**Mycelium: A Transformation-Embedded LSM-Tree**|Holly Casaletto et.al.|[2506.08923](http://arxiv.org/abs/2506.08923)|null|
-|**2025-06-10**|**AdversariaL attacK sAfety aLIgnment(ALKALI): Safeguarding LLMs through GRACE: Geometric Representation-Aware Contrastive Enhancement- Introducing Adversarial Vulnerability Quality Index (AVQI)**|Danush Khanna et.al.|[2506.08885](http://arxiv.org/abs/2506.08885)|null|
+|**2025-06-11**|**AdversariaL attacK sAfety aLIgnment(ALKALI): Safeguarding LLMs through GRACE: Geometric Representation-Aware Contrastive Enhancement- Introducing Adversarial Vulnerability Quality Index (AVQI)**|Danush Khanna et.al.|[2506.08885](http://arxiv.org/abs/2506.08885)|null|
 |**2025-06-10**|**The MeerKAT Massive Distant Clusters Survey: Detection of Diffuse Radio Emission in Galaxy Clusters at $z > 1$**|Dakalo G. Phuravhathu et.al.|[2506.08853](http://arxiv.org/abs/2506.08853)|null|
 |**2025-06-10**|**Using gravitational waves and multi-messenger Astronomy to reverse-engineer the properties of galactic nuclei**|K. E. Saavik Ford et.al.|[2506.08801](http://arxiv.org/abs/2506.08801)|null|
 |**2025-06-09**|**Resonant neutrino self-interactions: insights from the full shape galaxy power spectrum**|Hernán E. Noriega et.al.|[2506.07994](http://arxiv.org/abs/2506.07994)|null|
@@ -3830,7 +3830,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-10**|**Gaussian2Scene: 3D Scene Representation Learning via Self-supervised Learning with 3D Gaussian Splatting**|Keyi Liu et.al.|[2506.08777](http://arxiv.org/abs/2506.08777)|null|
+|**2025-06-11**|**Gaussian2Scene: 3D Scene Representation Learning via Self-supervised Learning with 3D Gaussian Splatting**|Keyi Liu et.al.|[2506.08777](http://arxiv.org/abs/2506.08777)|null|
 |**2025-06-10**|**ArrowPose: Segmentation, Detection, and 5 DoF Pose Estimation Network for Colorless Point Clouds**|Frederik Hagelskjaer et.al.|[2506.08699](http://arxiv.org/abs/2506.08699)|null|
 |**2025-06-10**|**SurfR: Surface Reconstruction with Multi-scale Attention**|Siddhant Ranade et.al.|[2506.08635](http://arxiv.org/abs/2506.08635)|null|
 |**2025-06-09**|**SpaCE-10: A Comprehensive Benchmark for Multimodal Large Language Models in Compositional Spatial Intelligence**|Ziyang Gong et.al.|[2506.07966](http://arxiv.org/abs/2506.07966)|null|
