@@ -7,13 +7,23 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.12
+## Updated on 2025.06.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## clustering
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-11**|**Evidence for Bose liquid from anomalous shot noise in nanojunctions of bad metal beta-Ta**|Yiou Zhang et.al.|[2506.09973](http://arxiv.org/abs/2506.09973)|null|
+|**2025-06-11**|**Counterculture Stars: Slow and Retrograde Stars with Low-Alpha Disk Abundances**|Carrie Filion et.al.|[2506.09927](http://arxiv.org/abs/2506.09927)|null|
+|**2025-06-11**|**Structural-Spectral Graph Convolution with Evidential Edge Learning for Hyperspectral Image Clustering**|Jianhan Qi et.al.|[2506.09920](http://arxiv.org/abs/2506.09920)|null|
+|**2025-06-11**|**Private Aggregation for Byzantine-Resilient Heterogeneous Federated Learning**|Maximilian Egger et.al.|[2506.09870](http://arxiv.org/abs/2506.09870)|null|
+|**2025-06-11**|**Lower-dimensional posterior density and cluster summaries for overparameterized Bayesian models**|Henrique Bolfarine et.al.|[2506.09850](http://arxiv.org/abs/2506.09850)|null|
+|**2025-06-11**|**Frosty for partial synchrony**|Stephen Buttolph et.al.|[2506.09823](http://arxiv.org/abs/2506.09823)|null|
+|**2025-06-11**|**AMUSE-Antlia. II. Intracluster X-ray Population in the Antlia Cluster**|Zhensong Hu et.al.|[2506.09734](http://arxiv.org/abs/2506.09734)|null|
+|**2025-06-11**|**CSST Cosmological Emulator II: Generalized Accurate Halo Mass Function Emulation**|Zhao Chen et.al.|[2506.09688](http://arxiv.org/abs/2506.09688)|null|
+|**2025-06-11**|**SyncFed: Time-Aware Federated Learning through Explicit Timestamping and Synchronization**|Baran Can Gül et.al.|[2506.09660](http://arxiv.org/abs/2506.09660)|null|
+|**2025-06-11**|**Deriving physical parameters of unresolved star clusters. IX. Sky background effects in the aperture photometry**|Karolis Daugevičius et.al.|[2506.09622](http://arxiv.org/abs/2506.09622)|null|
 |**2025-06-10**|**Relativistic Core-Valence-Separated Molecular Mean-Field Exact-Two-Component Equation-of-Motion Coupled Cluster Theory: Applications to L-edge X-ray Absorption Spectroscopy**|Samragni Banerjee et.al.|[2506.09008](http://arxiv.org/abs/2506.09008)|null|
 |**2025-06-10**|**A New Spectral Class of Brown Dwarfs at the Bottom of the IMF in IC 348**|K. L. Luhman et.al.|[2506.08969](http://arxiv.org/abs/2506.08969)|null|
 |**2025-06-10**|**Segment Concealed Objects with Incomplete Supervision**|Chunming He et.al.|[2506.08955](http://arxiv.org/abs/2506.08955)|null|
@@ -3830,6 +3840,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-11**|**UniPre3D: Unified Pre-training of 3D Point Cloud Models with Cross-Modal Gaussian Splatting**|Ziyi Wang et.al.|[2506.09952](http://arxiv.org/abs/2506.09952)|null|
+|**2025-06-11**|**VAULT: A Mobile Mapping System for ROS 2-based Autonomous Robots**|Miguel Á. González-Santamarta et.al.|[2506.09583](http://arxiv.org/abs/2506.09583)|null|
+|**2025-06-11**|**Enhancing Human-Robot Collaboration: A Sim2Real Domain Adaptation Algorithm for Point Cloud Segmentation in Industrial Environments**|Fatemeh Mohammadi Amin et.al.|[2506.09552](http://arxiv.org/abs/2506.09552)|null|
+|**2025-06-11**|**Enhancing semi-resolved CFD-DEM for dilute to dense particle-fluid systems: A point cloud based, two-step mapping strategy via coarse graining**|Yuxiang Liu et.al.|[2506.09517](http://arxiv.org/abs/2506.09517)|null|
+|**2025-06-11**|**Generalized Gaussian Entropy Model for Point Cloud Attribute Compression with Dynamic Likelihood Intervals**|Changhao Peng et.al.|[2506.09510](http://arxiv.org/abs/2506.09510)|null|
 |**2025-06-11**|**Gaussian2Scene: 3D Scene Representation Learning via Self-supervised Learning with 3D Gaussian Splatting**|Keyi Liu et.al.|[2506.08777](http://arxiv.org/abs/2506.08777)|null|
 |**2025-06-10**|**ArrowPose: Segmentation, Detection, and 5 DoF Pose Estimation Network for Colorless Point Clouds**|Frederik Hagelskjaer et.al.|[2506.08699](http://arxiv.org/abs/2506.08699)|null|
 |**2025-06-10**|**SurfR: Surface Reconstruction with Multi-scale Attention**|Siddhant Ranade et.al.|[2506.08635](http://arxiv.org/abs/2506.08635)|null|
