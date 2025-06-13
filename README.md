@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-12**|**Distillation of atomistic foundation models across architectures and chemical domains**|John L. A. Gardner et.al.|[2506.10956](http://arxiv.org/abs/2506.10956)|null|
+|**2025-06-12**|**Coupled reaction and diffusion governing interface evolution in solid-state batteries**|Jingxuan Ding et.al.|[2506.10944](http://arxiv.org/abs/2506.10944)|null|
+|**2025-06-12**|**Building a Media Ecosystem Observatory from Scratch: Infrastructure, Methodology, and Insights**|Zeynep Pehlivan et.al.|[2506.10942](http://arxiv.org/abs/2506.10942)|null|
+|**2025-06-12**|**Towards Zero-Stall Matrix Multiplication on Energy-Efficient RISC-V Clusters for Machine Learning Acceleration**|Luca Colagrande et.al.|[2506.10921](http://arxiv.org/abs/2506.10921)|null|
+|**2025-06-12**|**NoLoCo: No-all-reduce Low Communication Training Method for Large Models**|Jari Kolehmainen et.al.|[2506.10911](http://arxiv.org/abs/2506.10911)|null|
+|**2025-06-12**|**Adaptive Job Scheduling in Quantum Clouds Using Reinforcement Learning**|Waylon Luo et.al.|[2506.10889](http://arxiv.org/abs/2506.10889)|null|
+|**2025-06-12**|**The Impact of Partial Computations on the Red-Blue Pebble Game**|Pál András Papp et.al.|[2506.10854](http://arxiv.org/abs/2506.10854)|null|
+|**2025-06-12**|**Faster CONGEST Approximation Algorithms for Maximum Weighted Independent Set in Sparse Graphs**|Salwa Faour et.al.|[2506.10845](http://arxiv.org/abs/2506.10845)|null|
+|**2025-06-12**|**Advanced fraud detection using machine learning models: enhancing financial transaction security**|Nudrat Fariha et.al.|[2506.10842](http://arxiv.org/abs/2506.10842)|null|
+|**2025-06-12**|**Dipole-quadrupole coupling in triplet exciton-polaron quenching in a phosphorescent OLED emission layer**|Clint van Hoesel et.al.|[2506.10794](http://arxiv.org/abs/2506.10794)|null|
 |**2025-06-11**|**Evidence for Bose liquid from anomalous shot noise in nanojunctions of bad metal beta-Ta**|Yiou Zhang et.al.|[2506.09973](http://arxiv.org/abs/2506.09973)|null|
 |**2025-06-11**|**Counterculture Stars: Slow and Retrograde Stars with Low-Alpha Disk Abundances**|Carrie Filion et.al.|[2506.09927](http://arxiv.org/abs/2506.09927)|null|
 |**2025-06-11**|**Structural-Spectral Graph Convolution with Evidential Edge Learning for Hyperspectral Image Clustering**|Jianhan Qi et.al.|[2506.09920](http://arxiv.org/abs/2506.09920)|null|
@@ -3846,6 +3856,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-12**|**Occlusion-Aware 3D Hand-Object Pose Estimation with Masked AutoEncoders**|Hui Yang et.al.|[2506.10816](http://arxiv.org/abs/2506.10816)|null|
+|**2025-06-12**|**In-Hand Object Pose Estimation via Visual-Tactile Fusion**|Felix Nonnengießer et.al.|[2506.10787](http://arxiv.org/abs/2506.10787)|null|
+|**2025-06-12**|**Hierarchical Error Assessment of CAD Models for Aircraft Manufacturing-and-Measurement**|Jin Huang et.al.|[2506.10594](http://arxiv.org/abs/2506.10594)|null|
+|**2025-06-12**|**J-DDL: Surface Damage Detection and Localization System for Fighter Aircraft**|Jin Huang et.al.|[2506.10505](http://arxiv.org/abs/2506.10505)|null|
+|**2025-06-12**|**PointGS: Point Attention-Aware Sparse View Synthesis with Gaussian Splatting**|Lintao Xiang et.al.|[2506.10335](http://arxiv.org/abs/2506.10335)|null|
 |**2025-06-11**|**UniPre3D: Unified Pre-training of 3D Point Cloud Models with Cross-Modal Gaussian Splatting**|Ziyi Wang et.al.|[2506.09952](http://arxiv.org/abs/2506.09952)|null|
 |**2025-06-11**|**VAULT: A Mobile Mapping System for ROS 2-based Autonomous Robots**|Miguel Á. González-Santamarta et.al.|[2506.09583](http://arxiv.org/abs/2506.09583)|null|
 |**2025-06-11**|**Enhancing Human-Robot Collaboration: A Sim2Real Domain Adaptation Algorithm for Point Cloud Segmentation in Industrial Environments**|Fatemeh Mohammadi Amin et.al.|[2506.09552](http://arxiv.org/abs/2506.09552)|null|
