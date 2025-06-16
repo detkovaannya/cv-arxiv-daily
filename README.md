@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-13**|**Technical Evaluation of a Disruptive Approach in Homomorphic AI**|Eric Filiol et.al.|[2506.11954](http://arxiv.org/abs/2506.11954)|null|
+|**2025-06-13**|**Secure API-Driven Research Automation to Accelerate Scientific Discovery**|Tyler J. Skluzacek et.al.|[2506.11950](http://arxiv.org/abs/2506.11950)|null|
+|**2025-06-13**|**Calibrating baryonic effects in cosmic shear with external data in the LSST era**|Amy Wayland et.al.|[2506.11943](http://arxiv.org/abs/2506.11943)|null|
+|**2025-06-13**|**Temporal Dynamics of Emotions in Italian Online Soccer Fandoms**|Salvatore Citraro et.al.|[2506.11934](http://arxiv.org/abs/2506.11934)|null|
+|**2025-06-13**|**Symbol Alphabets in QCD and Flag Cluster Algebras**|Andrzej Pokraka et.al.|[2506.11895](http://arxiv.org/abs/2506.11895)|null|
+|**2025-06-13**|**Learning Overspecified Gaussian Mixtures Exponentially Fast with the EM Algorithm**|Zhenisbek Assylbekov et.al.|[2506.11850](http://arxiv.org/abs/2506.11850)|null|
+|**2025-06-13**|**A retrospective on DISPEED -- Leveraging heterogeneity in a drone swarm for IDS execution**|Vincent Lannurien et.al.|[2506.11800](http://arxiv.org/abs/2506.11800)|null|
+|**2025-06-13**|**On Apparent Absence of Green Gap in InGaN/GaN Quantum Disks and Wells Grown by Plasma-Assisted Molecular Beam Epitaxy**|Sharif Md. Sadaf et.al.|[2506.11782](http://arxiv.org/abs/2506.11782)|null|
+|**2025-06-13**|**Self-supervised Learning of Echocardiographic Video Representations via Online Cluster Distillation**|Divyanshu Mishra et.al.|[2506.11777](http://arxiv.org/abs/2506.11777)|null|
+|**2025-06-13**|**MambaVSR: Content-Aware Scanning State Space Model for Video Super-Resolution**|Linfeng He et.al.|[2506.11768](http://arxiv.org/abs/2506.11768)|null|
 |**2025-06-12**|**Distillation of atomistic foundation models across architectures and chemical domains**|John L. A. Gardner et.al.|[2506.10956](http://arxiv.org/abs/2506.10956)|null|
 |**2025-06-12**|**Coupled reaction and diffusion governing interface evolution in solid-state batteries**|Jingxuan Ding et.al.|[2506.10944](http://arxiv.org/abs/2506.10944)|null|
 |**2025-06-12**|**Building a Media Ecosystem Observatory from Scratch: Infrastructure, Methodology, and Insights**|Zeynep Pehlivan et.al.|[2506.10942](http://arxiv.org/abs/2506.10942)|null|
@@ -3856,6 +3866,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-13**|**Aligned Novel View Image and Geometry Synthesis via Cross-modal Attention Instillation**|Min-Seop Kwak et.al.|[2506.11924](http://arxiv.org/abs/2506.11924)|null|
+|**2025-06-13**|**Methods for evaluating the resolution of 3D data derived from satellite images**|Christina Selby et.al.|[2506.11876](http://arxiv.org/abs/2506.11876)|null|
+|**2025-06-13**|**Vision-based Lifting of 2D Object Detections for Automated Driving**|Hendrik Königshof et.al.|[2506.11839](http://arxiv.org/abs/2506.11839)|null|
+|**2025-06-13**|**Teleoperated Driving: a New Challenge for 3D Object Detection in Compressed Point Clouds**|Filippo Bragato et.al.|[2506.11804](http://arxiv.org/abs/2506.11804)|null|
+|**2025-06-13**|**OV-MAP : Open-Vocabulary Zero-Shot 3D Instance Segmentation Map for Robots**|Juno Kim et.al.|[2506.11585](http://arxiv.org/abs/2506.11585)|null|
+|**2025-06-13**|**Robust Filtering -- Novel Statistical Learning and Inference Algorithms with Applications**|Aamir Hussain Chughtai et.al.|[2506.11530](http://arxiv.org/abs/2506.11530)|null|
 |**2025-06-12**|**Occlusion-Aware 3D Hand-Object Pose Estimation with Masked AutoEncoders**|Hui Yang et.al.|[2506.10816](http://arxiv.org/abs/2506.10816)|null|
 |**2025-06-12**|**In-Hand Object Pose Estimation via Visual-Tactile Fusion**|Felix Nonnengießer et.al.|[2506.10787](http://arxiv.org/abs/2506.10787)|null|
 |**2025-06-12**|**Hierarchical Error Assessment of CAD Models for Aircraft Manufacturing-and-Measurement**|Jin Huang et.al.|[2506.10594](http://arxiv.org/abs/2506.10594)|null|
