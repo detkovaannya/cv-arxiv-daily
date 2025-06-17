@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-16**|**Quantized local reduced-order modeling in time (ql-ROM)**|Antonio Colanera et.al.|[2506.13738](http://arxiv.org/abs/2506.13738)|null|
+|**2025-06-16**|**BanditWare: A Contextual Bandit-based Framework for Hardware Prediction**|Tainã Coleman et.al.|[2506.13730](http://arxiv.org/abs/2506.13730)|null|
+|**2025-06-16**|**POPQC: Parallel Optimization for Quantum Circuits (Extended Version)**|Pengyu Liu et.al.|[2506.13720](http://arxiv.org/abs/2506.13720)|null|
+|**2025-06-16**|**Mass models of galaxy clusters from a non-parametric weak-lensing reconstruction**|Tobias Mistele et.al.|[2506.13716](http://arxiv.org/abs/2506.13716)|null|
+|**2025-06-16**|**Computational lower bounds in latent models: clustering, sparse-clustering, biclustering**|Bertrand Even et.al.|[2506.13647](http://arxiv.org/abs/2506.13647)|null|
+|**2025-06-16**|**KRIOS: A new basis-expansion $N$ -body code for collisional stellar dynamics**|Kerwann Tep et.al.|[2506.13636](http://arxiv.org/abs/2506.13636)|null|
+|**2025-06-16**|**EBS-CFL: Efficient and Byzantine-robust Secure Clustered Federated Learning**|Zhiqiang Li et.al.|[2506.13612](http://arxiv.org/abs/2506.13612)|null|
+|**2025-06-16**|**Tree-Based Text Retrieval via Hierarchical Clustering in RAGFrameworks: Application on Taiwanese Regulations**|Chia-Heng Yu et.al.|[2506.13607](http://arxiv.org/abs/2506.13607)|null|
+|**2025-06-16**|**Near-Eddington mass loss of hydrogen-rich Wolf-Rayet stars**|Roel R. Lefever et.al.|[2506.13582](http://arxiv.org/abs/2506.13582)|null|
+|**2025-06-16**|**Digging deeper: deep joint species distribution modeling reveals environmental drivers of Earthworm Communities**|Sara Si-moussi et.al.|[2506.13568](http://arxiv.org/abs/2506.13568)|null|
 |**2025-06-13**|**Technical Evaluation of a Disruptive Approach in Homomorphic AI**|Eric Filiol et.al.|[2506.11954](http://arxiv.org/abs/2506.11954)|null|
 |**2025-06-13**|**Secure API-Driven Research Automation to Accelerate Scientific Discovery**|Tyler J. Skluzacek et.al.|[2506.11950](http://arxiv.org/abs/2506.11950)|null|
 |**2025-06-13**|**Calibrating baryonic effects in cosmic shear with external data in the LSST era**|Amy Wayland et.al.|[2506.11943](http://arxiv.org/abs/2506.11943)|null|
@@ -3860,6 +3870,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-16**|**Persistent Homology of Music Network with Three Different Distances**|Eunwoo Heo et.al.|[2506.13595](http://arxiv.org/abs/2506.13595)|null|
+|**2025-06-16**|**Boundary-Informed Sound Field Reconstruction**|David Sundström et.al.|[2506.13279](http://arxiv.org/abs/2506.13279)|null|
+|**2025-06-16**|**SASep: Saliency-Aware Structured Separation of Geometry and Feature for Open Set Learning on Point Clouds**|Jinfeng Xu et.al.|[2506.13224](http://arxiv.org/abs/2506.13224)|null|
+|**2025-06-16**|**MT-PCR: A Hybrid Mamba-Transformer with Spatial Serialization for Hierarchical Point Cloud Registration**|Bingxi Liu et.al.|[2506.13183](http://arxiv.org/abs/2506.13183)|null|
+|**2025-06-16**|**ViewPCL: a point cloud based active learning method for multi-view segmentation**|Christian Hilaire et.al.|[2506.13043](http://arxiv.org/abs/2506.13043)|null|
+|**2025-06-15**|**DiffS-NOCS: 3D Point Cloud Reconstruction through Coloring Sketches to NOCS Maps Using Diffusion Models**|Di Kong et.al.|[2506.12835](http://arxiv.org/abs/2506.12835)|null|
+|**2025-06-14**|**Learning Mappings in Mesh-based Simulations**|Shirin Hosseinmardi et.al.|[2506.12652](http://arxiv.org/abs/2506.12652)|null|
 |**2025-06-13**|**Aligned Novel View Image and Geometry Synthesis via Cross-modal Attention Instillation**|Min-Seop Kwak et.al.|[2506.11924](http://arxiv.org/abs/2506.11924)|null|
 |**2025-06-13**|**Methods for evaluating the resolution of 3D data derived from satellite images**|Christina Selby et.al.|[2506.11876](http://arxiv.org/abs/2506.11876)|null|
 |**2025-06-13**|**Vision-based Lifting of 2D Object Detections for Automated Driving**|Hendrik Königshof et.al.|[2506.11839](http://arxiv.org/abs/2506.11839)|null|
