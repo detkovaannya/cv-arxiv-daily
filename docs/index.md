@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-17**|**Resource Optimization with MPI Process Malleability for Dynamic Workloads in HPC Clusters**|Sergio Iserte et.al.|[2506.14743](http://arxiv.org/abs/2506.14743)|null|
+|**2025-06-17**|**About explosive delayed desorption from methane-doped argon matrices**|M. A. Bludov et.al.|[2506.14726](http://arxiv.org/abs/2506.14726)|null|
+|**2025-06-17**|**SETI@home: Data Acquisition and Front-End Processing**|Eric J. Korpela et.al.|[2506.14718](http://arxiv.org/abs/2506.14718)|null|
+|**2025-06-17**|**Uniform Mean Estimation for Heavy-Tailed Distributions via Median-of-Means**|Mikael Møller Høgsgaard et.al.|[2506.14673](http://arxiv.org/abs/2506.14673)|null|
+|**2025-06-17**|**ASAP-FE: Energy-Efficient Feature Extraction Enabling Multi-Channel Keyword Spotting on Edge Processors**|Jongin Choi et.al.|[2506.14657](http://arxiv.org/abs/2506.14657)|null|
+|**2025-06-17**|**Keigo: Co-designing Log-Structured Merge Key-Value Stores with a Non-Volatile, Concurrency-aware Storage Hierarchy (Extended Version)**|Rúben Adão et.al.|[2506.14630](http://arxiv.org/abs/2506.14630)|null|
+|**2025-06-17**|**Concepts for designing modern C++ interfaces for MPI**|C. Nicole Avans et.al.|[2506.14610](http://arxiv.org/abs/2506.14610)|null|
+|**2025-06-17**|**Computational Studies in Influencer Marketing: A Systematic Literature Review**|Haoyang Gui et.al.|[2506.14602](http://arxiv.org/abs/2506.14602)|null|
+|**2025-06-17**|**250 Magnetic Tunnel Junctions-Based Probabilistic Ising Machine**|Shuhan Yang et.al.|[2506.14590](http://arxiv.org/abs/2506.14590)|null|
+|**2025-06-17**|**SCISSOR: Mitigating Semantic Bias through Cluster-Aware Siamese Networks for Robust Classification**|Shuo Yang et.al.|[2506.14587](http://arxiv.org/abs/2506.14587)|null|
 |**2025-06-16**|**Quantized local reduced-order modeling in time (ql-ROM)**|Antonio Colanera et.al.|[2506.13738](http://arxiv.org/abs/2506.13738)|null|
 |**2025-06-16**|**BanditWare: A Contextual Bandit-based Framework for Hardware Prediction**|Tainã Coleman et.al.|[2506.13730](http://arxiv.org/abs/2506.13730)|null|
 |**2025-06-16**|**POPQC: Parallel Optimization for Quantum Circuits (Extended Version)**|Pengyu Liu et.al.|[2506.13720](http://arxiv.org/abs/2506.13720)|null|
@@ -3870,6 +3880,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-17**|**ClutterDexGrasp: A Sim-to-Real System for General Dexterous Grasping in Cluttered Scenes**|Zeyuan Chen et.al.|[2506.14317](http://arxiv.org/abs/2506.14317)|null|
+|**2025-06-17**|**Cross-Modal Geometric Hierarchy Fusion: An Implicit-Submap Driven Framework for Resilient 3D Place Recognition**|Xiaohui Jiang et.al.|[2506.14243](http://arxiv.org/abs/2506.14243)|null|
+|**2025-06-16**|**A Point Cloud Completion Approach for the Grasping of Partially Occluded Objects and Its Applications in Robotic Strawberry Harvesting**|Ali Abouzeid et.al.|[2506.14066](http://arxiv.org/abs/2506.14066)|null|
+|**2025-06-16**|**DeSPITE: Exploring Contrastive Deep Skeleton-Pointcloud-IMU-Text Embeddings for Advanced Point Cloud Human Activity Understanding**|Thomas Kreutz et.al.|[2506.13897](http://arxiv.org/abs/2506.13897)|null|
 |**2025-06-16**|**Persistent Homology of Music Network with Three Different Distances**|Eunwoo Heo et.al.|[2506.13595](http://arxiv.org/abs/2506.13595)|null|
 |**2025-06-16**|**Boundary-Informed Sound Field Reconstruction**|David Sundström et.al.|[2506.13279](http://arxiv.org/abs/2506.13279)|null|
 |**2025-06-16**|**SASep: Saliency-Aware Structured Separation of Geometry and Feature for Open Set Learning on Point Clouds**|Jinfeng Xu et.al.|[2506.13224](http://arxiv.org/abs/2506.13224)|null|
