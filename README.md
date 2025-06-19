@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.18
+## Updated on 2025.06.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -21,7 +21,7 @@
 |**2025-06-17**|**Resource Optimization with MPI Process Malleability for Dynamic Workloads in HPC Clusters**|Sergio Iserte et.al.|[2506.14743](http://arxiv.org/abs/2506.14743)|null|
 |**2025-06-17**|**About explosive delayed desorption from methane-doped argon matrices**|M. A. Bludov et.al.|[2506.14726](http://arxiv.org/abs/2506.14726)|null|
 |**2025-06-17**|**SETI@home: Data Acquisition and Front-End Processing**|Eric J. Korpela et.al.|[2506.14718](http://arxiv.org/abs/2506.14718)|null|
-|**2025-06-17**|**Uniform Mean Estimation for Heavy-Tailed Distributions via Median-of-Means**|Mikael Møller Høgsgaard et.al.|[2506.14673](http://arxiv.org/abs/2506.14673)|null|
+|**2025-06-18**|**Uniform Mean Estimation for Heavy-Tailed Distributions via Median-of-Means**|Mikael Møller Høgsgaard et.al.|[2506.14673](http://arxiv.org/abs/2506.14673)|null|
 |**2025-06-17**|**ASAP-FE: Energy-Efficient Feature Extraction Enabling Multi-Channel Keyword Spotting on Edge Processors**|Jongin Choi et.al.|[2506.14657](http://arxiv.org/abs/2506.14657)|null|
 |**2025-06-17**|**Keigo: Co-designing Log-Structured Merge Key-Value Stores with a Non-Volatile, Concurrency-aware Storage Hierarchy (Extended Version)**|Rúben Adão et.al.|[2506.14630](http://arxiv.org/abs/2506.14630)|null|
 |**2025-06-17**|**Concepts for designing modern C++ interfaces for MPI**|C. Nicole Avans et.al.|[2506.14610](http://arxiv.org/abs/2506.14610)|null|
@@ -3880,7 +3880,7 @@
 |**2023-11-10**|**The First Verification Test of Space-Ground Collaborative Intelligence via Cloud-Native Satellites**|Shangguang Wang et.al.|[2311.06078](http://arxiv.org/abs/2311.06078)|null|
 |**2023-11-10**|**Collaborative Inference in DNN-based Satellite Systems with Dynamic Task Streams**|Jinglong Guan et.al.|[2311.06073](http://arxiv.org/abs/2311.06073)|null|
 
-<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250619>back to top</a>)</p>
 
 ## point cloud
 
@@ -6287,7 +6287,7 @@
 |**2023-11-08**|**VET: Visual Error Tomography for Point Cloud Completion and High-Quality Neural Rendering**|Linus Franke et.al.|[2311.04634](http://arxiv.org/abs/2311.04634)|**[link](https://github.com/lfranke/vet)**|
 |**2023-11-09**|**Rethinking Human Pose Estimation for Autonomous Driving with 3D Event Representations**|Xiaoting Yin et.al.|[2311.04591](http://arxiv.org/abs/2311.04591)|**[link](https://github.com/masterhow/eventpointpose)**|
 
-<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250619>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
