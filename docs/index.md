@@ -7,13 +7,23 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.19
+## Updated on 2025.06.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## clustering
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-18**|**Chemical Abundances in the Metal-Poor Globular Cluster ESO 280-SC06: A Formerly Massive, Tidally Disrupted Globular Cluster**|Sam A. Usman et.al.|[2506.15664](http://arxiv.org/abs/2506.15664)|null|
+|**2025-06-18**|**Machine learning based prediction of dynamical clustering in granular gases**|Sai Preetham Sata et.al.|[2506.15657](http://arxiv.org/abs/2506.15657)|null|
+|**2025-06-18**|**Candidate Dark Galaxy-2: Validation and Analysis of an Almost Dark Galaxy in the Perseus Cluster**|Dayi Li et.al.|[2506.15644](http://arxiv.org/abs/2506.15644)|null|
+|**2025-06-18**|**Federated Learning for MRI-based BrainAGE: a multicenter study on post-stroke functional outcome prediction**|Vincent Roca et.al.|[2506.15626](http://arxiv.org/abs/2506.15626)|null|
+|**2025-06-18**|**The Infinity Galaxy: a Candidate Direct-Collapse Supermassive Black Hole Between Two Massive, Ringed Nuclei**|Pieter van Dokkum et.al.|[2506.15618](http://arxiv.org/abs/2506.15618)|null|
+|**2025-06-18**|**LiteGD: Lightweight and dynamic GPU Dispatching for Large-scale Heterogeneous Clusters**|Kunming Zhang et.al.|[2506.15595](http://arxiv.org/abs/2506.15595)|null|
+|**2025-06-18**|**Extended multiconfigurational dynamical symmetry**|H. G. Ganev et.al.|[2506.15590](http://arxiv.org/abs/2506.15590)|null|
+|**2025-06-18**|**Is it easy to regularize a hypergraph with easy links?**|Lior Gishboliner et.al.|[2506.15582](http://arxiv.org/abs/2506.15582)|null|
+|**2025-06-18**|**Automatic Metadata Capture and Processing for High-Performance Workflows**|Polina Shpilker et.al.|[2506.15537](http://arxiv.org/abs/2506.15537)|null|
+|**2025-06-18**|**Rotationally inelastic scattering of cyanocyclopentadiene by helium atoms**|Karina Sogomonyan et.al.|[2506.15536](http://arxiv.org/abs/2506.15536)|null|
 |**2025-06-17**|**Resource Optimization with MPI Process Malleability for Dynamic Workloads in HPC Clusters**|Sergio Iserte et.al.|[2506.14743](http://arxiv.org/abs/2506.14743)|null|
 |**2025-06-17**|**About explosive delayed desorption from methane-doped argon matrices**|M. A. Bludov et.al.|[2506.14726](http://arxiv.org/abs/2506.14726)|null|
 |**2025-06-17**|**SETI@home: Data Acquisition and Front-End Processing**|Eric J. Korpela et.al.|[2506.14718](http://arxiv.org/abs/2506.14718)|null|
@@ -3880,9 +3890,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-18**|**BoxFusion: Reconstruction-Free Open-Vocabulary 3D Object Detection via Real-Time Multi-View Box Fusion**|Yuqing Lan et.al.|[2506.15610](http://arxiv.org/abs/2506.15610)|null|
+|**2025-06-18**|**A Unified Graph-based Framework for Scalable 3D Tree Reconstruction and Non-Destructive Biomass Estimation from Point Clouds**|Di Wang et.al.|[2506.15577](http://arxiv.org/abs/2506.15577)|null|
+|**2025-06-18**|**Enhancing point cloud analysis via neighbor aggregation correction based on cross-stage structure correlation**|Jiaqi Shi et.al.|[2506.15160](http://arxiv.org/abs/2506.15160)|null|
+|**2025-06-17**|**Optimal alignment of Lorentz orientation and generalization to matrix Lie groups**|Congzhou M Sha et.al.|[2506.14994](http://arxiv.org/abs/2506.14994)|null|
 |**2025-06-17**|**ClutterDexGrasp: A Sim-to-Real System for General Dexterous Grasping in Cluttered Scenes**|Zeyuan Chen et.al.|[2506.14317](http://arxiv.org/abs/2506.14317)|null|
 |**2025-06-17**|**Cross-Modal Geometric Hierarchy Fusion: An Implicit-Submap Driven Framework for Resilient 3D Place Recognition**|Xiaohui Jiang et.al.|[2506.14243](http://arxiv.org/abs/2506.14243)|null|
-|**2025-06-16**|**A Point Cloud Completion Approach for the Grasping of Partially Occluded Objects and Its Applications in Robotic Strawberry Harvesting**|Ali Abouzeid et.al.|[2506.14066](http://arxiv.org/abs/2506.14066)|null|
+|**2025-06-16**|**A Point Cloud Completion Approach for the Grasping of Partially Occluded Objects and Its Applications in Robotic Strawberry Harvesting**|Ali Abouzeid et.al.|[2506.14066](http://arxiv.org/abs/2506.14066)|**[link](https://github.com/malak-mansour/pointcloud_completion_for_grasping)**|
 |**2025-06-16**|**DeSPITE: Exploring Contrastive Deep Skeleton-Pointcloud-IMU-Text Embeddings for Advanced Point Cloud Human Activity Understanding**|Thomas Kreutz et.al.|[2506.13897](http://arxiv.org/abs/2506.13897)|null|
 |**2025-06-16**|**Persistent Homology of Music Network with Three Different Distances**|Eunwoo Heo et.al.|[2506.13595](http://arxiv.org/abs/2506.13595)|null|
 |**2025-06-16**|**Boundary-Informed Sound Field Reconstruction**|David Sundström et.al.|[2506.13279](http://arxiv.org/abs/2506.13279)|null|
