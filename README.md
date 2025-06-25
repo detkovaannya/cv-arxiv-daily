@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-24**|**Convergence of Mean Shift Algorithms for Large Bandwidths and Simultaneous Accurate Clustering**|Susovan Pal et.al.|[2506.19837](http://arxiv.org/abs/2506.19837)|null|
+|**2025-06-24**|**Evolution of Cluster Alignments as Evidence of Large-scale Structure Formation in the Universe**|Michael J. West et.al.|[2506.19826](http://arxiv.org/abs/2506.19826)|null|
+|**2025-06-24**|**Exact Matrix Seriation through Mathematical Optimization: Stress and Effectiveness-Based Models**|Víctor Blanco et.al.|[2506.19821](http://arxiv.org/abs/2506.19821)|null|
+|**2025-06-24**|**Line ratio identification of external photoevaporation**|Tyger Peake et.al.|[2506.19788](http://arxiv.org/abs/2506.19788)|null|
+|**2025-06-24**|**Self-assembled clusters of mutually repelling particles in confinement**|P. D. S. de Lima et.al.|[2506.19772](http://arxiv.org/abs/2506.19772)|null|
+|**2025-06-24**|**Efficient calculation of thermodynamic properties of baryon-rich QCD matter from heavy-ion transport models**|Lipei Du et.al.|[2506.19766](http://arxiv.org/abs/2506.19766)|null|
+|**2025-06-24**|**CORMO-RAN: Lossless Migration of xApps in O-RAN**|Antonio Calagna et.al.|[2506.19760](http://arxiv.org/abs/2506.19760)|null|
+|**2025-06-24**|**The Shape of Consumer Behavior: A Symbolic and Topological Analysis of Time Series**|Pola Bereta et.al.|[2506.19759](http://arxiv.org/abs/2506.19759)|null|
+|**2025-06-24**|**Formalization and security analysis of the Bridgeless protocol**|Orestis Alpos et.al.|[2506.19730](http://arxiv.org/abs/2506.19730)|null|
+|**2025-06-24**|**XMM-Newton follow-up of a sample of apparent low surface brightness galaxy groups detected in the ROSAT All-Sky Survey**|Claudia Spinelli et.al.|[2506.19718](http://arxiv.org/abs/2506.19718)|null|
 |**2025-06-23**|**Steering Conceptual Bias via Transformer Latent-Subspace Activation**|Vansh Sharma et.al.|[2506.18887](http://arxiv.org/abs/2506.18887)|null|
 |**2025-06-23**|**A field-level reaction for screened modified gravity**|Daniela Saadeh et.al.|[2506.18876](http://arxiv.org/abs/2506.18876)|null|
 |**2025-06-23**|**Comparative analysis of machine learning techniques for feature selection and classification of Fast Radio Bursts**|Ailton J. B. Júnior et.al.|[2506.18854](http://arxiv.org/abs/2506.18854)|null|
@@ -3916,6 +3926,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-24**|**ProxelGen: Generating Proteins as 3D Densities**|Felix Faltings et.al.|[2506.19820](http://arxiv.org/abs/2506.19820)|null|
+|**2025-06-24**|**Capturing Fine-Grained Alignments Improves 3D Affordance Detection**|Junsei Tokumitsu et.al.|[2506.19312](http://arxiv.org/abs/2506.19312)|null|
+|**2025-06-24**|**AnchorDP3: 3D Affordance Guided Sparse Diffusion Policy for Robotic Manipulation**|Ziyan Zhao et.al.|[2506.19269](http://arxiv.org/abs/2506.19269)|null|
 |**2025-06-23**|**TDACloud: Point Cloud Recognition Using Topological Data Analysis**|Anirban Ghosh et.al.|[2506.18725](http://arxiv.org/abs/2506.18725)|null|
 |**2025-06-23**|**SIM-Net: A Multimodal Fusion Network Using Inferred 3D Object Shape Point Clouds from RGB Images for 2D Classification**|Youcef Sklab et.al.|[2506.18683](http://arxiv.org/abs/2506.18683)|null|
 |**2025-06-23**|**Learning Point Correspondences In Radar 3D Point Clouds For Radar-Inertial Odometry**|Jan Michalczyk et.al.|[2506.18580](http://arxiv.org/abs/2506.18580)|null|
