@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-25**|**SuperSONIC: Cloud-Native Infrastructure for ML Inferencing**|Dmitry Kondratyev et.al.|[2506.20657](http://arxiv.org/abs/2506.20657)|null|
+|**2025-06-25**|**Hear No Evil: Detecting Gradient Leakage by Malicious Servers in Federated Learning**|Fei Wang et.al.|[2506.20651](http://arxiv.org/abs/2506.20651)|null|
+|**2025-06-25**|**The VLA Frontier Fields Survey: A 6GHz High-resolution Radio Survey of Abell 2744**|Esteban A. Orozco et.al.|[2506.20634](http://arxiv.org/abs/2506.20634)|null|
+|**2025-06-25**|**Communicating Smartly in Molecular Communication Environments: Neural Networks in the Internet of Bio-Nano Things**|Jorge Torres Gómez et.al.|[2506.20589](http://arxiv.org/abs/2506.20589)|null|
+|**2025-06-25**|**Exploring Graph-Transformer Out-of-Distribution Generalization Abilities**|Itay Niv et.al.|[2506.20575](http://arxiv.org/abs/2506.20575)|null|
+|**2025-06-25**|**WattsOnAI: Measuring, Analyzing, and Visualizing Energy and Carbon Footprint of AI Workloads**|Hongzhen Huang et.al.|[2506.20535](http://arxiv.org/abs/2506.20535)|null|
+|**2025-06-25**|**Reflection positivity in Euclidean formulations of relativistic quantum mechanics of particles**|Gohin Shaikh Samad et.al.|[2506.20526](http://arxiv.org/abs/2506.20526)|null|
+|**2025-06-25**|**Collaborative Batch Size Optimization for Federated Learning**|Arno Geimer et.al.|[2506.20511](http://arxiv.org/abs/2506.20511)|null|
+|**2025-06-25**|**Fast Penalized Generalized Estimating Equations for Large Longitudinal Functional Datasets**|Gabriel Loewinger et.al.|[2506.20437](http://arxiv.org/abs/2506.20437)|null|
+|**2025-06-25**|**Outflows from Star-Forming Galaxies in the Early Universe: Evolution from Double- to Single-Peaked Lyman- $α$ Profiles Following Delayed Supernova Feedback**|James Nianias et.al.|[2506.20422](http://arxiv.org/abs/2506.20422)|null|
 |**2025-06-24**|**Convergence of Mean Shift Algorithms for Large Bandwidths and Simultaneous Accurate Clustering**|Susovan Pal et.al.|[2506.19837](http://arxiv.org/abs/2506.19837)|null|
 |**2025-06-24**|**Evolution of Cluster Alignments as Evidence of Large-scale Structure Formation in the Universe**|Michael J. West et.al.|[2506.19826](http://arxiv.org/abs/2506.19826)|null|
 |**2025-06-24**|**Exact Matrix Seriation through Mathematical Optimization: Stress and Effectiveness-Based Models**|Víctor Blanco et.al.|[2506.19821](http://arxiv.org/abs/2506.19821)|null|
@@ -3920,6 +3930,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-25**|**Learning-based safety lifting monitoring system for cranes on construction sites**|Hao Chen et.al.|[2506.20475](http://arxiv.org/abs/2506.20475)|null|
+|**2025-06-25**|**A Deep Learning Approach to Identify Rock Bolts in Complex 3D Point Clouds of Underground Mines Captured Using Mobile Laser Scanners**|Dibyayan Patra et.al.|[2506.20464](http://arxiv.org/abs/2506.20464)|null|
+|**2025-06-25**|**SPARK: Graph-Based Online Semantic Integration System for Robot Task Planning**|Mimo Shirasaka et.al.|[2506.20394](http://arxiv.org/abs/2506.20394)|null|
 |**2025-06-24**|**ProxelGen: Generating Proteins as 3D Densities**|Felix Faltings et.al.|[2506.19820](http://arxiv.org/abs/2506.19820)|null|
 |**2025-06-24**|**Capturing Fine-Grained Alignments Improves 3D Affordance Detection**|Junsei Tokumitsu et.al.|[2506.19312](http://arxiv.org/abs/2506.19312)|null|
 |**2025-06-25**|**AnchorDP3: 3D Affordance Guided Sparse Diffusion Policy for Robotic Manipulation**|Ziyan Zhao et.al.|[2506.19269](http://arxiv.org/abs/2506.19269)|null|
