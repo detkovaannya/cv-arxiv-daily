@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.26
+## Updated on 2025.06.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -21,7 +21,7 @@
 |**2025-06-25**|**SuperSONIC: Cloud-Native Infrastructure for ML Inferencing**|Dmitry Kondratyev et.al.|[2506.20657](http://arxiv.org/abs/2506.20657)|null|
 |**2025-06-25**|**Hear No Evil: Detecting Gradient Leakage by Malicious Servers in Federated Learning**|Fei Wang et.al.|[2506.20651](http://arxiv.org/abs/2506.20651)|null|
 |**2025-06-25**|**The VLA Frontier Fields Survey: A 6GHz High-resolution Radio Survey of Abell 2744**|Esteban A. Orozco et.al.|[2506.20634](http://arxiv.org/abs/2506.20634)|null|
-|**2025-06-25**|**Communicating Smartly in Molecular Communication Environments: Neural Networks in the Internet of Bio-Nano Things**|Jorge Torres Gómez et.al.|[2506.20589](http://arxiv.org/abs/2506.20589)|null|
+|**2025-06-26**|**Communicating Smartly in the Molecular Domain: Neural Networks in the Internet of Bio-Nano Things**|Jorge Torres Gómez et.al.|[2506.20589](http://arxiv.org/abs/2506.20589)|null|
 |**2025-06-25**|**Exploring Graph-Transformer Out-of-Distribution Generalization Abilities**|Itay Niv et.al.|[2506.20575](http://arxiv.org/abs/2506.20575)|null|
 |**2025-06-25**|**WattsOnAI: Measuring, Analyzing, and Visualizing Energy and Carbon Footprint of AI Workloads**|Hongzhen Huang et.al.|[2506.20535](http://arxiv.org/abs/2506.20535)|null|
 |**2025-06-25**|**Reflection positivity in Euclidean formulations of relativistic quantum mechanics of particles**|Gohin Shaikh Samad et.al.|[2506.20526](http://arxiv.org/abs/2506.20526)|null|
@@ -3930,7 +3930,7 @@
 |**2023-11-10**|**The First Verification Test of Space-Ground Collaborative Intelligence via Cloud-Native Satellites**|Shangguang Wang et.al.|[2311.06078](http://arxiv.org/abs/2311.06078)|null|
 |**2023-11-10**|**Collaborative Inference in DNN-based Satellite Systems with Dynamic Task Streams**|Jinglong Guan et.al.|[2311.06073](http://arxiv.org/abs/2311.06073)|null|
 
-<p align=right>(<a href=#updated-on-20250626>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250627>back to top</a>)</p>
 
 ## point cloud
 
@@ -6364,7 +6364,7 @@
 |**2023-11-08**|**VET: Visual Error Tomography for Point Cloud Completion and High-Quality Neural Rendering**|Linus Franke et.al.|[2311.04634](http://arxiv.org/abs/2311.04634)|**[link](https://github.com/lfranke/vet)**|
 |**2023-11-09**|**Rethinking Human Pose Estimation for Autonomous Driving with 3D Event Representations**|Xiaoting Yin et.al.|[2311.04591](http://arxiv.org/abs/2311.04591)|**[link](https://github.com/masterhow/eventpointpose)**|
 
-<p align=right>(<a href=#updated-on-20250626>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250627>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
