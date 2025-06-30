@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.29
+## Updated on 2025.06.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## clustering
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-26**|**The Kaleidoscope Survey: Strong Gravitational Lensing in Galaxy Clusters with Radial Arcs**|Catherine Cerny et.al.|[2506.21531](http://arxiv.org/abs/2506.21531)|null|
+|**2025-06-27**|**The Kaleidoscope Survey: Strong Gravitational Lensing in Galaxy Clusters with Radial Arcs**|Catherine Cerny et.al.|[2506.21531](http://arxiv.org/abs/2506.21531)|null|
 |**2025-06-26**|**Benchmarking and Parallelization of Electrostatic Particle-In-Cell for low-temperature Plasma Simulation by particle-thread Binding**|Libn Varghese et.al.|[2506.21524](http://arxiv.org/abs/2506.21524)|null|
 |**2025-06-26**|**Hunting for UVdim stars in Galactic Open clusters. Clues from ultraviolet photometry**|G. Cordoni et.al.|[2506.21519](http://arxiv.org/abs/2506.21519)|null|
 |**2025-06-26**|**Correlated reaction coordinate motion produces non-additive rate enhancement for electron and energy transfer in multi-acceptor structures**|Hanggai Nuomin et.al.|[2506.21504](http://arxiv.org/abs/2506.21504)|null|
@@ -3948,7 +3948,7 @@ layout: default
 |**2025-06-26**|**Robust and efficient pre-processing techniques for particle-based methods including dynamic boundary generation**|Niklas S. Neher et.al.|[2506.21206](http://arxiv.org/abs/2506.21206)|null|
 |**2025-06-26**|**GroundFlow: A Plug-in Module for Temporal Reasoning on 3D Point Cloud Sequential Grounding**|Zijun Lin et.al.|[2506.21188](http://arxiv.org/abs/2506.21188)|null|
 |**2025-06-26**|**Topology-Aware Modeling for Unsupervised Simulation-to-Reality Point Cloud Recognition**|Longkun Zou et.al.|[2506.21165](http://arxiv.org/abs/2506.21165)|null|
-|**2025-06-26**|**Point Cloud Environment-Based Channel Knowledge Map Construction**|Yancheng Wang et.al.|[2506.21112](http://arxiv.org/abs/2506.21112)|null|
+|**2025-06-27**|**Point Cloud Environment-Based Channel Knowledge Map Construction**|Yancheng Wang et.al.|[2506.21112](http://arxiv.org/abs/2506.21112)|null|
 |**2025-06-26**|**CURL-SLAM: Continuous and Compact LiDAR Mapping**|Kaicheng Zhang et.al.|[2506.21077](http://arxiv.org/abs/2506.21077)|null|
 |**2025-06-25**|**Learning-based safety lifting monitoring system for cranes on construction sites**|Hao Chen et.al.|[2506.20475](http://arxiv.org/abs/2506.20475)|null|
 |**2025-06-25**|**A Deep Learning Approach to Identify Rock Bolts in Complex 3D Point Clouds of Underground Mines Captured Using Mobile Laser Scanners**|Dibyayan Patra et.al.|[2506.20464](http://arxiv.org/abs/2506.20464)|null|
