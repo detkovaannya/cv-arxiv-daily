@@ -53,7 +53,7 @@
 |**2025-06-23**|**Comparative analysis of machine learning techniques for feature selection and classification of Fast Radio Bursts**|Ailton J. B. Júnior et.al.|[2506.18854](http://arxiv.org/abs/2506.18854)|null|
 |**2025-06-23**|**Structure and dynamics of finite three-dimensional Yukawa clusters in complex plasmas : Newtonian versus Langevin Dynamics**|Hirakjyoti Sarma et.al.|[2506.18820](http://arxiv.org/abs/2506.18820)|null|
 |**2025-06-23**|**StoryGem: Voronoi treemap Approach for Semantics-Preserving Text Visualization**|Naoya Oda et.al.|[2506.18793](http://arxiv.org/abs/2506.18793)|null|
-|**2025-06-23**|**100-Day Analysis of USD/IDR Exchange Rate Dynamics Around the 2025 U.S. Presidential Inauguration**|Sandy H. S. Herho et.al.|[2506.18738](http://arxiv.org/abs/2506.18738)|null|
+|**2025-06-23**|**100-Day Analysis of USD/IDR Exchange Rate Dynamics Around the 2025 U.S. Presidential Inauguration**|Sandy H. S. Herho et.al.|[2506.18738](http://arxiv.org/abs/2506.18738)|**[link](https://github.com/sandyherho/usdIDRTrump100days)**|
 |**2025-06-23**|**A Study of Dynamic Stock Relationship Modeling and S&P500 Price Forecasting Based on Differential Graph Transformer**|Linyue Hu et.al.|[2506.18717](http://arxiv.org/abs/2506.18717)|null|
 |**2025-06-23**|**The completeness of the open cluster census towards the Galactic anticentre**|Emily L. Hunt et.al.|[2506.18708](http://arxiv.org/abs/2506.18708)|null|
 |**2025-06-23**|**Cluster Expansion Toward Nonlinear Modeling and Classification**|Adrian Stroth et.al.|[2506.18695](http://arxiv.org/abs/2506.18695)|null|
@@ -296,7 +296,7 @@
 |**2025-05-16**|**LGBQPC: Local Granular-Ball Quality Peaks Clustering**|Zihang Jia et.al.|[2505.11359](http://arxiv.org/abs/2505.11359)|null|
 |**2025-05-16**|**The systemic recoil velocity distribution and the scale height of isolated millisecond pulsar systems: Implications on neutron star retention fractions in star clusters**|Hao Ding et.al.|[2505.11357](http://arxiv.org/abs/2505.11357)|null|
 |**2025-05-16**|**Palladium: A DPU-enabled Multi-Tenant Serverless Cloud over Zero-copy Multi-node RDMA Fabrics**|Shixiong Qi et.al.|[2505.11339](http://arxiv.org/abs/2505.11339)|null|
-|**2025-05-16**|**TokenWeave: Efficient Compute-Communication Overlap for Distributed LLM Inference**|Raja Gond et.al.|[2505.11329](http://arxiv.org/abs/2505.11329)|null|
+|**2025-05-16**|**TokenWeave: Efficient Compute-Communication Overlap for Distributed LLM Inference**|Raja Gond et.al.|[2505.11329](http://arxiv.org/abs/2505.11329)|**[link](https://github.com/microsoft/tokenweave)**|
 |**2025-05-16**|**On the dark matter formation scenario of NGC 4147**|Andrés E. Piatti et.al.|[2505.11328](http://arxiv.org/abs/2505.11328)|null|
 |**2025-05-15**|**Magnetic deflection of high-spin sodium dimers formed on helium nanodroplets**|Thomas H. Villers et.al.|[2505.10523](http://arxiv.org/abs/2505.10523)|null|
 |**2025-05-15**|**Shift of nanodroplet and nanocluster size distributions induced by dopant pick-up statistics**|Marie Riddle et.al.|[2505.10516](http://arxiv.org/abs/2505.10516)|null|
@@ -3978,7 +3978,7 @@
 |**2025-06-19**|**How Hard Is Snow? A Paired Domain Adaptation Dataset for Clear and Snowy Weather: CADC+**|Mei Qi Tang et.al.|[2506.16531](http://arxiv.org/abs/2506.16531)|null|
 |**2025-06-19**|**Structured Semantic 3D Reconstruction (S23DR) Challenge 2025 -- Winning solution**|Jan Skvrna et.al.|[2506.16421](http://arxiv.org/abs/2506.16421)|null|
 |**2025-06-19**|**Wavelet-based Global Orientation and Surface Reconstruction for Point Clouds**|Yueji Ma et.al.|[2506.16299](http://arxiv.org/abs/2506.16299)|null|
-|**2025-06-19**|**Dense 3D Displacement Estimation for Landslide Monitoring via Fusion of TLS Point Clouds and Embedded RGB Images**|Zhaoyi Wang et.al.|[2506.16265](http://arxiv.org/abs/2506.16265)|null|
+|**2025-06-19**|**Dense 3D Displacement Estimation for Landslide Monitoring via Fusion of TLS Point Clouds and Embedded RGB Images**|Zhaoyi Wang et.al.|[2506.16265](http://arxiv.org/abs/2506.16265)|**[link](https://github.com/zhaoyiww/fusion4landslide)**|
 |**2025-06-18**|**BoxFusion: Reconstruction-Free Open-Vocabulary 3D Object Detection via Real-Time Multi-View Box Fusion**|Yuqing Lan et.al.|[2506.15610](http://arxiv.org/abs/2506.15610)|null|
 |**2025-06-18**|**A Unified Graph-based Framework for Scalable 3D Tree Reconstruction and Non-Destructive Biomass Estimation from Point Clouds**|Di Wang et.al.|[2506.15577](http://arxiv.org/abs/2506.15577)|null|
 |**2025-06-18**|**Enhancing point cloud analysis via neighbor aggregation correction based on cross-stage structure correlation**|Jiaqi Shi et.al.|[2506.15160](http://arxiv.org/abs/2506.15160)|**[link](https://github.com/agent9717/pointdistribution)**|
@@ -4029,7 +4029,7 @@
 |**2025-06-05**|**Rectified Point Flow: Generic Point Cloud Pose Estimation**|Tao Sun et.al.|[2506.05282](http://arxiv.org/abs/2506.05282)|null|
 |**2025-06-05**|**Through-the-Wall Radar Human Activity Recognition WITHOUT Using Neural Networks**|Weicheng Gao et.al.|[2506.05169](http://arxiv.org/abs/2506.05169)|**[link](https://github.com/joeybgofficial/through-the-wall-radar-human-activity-recognition-without-using-neural-networks)**|
 |**2025-06-05**|**Point Cloud Segmentation of Agricultural Vehicles using 3D Gaussian Splatting**|Alfred T. Christiansen et.al.|[2506.05009](http://arxiv.org/abs/2506.05009)|null|
-|**2025-06-05**|**OpenMaskDINO3D : Reasoning 3D Segmentation via Large Language Model**|Kunshen Zhang et.al.|[2506.04837](http://arxiv.org/abs/2506.04837)|null|
+|**2025-06-05**|**OpenMaskDINO3D : Reasoning 3D Segmentation via Large Language Model**|Kunshen Zhang et.al.|[2506.04837](http://arxiv.org/abs/2506.04837)|**[link](https://github.com/zhangkuns/openmaskdino3d)**|
 |**2025-06-05**|**Object-X: Learning to Reconstruct Multi-Modal 3D Object Representations**|Gaia Di Lorenzo et.al.|[2506.04789](http://arxiv.org/abs/2506.04789)|null|
 |**2025-06-05**|**Follow-Your-Creation: Empowering 4D Creation through Video Inpainting**|Yue Ma et.al.|[2506.04590](http://arxiv.org/abs/2506.04590)|null|
 |**2025-06-04**|**"Don't Do That!": Guiding Embodied Systems through Large Language Model-based Constraint Generation**|Aladin Djuhera et.al.|[2506.04500](http://arxiv.org/abs/2506.04500)|null|
