@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-30**|**Agent.xpu: Efficient Scheduling of Agentic LLM Workloads on Heterogeneous SoC**|Xinming Wei et.al.|[2506.24045](http://arxiv.org/abs/2506.24045)|null|
+|**2025-06-30**|**Anchoring Stellar Age Indicators: A Cross-Calibration of [C/N] and Gyrochronology Ages via the Age-Velocity-Dispersion Relation**|Yuxi Lu et.al.|[2506.24010](http://arxiv.org/abs/2506.24010)|null|
+|**2025-06-30**|**Spatial QUBO: Convolutional Formulation of Large-Scale Binary Optimization with Dense Interactions**|Hiroshi Yamashita et.al.|[2506.24008](http://arxiv.org/abs/2506.24008)|null|
+|**2025-06-30**|**Line-of-sight acceleration as a test of the Galactic Yukawa potential**|Felipe A. da Silva Barbosa et.al.|[2506.24002](http://arxiv.org/abs/2506.24002)|null|
+|**2025-06-30**|**Fantastic Flips and Where to Find Them: A General Framework for Parameterized Local Search on Partitioning Problem**|Niels Grüttemeier et.al.|[2506.24001](http://arxiv.org/abs/2506.24001)|null|
+|**2025-06-30**|**Multi-plateau high-harmonic generation in liquids driven by off-site recombination**|Angana Mondal et.al.|[2506.23945](http://arxiv.org/abs/2506.23945)|null|
+|**2025-06-30**|**QPART: Adaptive Model Quantization and Dynamic Workload Balancing for Accuracy-aware Edge Inference**|Xiangchen Li et.al.|[2506.23934](http://arxiv.org/abs/2506.23934)|null|
+|**2025-06-30**|**Segmented Operations using Matrix Multiplications**|Aleksandros Sobczyk et.al.|[2506.23906](http://arxiv.org/abs/2506.23906)|null|
+|**2025-06-30**|**Sustainable operation of research infrastructure for novel computing**|Yannik Stradmann et.al.|[2506.23901](http://arxiv.org/abs/2506.23901)|null|
+|**2025-06-30**|**Proving the Limited Scalability of Centralized Distributed Optimization via a New Lower Bound Construction**|Alexander Tyurin et.al.|[2506.23836](http://arxiv.org/abs/2506.23836)|null|
 |**2025-06-27**|**Gravitational redshift from large-scale structure: nonlinearities, anti-symmetries, and the dipole**|Lawrence Dam et.al.|[2506.22431](http://arxiv.org/abs/2506.22431)|null|
 |**2025-06-27**|**CLoVE: Personalized Federated Learning through Clustering of Loss Vector Embeddings**|Randeep Bhatia et.al.|[2506.22427](http://arxiv.org/abs/2506.22427)|null|
 |**2025-06-27**|**Mesoscale properties of protein clusters determine the size and nature of liquid-liquid phase separation (LLPS)**|Gonen Golani et.al.|[2506.22424](http://arxiv.org/abs/2506.22424)|null|
@@ -3950,6 +3960,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-30**|**AttentionGS: Towards Initialization-Free 3D Gaussian Splatting via Structural Attention**|Ziao Liu et.al.|[2506.23611](http://arxiv.org/abs/2506.23611)|null|
+|**2025-06-30**|**PGOV3D: Open-Vocabulary 3D Semantic Segmentation with Partial-to-Global Curriculum**|Shiqi Zhang et.al.|[2506.23607](http://arxiv.org/abs/2506.23607)|null|
+|**2025-06-30**|**SG-LDM: Semantic-Guided LiDAR Generation via Latent-Aligned Diffusion**|Zhengkang Xiang et.al.|[2506.23606](http://arxiv.org/abs/2506.23606)|null|
+|**2025-06-30**|**Event-based Tiny Object Detection: A Benchmark Dataset and Baseline**|Nuo Chen et.al.|[2506.23575](http://arxiv.org/abs/2506.23575)|null|
+|**2025-06-30**|**GeoCD: A Differential Local Approximation for Geodesic Chamfer Distance**|Pedro Alonso et.al.|[2506.23478](http://arxiv.org/abs/2506.23478)|null|
+|**2025-06-29**|**VolumetricSMPL: A Neural Volumetric Body Model for Efficient Interactions, Contacts, and Collisions**|Marko Mihajlovic et.al.|[2506.23236](http://arxiv.org/abs/2506.23236)|null|
+|**2025-06-29**|**High-quality Pseudo-labeling for Point Cloud Segmentation with Scene-level Annotation**|Lunhao Duan et.al.|[2506.23227](http://arxiv.org/abs/2506.23227)|null|
+|**2025-06-29**|**ParticleFormer: A 3D Point Cloud World Model for Multi-Object, Multi-Material Robotic Manipulation**|Suning Huang et.al.|[2506.23126](http://arxiv.org/abs/2506.23126)|null|
+|**2025-06-29**|**Enhancing Spatial Reasoning in Multimodal Large Language Models through Reasoning-based Segmentation**|Zhenhua Ning et.al.|[2506.23120](http://arxiv.org/abs/2506.23120)|null|
+|**2025-06-28**|**Point Cloud Compression and Objective Quality Assessment: A Survey**|Yiling Xu et.al.|[2506.22902](http://arxiv.org/abs/2506.22902)|null|
 |**2025-06-27**|**Exploiting Vision Language Model for Training-Free 3D Point Cloud OOD Detection via Graph Score Propagation**|Tiankai Chen et.al.|[2506.22375](http://arxiv.org/abs/2506.22375)|null|
 |**2025-06-27**|**Low-Rank Implicit Neural Representation via Schatten-p Quasi-Norm and Jacobian Regularization**|Zhengyun Cheng et.al.|[2506.22134](http://arxiv.org/abs/2506.22134)|null|
 |**2025-06-27**|**Pipe Reconstruction from Point Cloud Data**|Antje Alex et.al.|[2506.22118](http://arxiv.org/abs/2506.22118)|null|
