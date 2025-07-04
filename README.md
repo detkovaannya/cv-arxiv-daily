@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-03**|**Revealing a transitional epoch of large-scale cosmic anisotropy in the quasar distribution**|Amit Mondal et.al.|[2507.02835](http://arxiv.org/abs/2507.02835)|null|
+|**2025-07-03**|**Massive Interacting Binaries Enhance Feedback in Star-Forming Regions**|Claude Cournoyer-Cloutier et.al.|[2507.02780](http://arxiv.org/abs/2507.02780)|null|
+|**2025-07-03**|**Advanced techniques of searching for flares of ultra-high-energy photons from point sources**|Jaroslaw Stasielak et.al.|[2507.02777](http://arxiv.org/abs/2507.02777)|null|
+|**2025-07-03**|**Connected k-Median with Disjoint and Non-disjoint Clusters**|Jan Eube et.al.|[2507.02774](http://arxiv.org/abs/2507.02774)|null|
+|**2025-07-03**|**On Loops in critical high-dimensional percolation**|Amelia Carpenter et.al.|[2507.02676](http://arxiv.org/abs/2507.02676)|null|
+|**2025-07-03**|**The covariance matrix spectrum of correlated charge insulators reveals hidden connections to Coupled Cluster, Matrix Product, and Rokhsar-Kivelson states**|Izak Snyman et.al.|[2507.02625](http://arxiv.org/abs/2507.02625)|null|
+|**2025-07-03**|**Interplay of frustration and quantum fluctuations in a spin-1/2 anisotropic square lattice**|L. M. Ramos et.al.|[2507.02623](http://arxiv.org/abs/2507.02623)|null|
+|**2025-07-03**|**FlowSpec: Continuous Pipelined Speculative Decoding for Efficient Distributed LLM Inference**|Xing Liu et.al.|[2507.02620](http://arxiv.org/abs/2507.02620)|null|
+|**2025-07-03**|**MULTI-SCOUT: Multistatic Integrated Sensing and Communications in 5G and Beyond for Moving Target Detection, Positioning, and Tracking**|Yalin E. Sagduyu et.al.|[2507.02613](http://arxiv.org/abs/2507.02613)|null|
+|**2025-07-03**|**A Virgo Environmental Survey Tracing Ionised Gas Emission (VESTIGE). XIX. The discovery of a spectacular 230 kpc Halpha tail following NGC 4569 in the Virgo cluster**|M. Sun et.al.|[2507.02527](http://arxiv.org/abs/2507.02527)|null|
 |**2025-07-02**|**Morphology and stellar populations of a candidate ultra-diffuse galaxy in early Euclid and Rubin imaging**|Aaron J. Romanowsky et.al.|[2507.01942](http://arxiv.org/abs/2507.01942)|null|
 |**2025-07-02**|**Analyzing Common Electronic Structure Theory Algorithms for Distributed Quantum Computing**|Grier M. Jones et.al.|[2507.01902](http://arxiv.org/abs/2507.01902)|null|
 |**2025-07-02**|**Evolving HPC services to enable ML workloads on HPE Cray EX**|Stefano Schuppli et.al.|[2507.01880](http://arxiv.org/abs/2507.01880)|null|
@@ -3976,6 +3986,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-03**|**AnyI2V: Animating Any Conditional Image with Motion Control**|Ziye Li et.al.|[2507.02857](http://arxiv.org/abs/2507.02857)|null|
 |**2025-07-03**|**AC-DiT: Adaptive Coordination Diffusion Transformer for Mobile Manipulation**|Sixiang Chen et.al.|[2507.01961](http://arxiv.org/abs/2507.01961)|null|
 |**2025-07-02**|**3D Reconstruction and Information Fusion between Dormant and Canopy Seasons in Commercial Orchards Using Deep Learning and Fast GICP**|Ranjan Sapkota et.al.|[2507.01912](http://arxiv.org/abs/2507.01912)|null|
 |**2025-07-03**|**TurboReg: TurboClique for Robust and Efficient Point Cloud Registration**|Shaocheng Yan et.al.|[2507.01439](http://arxiv.org/abs/2507.01439)|null|
