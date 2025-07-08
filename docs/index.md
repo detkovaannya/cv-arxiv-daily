@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-07**|**Modeling Latent Partner Strategies for Adaptive Zero-Shot Human-Agent Collaboration**|Benjamin Li et.al.|[2507.05244](http://arxiv.org/abs/2507.05244)|null|
+|**2025-07-07**|**Cooperative Gradient Coding**|Shudi Weng et.al.|[2507.05230](http://arxiv.org/abs/2507.05230)|null|
+|**2025-07-07**|**Satellite-based Rabi rice paddy field mapping in India: a case study on Telangana state**|Prashanth Reddy Putta et.al.|[2507.05189](http://arxiv.org/abs/2507.05189)|null|
+|**2025-07-07**|**Mass Proxy Quality of Massive Halo Properties in the IllustrisTNG and FLAMINGO Simulations: I. Hot Gas**|Eddie Aljamal et.al.|[2507.05176](http://arxiv.org/abs/2507.05176)|null|
+|**2025-07-07**|**Optical pumping simulations and optical Rabi frequency measurements in $^{151}\mathrm{Eu}^{3+}\!:\mathrm{Y}_2\mathrm{SiO}_5$ under magnetic field**|Jingjing Chen et.al.|[2507.05140](http://arxiv.org/abs/2507.05140)|null|
+|**2025-07-07**|**Real-Time Graph-based Point Cloud Networks on FPGAs via Stall-Free Deep Pipelining**|Marc Neu et.al.|[2507.05099](http://arxiv.org/abs/2507.05099)|null|
+|**2025-07-07**|**Exploring Semantic Clustering and Similarity Search for Heterogeneous Traffic Scenario Graph**|Ferdinand Mütsch et.al.|[2507.05086](http://arxiv.org/abs/2507.05086)|null|
+|**2025-07-07**|**Structure and dynamics jointly stabilize the international trade hypergraph**|Jung-Ho Kim et.al.|[2507.05048](http://arxiv.org/abs/2507.05048)|null|
+|**2025-07-07**|**MoLink: Distributed and Efficient Serving Framework for Large Models**|Lewei Jin et.al.|[2507.05043](http://arxiv.org/abs/2507.05043)|null|
+|**2025-07-07**|**Centrally concentrated star formation in young clusters**|Adilkhan Assilkhan et.al.|[2507.05016](http://arxiv.org/abs/2507.05016)|null|
 |**2025-07-03**|**Revealing a transitional epoch of large-scale cosmic anisotropy in the quasar distribution**|Amit Mondal et.al.|[2507.02835](http://arxiv.org/abs/2507.02835)|null|
 |**2025-07-03**|**Massive Interacting Binaries Enhance Feedback in Star-Forming Regions**|Claude Cournoyer-Cloutier et.al.|[2507.02780](http://arxiv.org/abs/2507.02780)|null|
 |**2025-07-03**|**Advanced techniques of searching for flares of ultra-high-energy photons from point sources**|Jaroslaw Stasielak et.al.|[2507.02777](http://arxiv.org/abs/2507.02777)|null|
@@ -3980,6 +3990,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-07**|**All in One: Visual-Description-Guided Unified Point Cloud Segmentation**|Zongyan Han et.al.|[2507.05211](http://arxiv.org/abs/2507.05211)|null|
+|**2025-07-07**|**Real-Time Graph-based Point Cloud Networks on FPGAs via Stall-Free Deep Pipelining**|Marc Neu et.al.|[2507.05099](http://arxiv.org/abs/2507.05099)|null|
+|**2025-07-07**|**Estimating Object Physical Properties from RGB-D Vision and Depth Robot Sensors Using Deep Learning**|Ricardo Cardoso et.al.|[2507.05029](http://arxiv.org/abs/2507.05029)|null|
+|**2025-07-07**|**PointGAC: Geometric-Aware Codebook for Masked Point Cloud Modeling**|Abiao Li et.al.|[2507.04801](http://arxiv.org/abs/2507.04801)|null|
+|**2025-07-07**|**Simultaneous Localization and Mapping Using Active mmWave Sensing in 5G NR**|Tao Du et.al.|[2507.04662](http://arxiv.org/abs/2507.04662)|null|
+|**2025-07-07**|**PRISM: Pointcloud Reintegrated Inference via Segmentation and Cross-attention for Manipulation**|Daqi Huang et.al.|[2507.04633](http://arxiv.org/abs/2507.04633)|null|
+|**2025-07-06**|**Lidar Variability: A Novel Dataset and Comparative Study of Solid-State and Spinning Lidars**|Doumegna Mawuto Koudjo Felix et.al.|[2507.04321](http://arxiv.org/abs/2507.04321)|null|
+|**2025-07-05**|**Voyaging into Unbounded Dynamic Scenes from a Single View**|Fengrui Tian et.al.|[2507.04183](http://arxiv.org/abs/2507.04183)|null|
+|**2025-07-05**|**Towards Accurate and Efficient 3D Object Detection for Autonomous Driving: A Mixture of Experts Computing System on Edge**|Linshen Liu et.al.|[2507.04123](http://arxiv.org/abs/2507.04123)|null|
+|**2025-07-05**|**Attention-Guided Multi-Scale Local Reconstruction for Point Clouds via Masked Autoencoder Self-Supervised Learning**|Xin Cao et.al.|[2507.04084](http://arxiv.org/abs/2507.04084)|null|
 |**2025-07-03**|**AnyI2V: Animating Any Conditional Image with Motion Control**|Ziye Li et.al.|[2507.02857](http://arxiv.org/abs/2507.02857)|null|
 |**2025-07-05**|**AC-DiT: Adaptive Coordination Diffusion Transformer for Mobile Manipulation**|Sixiang Chen et.al.|[2507.01961](http://arxiv.org/abs/2507.01961)|null|
 |**2025-07-02**|**3D Reconstruction and Information Fusion between Dormant and Canopy Seasons in Commercial Orchards Using Deep Learning and Fast GICP**|Ranjan Sapkota et.al.|[2507.01912](http://arxiv.org/abs/2507.01912)|null|
