@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-08**|**Consistency and Inconsistency in $K$ -Means Clustering**|Moïse Blanchard et.al.|[2507.06226](http://arxiv.org/abs/2507.06226)|null|
+|**2025-07-08**|**$k$ -means considered harmful: On arbitrary topological changes in Mapper complexes**|Mikael Vejdemo-Johansson et.al.|[2507.06212](http://arxiv.org/abs/2507.06212)|null|
+|**2025-07-08**|**From i-boxes to signed words**|Alessandro Contu et.al.|[2507.06182](http://arxiv.org/abs/2507.06182)|null|
+|**2025-07-08**|**Topic Modeling and Link-Prediction for Material Property Discovery**|Ryan C. Barron et.al.|[2507.06139](http://arxiv.org/abs/2507.06139)|null|
+|**2025-07-08**|**Coding Triangle: How Does Large Language Model Understand Code?**|Taolin Zhang et.al.|[2507.06138](http://arxiv.org/abs/2507.06138)|null|
+|**2025-07-08**|**A Unified Ontology for Scalable Knowledge Graph-Driven Operational Data Analytics in High-Performance Computing Systems**|Junaid Ahmed Khan et.al.|[2507.06107](http://arxiv.org/abs/2507.06107)|null|
+|**2025-07-08**|**Magnetic White Dwarfs in the SDSS 100 pc Sample: Further Evidence of Two Formation Channels**|Adam Moss et.al.|[2507.06102](http://arxiv.org/abs/2507.06102)|null|
+|**2025-07-08**|**Tile-Based ViT Inference with Visual-Cluster Priors for Zero-Shot Multi-Species Plant Identification**|Murilo Gustineli et.al.|[2507.06093](http://arxiv.org/abs/2507.06093)|null|
+|**2025-07-08**|**Few-Shot Learning by Explicit Physics Integration: An Application to Groundwater Heat Transport**|Julia Pelzer et.al.|[2507.06062](http://arxiv.org/abs/2507.06062)|null|
+|**2025-07-08**|**Efficient Federated Learning with Timely Update Dissemination**|Juncheng Jia et.al.|[2507.06031](http://arxiv.org/abs/2507.06031)|null|
 |**2025-07-07**|**Modeling Latent Partner Strategies for Adaptive Zero-Shot Human-Agent Collaboration**|Benjamin Li et.al.|[2507.05244](http://arxiv.org/abs/2507.05244)|null|
 |**2025-07-07**|**Cooperative Gradient Coding**|Shudi Weng et.al.|[2507.05230](http://arxiv.org/abs/2507.05230)|null|
 |**2025-07-07**|**Satellite-based Rabi rice paddy field mapping in India: a case study on Telangana state**|Prashanth Reddy Putta et.al.|[2507.05189](http://arxiv.org/abs/2507.05189)|null|
@@ -3990,6 +4000,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-08**|**Normalizing Diffusion Kernels with Optimal Transport**|Nathan Kessler et.al.|[2507.06161](http://arxiv.org/abs/2507.06161)|null|
+|**2025-07-08**|**Geo-Registration of Terrestrial LiDAR Point Clouds with Satellite Images without GNSS**|Xinyu Wang et.al.|[2507.05999](http://arxiv.org/abs/2507.05999)|null|
+|**2025-07-08**|**D-FCGS: Feedforward Compression of Dynamic Gaussian Splatting for Free-Viewpoint Videos**|Wenkang Zhang et.al.|[2507.05859](http://arxiv.org/abs/2507.05859)|null|
+|**2025-07-08**|**Empowering Bridge Digital Twins by Bridging the Data Gap with a Unified Synthesis Framework**|Wang Wang et.al.|[2507.05814](http://arxiv.org/abs/2507.05814)|null|
+|**2025-07-07**|**Gaussian Process-Based Active Exploration Strategies in Vision and Touch**|Ho Jin Choi et.al.|[2507.05522](http://arxiv.org/abs/2507.05522)|null|
+|**2025-07-07**|**Topological Sequence Analysis of Genomes: Delta Complex approaches**|Jian Liu et.al.|[2507.05452](http://arxiv.org/abs/2507.05452)|null|
 |**2025-07-07**|**All in One: Visual-Description-Guided Unified Point Cloud Segmentation**|Zongyan Han et.al.|[2507.05211](http://arxiv.org/abs/2507.05211)|null|
 |**2025-07-07**|**Real-Time Graph-based Point Cloud Networks on FPGAs via Stall-Free Deep Pipelining**|Marc Neu et.al.|[2507.05099](http://arxiv.org/abs/2507.05099)|null|
 |**2025-07-07**|**Estimating Object Physical Properties from RGB-D Vision and Depth Robot Sensors Using Deep Learning**|Ricardo Cardoso et.al.|[2507.05029](http://arxiv.org/abs/2507.05029)|null|
