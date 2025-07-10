@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-09**|**Quantum Spectral Clustering: Comparing Parameterized and Neuromorphic Quantum Kernels**|Donovan Slabbert et.al.|[2507.07018](http://arxiv.org/abs/2507.07018)|null|
+|**2025-07-09**|**GNN-ViTCap: GNN-Enhanced Multiple Instance Learning with Vision Transformers for Whole Slide Image Classification and Captioning**|S M Taslim Uddin Raju et.al.|[2507.07006](http://arxiv.org/abs/2507.07006)|null|
+|**2025-07-09**|**Bounomodes: the grazing ox algorithm for exploration of clustered anomalies**|Samuel Matloob et.al.|[2507.06960](http://arxiv.org/abs/2507.06960)|null|
+|**2025-07-09**|**Pre-Columbian Settlements Shaped Palm Clusters in the Sierra Nevada de Santa Marta, Colombia**|Sebastian Fajardo et.al.|[2507.06949](http://arxiv.org/abs/2507.06949)|null|
+|**2025-07-09**|**Accelerated Spatio-Temporal Bayesian Modeling for Multivariate Gaussian Processes**|Lisa Gaedke-Merzhäuser et.al.|[2507.06938](http://arxiv.org/abs/2507.06938)|null|
+|**2025-07-09**|**DICE: Data Influence Cascade in Decentralized Learning**|Tongtian Zhu et.al.|[2507.06931](http://arxiv.org/abs/2507.06931)|null|
+|**2025-07-09**|**Machine-Learned Force Fields for Lattice Dynamics at Coupled-Cluster Level Accuracy**|Sita Schönbauer et.al.|[2507.06929](http://arxiv.org/abs/2507.06929)|null|
+|**2025-07-09**|**Cluster algebraic interpretation of generalized Markov numbers and their matrixizations**|Esther Banaian et.al.|[2507.06900](http://arxiv.org/abs/2507.06900)|null|
+|**2025-07-09**|**CDC: Causal Domain Clustering for Multi-Domain Recommendation**|Huishi Luo et.al.|[2507.06877](http://arxiv.org/abs/2507.06877)|null|
+|**2025-07-09**|**A Bayesian catalog of 100 high-significance voids in the Local Universe**|Rosa Malandrino et.al.|[2507.06866](http://arxiv.org/abs/2507.06866)|null|
 |**2025-07-08**|**Consistency and Inconsistency in $K$ -Means Clustering**|Moïse Blanchard et.al.|[2507.06226](http://arxiv.org/abs/2507.06226)|null|
 |**2025-07-08**|**$k$ -means considered harmful: On arbitrary topological changes in Mapper complexes**|Mikael Vejdemo-Johansson et.al.|[2507.06212](http://arxiv.org/abs/2507.06212)|null|
 |**2025-07-08**|**From i-boxes to signed words**|Alessandro Contu et.al.|[2507.06182](http://arxiv.org/abs/2507.06182)|null|
@@ -4006,6 +4016,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-09**|**SemRaFiner: Panoptic Segmentation in Sparse and Noisy Radar Point Clouds**|Matthias Zeller et.al.|[2507.06906](http://arxiv.org/abs/2507.06906)|null|
+|**2025-07-09**|**Hierarchical Reinforcement Learning for Articulated Tool Manipulation with Multifingered Hand**|Wei Xu et.al.|[2507.06822](http://arxiv.org/abs/2507.06822)|null|
+|**2025-07-09**|**StixelNExT++: Lightweight Monocular Scene Segmentation and Representation for Collective Perception**|Marcel Vosshans et.al.|[2507.06687](http://arxiv.org/abs/2507.06687)|null|
+|**2025-07-09**|**MK-Pose: Category-Level Object Pose Estimation via Multimodal-Based Keypoint Learning**|Yifan Yang et.al.|[2507.06662](http://arxiv.org/abs/2507.06662)|null|
+|**2025-07-09**|**Diff $^2$ I2P: Differentiable Image-to-Point Cloud Registration with Diffusion Prior**|Juncheng Mu et.al.|[2507.06651](http://arxiv.org/abs/2507.06651)|null|
+|**2025-07-09**|**PointVDP: Learning View-Dependent Projection by Fireworks Rays for 3D Point Cloud Segmentation**|Yang Chen et.al.|[2507.06618](http://arxiv.org/abs/2507.06618)|null|
+|**2025-07-09**|**Ambiguity-aware Point Cloud Segmentation by Adaptive Margin Contrastive Learning**|Yang Chen et.al.|[2507.06592](http://arxiv.org/abs/2507.06592)|null|
+|**2025-07-08**|**Mapping the Catacombs: An Underwater Cave Segment of the Devil's Eye System**|Michalis Chatzispyrou et.al.|[2507.06397](http://arxiv.org/abs/2507.06397)|null|
 |**2025-07-08**|**Normalizing Diffusion Kernels with Optimal Transport**|Nathan Kessler et.al.|[2507.06161](http://arxiv.org/abs/2507.06161)|null|
 |**2025-07-09**|**Geo-Registration of Terrestrial LiDAR Point Clouds with Satellite Images without GNSS**|Xinyu Wang et.al.|[2507.05999](http://arxiv.org/abs/2507.05999)|null|
 |**2025-07-08**|**D-FCGS: Feedforward Compression of Dynamic Gaussian Splatting for Free-Viewpoint Videos**|Wenkang Zhang et.al.|[2507.05859](http://arxiv.org/abs/2507.05859)|null|
