@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**Baryonification II: Constraining feedback with X-ray and kinematic Sunyaev-Zel'dovich observations**|Michael Kovač et.al.|[2507.07991](http://arxiv.org/abs/2507.07991)|null|
+|**2025-07-10**|**KIS-S: A GPU-Aware Kubernetes Inference Simulator with RL-Based Auto-Scaling**|Guilin Zhang et.al.|[2507.07932](http://arxiv.org/abs/2507.07932)|null|
+|**2025-07-10**|**Constraints on Axion-Like Particles from 16.5 Years of Fermi-LAT Data and Prospects for VLAST**|Zhi-Qi Guo et.al.|[2507.07786](http://arxiv.org/abs/2507.07786)|null|
+|**2025-07-10**|**Temporal and spatial separations between spin glass and short-range order**|Margarita G. Dronova et.al.|[2507.07783](http://arxiv.org/abs/2507.07783)|null|
+|**2025-07-10**|**Distributed and Decentralised Training: Technical Governance Challenges in a Shifting AI Landscape**|Jakub Kryś et.al.|[2507.07765](http://arxiv.org/abs/2507.07765)|null|
+|**2025-07-10**|**Widespread remote introgression in the grass genomes**|Yujie Huang et.al.|[2507.07761](http://arxiv.org/abs/2507.07761)|null|
+|**2025-07-10**|**Accelerating Transposed Convolutions on FPGA-based Edge Devices**|Jude Haris et.al.|[2507.07683](http://arxiv.org/abs/2507.07683)|null|
+|**2025-07-10**|**Multi-agent Reinforcement Learning-based In-place Scaling Engine for Edge-cloud Systems**|Jovan Prodanov et.al.|[2507.07671](http://arxiv.org/abs/2507.07671)|null|
+|**2025-07-10**|**Euclid: Early Release Observations. Weak gravitational lensing analysis of Abell 2390**|T. Schrabback et.al.|[2507.07629](http://arxiv.org/abs/2507.07629)|null|
+|**2025-07-10**|**Resilient cluster Mott states in layered Nb $_3$Cl$_8$ against pressure-induced symmetry breaking**|Hongbin Qu et.al.|[2507.07624](http://arxiv.org/abs/2507.07624)|null|
 |**2025-07-09**|**Quantum Spectral Clustering: Comparing Parameterized and Neuromorphic Quantum Kernels**|Donovan Slabbert et.al.|[2507.07018](http://arxiv.org/abs/2507.07018)|null|
 |**2025-07-09**|**GNN-ViTCap: GNN-Enhanced Multiple Instance Learning with Vision Transformers for Whole Slide Image Classification and Captioning**|S M Taslim Uddin Raju et.al.|[2507.07006](http://arxiv.org/abs/2507.07006)|null|
 |**2025-07-09**|**Bounomodes: the grazing ox algorithm for exploration of clustered anomalies**|Samuel Matloob et.al.|[2507.06960](http://arxiv.org/abs/2507.06960)|null|
@@ -4010,6 +4020,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**LOSC: LiDAR Open-voc Segmentation Consolidator**|Nermin Samet et.al.|[2507.07605](http://arxiv.org/abs/2507.07605)|null|
+|**2025-07-10**|**Towards High-Resolution 3D Anomaly Detection: A Scalable Dataset and Real-Time Framework for Subtle Industrial Defects**|Yuqi Cheng et.al.|[2507.07435](http://arxiv.org/abs/2507.07435)|null|
 |**2025-07-09**|**SemRaFiner: Panoptic Segmentation in Sparse and Noisy Radar Point Clouds**|Matthias Zeller et.al.|[2507.06906](http://arxiv.org/abs/2507.06906)|null|
 |**2025-07-09**|**Hierarchical Reinforcement Learning for Articulated Tool Manipulation with Multifingered Hand**|Wei Xu et.al.|[2507.06822](http://arxiv.org/abs/2507.06822)|null|
 |**2025-07-09**|**StixelNExT++: Lightweight Monocular Scene Segmentation and Representation for Collective Perception**|Marcel Vosshans et.al.|[2507.06687](http://arxiv.org/abs/2507.06687)|null|
