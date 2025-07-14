@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.13
+## Updated on 2025.07.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## clustering
@@ -23,7 +23,7 @@ layout: default
 |**2025-07-10**|**Accelerating Transposed Convolutions on FPGA-based Edge Devices**|Jude Haris et.al.|[2507.07683](http://arxiv.org/abs/2507.07683)|null|
 |**2025-07-10**|**Multi-agent Reinforcement Learning-based In-place Scaling Engine for Edge-cloud Systems**|Jovan Prodanov et.al.|[2507.07671](http://arxiv.org/abs/2507.07671)|null|
 |**2025-07-10**|**Euclid: Early Release Observations. Weak gravitational lensing analysis of Abell 2390**|T. Schrabback et.al.|[2507.07629](http://arxiv.org/abs/2507.07629)|null|
-|**2025-07-10**|**Resilient cluster Mott states in layered Nb $_3$Cl$_8$ against pressure-induced symmetry breaking**|Hongbin Qu et.al.|[2507.07624](http://arxiv.org/abs/2507.07624)|null|
+|**2025-07-11**|**Resilient cluster Mott states in layered Nb $_3$Cl$_8$ against pressure-induced symmetry breaking**|Hongbin Qu et.al.|[2507.07624](http://arxiv.org/abs/2507.07624)|null|
 |**2025-07-09**|**Quantum Spectral Clustering: Comparing Parameterized and Neuromorphic Quantum Kernels**|Donovan Slabbert et.al.|[2507.07018](http://arxiv.org/abs/2507.07018)|null|
 |**2025-07-09**|**GNN-ViTCap: GNN-Enhanced Multiple Instance Learning with Vision Transformers for Whole Slide Image Classification and Captioning**|S M Taslim Uddin Raju et.al.|[2507.07006](http://arxiv.org/abs/2507.07006)|null|
 |**2025-07-09**|**Bounomodes: the grazing ox algorithm for exploration of clustered anomalies**|Samuel Matloob et.al.|[2507.06960](http://arxiv.org/abs/2507.06960)|null|
