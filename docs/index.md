@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-11**|**CLiFT: Compressive Light-Field Tokens for Compute-Efficient and Adaptive Neural Rendering**|Zhengqing Wang et.al.|[2507.08776](http://arxiv.org/abs/2507.08776)|null|
+|**2025-07-11**|**A Hybrid Multi-Well Hopfield-CNN with Feature Extraction and K-Means for MNIST Classification**|Ahmed Farooq et.al.|[2507.08766](http://arxiv.org/abs/2507.08766)|null|
+|**2025-07-11**|**Carbon-Aware Workflow Scheduling with Fixed Mapping and Deadline Constraint**|Dominik Schweisgut et.al.|[2507.08725](http://arxiv.org/abs/2507.08725)|null|
+|**2025-07-11**|**MoSAiC: Multi-Modal Multi-Label Supervision-Aware Contrastive Learning for Remote Sensing**|Debashis Gupta et.al.|[2507.08683](http://arxiv.org/abs/2507.08683)|null|
+|**2025-07-11**|**Chemical abundances and small-scale gas kinematics in the local star-forming galaxy NGC 2366**|Anastasiya D. Yarovova et.al.|[2507.08651](http://arxiv.org/abs/2507.08651)|null|
+|**2025-07-11**|**Visual Semantic Description Generation with MLLMs for Image-Text Matching**|Junyu Chen et.al.|[2507.08590](http://arxiv.org/abs/2507.08590)|null|
+|**2025-07-11**|**Abinit 2025: New Capabilities for the Predictive Modeling of Solids and Nanomaterials**|Matthieu J. Verstraete et.al.|[2507.08578](http://arxiv.org/abs/2507.08578)|null|
+|**2025-07-11**|**Tracing Missing Baryons in the Cosmic Filaments with tSZ and CMB-Lensing Stacking**|Jianzhuo Li et.al.|[2507.08561](http://arxiv.org/abs/2507.08561)|null|
+|**2025-07-11**|**Euclid: Early Release Observations. A combined strong and weak lensing solution for Abell 2390 beyond its virial radius**|J. M. Diego et.al.|[2507.08545](http://arxiv.org/abs/2507.08545)|null|
+|**2025-07-11**|**Semantic-Augmented Latent Topic Modeling with LLM-in-the-Loop**|Mengze Hong et.al.|[2507.08498](http://arxiv.org/abs/2507.08498)|null|
 |**2025-07-10**|**Baryonification II: Constraining feedback with X-ray and kinematic Sunyaev-Zel'dovich observations**|Michael Kovač et.al.|[2507.07991](http://arxiv.org/abs/2507.07991)|null|
 |**2025-07-10**|**KIS-S: A GPU-Aware Kubernetes Inference Simulator with RL-Based Auto-Scaling**|Guilin Zhang et.al.|[2507.07932](http://arxiv.org/abs/2507.07932)|null|
 |**2025-07-10**|**Constraints on Axion-Like Particles from 16.5 Years of Fermi-LAT Data and Prospects for VLAST**|Zhi-Qi Guo et.al.|[2507.07786](http://arxiv.org/abs/2507.07786)|null|
@@ -4020,6 +4030,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-11**|**Minimum-norm interpolation for unknown surface reconstruction**|Alex Shiu Lun Chu et.al.|[2507.08632](http://arxiv.org/abs/2507.08632)|null|
+|**2025-07-11**|**CL3R: 3D Reconstruction and Contrastive Learning for Enhanced Robotic Manipulation Representations**|Wenbo Cui et.al.|[2507.08262](http://arxiv.org/abs/2507.08262)|null|
 |**2025-07-10**|**LOSC: LiDAR Open-voc Segmentation Consolidator**|Nermin Samet et.al.|[2507.07605](http://arxiv.org/abs/2507.07605)|null|
 |**2025-07-10**|**Towards High-Resolution 3D Anomaly Detection: A Scalable Dataset and Real-Time Framework for Subtle Industrial Defects**|Yuqi Cheng et.al.|[2507.07435](http://arxiv.org/abs/2507.07435)|null|
 |**2025-07-09**|**SemRaFiner: Panoptic Segmentation in Sparse and Noisy Radar Point Clouds**|Matthias Zeller et.al.|[2507.06906](http://arxiv.org/abs/2507.06906)|null|
