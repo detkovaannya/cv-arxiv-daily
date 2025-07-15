@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**Angular-momentum pairs in spherical systems: applications to the Galactic centre**|Taras Panamarev et.al.|[2507.10551](http://arxiv.org/abs/2507.10551)|null|
+|**2025-07-14**|**Pristine Massive Star Formation Caught at the Break of Cosmic Dawn**|Takahiro Morishita et.al.|[2507.10521](http://arxiv.org/abs/2507.10521)|null|
+|**2025-07-14**|**Generalized Beth-Uhlenbeck approach to the thermodynamics of quark-hadron matter**|David Blaschke et.al.|[2507.10497](http://arxiv.org/abs/2507.10497)|null|
+|**2025-07-14**|**Imprints of turbulence on heterogeneous deposition of adhesive particles**|Max P. Herzog et.al.|[2507.10480](http://arxiv.org/abs/2507.10480)|null|
+|**2025-07-14**|**Efficient Federated Learning with Heterogeneous Data and Adaptive Dropout**|Ji Liu et.al.|[2507.10430](http://arxiv.org/abs/2507.10430)|null|
+|**2025-07-14**|**Consensus, Inconsistency, Emergence: what's paraconsistency got to do with it?**|Gabriel Rocha et.al.|[2507.10413](http://arxiv.org/abs/2507.10413)|null|
+|**2025-07-14**|**Eigenvalue distribution analysis of multidimensional prolate matrices**|Luis Gomez et.al.|[2507.10412](http://arxiv.org/abs/2507.10412)|null|
+|**2025-07-14**|**Reversible switching due to attraction and repulsion: clusters, gaps, sorting, and mixing**|Arnd Scheel et.al.|[2507.10406](http://arxiv.org/abs/2507.10406)|null|
+|**2025-07-14**|**Zorse: Optimizing LLM Training Efficiency on Heterogeneous GPU Clusters**|Runsheng Benson Guo et.al.|[2507.10392](http://arxiv.org/abs/2507.10392)|null|
+|**2025-07-14**|**FalconFS: Distributed File System for Large-Scale Deep Learning Pipeline**|Jingwei Xu et.al.|[2507.10367](http://arxiv.org/abs/2507.10367)|null|
 |**2025-07-14**|**CLiFT: Compressive Light-Field Tokens for Compute-Efficient and Adaptive Neural Rendering**|Zhengqing Wang et.al.|[2507.08776](http://arxiv.org/abs/2507.08776)|null|
 |**2025-07-11**|**A Hybrid Multi-Well Hopfield-CNN with Feature Extraction and K-Means for MNIST Classification**|Ahmed Farooq et.al.|[2507.08766](http://arxiv.org/abs/2507.08766)|null|
 |**2025-07-11**|**Carbon-Aware Workflow Scheduling with Fixed Mapping and Deadline Constraint**|Dominik Schweisgut et.al.|[2507.08725](http://arxiv.org/abs/2507.08725)|null|
@@ -4030,6 +4040,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**MP1: Mean Flow Tames Policy Learning in 1-step for Robotic Manipulation**|Juyi Sheng et.al.|[2507.10543](http://arxiv.org/abs/2507.10543)|null|
+|**2025-07-14**|**Polaritonic Machine Learning for Graph-based Data Analysis**|Yuan Wang et.al.|[2507.10415](http://arxiv.org/abs/2507.10415)|null|
+|**2025-07-14**|**LifelongPR: Lifelong knowledge fusion for point cloud place recognition based on replay and prompt learning**|Xianghong Zou et.al.|[2507.10034](http://arxiv.org/abs/2507.10034)|null|
+|**2025-07-13**|**Hierarchical Abstraction Enables Human-Like 3D Object Recognition in Deep Learning Models**|Shuhao Fu et.al.|[2507.09830](http://arxiv.org/abs/2507.09830)|null|
+|**2025-07-13**|**SegVec3D: A Method for Vector Embedding of 3D Objects Oriented Towards Robot manipulation**|Zhihan Kang et.al.|[2507.09459](http://arxiv.org/abs/2507.09459)|null|
+|**2025-07-12**|**Geometric Generative Modeling with Noise-Conditioned Graph Networks**|Peter Pao-Huang et.al.|[2507.09391](http://arxiv.org/abs/2507.09391)|null|
+|**2025-07-12**|**Free-running vs. Synchronous: Single-Photon Lidar for High-flux 3D Imaging**|Ruangrawee Kitichotkul et.al.|[2507.09386](http://arxiv.org/abs/2507.09386)|null|
+|**2025-07-12**|**Real-Time Adaptive Motion Planning via Point Cloud-Guided, Energy-Based Diffusion and Potential Fields**|Wondmgezahu Teshome et.al.|[2507.09383](http://arxiv.org/abs/2507.09383)|null|
+|**2025-07-12**|**DLBAcalib: Robust Extrinsic Calibration for Non-Overlapping LiDARs Based on Dual LBA**|Han Ye et.al.|[2507.09176](http://arxiv.org/abs/2507.09176)|null|
+|**2025-07-12**|**Harnessing Text-to-Image Diffusion Models for Point Cloud Self-Supervised Learning**|Yiyang Chen et.al.|[2507.09102](http://arxiv.org/abs/2507.09102)|null|
 |**2025-07-11**|**Minimum-norm interpolation for unknown surface reconstruction**|Alex Shiu Lun Chu et.al.|[2507.08632](http://arxiv.org/abs/2507.08632)|null|
 |**2025-07-11**|**CL3R: 3D Reconstruction and Contrastive Learning for Enhanced Robotic Manipulation Representations**|Wenbo Cui et.al.|[2507.08262](http://arxiv.org/abs/2507.08262)|null|
 |**2025-07-10**|**LOSC: LiDAR Open-voc Segmentation Consolidator**|Nermin Samet et.al.|[2507.07605](http://arxiv.org/abs/2507.07605)|null|
