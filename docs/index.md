@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.15
+## Updated on 2025.07.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## clustering
@@ -18,7 +18,7 @@ layout: default
 |**2025-07-14**|**Pristine Massive Star Formation Caught at the Break of Cosmic Dawn**|Takahiro Morishita et.al.|[2507.10521](http://arxiv.org/abs/2507.10521)|null|
 |**2025-07-14**|**Generalized Beth-Uhlenbeck approach to the thermodynamics of quark-hadron matter**|David Blaschke et.al.|[2507.10497](http://arxiv.org/abs/2507.10497)|null|
 |**2025-07-14**|**Imprints of turbulence on heterogeneous deposition of adhesive particles**|Max P. Herzog et.al.|[2507.10480](http://arxiv.org/abs/2507.10480)|null|
-|**2025-07-14**|**Efficient Federated Learning with Heterogeneous Data and Adaptive Dropout**|Ji Liu et.al.|[2507.10430](http://arxiv.org/abs/2507.10430)|null|
+|**2025-07-15**|**Efficient Federated Learning with Heterogeneous Data and Adaptive Dropout**|Ji Liu et.al.|[2507.10430](http://arxiv.org/abs/2507.10430)|null|
 |**2025-07-14**|**Consensus, Inconsistency, Emergence: what's paraconsistency got to do with it?**|Gabriel Rocha et.al.|[2507.10413](http://arxiv.org/abs/2507.10413)|null|
 |**2025-07-14**|**Eigenvalue distribution analysis of multidimensional prolate matrices**|Luis Gomez et.al.|[2507.10412](http://arxiv.org/abs/2507.10412)|null|
 |**2025-07-14**|**Reversible switching due to attraction and repulsion: clusters, gaps, sorting, and mixing**|Arnd Scheel et.al.|[2507.10406](http://arxiv.org/abs/2507.10406)|null|
