@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**CRAFT: Latency and Cost-Aware Genetic-Based Framework for Node Placement in Edge-Fog Environments**|Soheil Mahdizadeh et.al.|[2507.12445](http://arxiv.org/abs/2507.12445)|null|
+|**2025-07-16**|**Hierarchical Temporal Point Process Modeling of Aggressive Behavior Onset in Psychiatric Inpatient Youth with Autism for Branching Factor Estimation**|Michael Potter et.al.|[2507.12424](http://arxiv.org/abs/2507.12424)|null|
+|**2025-07-16**|**Cluster Contrast for Unsupervised Visual Representation Learning**|Nikolaos Giakoumoglou et.al.|[2507.12359](http://arxiv.org/abs/2507.12359)|null|
+|**2025-07-16**|**First Constraints from Marked Angular Power Spectra with Subaru Hyper Suprime-Cam Survey First-Year Data**|Jessica A. Cowell et.al.|[2507.12315](http://arxiv.org/abs/2507.12315)|null|
+|**2025-07-16**|**Cluster-weighted modeling of lifetime hierarchical data for profiling COVID-19 heart failure patients**|Luca Caldera et.al.|[2507.12230](http://arxiv.org/abs/2507.12230)|null|
+|**2025-07-16**|**Novel Approach to Dual-Channel Estimation in Integrated Sensing and Communications for 6G**|Alejandro Castilla et.al.|[2507.12221](http://arxiv.org/abs/2507.12221)|null|
+|**2025-07-16**|**Toward Efficient SpMV in Sparse LLMs via Block Extraction and Compressed Storage**|Junqing Lin et.al.|[2507.12205](http://arxiv.org/abs/2507.12205)|null|
+|**2025-07-16**|**Explainable Evidential Clustering**|Victor F. Lopes de Souza et.al.|[2507.12192](http://arxiv.org/abs/2507.12192)|null|
+|**2025-07-16**|**Interacting Bose gases in twisted-bilayer optical lattices**|Ganesh C. Paul et.al.|[2507.12153](http://arxiv.org/abs/2507.12153)|null|
+|**2025-07-16**|**Euclid preparation. Simulating thousands of Euclid spectroscopic skies**|Euclid Collaboration et.al.|[2507.12116](http://arxiv.org/abs/2507.12116)|null|
 |**2025-07-15**|**Scaling the memory wall using mixed-precision -- HPG-MxP on an exascale machine**|Aditya Kashi et.al.|[2507.11512](http://arxiv.org/abs/2507.11512)|null|
 |**2025-07-15**|**Elk: Exploring the Efficiency of Inter-core Connected AI Chips with Deep Learning Compiler Techniques**|Yiqi Liu et.al.|[2507.11506](http://arxiv.org/abs/2507.11506)|null|
 |**2025-07-15**|**Multiscale patterns of migration flows in Austria: regionalization, administrative barriers, and urban-rural divides**|Thomas Robiglio et.al.|[2507.11503](http://arxiv.org/abs/2507.11503)|null|
@@ -4050,6 +4060,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**UniLGL: Learning Uniform Place Recognition for FOV-limited/Panoramic LiDAR Global Localization**|Hongming Shen et.al.|[2507.12194](http://arxiv.org/abs/2507.12194)|null|
+|**2025-07-16**|**HPR3D: Hierarchical Proxy Representation for High-Fidelity 3D Reconstruction and Controllable Editing**|Tielong Wang et.al.|[2507.11971](http://arxiv.org/abs/2507.11971)|null|
+|**2025-07-16**|**A Multi-Level Similarity Approach for Single-View Object Grasping: Matching, Planning, and Fine-Tuning**|Hao Chen et.al.|[2507.11938](http://arxiv.org/abs/2507.11938)|null|
 |**2025-07-15**|**MonoMVSNet: Monocular Priors Guided Multi-View Stereo Network**|Jianfei Jiang et.al.|[2507.11333](http://arxiv.org/abs/2507.11333)|null|
 |**2025-07-15**|**A Multi-View High-Resolution Foot-Ankle Complex Point Cloud Dataset During Gait for Occlusion-Robust 3D Completion**|Jie-Wen Li et.al.|[2507.11037](http://arxiv.org/abs/2507.11037)|null|
 |**2025-07-14**|**MP1: Mean Flow Tames Policy Learning in 1-step for Robotic Manipulation**|Juyi Sheng et.al.|[2507.10543](http://arxiv.org/abs/2507.10543)|null|
