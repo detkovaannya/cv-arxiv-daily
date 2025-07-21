@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-18**|**Franca: Nested Matryoshka Clustering for Scalable Visual Representation Learning**|Shashanka Venkataramanan et.al.|[2507.14137](http://arxiv.org/abs/2507.14137)|null|
+|**2025-07-18**|**Missing baryons recovered: a measurement of the gas fraction in galaxies and groups with the kinematic Sunyaev-Zel'dovich effect and CMB lensing**|Boryana Hadzhiyska et.al.|[2507.14136](http://arxiv.org/abs/2507.14136)|null|
+|**2025-07-18**|**A Bayesian Dirichlet Auto-Regressive Conditional Heteroskedasticity Model for Compositional Time Series**|Harrison Katz et.al.|[2507.14132](http://arxiv.org/abs/2507.14132)|null|
+|**2025-07-18**|**Toward Temporal Causal Representation Learning with Tensor Decomposition**|Jianhong Chen et.al.|[2507.14126](http://arxiv.org/abs/2507.14126)|null|
+|**2025-07-18**|**NGC 663 as a laboratory for massive star evolution**|Amparo Marco et.al.|[2507.14125](http://arxiv.org/abs/2507.14125)|null|
+|**2025-07-18**|**Weighted Matching in a Poly-Streaming Model**|Ahammed Ullah et.al.|[2507.14114](http://arxiv.org/abs/2507.14114)|null|
+|**2025-07-18**|**CUDA-L1: Improving CUDA Optimization via Contrastive Reinforcement Learning**|Xiaoya Li et.al.|[2507.14111](http://arxiv.org/abs/2507.14111)|null|
+|**2025-07-18**|**C-DOG: Training-Free Multi-View Multi-Object Association in Dense Scenes Without Visual Feature via Connected δ-Overlap Graphs**|Yung-Hong Sun et.al.|[2507.14095](http://arxiv.org/abs/2507.14095)|null|
+|**2025-07-18**|**ChemZz I: Comparing Oxygen and Iron Abundance Patterns in the Milky Way, the Local Group and Cosmic Noon**|Stephanie Monty et.al.|[2507.14094](http://arxiv.org/abs/2507.14094)|null|
+|**2025-07-18**|**Shipwright: Proving liveness of distributed systems with Byzantine participants**|Derek Leung et.al.|[2507.14080](http://arxiv.org/abs/2507.14080)|null|
 |**2025-07-17**|**The Star Formation History and Evolution of the Ultra-Diffuse M81 Satellite, F8D1**|Adam Smercina et.al.|[2507.13349](http://arxiv.org/abs/2507.13349)|null|
 |**2025-07-17**|**N Bugs on a Circle**|Josh Briley et.al.|[2507.13333](http://arxiv.org/abs/2507.13333)|null|
 |**2025-07-17**|**Solving SAT By Computing A Stable Set Of Points In Clusters**|Eugene Goldberg et.al.|[2507.13282](http://arxiv.org/abs/2507.13282)|null|
@@ -4070,6 +4080,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-18**|**Depth3DLane: Fusing Monocular 3D Lane Detection with Self-Supervised Monocular Depth Estimation**|Max van den Hoven et.al.|[2507.13857](http://arxiv.org/abs/2507.13857)|null|
+|**2025-07-18**|**Augmented Reality in Cultural Heritage: A Dual-Model Pipeline for 3D Artwork Reconstruction**|Daniele Pannone et.al.|[2507.13719](http://arxiv.org/abs/2507.13719)|null|
+|**2025-07-18**|**Spacecraft Safe Robust Control Using Implicit Neural Representation for Geometrically Complex Targets in Proximity Operations**|Hang Zhou et.al.|[2507.13672](http://arxiv.org/abs/2507.13672)|null|
+|**2025-07-18**|**NoiseSDF2NoiseSDF: Learning Clean Neural Fields from Noisy Supervision**|Tengkai Wang et.al.|[2507.13595](http://arxiv.org/abs/2507.13595)|null|
+|**2025-07-17**|**Uncertainty Quantification Framework for Aerial and UAV Photogrammetry through Error Propagation**|Debao Huang et.al.|[2507.13486](http://arxiv.org/abs/2507.13486)|null|
+|**2025-07-17**|**Multiresolution local smoothness detection in non-uniformly sampled multivariate signals**|Sara Avesani et.al.|[2507.13480](http://arxiv.org/abs/2507.13480)|null|
 |**2025-07-17**|**3DKeyAD: High-Resolution 3D Point Cloud Anomaly Detection via Keypoint-Guided Point Clustering**|Zi Wang et.al.|[2507.13110](http://arxiv.org/abs/2507.13110)|null|
 |**2025-07-17**|**Argus: Leveraging Multiview Images for Improved 3-D Scene Understanding With Large Language Models**|Yifan Xu et.al.|[2507.12916](http://arxiv.org/abs/2507.12916)|null|
 |**2025-07-17**|**City-VLM: Towards Multidomain Perception Scene Understanding via Multimodal Incomplete Learning**|Penglei Sun et.al.|[2507.12795](http://arxiv.org/abs/2507.12795)|null|
