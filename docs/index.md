@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-21**|**Simulating the LOcal Web (SLOW) V. Thermodynamic Properties and Evolution of Local Galaxy Clusters**|Elena Hernández-Martínez et.al.|[2507.15858](http://arxiv.org/abs/2507.15858)|null|
+|**2025-07-21**|**Electron-Transfer and Exchange-Interaction Model of the Ligand Hyperfine Structure of Alkylated Iron-Sulfur Clusters**|William C. Robinson et.al.|[2507.15838](http://arxiv.org/abs/2507.15838)|null|
+|**2025-07-21**|**Euclid preparation: Expected constraints on initial conditions**|Euclid Collaboration et.al.|[2507.15819](http://arxiv.org/abs/2507.15819)|null|
+|**2025-07-21**|**A Framework for Analyzing Abnormal Emergence in Service Ecosystems Through LLM-based Agent Intention Mining**|Yifan Shen et.al.|[2507.15770](http://arxiv.org/abs/2507.15770)|null|
+|**2025-07-21**|**Relationship between Structure and Dynamics of an Icosahedral Quasicrystal using Unsupervised Machine Learning**|Edwin A. Bedolla-Montiel et.al.|[2507.15731](http://arxiv.org/abs/2507.15731)|null|
+|**2025-07-21**|**Efficiently Generation of Cluster States via Time-Delayed Feedback in Matrix Representation**|Jia-Jin Zou et.al.|[2507.15725](http://arxiv.org/abs/2507.15725)|null|
+|**2025-07-21**|**A MeerKAT study of a neutral hydrogen rich grouping of galaxies with megaparsec-scale filamentary-like structure**|G. Lawrie et.al.|[2507.15699](http://arxiv.org/abs/2507.15699)|null|
+|**2025-07-21**|**Examining the Gap in the Chirp Mass Distribution of Binary Black Holes**|Vaibhav Tiwari et.al.|[2507.15697](http://arxiv.org/abs/2507.15697)|null|
+|**2025-07-21**|**Asynchronous Collective Tree Exploration: a Distributed Algorithm, and a new Lower Bound**|Romain Cosson et.al.|[2507.15658](http://arxiv.org/abs/2507.15658)|null|
+|**2025-07-21**|**Efficient Routing of Inference Requests across LLM Instances in Cloud-Edge Computing**|Shibo Yu et.al.|[2507.15553](http://arxiv.org/abs/2507.15553)|null|
 |**2025-07-18**|**Franca: Nested Matryoshka Clustering for Scalable Visual Representation Learning**|Shashanka Venkataramanan et.al.|[2507.14137](http://arxiv.org/abs/2507.14137)|null|
 |**2025-07-18**|**Missing baryons recovered: a measurement of the gas fraction in galaxies and groups with the kinematic Sunyaev-Zel'dovich effect and CMB lensing**|Boryana Hadzhiyska et.al.|[2507.14136](http://arxiv.org/abs/2507.14136)|null|
 |**2025-07-18**|**A Bayesian Dirichlet Auto-Regressive Conditional Heteroskedasticity Model for Compositional Time Series**|Harrison Katz et.al.|[2507.14132](http://arxiv.org/abs/2507.14132)|null|
@@ -4080,6 +4090,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-21**|**LINR-PCGC: Lossless Implicit Neural Representations for Point Cloud Geometry Compression**|Wenjie Huang et.al.|[2507.15686](http://arxiv.org/abs/2507.15686)|null|
+|**2025-07-21**|**Point Cloud Streaming with Latency-Driven Implicit Adaptation using MoQ**|Andrew Freeman et.al.|[2507.15673](http://arxiv.org/abs/2507.15673)|null|
+|**2025-07-21**|**Dense-depth map guided deep Lidar-Visual Odometry with Sparse Point Clouds and Images**|JunYing Huang et.al.|[2507.15496](http://arxiv.org/abs/2507.15496)|null|
+|**2025-07-21**|**Blended Point Cloud Diffusion for Localized Text-guided Shape Editing**|Etai Sella et.al.|[2507.15399](http://arxiv.org/abs/2507.15399)|null|
+|**2025-07-21**|**MinCD-PnP: Learning 2D-3D Correspondences with Approximate Blind PnP**|Pei An et.al.|[2507.15257](http://arxiv.org/abs/2507.15257)|null|
+|**2025-07-20**|**Decision PCR: Decision version of the Point Cloud Registration task**|Yaojie Zhang et.al.|[2507.14965](http://arxiv.org/abs/2507.14965)|null|
+|**2025-07-20**|**TriCLIP-3D: A Unified Parameter-Efficient Framework for Tri-Modal 3D Visual Grounding based on CLIP**|Fan Li et.al.|[2507.14904](http://arxiv.org/abs/2507.14904)|null|
+|**2025-07-20**|**Towards Geometric and Textural Consistency 3D Scene Generation via Single Image-guided Model Generation and Layout Optimization**|Xiang Tang et.al.|[2507.14841](http://arxiv.org/abs/2507.14841)|null|
+|**2025-07-20**|**KGN-Pro: Keypoint-Based Grasp Prediction through Probabilistic 2D-3D Correspondence Learning**|Bingran Chen et.al.|[2507.14820](http://arxiv.org/abs/2507.14820)|null|
+|**2025-07-20**|**An Evaluation of DUSt3R/MASt3R/VGGT 3D Reconstruction on Photogrammetric Aerial Blocks**|Xinyi Wu et.al.|[2507.14798](http://arxiv.org/abs/2507.14798)|null|
 |**2025-07-18**|**Depth3DLane: Fusing Monocular 3D Lane Detection with Self-Supervised Monocular Depth Estimation**|Max van den Hoven et.al.|[2507.13857](http://arxiv.org/abs/2507.13857)|null|
 |**2025-07-18**|**Augmented Reality in Cultural Heritage: A Dual-Model Pipeline for 3D Artwork Reconstruction**|Daniele Pannone et.al.|[2507.13719](http://arxiv.org/abs/2507.13719)|null|
 |**2025-07-18**|**Spacecraft Safe Robust Control Using Implicit Neural Representation for Geometrically Complex Targets in Proximity Operations**|Hang Zhou et.al.|[2507.13672](http://arxiv.org/abs/2507.13672)|null|
