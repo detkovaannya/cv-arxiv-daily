@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**Towards Effective Open-set Graph Class-incremental Learning**|Jiazhen Chen et.al.|[2507.17687](http://arxiv.org/abs/2507.17687)|null|
+|**2025-07-23**|**Attention (as Discrete-Time Markov) Chains**|Yotam Erel et.al.|[2507.17657](http://arxiv.org/abs/2507.17657)|null|
+|**2025-07-23**|**Learning clusters of partially observed linear dynamical systems**|Maryann Rui et.al.|[2507.17638](http://arxiv.org/abs/2507.17638)|null|
+|**2025-07-23**|**Comparing performance of variational quantum algorithm simulations on HPC systems**|Marco De Pascale et.al.|[2507.17614](http://arxiv.org/abs/2507.17614)|null|
+|**2025-07-23**|**Enhancing Quantum Federated Learning with Fisher Information-Based Optimization**|Amandeep Singh Bhatia et.al.|[2507.17580](http://arxiv.org/abs/2507.17580)|null|
+|**2025-07-23**|**VERTICO IX: Signatures of environmental processing of the gas in Virgo cluster spiral galaxies through mapping of CO isotopologues**|Timothy A. Davis et.al.|[2507.17553](http://arxiv.org/abs/2507.17553)|null|
+|**2025-07-23**|**Approximating temporal modularity on graphs of small underlying treewidth**|Vilhelm Agdur et.al.|[2507.17541](http://arxiv.org/abs/2507.17541)|null|
+|**2025-07-23**|**Clustering-based hard negative sampling for supervised contrastive speaker verification**|Piotr Masztalski et.al.|[2507.17540](http://arxiv.org/abs/2507.17540)|null|
+|**2025-07-23**|**Distributed P2P quantile tracking with relative value error**|Marco Pulimeno et.al.|[2507.17458](http://arxiv.org/abs/2507.17458)|null|
+|**2025-07-23**|**Analysing Models for Volatility Clustering with Subordinated Processes: VGSA and Beyond**|Sourojyoti Barick et.al.|[2507.17431](http://arxiv.org/abs/2507.17431)|null|
 |**2025-07-22**|**Decoding Translation-Related Functional Sequences in 5'UTRs Using Interpretable Deep Learning Models**|Yuxi Lin et.al.|[2507.16801](http://arxiv.org/abs/2507.16801)|null|
 |**2025-07-22**|**Cooling Matters: Benchmarking Large Language Models and Vision-Language Models on Liquid-Cooled Versus Air-Cooled H100 GPU Systems**|Imran Latif et.al.|[2507.16781](http://arxiv.org/abs/2507.16781)|null|
 |**2025-07-22**|**Di- $J/ψ$ structures from the quark Pauli-blocking effect**|Sachiko Takeuchi et.al.|[2507.16752](http://arxiv.org/abs/2507.16752)|null|
@@ -4106,6 +4116,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**Multi-modal Multi-task Pre-training for Improved Point Cloud Understanding**|Liwen Liu et.al.|[2507.17533](http://arxiv.org/abs/2507.17533)|null|
+|**2025-07-23**|**When and Where Localization Fails: An Analysis of the Iterative Closest Point in Evolving Environment**|Abdel-Raouf Dannaoui et.al.|[2507.17531](http://arxiv.org/abs/2507.17531)|null|
+|**2025-07-23**|**STQE: Spatial-Temporal Quality Enhancement for G-PCC Compressed Dynamic Point Clouds**|Tian Guo et.al.|[2507.17522](http://arxiv.org/abs/2507.17522)|null|
+|**2025-07-23**|**SRMambaV2: Biomimetic Attention for Sparse Point Cloud Upsampling in Autonomous Driving**|Chuang Chen et.al.|[2507.17479](http://arxiv.org/abs/2507.17479)|null|
+|**2025-07-23**|**IndoorBEV: Joint Detection and Footprint Completion of Objects via Mask-based Prediction in Indoor Scenarios for Bird's-Eye View Perception**|Haichuan Li et.al.|[2507.17445](http://arxiv.org/abs/2507.17445)|null|
+|**2025-07-23**|**PointLAMA: Latent Attention meets Mamba for Efficient Point Cloud Pretraining**|Xuanyu Lin et.al.|[2507.17296](http://arxiv.org/abs/2507.17296)|null|
+|**2025-07-22**|**Deformable Cluster Manipulation via Whole-Arm Policy Learning**|Jayadeep Jacob et.al.|[2507.17085](http://arxiv.org/abs/2507.17085)|null|
+|**2025-07-22**|**Few-Shot Learning in Video and 3D Object Detection: A Survey**|Md Meftahul Ferdaus et.al.|[2507.17079](http://arxiv.org/abs/2507.17079)|null|
+|**2025-07-22**|**StreamME: Simplify 3D Gaussian Avatar within Live Stream**|Luchuan Song et.al.|[2507.17029](http://arxiv.org/abs/2507.17029)|null|
 |**2025-07-22**|**Denoising-While-Completing Network (DWCNet): Robust Point Cloud Completion Under Corruption**|Keneni W. Tesema et.al.|[2507.16743](http://arxiv.org/abs/2507.16743)|null|
 |**2025-07-22**|**Sparse-View 3D Reconstruction: Recent Advances and Open Challenges**|Tanveer Younis et.al.|[2507.16406](http://arxiv.org/abs/2507.16406)|null|
 |**2025-07-22**|**LDRFusion: A LiDAR-Dominant multimodal refinement framework for 3D object detection**|Jijun Wang et.al.|[2507.16224](http://arxiv.org/abs/2507.16224)|null|
